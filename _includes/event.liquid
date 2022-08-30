@@ -3,10 +3,11 @@ layout: base
 ---
 <div class="event-meta">
     <h2 class="event-title">{{ title }}</h2>
+    <h3 class="event-byline">{{ byline }}</h3>
     <div class="event-details">
-        <span class="event-byline">{{ byline }}</span> |
         <span class="event-author">{{ author}}</span> |
-        <span class="event-date">{{ date | date }}</span>
+        <span class="event-date">{{ date | date }}</span> |
+        <span class="event-location">{{ location }}</span>
     </div>
 </div>
 <div class="event-layout">

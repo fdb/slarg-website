@@ -84,6 +84,8 @@ article {
 }
 
 .event-title {
+	border-top: 2px solid #333;
+	padding-top: 1rem;
 	margin: 0;
 	font-size: 1.2rem;
 	color: var(--text-accent);
@@ -101,12 +103,7 @@ article {
 	margin: 0;
 }
 
-.event-author {
-	font-size: 0.8rem;
-	margin: 0;
-}
-
-.event-date {
+.event-details {
 	font-size: 0.8rem;
 	margin: 0;
 }
@@ -132,6 +129,7 @@ article {
 	}
 
 	.event-image {
+		border-top: 2px solid #333;
 		order: 2;
 		padding-top: 1.2rem;
 		max-width: 800px;
@@ -139,6 +137,7 @@ article {
 	}
 
 	.event-text {
+		border-top: 2px solid #333;
 		order: 1;
 		max-width: 60ch;
 	}
