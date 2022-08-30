@@ -1,0 +1,22 @@
+{
+	"name": "slarg",
+	"version": "1.0.0",
+	"description": "SLARG website",
+	"scripts": {
+		"start": "concurrently \"npm run watch\" \"npm run serve\"",
+		"watch": "eleventy --watch",
+		"serve": "serve _site",
+		"build": "eleventy",
+		"clean": "rm -rf _site",
+		"format": "prettier --write '**/*.{md,js,css,scss,html,yml,json}'"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@11ty/eleventy": "1.0.2",
+		"concurrently": "7.3.0",
+		"prettier": "2.7.1",
+		"serve": "14.0.1"
+	}
+}

@@ -1,0 +1,60 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+img {
+	max-width: 100%;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #333;
+	background-color: #fff;
+	margin: 0;
+}
+
+a {
+	color: #333;
+	text-decoration: underline;
+}
+
+header {
+	background: rgb(244, 244, 234);
+	color: #666;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 1rem;
+}
+
+header a {
+	color: #666;
+	text-decoration: none;
+}
+
+main {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 2rem;
+}
+
+.events-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	grid-gap: 1rem;
+	margin-top: 1rem;
+}
+
+.events-grid h2 {
+	margin: 0;
+	font-size: 1rem;
+}
+
+.events-grid .event-byline {
+	font-size: 0.8rem;
+	margin: 0;
+}
