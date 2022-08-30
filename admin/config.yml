@@ -16,6 +16,7 @@ collections:
     slug: '{{date}}-{{title}}'
     preview_path: '/events/{{slug}}'
     summary: '{{date}} | {{title}} | {{author}}'
+    sortable_fields: ['date', 'title']
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'event.liquid' }
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'event' }
