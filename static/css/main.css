@@ -1,3 +1,7 @@
+:root {
+	--text-accent: #f93e3e;
+}
+
 *,
 *::before,
 *::after {
@@ -13,22 +17,24 @@ body {
 	font-size: 16px;
 	line-height: 1.5;
 	color: #333;
-	background-color: #fff;
+	background-color: #f7f7f7;
 	margin: 0;
 }
 
 a {
-	color: #333;
+	color: inherit;
 	text-decoration: underline;
 }
 
 header {
-	background: rgb(244, 244, 234);
-	color: #666;
+	color: #000;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 0 1rem;
+	padding: 1rem 2rem;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 1rem;
 }
 
 header a {
@@ -42,6 +48,29 @@ main {
 	padding: 0 2rem;
 }
 
+article {
+	max-width: 80ch;
+	margin: 0 auto;
+}
+
+.hero {
+	background-image: url(/static/img/hero-background.jpg);
+	background-size: cover;
+	height: 20vh;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	padding: 2rem;
+
+}
+
+.hero-text {
+	color: #fff;
+	font-size: 1.2rem;
+	font-weight: bold;
+	text-align: left;
+}
+
 .events-grid {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -49,12 +78,51 @@ main {
 	margin-top: 1rem;
 }
 
-.events-grid h2 {
+.event-title {
 	margin: 0;
-	font-size: 1rem;
+	font-size: 1.2rem;
+	color: var(--text-accent);
+	text-transform: uppercase;
+	text-decoration: none;
 }
 
-.events-grid .event-byline {
+.event-title a {
+	text-decoration: none;
+}
+
+.event-byline {
+	font-size: 0.8rem;
+	font-weight: bold;
+	margin: 0;
+}
+
+.event-author {
 	font-size: 0.8rem;
 	margin: 0;
+}
+
+.event-date {
+	font-size: 0.8rem;
+	margin: 0;
+}
+
+.event-layout {
+	flex-direction: column;
+}
+
+@media (min-width: 768px) {
+	.event-layout {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		gap: 2rem;
+	}
+
+	.event-image {
+		order: 2;
+	}
+
+	.event-text {
+		order: 1;
+	}
 }

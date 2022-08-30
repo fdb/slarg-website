@@ -1,6 +1,18 @@
 ---
 layout: base
 ---
-<img src="{{ main_image }}-/preview/2000x2000/" alt="{{ title }}">
-<h2>{{ title }}</h2>
-{{ content }}
+<h2 class="event-title">{{ title }}</h2>
+<div class="event-meta">
+<span class="event-byline">{{ byline }}</span> |
+<span class="event-author">{{ author}}</span> |
+<span class="event-date">{{ date | date }}</span>
+</div>
+<div class="event-layout">
+ <div class="event-image">
+        <img src="{{ main_image }}-/preview/2000x2000/" alt="{{ title }}">
+    </div>
+    <div class="event-text">
+        {{ content }}
+    </div>
+   
+</div>
