@@ -6,6 +6,7 @@ author: Annelys de Vet (PhD) & Nuno Coelho
 byline: Symposium/event on critical pedagogy and design education
 location: Sint Lucas Antwerpen
 date: 2022-10-10
+time: 10:00 - 16:00
 main_image: https://ucarecdn.com/0a2cfeb6-c8c2-4f8e-a4e6-51ac8855b111/
 ---
 

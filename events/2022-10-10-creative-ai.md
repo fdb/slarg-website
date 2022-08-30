@@ -5,6 +5,7 @@ title: Creative AI Workshop
 byline: Research Class ⁠— only for MA students
 author: Frederik De Bleser & Lieven Menschaert
 date: 2022-10-10
+time: 10:00 - 17:00
 location: Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/b318ba36-44ee-46ee-8b7d-8a820f49ac0e/
 images:
@@ -13,6 +14,7 @@ images:
   - https://ucarecdn.com/65d63243-3d1a-43c0-9b53-5d5c4b446968/
   - https://ucarecdn.com/dfd8deab-9834-4327-b976-ce18d06c962a/
 ---
+
 Cupiditate earum facere itaque saepe magnam quia. Sint voluptates consequatur et. A praesentium veniam doloremque. Omnis omnis et eius repudiandae corrupti illum. Atque laboriosam quis possimus animi laboriosam aut eum.
 
 Et officia hic unde. Et molestiae voluptates quo et quis. Sed nisi omnis quia quibusdam occaecati eos et.
