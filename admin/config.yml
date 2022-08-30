@@ -52,4 +52,11 @@ collections:
           hint: 'Please use a square image; otherwise it will be cropped in the grid.'
         }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Describe your event. Add a registration link at the end if needed.' }
-      - { label: 'Images', name: 'images', widget: 'image', label_singular: 'image', media_library: { config: { multiple: true } } }
+      - {
+          label: 'Images',
+          name: 'images',
+          widget: 'image',
+          label_singular: 'image',
+          required: false,
+          media_library: { config: { multiple: true } }
+        }
