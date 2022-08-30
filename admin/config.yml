@@ -5,6 +5,8 @@ media_library:
   name: uploadcare
   config:
     publicKey: 8970f409c0de54974858
+site_url: https://slarg.netlify.app
+display_url: https://slarg.netlify.app
 collections:
   - name: 'events'
     label: 'Events'
@@ -13,10 +15,10 @@ collections:
     create: true
     slug: '{{date}}-{{title}}'
     preview_path: '/events/{{slug}}'
+    summary: '{{date}} | {{title}} | {{author}}'
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "event.liquid"}
       - {label: "Tags", name: "tags", widget: "hidden", default: "event"}
-
       - { label: 'Event Title', name: 'title', widget: 'string' }
       - { label: 'Event Byline', name: 'byline', widget: 'string', hint: 'E.g. Research Methdology Workshop' }
       - { label: 'Author', name: 'author', widget: 'string', hint: 'Organisers / artists involved in this event' }
