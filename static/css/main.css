@@ -156,3 +156,14 @@ article {
 	flex-direction: column;
 	gap: 2rem;
 }
+
+footer {
+	margin-top: 2rem;
+	padding: 0 2rem;
+	font-size: 0.8rem;
+}
+
+.footer-inner {
+	border-top: 2px solid #333;
+	padding: 1rem 0;
+}
