@@ -10,10 +10,9 @@ time: 10:00 - 17:00
 location: Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/b318ba36-44ee-46ee-8b7d-8a820f49ac0e/
 images:
-  - https://ucarecdn.com/fc60e70f-5678-4e6d-87f6-24abfda39547/
   - https://ucarecdn.com/c932b844-ee73-42a4-b036-7126b9c4db38/
-  - https://ucarecdn.com/65d63243-3d1a-43c0-9b53-5d5c4b446968/
-  - https://ucarecdn.com/dfd8deab-9834-4327-b976-ce18d06c962a/
+  - https://ucarecdn.com/9c02d129-89bb-4d0d-a39b-66a99f8a6139/
+  - https://ucarecdn.com/d6dfde5c-ae19-4719-8c94-5597234391f4/
 ---
 
 Cupiditate earum facere itaque saepe magnam quia. Sint voluptates consequatur et. A praesentium veniam doloremque. Omnis omnis et eius repudiandae corrupti illum. Atque laboriosam quis possimus animi laboriosam aut eum.
