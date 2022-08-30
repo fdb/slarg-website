@@ -2,7 +2,8 @@
 layout: event.liquid
 tags: event
 title: How do you work together?
-byline: Research Methodology workshop
+byline:
+type: Research Methodology workshop
 author: Marnie Slater
 date: 2022-10-10
 time: 10:00 - 16:00

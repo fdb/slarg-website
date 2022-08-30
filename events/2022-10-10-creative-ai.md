@@ -2,7 +2,8 @@
 layout: event.liquid
 tags: event
 title: Creative AI Workshop
-byline: Research Class ⁠— only for MA students
+byline: Performing with machines
+type: Research Class
 author: Frederik De Bleser & Lieven Menschaert
 date: 2022-10-10
 time: 10:00 - 17:00
@@ -24,3 +25,5 @@ Consequatur sed ea iste repellendus et inventore. Accusantium nihil aut voluptas
 Sed quas quisquam ut inventore provident atque quo id. Fuga labore dolores modi quas ex est. Dignissimos aliquid suscipit et. Accusantium consequuntur aut dolores eum harum eius a officia.
 
 Vel et aut modi. Voluptatem eum in perspiciatis nihil quod voluptatum laudantium. Quibusdam et quo dolorem.
+
+**Only for students from the digital master context.**

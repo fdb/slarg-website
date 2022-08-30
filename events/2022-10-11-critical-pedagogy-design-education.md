@@ -2,8 +2,9 @@
 layout: event.liquid
 tags: event
 title: Critical pedagogy and design education
+byline:
+type: Symposium/event
 author: Annelys de Vet (PhD) & Nuno Coelho
-byline: Symposium/event on critical pedagogy and design education
 location: Sint Lucas Antwerpen
 date: 2022-10-10
 time: 10:00 - 16:00

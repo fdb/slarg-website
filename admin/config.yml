@@ -19,8 +19,14 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'event.liquid' }
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'event' }
-      - { label: 'Event Title', name: 'title', widget: 'string' }
-      - { label: 'Event Byline', name: 'byline', widget: 'string', hint: 'E.g. Research Methdology Workshop' }
+      - {
+          label: 'Event Title',
+          name: 'title',
+          widget: 'string',
+          hint: 'Will be displayed large and in bold. Keep it short for layout purposes.'
+        }
+      - { label: 'Event Byline', name: 'byline', widget: 'string', hint: 'Will be displayed as a smaller subtitle.' }
+      - { label: 'Event Type', name: 'type', widget: 'string', hint: 'E.g. Research Methdology Workshop, Seminar' }
       - { label: 'Author', name: 'author', widget: 'string', hint: 'Organisers / artists involved in this event' }
       - {
           label: 'Date',
