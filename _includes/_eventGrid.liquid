@@ -1,0 +1,15 @@
+<div class="events-grid">
+    {% for event in events %}
+    <div class="event">
+        <a href="{{ event.url }}"><img src="{{ event.data.main_image }}-/preview/600x600/" alt=""></a>
+        <h2 class="event-title">
+            <a href="{{ event.url }}">{{ event.data.title }}</a>
+        </h2>
+        <h3 class="event-byline">{{ event.data.byline }}</h3>
+        <div class="event-details">
+            <span class="event-author">{{ event.data.author}}</span> |
+            <span class="event-date">{{ event.data.time }}</span>
+        </div>
+    </div>
+    {% endfor %}
+</div>

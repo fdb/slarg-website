@@ -9,20 +9,18 @@ layout: base.liquid
                 annual research week. <a href="/about">Read more</a></p>
         </div>
     </div>
-    <div class="events-grid">
-        {% for event in collections.event %}
-        <div class="event">
-            <a href="{{ event.url }}"><img src="{{ event.data.main_image }}-/preview/600x600/" alt=""></a>
-            <h2 class="event-title">
-                <a href="{{ event.url }}">{{ event.data.title }}</a>
-            </h2>
-            <h3 class="event-byline">{{ event.data.byline }}</h3>
-            <div class="event-details">
-                <span class="event-author">{{ event.data.author}}</span> |
-                <span class="event-date">{{ event.data.date | date }}</span>
-            </div>
-        </div>
-        {% endfor %}
-
-    </div>
+    <h2 class="event-day">Monday Oct 10</h2>
+    {% render "_eventGrid" with collections.eventsMonday as events %}
+    <h2 class="event-day">Tuesday Oct 11</h2>
+    {% render "_eventGrid" with collections.eventsTuesday as events %}
+    <h2 class="event-day">Wednesday Oct 12</h2>
+    {% render "_eventGrid" with collections.eventsWednesday as events %}
+    <h2 class="event-day">Thursday Oct 13</h2>
+    {% render "_eventGrid" with collections.eventsThursday as events %}
+    <h2 class="event-day">Friday Oct 14</h2>
+    {% render "_eventGrid" with collections.eventsFriday as events %}
+    <h2 class="event-day">Saturday Oct 15</h2>
+    {% render "_eventGrid" with collections.eventsSaturday as events %}
+    <h2 class="event-day">Sunday Oct 16</h2>
+    {% render "_eventGrid" with collections.eventsSunday as events %}
 </main>

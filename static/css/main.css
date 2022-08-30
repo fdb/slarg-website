@@ -86,6 +86,12 @@ article {
 	text-align: left;
 }
 
+.event-day {
+	border-top: 2px solid #333;
+	margin-top: 1rem;
+	padding-top: 1rem;
+}
+
 .events-grid {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
