@@ -19,17 +19,17 @@ collections:
 
       - { label: 'Event Title', name: 'title', widget: 'string' }
       - { label: 'Event Byline', name: 'byline', widget: 'string', hint: 'E.g. Research Methdology Workshop' }
-      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Author', name: 'author', widget: 'string', hint: 'Organisers / artists involved in this event' }
       - { label: 'Date', name: 'date', widget: 'select', options: [
-          { label: 'Mon 10', '2022-10-10' },
-          { label: 'Tue 11', '2022-10-11' },
-          { label: 'Wed 12', '2022-10-12' },
-          { label: 'Thu 13', '2022-10-13' },
-          { label: 'Fri 14', '2022-10-14' },
-          { label: 'Sat 15', '2022-10-15' },
-          { label: 'Sun 16', '2022-10-16' }
+          { label: 'Mon 10', value: '2022-10-10' },
+          { label: 'Tue 11', value: '2022-10-11' },
+          { label: 'Wed 12', value: '2022-10-12' },
+          { label: 'Thu 13', value: '2022-10-13' },
+          { label: 'Fri 14', value: '2022-10-14' },
+          { label: 'Sat 15', value: '2022-10-15' },
+          { label: 'Sun 16', value: '2022-10-16' }
         ] }
       - { label: 'Location', name: 'location', widget: 'string', default: 'Sint Lucas Antwerpen' }
-      - { label: 'Main image', name: 'main_image', widget: 'image', hint: 'Please use a square image.' }
-      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Describe your project' }
+      - { label: 'Main image', name: 'main_image', widget: 'image', hint: 'Please use a square image; otherwise it will be cropped in the grid.' }
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Describe your event. Add a registration link at the end if needed.' }
       - { label: 'Images', name: 'images', widget: 'image', label_singular: 'image', media_library: { config: { multiple: true } } }
