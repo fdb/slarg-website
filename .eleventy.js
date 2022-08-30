@@ -4,8 +4,7 @@ const RESEARCH_WEEK_DATES = [
 	['Wednesday', 12],
 	['Thursday', 13],
 	['Friday', 14],
-	['Saturday', 15],
-	['Sunday', 16]
+	['Saturday', 15]
 ];
 
 module.exports = function (eleventyConfig) {
