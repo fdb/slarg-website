@@ -1,5 +1,6 @@
 module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('static');
+	eleventyConfig.addPassthroughCopy('admin');
 	eleventyConfig.addPassthroughCopy('2021/static');
 
 	eleventyConfig.addFilter('date', function (date) {
