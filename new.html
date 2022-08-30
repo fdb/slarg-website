@@ -17,11 +17,9 @@ layout: base.liquid
                 <a href="{{ event.url }}">{{ event.data.title }}</a>
             </h2>
             <h3 class="event-byline">{{ event.data.byline }}</h3>
-            <div class="event-date">
-                {{ event.data.date | date }}
-            </div>
-            <div class="event-description">
-                {{ event.data.description }}
+            <div class="event-details">
+                <span class="event-author">{{ event.data.author}}</span> |
+                <span class="event-date">{{ event.data.date | date }}</span>
             </div>
         </div>
         {% endfor %}
