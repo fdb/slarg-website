@@ -1,8 +1,8 @@
 ---
 layout: event.liquid
 tags: event
-title: Creative AI
-byline: Research Workshop
+title: Creative AI Workshop
+byline: Research Class ⁠— only for MA students
 author: Frederik De Bleser & Lieven Menschaert
 date: 2022-10-10
 location: Sint Lucas Antwerpen
