@@ -1,7 +1,8 @@
 ---
 layout: page
 ---
-# About the Research Week
+
+# About THE RESEARCH WEEK
 
 ![Image](/static/img/hero-background.jpg)
 

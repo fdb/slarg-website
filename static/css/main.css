@@ -1,4 +1,11 @@
 @font-face {
+	font-family: 'Marsha';
+	font-style: normal;
+	font-weight: 700;
+	src: local(''), url('/static/fonts/vtc-marsha-bold.woff2') format('woff2'), url('/static/fonts/vtc-marsha-bold.woff') format('woff');
+}
+
+@font-face {
 	font-family: 'Inter';
 	font-style: normal;
 	font-weight: 400;
@@ -15,7 +22,9 @@
 }
 
 :root {
-	--text-accent: #f93e3e;
+	--text-accent: #d14d65;
+	--border-accent: #9e3a4c;
+	--bg: #fffcf0;
 }
 
 *,
@@ -33,7 +42,7 @@ body {
 	font-size: 16px;
 	line-height: 1.5;
 	color: #333;
-	background-color: #f7f7f7;
+	background-color: var(--bg);
 	margin: 0;
 }
 
@@ -48,14 +57,15 @@ header {
 	justify-content: space-between;
 	align-items: center;
 	padding: 1rem 2rem;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
+	font-family: 'Marsha', sans-serif;
 	font-weight: bold;
 	font-size: 1rem;
 }
 
 header a {
-	color: #666;
-	text-decoration: none;
+	color: var(--text-accent);
+	text-decoration: underline;
 }
 
 main {
@@ -69,27 +79,53 @@ article {
 	padding: 0 2rem;
 }
 
+article > h1 {
+	font-family: 'Marsha', sans-serif;
+	color: var(--text-accent);
+
+	/* text-transform: uppercase; */
+}
+
 .hero {
-	background-image: url(/static/img/hero-background.jpg);
+	/* background-image: url(/static/img/hero-background.jpg); */
+	background-color: #9e3a4c;
 	background-size: cover;
-	height: 20vh;
+	/* height: 20vh; */
 	display: flex;
 	align-items: flex-start;
 	justify-content: center;
-	padding: 2rem;
+	padding: 0 2rem;
+	border-top-left-radius: 10%;
+	border-bottom-right-radius: 10%;
+}
+
+.hero .container {
+	display: flex;
+	place-items: center;
 }
 
 .hero-text {
-	color: #fff;
-	font-size: 1.2rem;
+	color: #fbfbb8;
+	font-size: 1rem;
 	font-weight: bold;
+	font-family: 'Marsha', sans-serif;
+	text-transform: uppercase;
 	text-align: left;
+	letter-spacing: 2px;
+}
+
+@media (min-width: 768px) {
+	.hero-text {
+		font-size: 2rem;
+	}
 }
 
 .event-day {
-	border-top: 2px solid #333;
+	border-top: 2px solid var(--border-accent);
 	margin-top: 1rem;
 	padding-top: 1rem;
+	font-family: 'Marsha', sans-serif;
+	color: var(--text-accent);
 }
 
 .events-grid {
@@ -110,6 +146,7 @@ article {
 	color: var(--text-accent);
 	text-transform: uppercase;
 	text-decoration: none;
+	font-family: 'Marsha', sans-serif;
 }
 
 .event-title a {
@@ -117,7 +154,7 @@ article {
 }
 
 .event-meta .event-title {
-	border-top: 2px solid #333;
+	border-top: 2px solid var(--border-accent);
 	padding-top: 1rem;
 	font-size: 1.5rem;
 }
@@ -153,14 +190,14 @@ article {
 	}
 
 	.event-image {
-		border-top: 2px solid #333;
+		border-top: 2px solid var(--border-accent);
 		order: 2;
 		padding-top: 1.2rem;
 		max-width: 800px;
 	}
 
 	.event-text {
-		border-top: 2px solid #333;
+		border-top: 2px solid var(--border-accent);
 		order: 1;
 		max-width: 60ch;
 	}
@@ -180,6 +217,6 @@ footer {
 }
 
 .footer-inner {
-	border-top: 2px solid #333;
+	border-top: 2px solid var(--border-accent);
 	padding: 1rem 0;
 }
