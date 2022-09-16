@@ -15,6 +15,9 @@
 </head>
 
 <body>
+    <div id="redirect" style="display:block; text-align: center">
+        <h1><a href="/admin/">Click here for the admin page</a></h1>
+    </div>
     <div class="row">
         <img src="static/img/slarg-2021-header.jpg" alt="SLARG reesarch week: Naively Radical">
     </div>
@@ -519,6 +522,12 @@
                 class="Apple-converted-space">&nbsp;<br><br></span></p>
     </div>
 
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script>
+        if (document.location.hash.includes('confirmation_token')) {
+            document.getElementById('redirect').style.display = 'block';
+        }
+    </script>
 
 </body>
 
