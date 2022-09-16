@@ -33,4 +33,4 @@ Please select one question:
 * Are there institutional hurdles that you have encountered in working with collaborators or on the subject of collaboration? How did you navigate those?
 * Are you a researcher who also teaches within an art school context? How does your interest, knowledge and skills in collaboration come into the classroom?  
 
-Image: Digitally altered film still from Lizzie Borden’s Born in Flames (1983)
+Image: Digitally altered film still from Lizzie Borden’s *Born in Flames* (1983)
