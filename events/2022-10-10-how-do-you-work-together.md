@@ -1,28 +1,36 @@
 ---
 layout: event.liquid
 tags: event
-title: How do you work together?
-byline:
-type: Research Methodology workshop
+title: How do you work with others in your research?
+byline: On collaboration and collective practice
+type: Research methodology workshop
 author: Marnie Slater
 date: 2022-10-10
-time: 10:00 - 16:00
-location: Sint Lucas Antwerpen
-main_image: https://ucarecdn.com/0a2cfeb6-c8c2-4f8e-a4e6-51ac8855b111/
-images:
-  - https://ucarecdn.com/c5d147e0-85ab-4469-83dc-1055202bc406/
-  - https://ucarecdn.com/912d925b-06ae-438e-9d88-e0f93ccaee1c/
-  - https://ucarecdn.com/3812c2cb-9835-4f92-9a73-9dc0ad283610/
-  - https://ucarecdn.com/5c92faed-d38a-43c1-885b-39f49eb00616/
-  - https://ucarecdn.com/2715fc89-e473-454d-8d0a-e6a3140f9168/
+time: 10:00 - 14:00
+location: Room 3.09, Sint Lucas Antwerpen
+main_image: https://ucarecdn.com/3ba6a10e-7740-444e-8feb-d63f4e139277/
+images: null
 ---
+*Open to Sint Lucas Antwerpen researchers only*
 
-Technology is a social phenomenon. Play is a form of dissidence. An exploration of bodies, identities and ways of being with AI friend Maureen.
+10-13h, followed by lunch from 13-14h
 
-My research is into the tensions between the material aspects of existing within a body and possible new forms of embodiment in the virtual spaces where we now also exist.
+This workshop is a moment for researchers who work with/in collectives, collaborations and communities to share their methodologies. Specifically, I am interested in opening up a discussion about how those of us engaged in institutionally supported research work with collaborators and communities outside of institutional structures. 
 
-I use both digital and analogue tools to explore bodies between the physical and virtual, questioning the impact of physicality on our bodily identities and relationships. I witness which new forms of translation, whether empowering or demeaning, are utilised to help us navigate previously unseen spaces. I use technology as a muse to think about, as well as a tool for creating.
+The workshop will focus on sharing the processes and direct experiences of workshop participants, with the hope that those in the workshop can learn from each other.
 
-I place play at the centre of my research, as it is with humour and curiosity that we can begin to explore new worlds and possibilities. Can play and 'glitches' allow space for new identities? Is the virtual a space where we can become bodies over which we have complete autonomy?
+In preparation for the workshop, I invite you to select one question from the list below that is relevant or challenging for the way you work with others in your research. Please prepare a short presentation in response to this question (10 minutes maximum). Try to be as concrete and precise as possible, by, for example, sharing one real life tool, strategy or experience in detail.
 
-In conversation with an AI text generator, I create an immersive installation. The algorithm is personified to highlight the level to which we are living alongside, working with and understanding the world through artificial intelligence. My AI friend Maureen is a mirror of our own world view (directly in reacting to our input and indirectly in drawing upon all the knowledge of the internet).
+For those who register, I will also send a (short and accessible) text that was inspiring to me in thinking about collaborating as a researcher.
+
+Please select one question:
+
+* As an individually supported researcher who is engaged in collaborative research, what are some of the benefits for you personally? For your collaborations? And are there contradictions?
+* Does your research navigate (perhaps personal, intimate) collaborative relationships? Why is this important to your research? What are some of the tensions you experience?
+* Do you have a formalized, ethical framework/s for collaborating within your research? What does it do and can you share it with us?
+* Do you collaborate with communities that you are also part of? How do you enable your research process, results or resources to feed back into your communities?
+* Do you collaborate with people who are not waged for their work, while you are? Do you address this financial imbalance? How?
+* Are there institutional hurdles that you have encountered in working with collaborators or on the subject of collaboration? How did you navigate those?
+* Are you a researcher who also teaches within an art school context? How does your interest, knowledge and skills in collaboration come into the classroom?  
+
+Image: Digitally altered film still from Lizzie Borden’s Born in Flames (1983)
