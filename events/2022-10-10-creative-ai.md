@@ -8,9 +8,10 @@ author: Frederik De Bleser & Lieven Menschaert
 date: 2022-10-10
 time: 10:00 - 17:00
 location: Sint Lucas Antwerpen
-main_image: https://ucarecdn.com/b318ba36-44ee-46ee-8b7d-8a820f49ac0e/
+main_image: https://algorithmicgaze.com/static/media/maureen/maureen-thumb.jpeg
 images:
-  - https://ucarecdn.com/92195f72-ef68-4da0-bcaa-e20643a59e99/
+  - https://ucarecdn.com/03c5cf02-51f8-4c03-b2fc-5b229404fb6d/
+  - https://ucarecdn.com/d85fe46a-6792-4cc7-8372-303ff1fd5777/
 ---
 Machine learning for creative purposes has progressed in leaps and bounds in the last years. But the whole process still feels like black magic. What does it take to train your own model? How do you even get started? And how can you use this creatively?\
 \
