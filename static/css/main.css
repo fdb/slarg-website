@@ -205,10 +205,13 @@ article > h1 {
 
 .event-images {
 	padding: 1rem 2rem;
-	display: flex;
-	flex-direction: column;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+
 	gap: 2rem;
 }
+
+
 
 footer {
 	margin-top: 2rem;
