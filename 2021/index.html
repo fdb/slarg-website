@@ -15,7 +15,7 @@
 </head>
 
 <body>
-    <div id="redirect" style="display:block; text-align: center">
+    <div id="redirect" style="display:none; text-align: center">
         <h1><a href="/admin/">Click here for the admin page</a></h1>
     </div>
     <div class="row">
@@ -526,6 +526,7 @@
     <script>
         if (document.location.hash.includes('confirmation_token')) {
             document.getElementById('redirect').style.display = 'block';
+            window.scrollTo(0, 0);
         }
     </script>
 
