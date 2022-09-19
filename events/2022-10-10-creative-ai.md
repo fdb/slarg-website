@@ -15,7 +15,7 @@ images:
 ---
 Machine learning for creative purposes has progressed in leaps and bounds in the last years. But the whole process still feels like black magic. What does it take to train your own model? How do you even get started? And how can you use this creatively?\
 \
-During this workshop we'll explore works made with creative AI. We'll learn all the steps to train your own image-to-image model, based on your own dataset. In addition, you'll be able to interact with your model live through the webcam.\
+During this workshop we'll explore works made with creative AI. We'll learn all the steps to train your own image-to-image model, based on your own dataset. In addition, you'll be able to interact with your model live through the webcam. We'll work together as a group to build one or two machine learning models.\
 \
 This workshop is based on the research and tools developed by "The Algorithmic Gaze", such as Figment, to get the data ready for training.\
 \
