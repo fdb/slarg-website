@@ -1,23 +1,19 @@
 ---
 layout: event.liquid
 tags: event
-title: Sound set by A
-byline: ???
-type: Sound Set
-author: Marnie Slater
-date: 2022-10-14
-time: ???
-location: Sint Lucas Antwerpen
-main_image: https://ucarecdn.com/08d88c5e-d548-45cf-a084-bd7fca2e26b0/
+title: Performance
+byline: Listening session
+type: Performance
+author: Aio Frei
+date: 2022-10-15
+time: 20:00 - 21:00
+location: Extra City Kunsthal
+main_image: https://ucarecdn.com/a10edcc2-1ae4-446d-8db0-11c642c572c8/
 ---
-**Friday or saturday??**
+Aio Frei is a non-binary sound artist, relational listener, sonic community organizer, collaborator, sonic researcher, record store co-operator, graphic designer, experimental DJ and fungi enthusiast based in Zürich, Switzerland. They organize concerts, experimental audio formats and collaborate on listening performances and collective listening settings. 
 
-Velit quos quia id blanditiis qui unde quo veniam. Voluptatem rerum est voluptatem recusandae sit. Aliquam quidem placeat quas unde officiis dolorum. Inventore dolor omnis voluptates qui nemo quis. Placeat rerum iste quibusdam fugiat sunt sed accusantium molestiae. Ab qui quod iusto dolorem eaque.
+Aio’s practice consist of listening workshops, research-based listening performances, essayistic DJing, semi-modular synthesis, various forms of microphony and free electroacoustic improvisation. They are deeply interested in questions concerning the ‘ethics of listening’ – in socio-political, environmental, embodied and queer practices within situated contexts –, emancipatory possibilities within the sonic realm and forms of non-verbal communication/improvisation. 
 
-Omnis animi nihil doloribus nesciunt. Culpa amet dolorum repudiandae enim consequuntur maiores non qui. Aut consequuntur libero sunt omnis dolorum. Repellat dolores laudantium deleniti magni labore. Consectetur quis ullam eum et eligendi quis animi quod. Possimus optio ut est.
+Aio works as freelance graphic designer focussing on sound related projects, small editions and art books and gives weekly risograph workshops. They are the co-founder of OOR Records/OOR Saloon (one’s own room) in Zürich. 
 
-Hic vel quos architecto velit ad vel ex. Quaerat quis rerum iure dolor voluptas quisquam vero. Ut voluptas omnis inventore veniam atque blanditiis ex. Rerum necessitatibus quae nam quo. Dignissimos rerum veniam vel in deserunt.
-
-Vel velit minima eveniet et laboriosam eius maiores. Odit veritatis ut quia. Itaque voluptatem praesentium et dolorem sit animi dolor at. Quas voluptatem laborum perferendis deleniti officia.
-
-Dolorem quas omnis qui qui. Rem itaque aliquid ut ut architecto consequatur dolor recusandae. Atque impedit qui earum.
+www.aiofrei.net
