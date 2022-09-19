@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 title: Books, nails, gloves
-byline: "Arpentage in a "
+byline: Arpentage session
 type: Research presentation
 author: Loraine Furter
 date: 2022-10-13
