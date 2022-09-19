@@ -8,20 +8,15 @@ author: Frederik De Bleser & Lieven Menschaert
 date: 2022-10-10
 time: 10:00 - 17:00
 location: Sint Lucas Antwerpen
-main_image: https://ucarecdn.com/b318ba36-44ee-46ee-8b7d-8a820f49ac0e/
+main_image: https://algorithmicgaze.com/static/media/maureen/maureen-thumb.jpeg
 images:
-  - https://ucarecdn.com/c932b844-ee73-42a4-b036-7126b9c4db38/
-  - https://ucarecdn.com/9c02d129-89bb-4d0d-a39b-66a99f8a6139/
-  - https://ucarecdn.com/d6dfde5c-ae19-4719-8c94-5597234391f4/
+  - https://ucarecdn.com/03c5cf02-51f8-4c03-b2fc-5b229404fb6d/
+  - https://ucarecdn.com/d85fe46a-6792-4cc7-8372-303ff1fd5777/
 ---
-Cupiditate earum facere itaque saepe magnam quia. Sint voluptates consequatur et. A praesentium veniam doloremque. Omnis omnis et eius repudiandae corrupti illum. Atque laboriosam quis possimus animi laboriosam aut eum.
-
-Et officia hic unde. Et molestiae voluptates quo et quis. Sed nisi omnis quia quibusdam occaecati eos et.
-
-Consequatur sed ea iste repellendus et inventore. Accusantium nihil aut voluptas. Praesentium dolorum distinctio voluptas dignissimos ducimus qui iure. Repellendus est qui accusantium. Sed rerum eos quo assumenda odit sit.
-
-Sed quas quisquam ut inventore provident atque quo id. Fuga labore dolores modi quas ex est. Dignissimos aliquid suscipit et. Accusantium consequuntur aut dolores eum harum eius a officia.
-
-Vel et aut modi. Voluptatem eum in perspiciatis nihil quod voluptatum laudantium. Quibusdam et quo dolorem.
-
-**Only for students from the digital master context.**
+Machine learning for creative purposes has progressed in leaps and bounds in the last years. But the whole process still feels like black magic. What does it take to train your own model? How do you even get started? And how can you use this creatively?\
+\
+During this workshop we'll explore works made with creative AI. We'll learn all the steps to train your own image-to-image model, based on your own dataset. In addition, you'll be able to interact with your model live through the webcam. We'll work together as a group to build one or two machine learning models.\
+\
+This workshop is based on the research and tools developed by "The Algorithmic Gaze", such as Figment, to get the data ready for training.\
+\
+The results of the workshop will be presented during the research exhibition.
