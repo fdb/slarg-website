@@ -2,8 +2,9 @@
 layout: event.liquid
 tags: event
 title: Books, nails, gloves
-byline: Arpentage session
-type: Research presentation
+byline: From (micro-)typography to editorial structures. From gossips to public
+  speech. From ghostwriting to collective pamphlets.
+type: Research presentation, Arpentage session
 author: Loraine Furter
 date: 2022-10-13
 time: 10:00-12:00
