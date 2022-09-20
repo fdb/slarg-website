@@ -1,21 +1,20 @@
 ---
 layout: event.liquid
 tags: event
-title: "Rights of Nature: The River"
-byline: Klimaatfestival
-type: Seminar + Workshop
-author: Tom Viane et al
+title: Rights of Nature
+byline: Rights of Nature, the Zoöp Model, and climate litigation
+type: Talks & Discussion
+author: Dorine van Norren, Mihnea Tănăsescu, Klaas Kuitenbrouwer & Aoife Fleming
 date: 2022-10-14
-time: ???
-location: Extra City, Het Bos
-main_image: https://ucarecdn.com/20adb1ac-3d00-4daa-a3f2-2cdac0044931/
+time: 10:00 - 13:00
+location: Theaterzaal, Het Bos
+main_image: https://ucarecdn.com/7880197a-e248-41a9-b188-bf2ebf859d34/
 ---
-Velit quos quia id blanditiis qui unde quo veniam. Voluptatem rerum est voluptatem recusandae sit. Aliquam quidem placeat quas unde officiis dolorum. Inventore dolor omnis voluptates qui nemo quis. Placeat rerum iste quibusdam fugiat sunt sed accusantium molestiae. Ab qui quod iusto dolorem eaque.
+In a world of climate disaster, climate disputes are more frequent than ever. In this series of short talks we will shed differentt lights on the concept of "rights of nature" and "ecological justice."
 
-Omnis animi nihil doloribus nesciunt. Culpa amet dolorum repudiandae enim consequuntur maiores non qui. Aut consequuntur libero sunt omnis dolorum. Repellat dolores laudantium deleniti magni labore. Consectetur quis ullam eum et eligendi quis animi quod. Possimus optio ut est.
 
-Hic vel quos architecto velit ad vel ex. Quaerat quis rerum iure dolor voluptas quisquam vero. Ut voluptas omnis inventore veniam atque blanditiis ex. Rerum necessitatibus quae nam quo. Dignissimos rerum veniam vel in deserunt.
+Dorine Van Norren will discuss various indigenous worldviews and philosophies that inspire the concept of the "rights of nature'.  Afterwards, Mihnea Tanasescu will unravel the history of concepts as "nature" and "rights" and delve deeper into their relationship. Klaas Kuitenbrouwer will explain the new Zoöp model that recently took effect at the New Institute in Rotterdam and is inspired by the 'rights of nature' movement. This Zoöp model makes the voices and interests of non-human life part of decision-making processes. Aoife Fleming discusses the practice of 'climate litigation' and highlights the currently ongoing campaign to take 'climate change' to the highest court, the International Court of Justice. 
 
-Vel velit minima eveniet et laboriosam eius maiores. Odit veritatis ut quia. Itaque voluptatem praesentium et dolorem sit animi dolor at. Quas voluptatem laborum perferendis deleniti officia.
+Followed by a Q & A with the speakers. 
 
-Dolorem quas omnis qui qui. Rem itaque aliquid ut ut architecto consequatur dolor recusandae. Atque impedit qui earum.
+In collaboration with Klimaatfestival Antwerpen
