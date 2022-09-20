@@ -4,8 +4,8 @@ tags: event
 title: Circuits & Nerves
 byline: Experimental Installation
 type: Research Presentation
-author: Mona Hedayati
-date: 2022-10-13
+author: Mona Hedayati (PhD)
+date: 2022-10-15
 time: ???
 location: Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/4422cfe0-f701-4039-a209-4c6e82499acf/
