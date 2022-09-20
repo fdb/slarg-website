@@ -9,8 +9,7 @@ date: 2022-10-12
 time: 10:00 - 12:00
 location: Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/5e7f5dbe-95ef-4dd2-a963-86c7c6315b4c/
-images:
-  - https://ucarecdn.com/9af55b76-a438-4a7b-9ece-656039b2ddca/
+images: null
 ---
 This seminar will explore the concepts of ecopoetics and ecocriticism, as well as how they can dialogue with fashion design praxes in the face of environmental catastrophe and the Anthropocene. We'll study Kate Rigby's analysis and text "*Reclaiming Romanticism": Towards an Ecopoetics of Decolonisation"* (2020) to examine how insubordinate designers are upcycling and disrupting the industry. 
 
