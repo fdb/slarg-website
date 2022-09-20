@@ -24,8 +24,6 @@ One of the key elements in the video work is the accompanying musical compositio
 
 Eglė Budvytytė (LT, 1981) lives and works in Amsterdam, the Netherlands and Vilnius, Lithuania. This video was also included in The Milk of Dreams, the central exhibition of the Venice Biennale, curated by Cecilia Alemani.
 
-
-
 **19:30 Screening *Songs from the compost: mutating bodies, imploding stars* (28’10”)**
 
 **20:00 Talk and Q&A with Eglė Budvytytė**
@@ -34,10 +32,10 @@ Eglė Budvytytė (LT, 1981) lives and works in Amsterdam, the Netherlands and Vi
 
 
 
+*This screening is part of Rights of Nature, a two-day cross-disciplinary program by SLARG, in close collaboration with [Klimaatfestival Antwerpen](https://www.klimaatfestivalantwerpen.be/nl), FOMU, and Kunsthal Extra City. Rights of Nature explores the role of law, philosophy and arts in relation to "the rights of nature". It brings together various forms of research and translates this to a wide audience.*
+
+
+
 Image-Installation view Revolting Times at Kunsthal Extra City, Eglė Dudvytytė, Songs from the compost: Mutating bodies, imploding stars © We Document Art
 
-Stills from Songs from the compost: Mutating bodies, imploding stars - 2020 (in collaboration with Marija Olšauskaitė and Julija Steponaitytė) © Eglė Dudvytytė 
-
-
-
-*This screening is part of Rights of Nature, a two-day cross-disciplinary program by SLARG, in close collaboration with [Klimaatfestival Antwerpen](https://www.klimaatfestivalantwerpen.be/nl), FOMU, and Kunsthal Extra City. Rights of Nature explores the role of law, philosophy and arts in relation to "the rights of nature". It brings together various forms of research and translates this to a wide audience.*
+Stills from Songs from the compost: Mutating bodies, imploding stars - 2020 (in collaboration with Marija Olšauskaitė and Julija Steponaitytė) © Eglė Dudvytytė
