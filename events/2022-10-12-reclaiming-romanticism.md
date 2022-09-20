@@ -3,14 +3,15 @@ layout: event.liquid
 tags: event
 title: Reclaiming Romanticism
 byline: Insubordination, Upcycling and Ecopoetics in Fashion
-type: Seminar + Workshop
+type: Seminar
 author: Pierre-Antoine Vettorello (PhD)
 date: 2022-10-12
-time: 10:00 - 16:00
+time: 10:00 - 12:00
 location: Sint Lucas Antwerpen
-main_image: https://ucarecdn.com/4e22f775-dd73-4417-add5-57f1fa5db672/
+main_image: https://ucarecdn.com/5e7f5dbe-95ef-4dd2-a963-86c7c6315b4c/
 images:
   - https://ucarecdn.com/9af55b76-a438-4a7b-9ece-656039b2ddca/
+  - https://ucarecdn.com/374ebc7d-2fe6-48f7-a53a-3f7a8540af97/
 ---
 Iste ipsa sed voluptatem quo tempore earum ex. Voluptatum aperiam quaerat qui quis mollitia non quia veniam. Deleniti facere voluptates sit voluptatem ex et. Aperiam nostrum qui et maxime voluptatem alias numquam placeat. Itaque voluptatem odit quaerat eaque ab magni incidunt.
 
