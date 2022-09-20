@@ -1,10 +1,10 @@
 ---
 layout: event.liquid
 tags: event
-title: Research Exhibition Opening
-byline: "SLARG "
+title: "SLARG Research Exhibition "
+byline: "Join us at the opening of our research exhibition! "
 type: Exhibition Opening
-author: Zeynep Kubat
+author: SLARG
 date: 2022-10-13
 time: ???
 location: Sint Lucas Antwerpen
