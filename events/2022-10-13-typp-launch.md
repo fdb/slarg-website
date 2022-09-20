@@ -2,9 +2,9 @@
 layout: event.liquid
 tags: event
 title: TYPP Launch
-byline: The Yellow Press Periodical
-type: Book Launch
-author: Zeynep Kubat
+byline: "Research Publication "
+type: Launch
+author: SLARG/AdMa
 date: 2022-10-13
 time: ???
 location: Sint Lucas Antwerpen
