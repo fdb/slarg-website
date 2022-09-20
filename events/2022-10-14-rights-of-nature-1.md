@@ -9,6 +9,10 @@ date: 2022-10-14
 time: 19:30 - 21:00
 location: Kunsthal Extra-City
 main_image: https://ucarecdn.com/f642757f-22d8-430d-b347-21dab2222882/
+images:
+  - https://ucarecdn.com/3cbdb866-58b3-455c-93a7-e71070616bde/
+  - https://ucarecdn.com/8b28bc4f-21f2-45d5-ba96-8fa9a9a807ed/
+  - https://ucarecdn.com/f9f9a84a-59cd-4dd2-afea-45821a8bb10e/
 ---
 *Songs from the compost* is shot in the lichen forest and sand dunes of the Curonian Spit in Lithuania. Eglė Budvytytė cast mostly local youths for a choreography that engages in intimacy and relates the human body to other bodies — those of the forest, the sand dunes and the water. The horizontality in movement undoes the usual verticality of human figure, unfurling her into the landscape.
 
