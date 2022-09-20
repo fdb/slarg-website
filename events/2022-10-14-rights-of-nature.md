@@ -24,6 +24,4 @@ Max. 24 participants. Participation is free, but subscription is mandatory. Subs
 
 *This workshop is part of Rights of Nature, a two-day cross-disciplinary program by SLARG, in close collaboration with [Klimaatfestival Antwerpen](https://www.klimaatfestivalantwerpen.be/nl), FOMU, and Kunsthal Extra City. Rights of Nature explores the role of law, philosophy and arts in relation to "the rights of nature". It brings together various forms of research and translates this to a wide audience.*
 
-
-
-Image from the series ‘Lockdown Traveling’ (Payerbach-Kreuzberg, Oostenrijk), 2021, © Kim Boske.
+Image 137, Fotogramme, 70.5x50.5cm, Alnus glutinosa (Black alder), 2011 © Eva-Fiore Kovacovsky.
