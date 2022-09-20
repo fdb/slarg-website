@@ -6,7 +6,7 @@ byline: On collaboration and collective practice
 type: Research methodology workshop
 author: Marnie Slater
 date: 2022-10-10
-time: 10:00 - 14:00
+time: 10:00 - 13:00
 location: Room 3.09, Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/3ba6a10e-7740-444e-8feb-d63f4e139277/
 images: null
