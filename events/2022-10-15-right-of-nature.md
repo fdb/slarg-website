@@ -6,7 +6,7 @@ byline: "Silent Echoes: video and performance piece by Dorine van Meel "
 type: Screening
 author: Dorine van Meel
 date: 2022-10-15
-time: 16:30
+time: 16:30 - 17:30
 location: Kunsthal Extra-City
 main_image: https://ucarecdn.com/c3450f0a-ff94-4fba-88fa-fa4ae132bad1/
 images:
@@ -22,10 +22,6 @@ The images that accompany the many voices show computer generated islands in whi
 
 Silent Echoes has received financial support from the Mondriaan Fonds.
 
-
-
-
-
 Biographies
 
 Dorine van Meel (1984) is a Dutch artist whose practice takes the form of video installations, performances, discursive projects and long-term collaborations. In her video work, digitally produced images are combined with composed soundtracks and texts read by the artist as well as other female narrators. Van Meel’s solo work has been shown at the 10th Berlin Biennale for Contemporary Art (Berlin), the South London Gallery (London), W139 (Amsterdam), Transmediale (Berlin), Nottingham Contemporary (Nottingham), KW Institute for Contemporary Art (Berlin). 
@@ -39,3 +35,11 @@ Jamaica Heolimeleikalani Osorio is a Kanaka Maoli wahine artist / activist / sch
 Serie (Cherie) Barford was born in Aotearoa New Zealand and lives in West Auckland. Her collections of poetry include Plea to the Spanish Lady (1985), Glass Canisters (1989), Tapa Talk (2007), Sleeping with Stones (2021), and the poetry and prose collection Entangled Islands (2015). She is of Samoan and European descent, and her work explores hybrid identities, seeking meaning in “the space between,” as she has described it: “the betweenness, not empty space, not space that separates but space that relates, that holds separate entities and things together in the Unity-that-is-All, the space that is context, giving meaning to things.” 
 
 Ucetōt Lorok is a singer from the Marshall Islands.
+
+
+
+*This event is part of Rights of Nature, a two-day cross-disciplinary program by SLARG, in close collaboration with [Klimaatfestival Antwerpen](https://www.klimaatfestivalantwerpen.be/nl), FOMU, and Kunsthal Extra City. Rights of Nature explores the role of law, philosophy and arts in relation to "rights of nature". It brings together various forms of research and translates this to a wide audience.*
+
+
+
+Images Stills Silent Echoes (c) Dorine van Meel
