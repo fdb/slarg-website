@@ -5,7 +5,7 @@ title: Books, nails, gloves
 byline: From (micro-)typography to editorial structures. From gossips to public
   speech. From ghostwriting to collective pamphlets.
 type: Research presentation, Arpentage session
-author: Loraine Furter
+author: Loraine Furter (PhD)
 date: 2022-10-13
 time: 10:00-12:00
 location: Showroom Sint Lucas Antwerpen
