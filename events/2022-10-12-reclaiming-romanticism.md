@@ -3,7 +3,7 @@ layout: event.liquid
 tags: event
 title: Reclaiming Romanticism
 byline: Insubordination, Upcycling and Ecopoetics in Fashion
-type: Seminar
+type: Talks & Discussion
 author: Pierre-Antoine Vettorello (PhD)
 date: 2022-10-12
 time: 10:00 - 12:00
@@ -13,12 +13,13 @@ images:
   - https://ucarecdn.com/9af55b76-a438-4a7b-9ece-656039b2ddca/
   - https://ucarecdn.com/374ebc7d-2fe6-48f7-a53a-3f7a8540af97/
 ---
-Iste ipsa sed voluptatem quo tempore earum ex. Voluptatum aperiam quaerat qui quis mollitia non quia veniam. Deleniti facere voluptates sit voluptatem ex et. Aperiam nostrum qui et maxime voluptatem alias numquam placeat. Itaque voluptatem odit quaerat eaque ab magni incidunt.
+This seminar will explore the concepts of ecopoetics and ecocriticism, as well as how they can dialogue with fashion design praxes in the face of environmental catastrophe and the Anthropocene. We'll study Kate Rigby's analysis and book "Reclaiming Romanticism" (2020) to examine how insubordinate designers are upcycling and disrupting the industry. 
 
-Ut quibusdam sed ut omnis porro quo. Et ut ut laborum veritatis architecto ullam id. Tenetur qui vel voluptatem vel commodi laborum natus temporibus. Repellendus porro quasi eligendi.
+We'll compare fashion gestures to European romantics poetry such as Rousseau, Wordsworth, and Mickiewicz, but as well Tarn, Lorde, Whitman and look at how fashion designers are expressing their creativity through upcycling, revaluing the past, archiving and appreciating "nature" rather than conforming to rules and hegemonic production trends and "seasons". 
 
-Aut quasi ea laudantium voluptas ipsa reiciendis totam fugit. Non repudiandae sint ipsum. Ea provident modi culpa consequatur. Doloremque rerum cum beatae delectus odio excepturi nobis doloribus. Quis voluptate assumenda quos.
+This conversation aims at creating a dialogue through “ecopoetic arts of resistance” (Rigby, 2020) allowing dialogue between designers who are subverting a business and are instead pursuing an alternate path of radicalism and insubordination. A new generatuion is promoting hand-made, slow fashion, unique pieces, upcycled garments, guided by a will to connect with Planet Hearth.
 
-Minus commodi ipsam facere deleniti recusandae explicabo et. Deserunt enim est qui accusantium consequatur aliquid. Sit consequuntur fugiat odit provident soluta. Dolorem saepe minima veniam illo et. Doloremque mollitia assumenda distinctio laborum saepe.
+\
+Photo: Pierre-Antoine Vettorello
 
-Doloremque ut ab blanditiis velit quaerat ipsam vitae. In aut consequatur aut reprehenderit molestiae molestiae vitae dolor. Expedita eveniet voluptatum animi molestias odio necessitatibus necessitatibus. Nam et omnis in sapiente.
+Model: Rahim Lone
