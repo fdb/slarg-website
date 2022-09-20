@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 title: Rights of Nature
-byline: Hydrafeminism, curatorial lecture
+byline: Hydrofeminism, curatorial lecture
 type: Lecture
 author: Heidi Ballet
 date: 2022-10-15
