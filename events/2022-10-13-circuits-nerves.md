@@ -2,7 +2,8 @@
 layout: event.liquid
 tags: event
 title: Circuits & Nerves
-byline: A Performative Sound Installation Exposing the Human-Machine Leaky Boundaries
+byline: A Performative Sound Installation Exposing the Human-Machine Leaky
+  Boundaries & Other Stories
 type: Performance
 author: Mona Hedayati (PhD)
 date: 2022-10-15
