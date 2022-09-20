@@ -25,6 +25,12 @@ Participation is free, but subscribe [here](https://www.klimaatfestivalantwerpen
 
 *This event is part of Rights of Nature, a two-day cross-disciplinary program by SLARG, in close collaboration with [Klimaatfestival Antwerpen](https://www.klimaatfestivalantwerpen.be/nl), FOMU, and Kunsthal Extra City. Rights of Nature explores the role of law, philosophy and arts in relation to "rights of nature". It brings together various forms of research and translates this to a wide audience.* 
 
-
-
 Image from the series ‘Lockdown Traveling’ (Payerbach-Kreuzberg, Oostenrijk), 2021, © Kim Boske.
+
+Image Dorine Van Norren. 
+
+Image Mihnea Tanasescu.
+
+Image Klaas Kuitenbrouwer.
+
+Image Aoife Fleming.
