@@ -8,11 +8,11 @@ author: Eglė Budvytytė
 date: 2022-10-14
 time: 19:30 - 21:00
 location: Kunsthal Extra-City
-main_image: https://ucarecdn.com/def07dbe-03de-4e6f-9fff-d7a4f3f70b41/
+main_image: https://ucarecdn.com/f7dfe6f0-380c-4c75-adf3-38fde6a7d73a/
 images:
   - https://ucarecdn.com/3cbdb866-58b3-455c-93a7-e71070616bde/
   - https://ucarecdn.com/f9f9a84a-59cd-4dd2-afea-45821a8bb10e/
-  - https://ucarecdn.com/eef26313-98e5-4190-8b4e-8a3a5ffcef8f/
+  - https://ucarecdn.com/b4df38a9-eaa0-40da-8452-393151dab669/
 ---
 **Eglė Budvytytė, Songs from the compost: mutating bodies, imploding stars, 2020, 28' 10".  In collaboration with: Marija Olšauskaitė & Julija Steponaitytė**. 
 
