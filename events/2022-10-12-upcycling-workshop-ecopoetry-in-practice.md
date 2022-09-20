@@ -16,4 +16,4 @@ Image: *Buren* by Pierre-Antoine Vettorello
 
 Max: 10 guests
 
-Free of charge. Bring one item of clothing you want to recycle.
+Free of charge. Bring one item of clothing you want to upcycle.
