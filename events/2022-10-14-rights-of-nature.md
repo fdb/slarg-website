@@ -8,7 +8,7 @@ author: Taco Hidde Bakker
 date: 2022-10-14
 time: 14:00 - 17:00
 location: Seminarielokaal, FOMU
-main_image: https://ucarecdn.com/e1bf1e21-02bb-4837-b019-d6e53eb59c64/
+main_image: https://ucarecdn.com/5fb50cea-24b6-4e20-a105-b00e8993ff3d/
 ---
 Dutch photography critic and curator Taco Hidde Bakker's manifesto 'Nineteen Discussions for Photographers and Artists in the Age of Climate Crisis' is the starting point for a workshop with and for photographers, visual artists, researchers, curators, cultural workers and students.
 
