@@ -8,7 +8,9 @@ author: Pierre-Antoine Vettorello (PhD)
 date: 2022-10-12
 time: 13:00 - 15:00
 location: Sint Lucas Antwerpen
-main_image: https://ucarecdn.com/7c7d06d2-b2d9-4f1c-8952-4b4e897f79e0/
+main_image: https://ucarecdn.com/cecb02cc-1292-46ca-a783-2728186fff47/
+images:
+  - https://ucarecdn.com/6d121df6-501f-4ad8-8b99-2b73c33a8a60/
 ---
 *This seminar is open to all (limited seats max.10 participants)*
 
