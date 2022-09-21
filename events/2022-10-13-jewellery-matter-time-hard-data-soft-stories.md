@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 title: "Jewellery Matter Time: Hard Data, Soft Stories"
-byline: The world in a grain
+byline: On Sand
 type: "Installation at the research exhibition "
 author: Irma Földényi and Saskia Van der Gucht
 date: 2022-10-13
