@@ -13,6 +13,8 @@ images: null
 ---
 *This seminar is open to all* 
 
+*please register sending an email at  > pierreantoine.vettorello@kdg.be*
+
 This seminar will explore the concepts of ecopoetics and ecocriticism, and how they can dialogue with fashion design praxes in the face of environmental catastrophe and the *Anthropocene*. We'll study Kate Rigby's analysis and text "*Reclaiming Romanticism": Towards an Ecopoetics of Decolonisation"* (2020) to examine how insubordinate designers are upcycling and disrupting the industry. 
 
 We will examine links between fashion praxes and European romantics poetry such as Rousseau, Wordsworth, and Mickiewicz, but as well Tarn, Lorde, Whitman and look at how fashion designers are expressing their creativity through upcycling, revaluing the past, archiving and appreciating "nature" rather than conforming to rules and hegemonic production trends and "seasons". We will explore the work of Vancouver-based artist *Colette*, London-based designer *Meihui Liu*, and Belgian designer *Jordy Arthur Vaesen.*
