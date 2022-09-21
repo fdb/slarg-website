@@ -1,22 +1,19 @@
 ---
 layout: event.liquid
 tags: event
-title: Critical pedagogy and design education
-byline: ???
-type: Symposium/event
+title: Design pedagogy as an emancipatory practice
+byline: Symposium and workshop
+type: Symposium/event/workshop
 author: Annelys de Vet (PhD) & Nuno Coelho
 date: 2022-10-11
-time: 10:00 - 16:00
+time: 10:00 - 17:00
 location: Sint Lucas Antwerpen
-main_image: https://ucarecdn.com/0a2cfeb6-c8c2-4f8e-a4e6-51ac8855b111/
+main_image: https://ucarecdn.com/905dab78-dc83-43a9-9d9e-2523743e10d4/
 ---
+Through voices from practice we explore experiences in the field of design, politics and pedagogy. How are we preparing designers for a world that is in constant transition? How do we develop critical pedagogies that can be adaptive to unexpected situations, to new questions being posed? How can the design curriculum be a space for commoning? What is the place of design in the wider society, and how can designers respond to urgent matters? How to think about design as a an emancipatory politics, and as a practice of hope?
 
-Velit quos quia id blanditiis qui unde quo veniam. Voluptatem rerum est voluptatem recusandae sit. Aliquam quidem placeat quas unde officiis dolorum. Inventore dolor omnis voluptates qui nemo quis. Placeat rerum iste quibusdam fugiat sunt sed accusantium molestiae. Ab qui quod iusto dolorem eaque.
+Morning session: Presentations & Debate\
+Vivid lunch\
+Afternoon: Workshop
 
-Omnis animi nihil doloribus nesciunt. Culpa amet dolorum repudiandae enim consequuntur maiores non qui. Aut consequuntur libero sunt omnis dolorum. Repellat dolores laudantium deleniti magni labore. Consectetur quis ullam eum et eligendi quis animi quod. Possimus optio ut est.
-
-Hic vel quos architecto velit ad vel ex. Quaerat quis rerum iure dolor voluptas quisquam vero. Ut voluptas omnis inventore veniam atque blanditiis ex. Rerum necessitatibus quae nam quo. Dignissimos rerum veniam vel in deserunt.
-
-Vel velit minima eveniet et laboriosam eius maiores. Odit veritatis ut quia. Itaque voluptatem praesentium et dolorem sit animi dolor at. Quas voluptatem laborum perferendis deleniti officia.
-
-Dolorem quas omnis qui qui. Rem itaque aliquid ut ut architecto consequatur dolor recusandae. Atque impedit qui earum.
+With designer, researcher and professor Nuno Coelho, Annelys de Vet (PhD) and others (to be confirmed soon)
