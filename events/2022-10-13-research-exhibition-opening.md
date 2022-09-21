@@ -7,7 +7,7 @@ type: Exhibition Opening
 author: SLARG
 date: 2022-10-13
 time: 19:00 - 21:45
-location: Sint Lucas Antwerpen
+location: Showroom, Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/83c06ebc-d7f2-4afa-a458-b4eb58b676a9/
 ---
 Velit quos quia id blanditiis qui unde quo veniam. Voluptatem rerum est voluptatem recusandae sit. Aliquam quidem placeat quas unde officiis dolorum. Inventore dolor omnis voluptates qui nemo quis. Placeat rerum iste quibusdam fugiat sunt sed accusantium molestiae. Ab qui quod iusto dolorem eaque.
