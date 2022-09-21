@@ -9,8 +9,7 @@ date: 2022-10-12
 time: 13:00 - 15:00
 location: Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/cecb02cc-1292-46ca-a783-2728186fff47/
-images:
-  - https://ucarecdn.com/6d121df6-501f-4ad8-8b99-2b73c33a8a60/
+images: null
 ---
 *This seminar is open to all (limited seats max.10 participants)*
 
