@@ -19,4 +19,4 @@ You are invited to take part in this 2-hour workshop with Belgian designer [Jord
 
 Free of charge. Bring one item of clothing you want to upcycle.
 
-Image: *Buren* by Pierre-Antoine Vettorello
+Image: *courtesy of Jordy Arthur Vaesen*
