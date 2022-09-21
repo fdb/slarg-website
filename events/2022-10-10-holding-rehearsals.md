@@ -8,7 +8,7 @@ author: Robin Vanbesien
 date: 2022-10-10
 time: 14:00-16:00
 location: Room 3.09, Sint Lucas Antwerpen
-main_image: https://ucarecdn.com/5371af7d-d166-46f3-95b3-4fc92aaeaed3/
+main_image: https://ucarecdn.com/a2261d6c-bf0a-44ca-92e3-bd2a5602e582/
 images: ""
 ---
 <!--\\[if gte mso 9]><xml>
