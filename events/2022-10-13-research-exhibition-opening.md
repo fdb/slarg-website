@@ -6,7 +6,7 @@ byline: "Join us at the opening of our research exhibition! "
 type: Exhibition Opening
 author: SLARG
 date: 2022-10-13
-time: ???
+time: 19:00 - 21:45
 location: Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/83c06ebc-d7f2-4afa-a458-b4eb58b676a9/
 ---
