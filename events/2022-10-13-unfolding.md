@@ -1,21 +1,19 @@
 ---
 layout: event.liquid
 tags: event
-title: Unfolding
-byline: ???
+title: Probes
+byline: "Two stories superimposed "
 type: Research Presentation
 author: Wesley Meuris
 date: 2022-10-13
-time: ???
+time: 10:00 - 11.00
 location: Showroom Sint Lucas Antwerpen
-main_image: https://ucarecdn.com/6cd4556b-7c79-499f-b4f3-9eeb7b5d71f0/
+main_image: https://ucarecdn.com/816eeb2c-0db2-42b5-a93a-38c507b3caa3/
 ---
-Velit quos quia id blanditiis qui unde quo veniam. Voluptatem rerum est voluptatem recusandae sit. Aliquam quidem placeat quas unde officiis dolorum. Inventore dolor omnis voluptates qui nemo quis. Placeat rerum iste quibusdam fugiat sunt sed accusantium molestiae. Ab qui quod iusto dolorem eaque.
+This research wants to unfold the phenomenon of ‘exhibiting’, in and beyond the sphere of the arts. Within the area of natural history, anthropology, technology and even speculative sciences remarkable forms of presentation have been developed to convey insights on knowledge. A historical context will be set to reflect on theoretical and artistic positions in the field of display.
 
-Omnis animi nihil doloribus nesciunt. Culpa amet dolorum repudiandae enim consequuntur maiores non qui. Aut consequuntur libero sunt omnis dolorum. Repellat dolores laudantium deleniti magni labore. Consectetur quis ullam eum et eligendi quis animi quod. Possimus optio ut est.
+For this presentation, elements of an image archive will be part of a hypothetical constellation. An exhibition device implements two seemingly unrelated research domains and initiates a search for their interrelationships and the influence they have on each other. 
 
-Hic vel quos architecto velit ad vel ex. Quaerat quis rerum iure dolor voluptas quisquam vero. Ut voluptas omnis inventore veniam atque blanditiis ex. Rerum necessitatibus quae nam quo. Dignissimos rerum veniam vel in deserunt.
+Talk near the exhibition device, showroom. 
 
-Vel velit minima eveniet et laboriosam eius maiores. Odit veritatis ut quia. Itaque voluptatem praesentium et dolorem sit animi dolor at. Quas voluptatem laborum perferendis deleniti officia.
-
-Dolorem quas omnis qui qui. Rem itaque aliquid ut ut architecto consequatur dolor recusandae. Atque impedit qui earum.
+Photo: Details sculpture ‘probe V’, 2021, exhibition Probes, KRIEG
