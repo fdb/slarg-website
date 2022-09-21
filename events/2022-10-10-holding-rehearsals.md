@@ -11,13 +11,13 @@ location: Room 3.09, Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/5371af7d-d166-46f3-95b3-4fc92aaeaed3/
 images: ""
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -62,9 +62,9 @@ images: ""
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -643,9 +643,9 @@ images: ""
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -668,11 +668,13 @@ images: ""
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-In this seminar/talk I share the *what*, *why,* and *how* behind the feature film-in-the-making ‘Holding Mawda’. What film approach can “hold” the collective counter-justice, a capacity, and imagination that has been built in support of Mawda’s family, operating in the gap that is stretched between, on the one hand, a language of legal procedures whereby police impunity is bound up with the criminalization of “migrants,” and, on the other hand, a scandal about the resulting indifference that lets this case, like many others, pass?
+In this talk / seminar I share the *what*, *why,* and *how* behind the feature film-in-the-making ‘Holding Mawda’. 
+
+What film approach can “hold” the collective counter-justice: a capacity, and imagination that has been built in support of Mawda’s family, operating in the gap that is stretched between, on the one hand, a language of legal procedures whereby police impunity is bound up with the criminalization of “migrants,” and, on the other hand, a scandal about the resulting indifference that lets this case, like many others, pass?
 
 *Mawda Shawri, a two-year-old girl, was shot and murdered by a police officer during a car chase on the highway E42 in Mons, Belgium, on May 17, 2018. This happened within the framework of the police operation Medusa for migration border control, mandated by the Belgian federal government. Mawda was shot and killed when she was sitting in a van with her fugitive Kurdish Iraqi family. The bullet, apparently aimed at the wheel of the van carrying around thirty fugitive people, was fired through the window and hit her cheek. From the moment of Mawda’s death, a series of painfully dehumanising measures were inflicted on the family even as extraordinary attempts were made to control the official narrative about the chain of events that led to her death – so as to deflect blame from the police operation that preceded it.*
 
