@@ -7,7 +7,7 @@ type: Talks & Discussion
 author: Pierre-Antoine Vettorello (PhD)
 date: 2022-10-12
 time: 10:00 - 12:00
-location: Sint Lucas Antwerpen
+location: "Campus Sint Lucas Antwerpen / room 3.09 "
 main_image: https://ucarecdn.com/5e7f5dbe-95ef-4dd2-a963-86c7c6315b4c/
 images: null
 ---
