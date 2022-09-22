@@ -8,7 +8,7 @@ author: SLARG
 date: 2022-10-13
 time: 19:00 - 21:45
 location: Showroom, Sint Lucas Antwerpen
-main_image: https://ucarecdn.com/83c06ebc-d7f2-4afa-a458-b4eb58b676a9/
+main_image: https://ucarecdn.com/6dbfd909-9666-4115-a9e7-bd33c091c30d/
 ---
 Velit quos quia id blanditiis qui unde quo veniam. Voluptatem rerum est voluptatem recusandae sit. Aliquam quidem placeat quas unde officiis dolorum. Inventore dolor omnis voluptates qui nemo quis. Placeat rerum iste quibusdam fugiat sunt sed accusantium molestiae. Ab qui quod iusto dolorem eaque.
 
