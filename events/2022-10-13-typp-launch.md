@@ -12,20 +12,16 @@ main_image: https://ucarecdn.com/8b143367-a758-4535-9828-d4a3c0887618/
 images:
   - https://ucarecdn.com/19906093-db71-48fe-9715-0177b2a49f64/
 ---
-*Double Launch: **TYPP # 8**  and **AdMa TYPP.*** 
+\*Double Launch: **TYPP # 8**  and **ADMA TYPP # 2**
 
 *TYPP is the Sint Lucas Antwerpen Research Publication. At this launch we present two new TYPP publications: the regular TYPP, designed by Ward Heirwegh, with contributions by SLARG researcherrs and friends, and the AdMa TYPP, designed by Joud Toamah, with conttrributions by the Advanced Master of Research participants.*
 
 *Join us at the launch and get your free copy! A colector's item!* 
 
-
-
 ***TYPP # 8. Blind Spot*** 
 
 *The human eye is designed with a flaw that is common to all other vertebrates:*\
 *we have a blind spot, the punctum caecum, a small patch on the inside of our boisterous orbs of vision with no photoreceptors. A blind spot can also be psychological or social. We tend to be biased towards situations or people we cannot fully ‘see through’. How can we enlighten our blind spots? What kind of artistic practices can inspire new readings of history, art, music, even politics?  With contributions by **Bent Vande Sompele, Pierre-Antoine Vettorello & Stella Nyanchama Okemwa, and Haseeb Ahmed**.  Design by Ward Heirwegh. Chief Editor: Zeynep Kubat. Editorial Board: Mekhitar Garabedian, Caroline Dumalin, Saskia Van der Gucht, Paul Hendrikse.* 
-
-
 
 ***AdMa TYPP 2022. It astonishes me when I hear you say love.***
 
