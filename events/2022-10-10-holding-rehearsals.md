@@ -8,16 +8,16 @@ author: Robin Vanbesien
 date: 2022-10-10
 time: 14:00-16:00
 location: Room 3.09, Sint Lucas Antwerpen
-main_image: https://ucarecdn.com/a2261d6c-bf0a-44ca-92e3-bd2a5602e582/
+main_image: https://ucarecdn.com/436a3994-f2d8-4133-94b4-2a8ad9c194f6/
 images: ""
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -62,9 +62,9 @@ images: ""
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -643,9 +643,9 @@ images: ""
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -668,9 +668,13 @@ images: ""
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\[endif]-->
 
 <!--StartFragment-->
+
+*This seminar is open to all (limited seats max. 20 participants). Please register by sending an email at > [robin.vanbesien@kdg.be](mailto:robin.vanbesien@kdg.be%60)*
+
+ 
 
 In the seminar *Holding Rehearsals* I share the *what*, *why,* and *how* behind the feature film-in-the-making *Holding Mawda.*
 
@@ -683,5 +687,7 @@ As to what has become known as the case of Mawda, from 2018 to 2021 various citi
 Cinema refers to so much more than just a medium, and certainly to so much more than an industry. In the very first place, cinema functions as a holding environment for collective imaginations. This is especially relevant on the matter of living through dominant scenes of representations that obscure the violent processes and oppressive infrastructures that produce group-differentiated vulnerability to premature death. How to envisage another scene of representation? The social landscape of the assembly enables the capacity *to hear something different*, which is foundational to nurturing the ongoing work of civic life.
 
 This seminar is part of the PhD research *Ciné Place-Making*.
+
+ 
 
 <!--EndFragment-->
