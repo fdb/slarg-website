@@ -1,7 +1,7 @@
 ---
 layout: event.liquid
 tags: event
-title: AdMa @ Masereel @ Morpho
+title: AdMa @ Frans Masereel @ Morpho
 byline: "Sharing outcome of Masereel Residence "
 type: Research Sharing
 author: AdMa Students
