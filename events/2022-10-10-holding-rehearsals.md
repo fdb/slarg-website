@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 title: Holding Rehearsals
-byline: Sustaining social justice in film
+byline: On Sustaining Social Justice in Cinema
 type: Talk / Seminar
 author: Robin Vanbesien
 date: 2022-10-10
