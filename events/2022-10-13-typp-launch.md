@@ -8,7 +8,9 @@ author: SLARG / Advanced Research Master
 date: 2022-10-13
 time: 20:00
 location: Showroom, Sint Lucas Antwerpen
-main_image: https://ucarecdn.com/21c9ed6f-2a82-4f80-92b1-45b3cd763247/
+main_image: https://ucarecdn.com/8b143367-a758-4535-9828-d4a3c0887618/
+images:
+  - https://ucarecdn.com/19906093-db71-48fe-9715-0177b2a49f64/
 ---
 *Double Launch: **TYPP # 8**  and **AdMa TYPP.*** 
 
