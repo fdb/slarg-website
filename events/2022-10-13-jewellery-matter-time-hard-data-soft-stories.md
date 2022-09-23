@@ -12,8 +12,6 @@ main_image: https://ucarecdn.com/11f79147-db02-4d3b-a4a2-7c3b8155457c/
 ---
 ‘Jewellery Matter Time - Hard Data, Soft Stories’ unveils contemporary stories about mined materials and how they contribute to jewellery as a practice. The movement of materials has a variety of ecological effects, many of which are concealed in the shadows behind shiny objects. If jewellery can tell stories, which stories could they tell about their origin in the age of the Anthropocene? 
 
- 
-
 The presentation during Research Week gives an insight into the research process on the material sand.
 
 Creating an environment on how we work, this installation is made up of different components: text, readings, material samples, experiments and objects.
@@ -31,3 +29,9 @@ What if sand is an extremely valuable material? 
 How would a jeweller then work with it? 
 
 Why would their tools and choices be relevant?
+
+
+
+
+
+Image: fieldwork for sand probes at Kattendijkdok-Oostkaai, september 2022 - Saskia Van der Gucht
