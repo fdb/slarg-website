@@ -22,7 +22,7 @@ main_image: https://ucarecdn.com/905dab78-dc83-43a9-9d9e-2523743e10d4/
   Welcome & Introduction\
   **Nuno Coelho**, ON SEMINAR ON TRANSITION DESIGN, Teaching Transition Design (TD) at the University of Coimbra\
   **Annelys de Vet,** ON DISARMING DESIGN MASTERS, Temporary masters programme at Sandberg Instituut Amsterdam on the intersection of design, politics and community
-* 11.30am\
+* 11.45am\
   Break
 * 12pm\
   Perspectives from practice (speakers to be confirmed)
