@@ -3,7 +3,7 @@ layout: event.liquid
 tags: event
 title: "Jewellery Matter Time: Hard Data, Soft Stories"
 byline: On Sand
-type: "Installation at the research exhibition "
+type: "Conversation at the research exhibition "
 author: Irma Földényi and Saskia Van der Gucht
 date: 2022-10-13
 time: 18:00 - 21:45
