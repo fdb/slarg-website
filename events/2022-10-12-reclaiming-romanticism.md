@@ -19,7 +19,7 @@ This seminar will explore the concepts of ecopoetics and ecocriticism, and how t
 
 We will examine links between fashion praxes and European romantics poetry such as Rousseau, Wordsworth, and Mickiewicz, but as well Tarn, Lorde, Whitman and look at how fashion designers are expressing their creativity through upcycling, revaluing the past, archiving and appreciating "nature" rather than conforming to rules and hegemonic production trends and "seasons". We will explore the work of Vancouver-based artist *Colette*, London-based designer *Meihui Liu*, and Belgian designer *Jordy Arthur Vaesen, Uk-based performer* Anna Kushnerova.
 
-This conversation aims at creating a dialogue through “*ecopoetic arts of resistance*” (Rigby, 2020) allowing dialogue between designers who are subverting a business and are instead pursuing an alternate path of radicalism and insubordination. A new generation is promoting hand-made, slow fashion, unique pieces, upcycled garments, guided by a will to connect and contemplate Planet Earth.
+This conversation aims at creating a dialogue through “*ecopoetic arts of resistance*” (Rigby, 2020) allowing dialogue between designers and artists who are subverting conventions and are instead pursuing an alternate path of radicalism and insubordination. A new generation is promoting hand-made, slow fashion, unique pieces, upcycled garments, guided by a will to connect and contemplate Planet Earth.
 
 \
 Photo: *Willow* by Pierre-Antoine Vettorello (2019)
