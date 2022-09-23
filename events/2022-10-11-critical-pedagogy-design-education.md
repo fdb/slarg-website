@@ -19,21 +19,19 @@ Through voices from practice, we explore experiences in the field of design, pol
 Programme:
 
 * 10.00 am \
-  — Welcome & Introduction\
-  — Nuno Coelho \
-  **ON SEMINAR ON TRANSITION DESIGN*, Teaching Transition Design (TD) at the University of Coimbra***\
-  — Annelys de Vet\
-  **ON DISARMING DESIGN MASTERS, Temporary masters programme at Sandberg Instituut Amsterdam on the intersection of design, politics and community**
+  Welcome & Introduction\
+  Nuno Coelho, **ON SEMINAR ON TRANSITION DESIGN, *Teaching Transition Design (TD) at the University of Coimbra***\
+  Annelys de Vet**, ON DISARMING DESIGN MASTERS, Temporary masters programme at Sandberg Instituut Amsterdam on the intersection of design, politics and community**
 * 11.30am\
-  — Break
+  Break
 * 12pm\
-  — **Perspectives from practice (speakers to be confirmed)**
+  Perspectives from practice (speakers to be confirmed)
 * 1pm\
-  — **Lunch performance**
-* 2\
-  — **3 workshops**, each by one of the speakers
+  Lunch performance
+* 2pm\
+  3 paralel workshops, each by one of the speakers
 * 4pm\
-  — Sharing output and final conclusions
+  Sharing output and final conclusions
 
 Biographies:
 
