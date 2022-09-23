@@ -29,9 +29,3 @@ What if sand is an extremely valuable material? 
 How would a jeweller then work with it? 
 
 Why would their tools and choices be relevant?
-
-
-
-
-
-Image: fieldwork for sand probes at Kattendijkdok-Oostkaai, september 2022 - Saskia Van der Gucht
