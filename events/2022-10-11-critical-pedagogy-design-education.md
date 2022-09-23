@@ -14,7 +14,7 @@ main_image: https://ucarecdn.com/905dab78-dc83-43a9-9d9e-2523743e10d4/
 
 “Design pedagogy as an emancipatory practice” is a one-day-long symposium and workshop around critical pedagogy and design education. A day mostly for peers, with combined presentations and discussions (in the morning), a collective lunch and work sessions (in the afternoon). The contributions will be practice-based rather than rooting in theory, in which we talk from our own examples that touch upon conflict, disruption, flexibility, adaptivity to situations (core perspective) and how each of us secures a healthy creative and adaptive learning environment.
 
-**To attend the programme, confirm your presence by mail to: annelys.devet@kdg.be** 
+**To attend the programme, confirm your presence to: annelys.devet@kdg.be** 
 
 **Programme**:
 
