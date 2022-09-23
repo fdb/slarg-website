@@ -3,10 +3,10 @@ layout: event.liquid
 tags: event
 title: "Jewellery Matter Time: Hard Data, Soft Stories"
 byline: On Sand
-type: "Installation at the research exhibition "
+type: "Conversation at the research exhibition "
 author: Irma Földényi and Saskia Van der Gucht
 date: 2022-10-15
-time: 10:00 - 18:00
+time: 11:00 - 14:00
 location: Sint Lucas Antwerpen - Showroom
 main_image: https://ucarecdn.com/11f79147-db02-4d3b-a4a2-7c3b8155457c/
 ---
