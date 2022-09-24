@@ -20,4 +20,4 @@ main_image: https://ucarecdn.com/a213d24c-963f-4e6d-9cb2-48f642abc81e/
 
 **Listen** with your whole body and let the distortions sink in and rewind 
 
-Can you sense the nerves and circuits intersect?
+Can you sense the circuits and nerves intersect?
