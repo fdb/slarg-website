@@ -10,19 +10,14 @@ time: "19:00-19:30 "
 location: "Extra-City Kunsthal "
 main_image: https://ucarecdn.com/a213d24c-963f-4e6d-9cb2-48f642abc81e/
 ---
-Listen…to the subject of listening
+**Listen**…to the subject of listening
 
+**Listen**…to the subject who is at the center of listening, who is subject *to* listening
 
-Listen…to the subject who is at the center of listening, who is subject to listening
+**Listen**…to different things or to same things differently 
 
+**Listen** to this score differently; don’t listen up, listen across the linear time: open up the past to the future every time you listen to the rhythm of the vowels and the consonants
 
-Listen…to different things or to same things differently 
-
-
-Listen to this score differently; don’t listen up, listen across the linear time: open up the past to the future every time you listen to the rhythm of the vowels and the consonants
-
-
-Listen with your whole body and let the distortions sink in and rewind 
-
+**Listen** with your whole body and let the distortions sink in and rewind 
 
 Can you sense the nerves and circuits intersect?
