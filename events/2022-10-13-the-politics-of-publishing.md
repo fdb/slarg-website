@@ -19,6 +19,6 @@ Together we will dive into an installation presented in the SLARG exhibition, us
 
 We will do so with objects, in a movement going from micro to macro to other space-time dimensions, spliting between qualitative and quantitative, zooming in, getting closer, situating precisely (yet momentarily), but also zooming out and undertsanding structural dimensions.
 
-From (micro-)typography to editorial structures. From gossips to public speech. From ghostwriting to collective pamphlets.
+From (micro-)typography to editorial structures. From gossip to public speeches. From ghostwriting to collective pamphlets.
 
 With our glossy researchers gloves.
