@@ -4,17 +4,17 @@ tags: event
 title: TYPP Launch
 byline: "Research publication "
 type: Launch
-author: SLARG / Advanced Research Master
+author: SLARG / Advanced Master of Research
 date: 2022-10-13
 time: 20:00-21:00
-location: Showroom, Sint Lucas Antwerpen
+location: Showroom, Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/8b143367-a758-4535-9828-d4a3c0887618/
 images:
   - https://ucarecdn.com/19906093-db71-48fe-9715-0177b2a49f64/
 ---
 \*Double Launch: **TYPP # 8**  and **ADMA TYPP # 2**
 
-*TYPP is the Sint Lucas Antwerpen Research Publication. At this launch we present two new TYPP publications: the regular TYPP, designed by Ward Heirwegh, with contributions by SLARG researcherrs and friends, and the AdMa TYPP, designed by Joud Toamah, with contributions by the Advanced Master of Research participants.*
+*TYPP is the Sint Lucas Antwerpen Research Publication. At this launch we present two new TYPP publications: the regular TYPP, designed by Ward Heirwegh, with contributions by SLARG researcherrs and friends, and the AdMa TYPP, designed by Joud Toamah, with contributions by Advanced Master of Research 2020-21 participants.*
 
 *Join us at the launch and get your free copy! A collector's item!* 
 
@@ -24,4 +24,4 @@ images:
 
 ***AdMa TYPP 2022. It astonishes me when I hear you say love.***
 
-The title for this issue, ‘It astonishes me when I hear you say love.’ is a quote from Federico García Lorca’s *El público* (*The Public* or *The Audience*), written between 1929 and 1930, and only published after his death. The quote appears twice, in slightly different forms, in a conversation between the Magician and the Director, as they discuss the latter’s attempt to stage a revolutionary adaptation of William Shakespeare’s *Romeo and Juliet*. For this issue, contributors were asked to consider their research through the lens of the love letter. This publication was conceived during a year in which we conducted our entire advanced master program online. Yet somehow the contributors of this publication put love and care in the air and helped them to travel through our screens and into our bedrooms, workspaces, apartments and studios. Academic research institutions and processes are generally not known for the space they make for love and vulnerable relationality, but it does exist if you know where to look. Like here. Contributions by: Amelie Jakubek, Chris Rotsaert, Elien Ronse, Hiroko Tsuchimoto, Jennifer Clarke, Martina Petrović, Mona Hedayati, Nohad Elhajj, Rachel Bacon, Tommi Vasko & Kaisa Karvinen and Vicky De Visser. Designed by: Joud Toamah. Concept& Process by Marnie Slater. Edited by: Kim Gorus, Marnie Slater and Petra Van Brabandt
+The title for this issue, ‘It astonishes me when I hear you say love.’ is a quote from Federico García Lorca’s *El público* (*The Public* or *The Audience*), written between 1929 and 1930, and only published after his death. The quote appears twice, in slightly different forms, in a conversation between the Magician and the Director, as they discuss the latter’s attempt to stage a revolutionary adaptation of William Shakespeare’s *Romeo and Juliet*. For this issue, contributors were asked to consider their research through the lens of the love letter. This publication was conceived during a year in which we conducted our entire advanced master program online. Yet somehow the contributors of this publication put love and care in the air and helped them to travel through our screens and into our bedrooms, workspaces, apartments and studios. Academic research institutions and processes are generally not known for the space they make for love and vulnerable relationality, but it does exist if you know where to look. Like here. **With contributions by: Amelie Jakubek, Chris Rotsaert, Elien Ronse, Hiroko Tsuchimoto, Jennifer Clarke, Martina Petrović, Mona Hedayati, Nohad Elhajj, Rachel Bacon, Tommi Vasko & Kaisa Karvinen and Vicky De Visser.** Designed by Joud Toamah. Concept& Process by Marnie Slater. Edited by Kim Gorus, Marnie Slater and Petra Van Brabandt
