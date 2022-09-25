@@ -1,8 +1,8 @@
 ---
 layout: event.liquid
 tags: event
-title: Research Exhibition
-byline: SLARG
+title: SLARG Research Exhibition
+byline: "Join a guided tour! "
 type: Exhibition
 author: SLARG Researchers
 date: 2022-10-14
@@ -14,6 +14,4 @@ Join us at the SLARG exhibition and discover traces, leftovers and experiments o
 
 With contributions by Simona Da Pozzo, Annelys de Vet, Helen Dowling, Irma Földényi & Saskia Van der Gucht, Loraine Furter, Wesley Meuris, Danial Shah, Marnie Slater, Pierre-Antoine Vettorello, Viet Vu, Digital Master students (Frederik De Bleser & Lieven Menschaert).
 
-To iintroduce you to the ins and outs of SLARG research, we organise two guided tours  by our researchers!
-
-Join the tour at 11:00 or 15:00 by sending an e-mail at < petra.vanbrabandt@kdg.be
+To iintroduce you to the ins and outs of SLARG research, we organise two guided tours  by our researchers! Join the tour at 11:00 or 15:00! *Please register by sending an email at >* petra.vanbrabandt@kdg.be
