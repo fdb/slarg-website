@@ -2,20 +2,18 @@
 layout: event.liquid
 tags: event
 title: "SLARG Research Exhibition "
-byline: "Join us at the opening of our research exhibition! "
+byline: Join us at the opening!
 type: Exhibition opening
 author: SLARG
 date: 2022-10-13
 time: 19:00 - 21:45
-location: Showroom, Sint Lucas Antwerpen
+location: Showroom, Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/6dbfd909-9666-4115-a9e7-bd33c091c30d/
 ---
-Velit quos quia id blanditiis qui unde quo veniam. Voluptatem rerum est voluptatem recusandae sit. Aliquam quidem placeat quas unde officiis dolorum. Inventore dolor omnis voluptates qui nemo quis. Placeat rerum iste quibusdam fugiat sunt sed accusantium molestiae. Ab qui quod iusto dolorem eaque.
+Join us at the opening of the SLARG exhibition! SLARG researchers and friends willl share with you traces, leftovers and experiments of their artistic research.
 
-Omnis animi nihil doloribus nesciunt. Culpa amet dolorum repudiandae enim consequuntur maiores non qui. Aut consequuntur libero sunt omnis dolorum. Repellat dolores laudantium deleniti magni labore. Consectetur quis ullam eum et eligendi quis animi quod. Possimus optio ut est.
+With contributions by Simona Da Pozzo, Annelys de Vet, Helen Dowling, Irma Földényi & Saskia Van der Gucht, Loraine Furter, Wesley Meuris, Danial Shah, Marnie Slater, Pierre-Antoine Vettorello, Viet Vu, Digital Master students (Frederik De Bleser & Lieven Menschaert). 
 
-Hic vel quos architecto velit ad vel ex. Quaerat quis rerum iure dolor voluptas quisquam vero. Ut voluptas omnis inventore veniam atque blanditiis ex. Rerum necessitatibus quae nam quo. Dignissimos rerum veniam vel in deserunt.
+Reception at 19:00
 
-Vel velit minima eveniet et laboriosam eius maiores. Odit veritatis ut quia. Itaque voluptatem praesentium et dolorem sit animi dolor at. Quas voluptatem laborum perferendis deleniti officia.
-
-Dolorem quas omnis qui qui. Rem itaque aliquid ut ut architecto consequatur dolor recusandae. Atque impedit qui earum.
+Launch TYPP & Advanced Master TYPP at 20:00
