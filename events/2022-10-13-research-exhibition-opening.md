@@ -3,7 +3,7 @@ layout: event.liquid
 tags: event
 title: "SLARG Research Exhibition "
 byline: "Join us at the opening of our research exhibition! "
-type: Exhibition Opening
+type: Exhibition opening
 author: SLARG
 date: 2022-10-13
 time: 19:00 - 21:45
