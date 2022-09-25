@@ -7,7 +7,7 @@ type: Research class
 author: Frederik De Bleser & Lieven Menschaert
 date: 2022-10-10
 time: 10:00 - 17:00
-location: Sint Lucas Antwerpen
+location: Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/86b6f5b9-ac69-4cda-8d3e-cd8a464ad44a/
 images:
   - https://ucarecdn.com/03c5cf02-51f8-4c03-b2fc-5b229404fb6d/
