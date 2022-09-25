@@ -3,8 +3,8 @@ layout: event.liquid
 tags: event
 title: Rights of Nature
 byline: Rights of Nature, the Zoöp Model, and climate litigation
-type: Talks & Discussions
-author: Dorine van Norren, Mihnea Tănăsescu, Klaas Kuitenbrouwer & Aoife Fleming
+type: Seminar
+author: Dorine van Norren, Mihnea Tănăsescu, Klaas Kuitenbrouwer, Aoife Fleming
 date: 2022-10-14
 time: 10:00 - 13:00
 location: Theaterzaal, Het Bos
