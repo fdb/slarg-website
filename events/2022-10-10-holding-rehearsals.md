@@ -19,7 +19,7 @@ In the seminar *Holding Rehearsals* I share the *what*, *why,* and *how* behind 
 
 What film approach can *hold* the capacity and imagination of collective counter-justice that has been built in support of Mawda’s family, operating in the gap that is stretched between, on the one hand, a language of legal procedures whereby police impunity is bound up with the criminalization of “migrants,” and, on the other hand, a scandal about the resulting indifference that lets this case, like many others, pass? 
 
-Cinema refers to so much more than just a medium, and certainly to so much more than an industry. In the very first place, cinema functions as a holding environment for collective imaginations. This is especially relevant on the matter of living through dominant scenes of representations that obscure the violent processes and oppressive infrastructures that produce group-differentiated vulnerability to premature death. How to envisage another scene of representation? The social landscape of the assembly enables the capacity *to hear something different*, which is foundational to nurturing the ongoing work of civic life.
+Cinema refers to so much more than just a medium, and certainly to so much more than an industry. In the very first place, cinema functions as a holding environment for collective imaginations. How to envisage another scene of representation? 
 
 Robin Vanbesien is a visual artist and filmmaker. He is a PhD researcher at Sint Lucas as well as the coordinator of the Master in a Socio-Political Context. His work has been widely presented internationally.
 
