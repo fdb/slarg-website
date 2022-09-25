@@ -26,23 +26,22 @@
 	font-family: 'AuthenticSans';
 	font-style: normal;
 	font-weight: normal;
-	src: local(''), url('/static/fonts/AUTHENTIC-Sans-Pro-60.woff2') format('woff2'),
-		url('/static/fonts/AUTHENTIC-Sans-Pro-60.woff') format('woff');
+	src: local(''), url('/static/fonts/AUTHENTIC-Sans-Pro-90.woff2') format('woff2'),
+		url('/static/fonts/AUTHENTIC-Sans-Pro-90.woff') format('woff');
 }
-
 
 @font-face {
 	font-family: 'AuthenticSans';
 	font-style: normal;
 	font-weight: bold;
-	src: local(''), url('/static/fonts/AUTHENTIC-Sans-Pro-90.woff2') format('woff2'),
-		url('/static/fonts/AUTHENTIC-Sans-Pro-90.woff') format('woff');
+	src: local(''), url('/static/fonts/AUTHENTIC-Sans-Pro-130.woff2') format('woff2'),
+		url('/static/fonts/AUTHENTIC-Sans-Pro-130.woff') format('woff');
 }
 
 :root {
-	--text-accent: #d14d65;
-	--border-accent: #9e3a4c;
-	--bg: #fffcf0;
+	--text-accent: #26005e;
+	--border-accent: #26005e;
+	--bg: #e0ffdf;
 }
 
 *,
@@ -56,10 +55,10 @@ img {
 }
 
 body {
-	font-family: 'Inter', sans-serif;
+	font-family: 'AuthenticSans', sans-serif;
 	font-size: 16px;
 	line-height: 1.5;
-	color: #333;
+	color: #26005e;
 	background-color: var(--bg);
 	margin: 0;
 }
@@ -83,7 +82,8 @@ header {
 
 header a {
 	color: var(--text-accent);
-	text-decoration: underline;
+	text-decoration: none;
+	/* border-bottom: 2px solid var(--text-accent); */
 }
 
 main {
@@ -123,27 +123,36 @@ article > h1 {
 }
 
 .hero-text {
-	color: #fbfbb8;
+	color: #3c9b5d;
 	font-size: 1rem;
+	line-height: 1.4rem;
 	font-weight: bold;
 	font-family: 'Marsha', sans-serif;
 	text-transform: uppercase;
 	text-align: left;
 	letter-spacing: 2px;
 }
+.hero-text a {
+	text-decoration: none;
+	border-bottom: 2px solid #26005e;
+}
 
 @media (min-width: 768px) {
 	.hero-text {
 		font-size: 2rem;
+		line-height: 2.4rem;
 	}
 }
 
 .event-day {
-	border-top: 2px solid var(--border-accent);
-	margin-top: 1rem;
+	/* border-top: 2px solid #ff902e; */
+	margin-top: 3rem;
 	padding-top: 1rem;
 	font-family: 'Marsha', sans-serif;
 	color: var(--text-accent);
+	font-size: 30px;
+	text-align: center;
+	text-transform: uppercase;
 }
 
 .events-grid {
@@ -173,18 +182,18 @@ article > h1 {
 
 .event-meta .event-title {
 	border-top: 2px solid var(--border-accent);
-	padding-top: 1rem;
+	padding-top: 1.5rem;
 	font-size: 1.5rem;
 }
 
 .event-byline {
-	font-size: 0.8rem;
+	font-size: 1rem;
 	font-weight: bold;
 	margin: 0;
 }
 
 .event-details {
-	font-size: 0.8rem;
+	font-size: 1rem;
 	margin: 0;
 }
 
@@ -195,8 +204,8 @@ article > h1 {
 
 @media (min-width: 768px) {
 	.event-meta {
-		padding-top: 3rem;
-		padding-bottom: 3rem;
+		padding-top: 1rem;
+		padding-bottom: 2rem;
 	}
 
 	.event-layout {
