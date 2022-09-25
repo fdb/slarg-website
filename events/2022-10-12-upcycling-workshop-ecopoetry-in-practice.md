@@ -7,7 +7,7 @@ type: Repair sewing workshop
 author: Pierre-Antoine Vettorello (PhD)
 date: 2022-10-12
 time: 13:00 - 15:00
-location: room 3.09, Campus Sint Lucas Antwerpen
+location: Room 3.09, Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/cecb02cc-1292-46ca-a783-2728186fff47/
 images: null
 ---
