@@ -21,6 +21,24 @@
 		url('/static/fonts/inter-v12-latin-700.woff') format('woff');
 }
 
+
+@font-face {
+	font-family: 'AuthenticSans';
+	font-style: normal;
+	font-weight: normal;
+	src: local(''), url('/static/fonts/AUTHENTIC-Sans-Pro-60.woff2') format('woff2'),
+		url('/static/fonts/AUTHENTIC-Sans-Pro-60.woff') format('woff');
+}
+
+
+@font-face {
+	font-family: 'AuthenticSans';
+	font-style: normal;
+	font-weight: bold;
+	src: local(''), url('/static/fonts/AUTHENTIC-Sans-Pro-90.woff2') format('woff2'),
+		url('/static/fonts/AUTHENTIC-Sans-Pro-90.woff') format('woff');
+}
+
 :root {
 	--text-accent: #d14d65;
 	--border-accent: #9e3a4c;
