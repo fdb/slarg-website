@@ -2,8 +2,8 @@
 layout: event.liquid
 tags: event
 title: AdMa @ Frans Masereel @ Morpho
-byline: "Sharing outcome of Masereel Residence "
-type: Research Sharing
+byline: "Sharing the outcome of Masereel Residence "
+type: Research sharing
 author: AdMa Students
 date: 2022-10-15
 time: 11:00 - 17:00
