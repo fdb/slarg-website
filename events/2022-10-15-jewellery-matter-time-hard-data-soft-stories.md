@@ -10,7 +10,7 @@ time: 11:00 - 14:00
 location: Sint Lucas Antwerpen - Showroom
 main_image: https://ucarecdn.com/11f79147-db02-4d3b-a4a2-7c3b8155457c/
 ---
-‘Jewellery Matter Time - Hard Data, Soft Stories’ unveils contemporary stories about mined materials and how they contribute to jewellery as a practice. The movement of materials has a variety of ecological effects, many of which are concealed in the shadows behind shiny objects. If jewelery can tell stories, which stories could they tell about their origin in the age of the Anthropocene? 
+‘Jewellery Matter Time - Hard Data, Soft Stories’ unveils contemporary stories about mined materials and how they contribute to jewellery as a practice. The movement of materials has a variety of ecological effects, many of which are concealed in the shadows behind shiny objects. If jewellery can tell stories, which stories could they tell about their origin in the age of the Anthropocene? 
 
  
 
