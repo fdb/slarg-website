@@ -3,7 +3,7 @@ layout: event.liquid
 tags: event
 title: SLARG Research Exhibition
 byline: "Join a guided tour! "
-type: Exhibition & guided tours
+type: Exhibition & guided tour
 author: SLARG Researchers
 date: 2022-10-14
 time: 10:00 - 17:00
