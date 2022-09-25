@@ -7,7 +7,7 @@ type: Research sharing
 author: Advanced Master 2021-22 Participants
 date: 2022-10-15
 time: 11:00 - 17:00
-location: Refectory, Morpho
+location: Refectory, Morpho (entrance via Extra-City)
 main_image: https://ucarecdn.com/c05c55d4-5928-4b6c-b3db-14bef2909b7f/
 ---
 ***garden pub(l)ics***
