@@ -3,7 +3,7 @@ layout: event.liquid
 tags: event
 title: Creative AI Workshop
 byline: Performing with machines
-type: Research Class
+type: Research class
 author: Frederik De Bleser & Lieven Menschaert
 date: 2022-10-10
 time: 10:00 - 17:00
