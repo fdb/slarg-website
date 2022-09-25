@@ -11,7 +11,7 @@ location: "Campus Sint Lucas Antwerpen / room 3.09 "
 main_image: https://ucarecdn.com/cecb02cc-1292-46ca-a783-2728186fff47/
 images: null
 ---
-*This seminar is open to all (limited seats max.10 participants)*
+*This seminar is open to all (limited to maximum 10 participants)*
 
 *Please register sending an email at  > pierreantoine.vettorello@kdg.be*
 
