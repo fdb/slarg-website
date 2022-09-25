@@ -4,7 +4,7 @@ tags: event
 title: "Opening SLARG Research Exhibition "
 byline: Join us at the opening!
 type: Exhibition opening
-author: SLARG
+author: SLARG researchers
 date: 2022-10-13
 time: 19:00 - 21:45
 location: Showroom, Campus Sint Lucas Antwerpen
