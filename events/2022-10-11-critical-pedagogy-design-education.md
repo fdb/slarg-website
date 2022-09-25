@@ -35,7 +35,8 @@ main_image: https://ucarecdn.com/905dab78-dc83-43a9-9d9e-2523743e10d4/
 
 
 
-* **Nuno Coelho** (Univ Coimbra, CEIS20, DEI) is a Porto-based Portuguese communication designer, artist and curator. He is an Assistant Professor of the Department of Informatics Engineering (DEI) of the Faculty of Sciences and Technology of the University of Coimbra.  [www.nunocoelho.net](http://www.nunocoelho.net/)
-* **Annelys de Vet** (1974, NL) is PhD researchers at Sint Lucas Antwerpen (ARIA). She is a Belgium based designer, researcher and educator. [www.disarmingdesign.com](http://www.disarmingdesign.com/)\
-  [www.subjectiveeditions.org](http://www.subjectiveeditions.org/)\
-  [www.bureaudevet.be](http://www.bureaudevet.be/)
+**Nuno Coelho** (Univ Coimbra, CEIS20, DEI) is a Porto-based Portuguese communication designer, artist and curator. He is an Assistant Professor of the Department of Informatics Engineering (DEI) of the Faculty of Sciences and Technology of the University of Coimbra.  [www.nunocoelho.net](http://www.nunocoelho.net/)
+
+**Annelys de Vet** (1974, NL) is PhD researchers at Sint Lucas Antwerpen (ARIA). She is a Belgium based designer, researcher and educator. [www.disarmingdesign.com](http://www.disarmingdesign.com/)\
+[www.subjectiveeditions.org](http://www.subjectiveeditions.org/)\
+[www.bureaudevet.be](http://www.bureaudevet.be/)
