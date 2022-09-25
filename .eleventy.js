@@ -20,7 +20,9 @@ module.exports = function (eleventyConfig) {
 
 	for (const [day, date] of RESEARCH_WEEK_DATES) {
 		eleventyConfig.addCollection(`events${day}`, function (api) {
-			return api.getAll().filter((event) => event.data.date?.getDate() === date);
+			const events = api.getAll().filter((event) => event.data.date?.getDate() === date);
+			events.sort((a, b) => parseInt(a.data.time) - parseInt(b.data.time));
+			return events;
 		});
 	}
 };
