@@ -8,7 +8,7 @@ type: Research presentation
 author: Loraine Furter (PhD)
 date: 2022-10-13
 time: 11:00-12:00
-location: Showroom Sint Lucas Antwerpen
+location: Showroom, Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/6dfd966a-7574-4cb5-9c37-b86a044933fa/
 ---
 *Open to all*
