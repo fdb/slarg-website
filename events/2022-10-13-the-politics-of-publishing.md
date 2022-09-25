@@ -11,6 +11,8 @@ time: 11:00-12:00
 location: Showroom Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/6dfd966a-7574-4cb5-9c37-b86a044933fa/
 ---
+*Open to all*
+
 The research project ***The politics of publishing: researching encounters between artists’ books and intersectional feminist tools*** addresses artists’ books and the politics of publishing, creating forms to uncover forgotten histories in this field, through a critical design approach which includes feminist tools. The project materializes in a series of hybrid publications (paper, digital, spatial, oral) that re·activate objects and histories and re·circulate them.
 
 Together we will dive into an installation presented in the SLARG exhibition, using the technique of “arpentage”: a collective reading method developed in social justice and class struggles movements, where a book is torn into different sections, spread and read by different people, to then make sense of it collectively by bringing it all back together.
