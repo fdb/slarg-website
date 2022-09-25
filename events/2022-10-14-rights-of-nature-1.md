@@ -3,7 +3,7 @@ layout: event.liquid
 tags: event
 title: Rights of Nature
 byline: "Songs from the compost: mutating bodies, imploding stars"
-type: Film Screening & After-talk with the artist
+type: Film screening & after-talk with the artist
 author: Eglė Budvytytė
 date: 2022-10-14
 time: 19:30 - 21:00
@@ -18,7 +18,7 @@ images:
 
 *Songs from the compost* is shot in the lichen forest and sand dunes of the Curonian Spit in Lithuania. Eglė Budvytytė cast mostly local youths for a choreography that engages in intimacy and relates the human body to other bodies — those of the forest, the sand dunes and the water. The horizontality in movement undoes the usual verticality of human figure, unfurling her into the landscape.
 
-One of the key elements in the video work is the accompanying musical composition written and narrated by the artist herself. The lyrics draw on the work and words of biologist Lynn Margulis and science-fiction author Octavia Butler. Lynn Margulis became known for her significant research on symbiosis in evolutionary theory, as opposed to the traditional Darwinian ‘survival of the fittest’ approach. Margulis’ work can be read as a true celebration of the role of bacteria in enabling life and the collaboration between single-celled organisms. The work of Octavia Butler reflects on that in a more literary way, exploring topics such as symbiosis, mutation and hybridity as a means of challenging hierarchical thinking and categorisation.
+One of the key elements in the video work is the accompanying musical composition written and narrated by the artist herself. The lyrics draw on the work and words of biologist Lynn Margulis and science-fiction author Octavia Butler. Lynn Margulis became known for her significant research on symbiosis in evolutionary theory, as opposed to the traditional Darwinian ‘survival of the fittest’ approach. Margulis’ work can be read as a true celebration of the role of bacteria in enabling life and the collaboration between single-celled organisms. The work of Octavia Butler reflects on this notion in a more literary way, exploring topics such as symbiosis, mutation and hybridity as a means of challenging hierarchical thinking and categorisation.
 
 *Songs from the compost* is a hypnotic exploration of non-human forms of consciousness and different dimensions of symbiotic life: interdependence, surrender, death and decay.
 
