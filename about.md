@@ -15,10 +15,10 @@ Qui excepturi magni deleniti autem excepturi fuga. Adipisci unde laborum consequ
 Et cum expedita sit officiis. Et saepe non nihil consequuntur sunt reprehenderit error. Consectetur quia nihil veniam sint laborum esse eveniet.
 
 <div class="partner-logos">
-    <img src="/static/img/logo-sla-research.png" alt="Sint Lucas Antwerpen Research" />
-    <img src="/static/img/logo-kdg.png" alt="Karel de Grote Hogeschool" />
-    <img src="/static/img/logo-aria.png" alt="Antwerp Research Institute for the Arts" />
-    <img src="/static/img/logo-extra-city.png" alt="Extra City Kunsthal">
-    <img src="/static/img/logo-fotomuseum.png" alt="Fotomuseum Antwerpen">
-    <img src="/static/img/logo-klimaatfestival.png" alt="Klimaatfestival Antwerpen">
+    <a rel="noreferrer" href="https://www.sintlucasantwerpen.be/en/research/" target="_blank"><img src="/static/img/logo-sla-research.png" alt="Sint Lucas Antwerpen Research" /></a>
+    <a rel="noreferrer" href="https://www.kdg.be/en" target="_blank"><img src="/static/img/logo-kdg.png" alt="Karel de Grote Hogeschool" /></a>
+    <a rel="noreferrer" href="https://www.uantwerpen.be/en/research-groups/aria/" target="_blank"><img src="/static/img/logo-aria.png" alt="Antwerp Research Institute for the Arts" /></a>
+    <a rel="noreferrer" href="https://extracitykunsthal.org/en" target="_blank"><img src="/static/img/logo-extra-city.png" alt="Extra City Kunsthal"></a>
+    <a rel="noreferrer" href="https://fomu.be/en/" target="_blank"><img src="/static/img/logo-fotomuseum.png" alt="Fotomuseum Antwerpen"></a>
+    <a rel="noreferrer" href="https://www.klimaatfestivalantwerpen.be/nl" target="_blank"><img src="/static/img/logo-klimaatfestival.png" alt="Klimaatfestival Antwerpen"></a>
 </div>
