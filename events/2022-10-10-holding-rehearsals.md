@@ -7,7 +7,7 @@ type: Seminar
 author: Robin Vanbesien
 date: 2022-10-10
 time: 14:00 - 16:00
-location: Room 3.09, Sint Lucas Antwerpen
+location: Room 3.09, Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/436a3994-f2d8-4133-94b4-2a8ad9c194f6/
 images: ""
 ---
