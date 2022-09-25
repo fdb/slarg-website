@@ -1,21 +1,17 @@
 ---
 layout: event.liquid
 tags: event
-title: Research Exhibition
-byline: SLARG
-type: Exhibition
+title: SLARG Research Exhibition
+byline: Join a guided tour!
+type: Exhibition & guided tours
 author: SLARG Researchers
 date: 2022-10-15
 time: 10:00 - 17:00
-location: Showroom Sint Lucas Antwerpen
+location: Showroom, Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/02d112a4-8136-45df-9ba6-459cd5faf204/
 ---
-Velit quos quia id blanditiis qui unde quo veniam. Voluptatem rerum est voluptatem recusandae sit. Aliquam quidem placeat quas unde officiis dolorum. Inventore dolor omnis voluptates qui nemo quis. Placeat rerum iste quibusdam fugiat sunt sed accusantium molestiae. Ab qui quod iusto dolorem eaque.
+Join us at the SLARG exhibition and discover traces, leftovers and experiments of SLARG's artistic research!
 
-Omnis animi nihil doloribus nesciunt. Culpa amet dolorum repudiandae enim consequuntur maiores non qui. Aut consequuntur libero sunt omnis dolorum. Repellat dolores laudantium deleniti magni labore. Consectetur quis ullam eum et eligendi quis animi quod. Possimus optio ut est.
+With contributions by Simona Da Pozzo, Annelys de Vet, Helen Dowling, Irma Földényi & Saskia Van der Gucht, Loraine Furter, Wesley Meuris, Danial Shah, Marnie Slater, Pierre-Antoine Vettorello, Viet Vu, Digital Master students (Frederik De Bleser & Lieven Menschaert).
 
-Hic vel quos architecto velit ad vel ex. Quaerat quis rerum iure dolor voluptas quisquam vero. Ut voluptas omnis inventore veniam atque blanditiis ex. Rerum necessitatibus quae nam quo. Dignissimos rerum veniam vel in deserunt.
-
-Vel velit minima eveniet et laboriosam eius maiores. Odit veritatis ut quia. Itaque voluptatem praesentium et dolorem sit animi dolor at. Quas voluptatem laborum perferendis deleniti officia.
-
-Dolorem quas omnis qui qui. Rem itaque aliquid ut ut architecto consequatur dolor recusandae. Atque impedit qui earum.
+To iintroduce you to the ins and outs of SLARG research, we organise two guided tours by our researchers! Join the tour at 11:00 or 15:00! *Please register by sending an email at >* petra.vanbrabandt@kdg.be
