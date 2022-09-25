@@ -1,7 +1,7 @@
 ---
 layout: event.liquid
 tags: event
-title: "SLARG Research Exhibition "
+title: "Opening SLARG Research Exhibition "
 byline: Join us at the opening!
 type: Exhibition opening
 author: SLARG
