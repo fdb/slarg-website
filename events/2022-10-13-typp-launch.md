@@ -6,7 +6,7 @@ byline: "Research publication "
 type: Launch
 author: SLARG / Advanced Research Master
 date: 2022-10-13
-time: 20:00
+time: 20:00-21:00
 location: Showroom, Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/8b143367-a758-4535-9828-d4a3c0887618/
 images:
