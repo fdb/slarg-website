@@ -17,7 +17,7 @@ The research project ***The politics of publishing: researching encounters betwe
 
 Together we will dive into an installation presented in the SLARG exhibition, using the technique of “arpentage”: a collective reading method developed in social justice and class struggles movements, where a book is torn into different sections, spread and read by different people, to then make sense of it collectively by bringing it all back together.
 
-We will do so with objects, in a movement going from micro to macro to other space-time dimensions, spliting between qualitative and quantitative, zooming in, getting closer, situating precisely (yet momentarily), but also zooming out and undertsanding structural dimensions.
+We will do so with the objects presented in the installation, in a movement going from micro to macro to other space-time dimensions, spliting between qualitative and quantitative, zooming in, getting closer, situating precisely (yet momentarily), but also zooming out to undertsand structural dimensions.
 
 From (micro-)typography to editorial structures. From gossip to public speeches. From ghostwriting to collective pamphlets.
 
