@@ -14,4 +14,11 @@ Qui excepturi magni deleniti autem excepturi fuga. Adipisci unde laborum consequ
 
 Et cum expedita sit officiis. Et saepe non nihil consequuntur sunt reprehenderit error. Consectetur quia nihil veniam sint laborum esse eveniet.
 
-![Partner Logo's](/static/img/partner-logos.png)
+<div class="partner-logos">
+    <img src="/static/img/logo-sla-research.png" alt="Sint Lucas Antwerpen Research" />
+    <img src="/static/img/logo-kdg.png" alt="Karel de Grote Hogeschool" />
+    <img src="/static/img/logo-aria.png" alt="Antwerp Research Institute for the Arts" />
+    <img src="/static/img/logo-extra-city.png" alt="Extra City Kunsthal">
+    <img src="/static/img/logo-fotomuseum.png" alt="Fotomuseum Antwerpen">
+    <img src="/static/img/logo-klimaatfestival.png" alt="Klimaatfestival Antwerpen">
+</div>
