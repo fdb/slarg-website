@@ -22,6 +22,8 @@ main_image: https://ucarecdn.com/a213d24c-963f-4e6d-9cb2-48f642abc81e/
 
 Can you sense the circuits and nerves intersect?
 
--﻿---------------------------
+\-﻿---------------------------
 
 M﻿ona Hedayati is an artist and a PhD researcher between St. Lucas Antwerpen (ARIA) and Concordia University, Canada with a background in issue-based, technologically mediated art.
+
+*Image: Me wearing a wireless sensor around my wrist.*
