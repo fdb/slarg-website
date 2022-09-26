@@ -137,7 +137,7 @@ article > h1 {
 	font-weight: normal;
 	color: #26005e;
 	font-size: 25px;
-	vertical-align: sub;
+	vertical-align: middle;
 }
 
 @media (min-width: 768px) {
