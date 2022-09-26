@@ -16,4 +16,4 @@ This workshop interrogates the possibility of training monuments to be relationa
 
 Simona Da Pozzo (b. Caracas), visual artist based in Naples, works in/on the public space via connective actions. 
 
-**Image:** Screenshot of Hacking Monuments blog. © Simona Da Pozzo
+*Image: Screenshot of Hacking Monuments blog. © Simona Da Pozzo*
