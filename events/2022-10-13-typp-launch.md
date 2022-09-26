@@ -12,11 +12,11 @@ main_image: https://ucarecdn.com/8b143367-a758-4535-9828-d4a3c0887618/
 images:
   - https://ucarecdn.com/19906093-db71-48fe-9715-0177b2a49f64/
 ---
-\*Double Launch: **TYPP # 8**  and **ADMA TYPP # 2**
+**Double Launch: TYPP # 8  and ADMA TYPP # 2**
 
-*TYPP is the Sint Lucas Antwerpen Research Publication. At this launch we present two new TYPP publications: the regular TYPP, designed by Ward Heirwegh, with contributions by SLARG researcherrs and friends, and the AdMa TYPP, designed by Joud Toamah, with contributions by Advanced Master of Research 2020-21 participants.*
+TYPP is the Sint Lucas Antwerpen Research Publication. At this launch we present two new TYPP publications: the regular TYPP, designed by Ward Heirwegh, with contributions by SLARG researcherrs and friends, and the AdMa TYPP, designed by Joud Toamah, with contributions by the Advanced Master of Research 2020-21 participants.
 
-*Join us at the launch and get your free copy! A collector's item!* 
+Join us at the launch and get your free copy! A collector's item! 
 
 ***TYPP # 8. Blind Spot*** 
 
