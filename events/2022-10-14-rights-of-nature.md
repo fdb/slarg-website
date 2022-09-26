@@ -24,12 +24,10 @@ Following this introduction, participants will work in small groups and create t
 
 After this workshop, artists Maria Lucia Correa and Risk Hazekamp will enter into conversation with Taco. Together, they will explore connections between artistic research, climate justice and activism. How can art mediate issues of ecocide and restorative justice? What practices and strategies exist to form new relationships between human beings and nature? This follow-up discussion will be moderated by Petra Van Brabandt, Head of Research, Sint Lucas School of Arts, Antwerp.
 
-
-
 Taco Hidde Bakker is a writer, translator, teacher and curator in the field of the arts, specializing in photography. 
 
 *This workshop is part of Rights of Nature, a two-day cross-disciplinary program by SLARG, in close collaboration with [Klimaatfestival Antwerpen](https://www.klimaatfestivalantwerpen.be/nl), FOMU, and Kunsthal Extra City. Rights of Nature explores the role of law, philosophy and arts in relation to "the rights of nature". It brings together various forms of research and translates this to a wide audience.*
 
 Image 137, Fotogramme, 70.5x50.5cm, Alnus glutinosa (Black alder), 2011 © Eva-Fiore Kovacovsky.
 
-Image Portrait made in 2021 by Petra Stavast with Siemens S75 (from 2005).
+*Image Portrait made in 2021 by Petra Stavast with Siemens S75 (from 2005).*
