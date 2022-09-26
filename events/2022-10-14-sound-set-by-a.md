@@ -7,7 +7,7 @@ type: Performance
 author: Aio Frei
 date: 2022-10-15
 time: 20:00 - 21:00
-location: Extra City Kunsthal
+location: "Kunsthal Extra City "
 main_image: https://ucarecdn.com/a10edcc2-1ae4-446d-8db0-11c642c572c8/
 ---
 
