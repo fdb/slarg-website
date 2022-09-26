@@ -14,6 +14,10 @@ images:
   - https://ucarecdn.com/0d2a1ebd-44ea-446e-8d6f-6aa0d932debe/
   - https://ucarecdn.com/8819c003-a68f-4cf6-bffd-4401d8658ca9/
 ---
+This activity is free and open to all, but please register [here](https://calendly.com/extra-city/rightsofnature1?month=2022-10). 
+
+
+
 ***Silent Echoes* is a video and performance piece developen by Dutch artist [Dorine van Meel](http://dorinevanmeel.com/) in collaboration with sound artist [Sami El-Enany](http://www.el-enany.com/). The project includes poetic and musical contributions by artists, writers, singers [Khairani Barokka](http://www.khairanibarokka.com/), [Jamaica Heolimeleikalani Osorio](https://jamaicaosorio.wordpress.com/), Serie Barford, Ucetōt Lorok and Dorine van Meel. The work is a collaborative effort and develops over time on different platforms, accumulating contributions.** 
 
 *Silent Echoes* addresses the climate crisis through various poetic contributions written by poets, activists and singers who come from different islands across the Pacific Ocean. Each poem or song highlights different ways in which the climate crisis unfolds on these islands through the workings of (neo-)colonialist practices, past and present. Whether it is because of the poisoning of the water due to the presence of military remnants from World War II, because of the clearing of the original forests and the planting of endless fields of palm trees for the production of palm oil, because of the suppression of the language and culture of the indigenous population by the colonial settlers or because of the nuclear tests that were carried out on the atolls without any regard of the people living there. As much as these poems and songs mourn the loss of life – in all its different forms, they also speak of resistance, endurance and cohabitation, and offer a hopeful view for our world in the face of a dark present and an uncertain future. 
