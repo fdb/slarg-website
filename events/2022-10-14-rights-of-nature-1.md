@@ -1,7 +1,7 @@
 ---
 layout: event.liquid
 tags: event
-title: Rights of Nature
+title: "Focus Program: Rights of Nature"
 byline: "Songs from the compost: mutating bodies, imploding stars"
 type: Film screening & after-talk with the artist
 author: Eglė Budvytytė
@@ -14,7 +14,7 @@ images:
   - https://ucarecdn.com/f9f9a84a-59cd-4dd2-afea-45821a8bb10e/
   - https://ucarecdn.com/b4df38a9-eaa0-40da-8452-393151dab669/
 ---
-**This activity is free and open to all, but please register [here](https://calendly.com/extra-city/eglebudvytyte).** 
+**This activity is free and open to all, please register [here](https://calendly.com/extra-city/eglebudvytyte).** 
 
 **Eglė Budvytytė, Songs from the compost: mutating bodies, imploding stars, 2020.  In collaboration with Marija Olšauskaitė & Julija Steponaitytė**. 
 
@@ -24,7 +24,7 @@ One of the key elements in the video work is the accompanying musical compositio
 
 *Songs from the compost* is a hypnotic exploration of non-human forms of consciousness and different dimensions of symbiotic life: interdependence, surrender, death and decay.
 
-Eglė Budvytytė (LT, 1981) lives and works in Amsterdam, the Netherlands and Vilnius, Lithuania. This video was also included in The Milk of Dreams, the central exhibition of the Venice Biennale, curated by Cecilia Alemani.
+
 
 **19:30   Screening *Songs from the compost: mutating bodies, imploding stars* (28’10”)**
 
@@ -32,8 +32,10 @@ Eglė Budvytytė (LT, 1981) lives and works in Amsterdam, the Netherlands and Vi
 
 **21:00   Bar open** 
 
+*Eglė Budvytytė (LT, 1981) lives and works in Amsterdam, the Netherlands and Vilnius, Lithuania. This video was also included in The Milk of Dreams, the central exhibition of the Venice Biennale, curated by Cecilia Alemani.*
+
 *This screening is part of Rights of Nature, a two-day cross-disciplinary program by SLARG, in close collaboration with [Klimaatfestival Antwerpen](https://www.klimaatfestivalantwerpen.be/nl), FOMU, and Kunsthal Extra City. Rights of Nature explores the role of law, philosophy and arts in relation to "the rights of nature". It brings together various forms of research and translates this to a wide audience.*
 
-*Image-Installation view Revolting Times at Kunsthal Extra City, Eglė Dudvytytė, Songs from the compost: Mutating bodies, imploding stars © We Document Art*
+*Image: Installation view Revolting Times at Kunsthal Extra City, Eglė Dudvytytė, Songs from the compost: Mutating bodies, imploding stars © We Document Art*
 
-*Stills from Songs from the compost: Mutating bodies, imploding stars - 2020 (in collaboration with Marija Olšauskaitė and Julija Steponaitytė) © Eglė Dudvytytė*
+*Image: Stills from Songs from the compost: Mutating bodies, imploding stars - 2020 (in collaboration with Marija Olšauskaitė and Julija Steponaitytė) © Eglė Dudvytytė*
