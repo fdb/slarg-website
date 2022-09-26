@@ -7,7 +7,7 @@ type: Film screening & after-talk with the artist
 author: Eglė Budvytytė
 date: 2022-10-14
 time: 19:30 - 21:00
-location: Kunsthal Extra-City
+location: Kunsthal Extra City
 main_image: https://ucarecdn.com/f7dfe6f0-380c-4c75-adf3-38fde6a7d73a/
 images:
   - https://ucarecdn.com/3cbdb866-58b3-455c-93a7-e71070616bde/
