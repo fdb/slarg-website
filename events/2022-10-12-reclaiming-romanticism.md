@@ -24,6 +24,4 @@ This conversation aims at creating a dialogue through “*ecopoetic arts of resi
 Pierre-Antoine Vettorello is a textile/fashion designer and PhD candidate at Sint Lucas Antwerp (Aria) and University of Antwerp. He focuses on the sartorial ties between Paris and Saint-Louis, Senegal, at the end of the colonial era (1939–1966) in his research on fashion and decoloniality
 
 \
-Photo: *Willow* by Pierre-Antoine Vettorello (2019)
-
-Model: Rahim Lone
+Photo: *Willow* by Pierre-Antoine Vettorello (2019). Model: Rahim Lone.
