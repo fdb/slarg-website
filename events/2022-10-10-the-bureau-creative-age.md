@@ -18,6 +18,6 @@ The story in which *meandmywork* is ultimately set up as a fictitious characte
 
 Several different layers were constructed meticulously to work on the truthiness of the story while at the same time adjusting sentences, words, visuals, ways of editing, etc. that hint the fabrication of the whole fiction. Real interviews bring about other reflections and opinions and strengthen the documentary’s credibility.
 
-Sarah Hendrickx is a visual artist and obtained her PhD in the arts from Sint Lucas Antwerp (ARIA) in March 2022. She teaches Sociology of Creative Industries, is part of the artists' collective Dani O'Dean and continues to develop the visual arts programme at RADAR Mechelen.
+*Sarah Hendrickx is a visual artist and obtained her PhD in the arts from Sint Lucas Antwerp (ARIA) in March 2022. She teaches Sociology of Creative Industries, is part of the artists' collective Dani O'Dean and continues to develop the visual arts programme at RADAR Mechelen.*
 
-Image Still The (Bureau)creative Age, © Sarah Hendrickx.
+*Image Still from The (Bureau)creative Age © Sarah Hendrickx.*
