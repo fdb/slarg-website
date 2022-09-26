@@ -13,7 +13,7 @@ images:
   - https://ucarecdn.com/03c5cf02-51f8-4c03-b2fc-5b229404fb6d/
   - https://ucarecdn.com/d85fe46a-6792-4cc7-8372-303ff1fd5777/
 ---
-**M﻿onday - Thursday / Open to Sint Lucas Antwerpen digital MA students only**
+**Monday - Thursday / Open to Sint Lucas Antwerpen digital MA students only**
 
 Machine learning for creative purposes has progressed in leaps and bounds in the last years. But the whole process still feels like black magic. What does it take to train your own model? How do you even get started? And how can you use this process creatively?\
 \
@@ -23,6 +23,10 @@ This workshop is based on the research and tools developed by "The Algorithmic G
 \
 The results of the workshop will be presented during the research week exhibition.
 
+Dr. Frederik De Bleser is a doctoral researcher and lecturer at Sint Lucas Antwerp. His research focuses on the connection between art and technology and the development of free software tools for generative design and data visualization.
+
+Lieven Menschaert is a researcher and lecturer at Sint Lucas Antwerp and LUCA school of arts. His main interest is in generative and computational design and thus sees AI and machine learning as the logic next step in a procedural generation practice.
+
 [algorithmicgaze.com](https://algorithmicgaze.com/)
 
-C﻿ontact: [frederik.debleser@kdg.be](mailto:frederik.debleser@kdg.be)
+Contact: [frederik.debleser@kdg.be](mailto:frederik.debleser@kdg.be)
