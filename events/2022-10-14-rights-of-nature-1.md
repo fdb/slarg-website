@@ -30,12 +30,8 @@ Eglė Budvytytė (LT, 1981) lives and works in Amsterdam, the Netherlands and Vi
 
 **21:00 Bar open** 
 
-
-
 *This screening is part of Rights of Nature, a two-day cross-disciplinary program by SLARG, in close collaboration with [Klimaatfestival Antwerpen](https://www.klimaatfestivalantwerpen.be/nl), FOMU, and Kunsthal Extra City. Rights of Nature explores the role of law, philosophy and arts in relation to "the rights of nature". It brings together various forms of research and translates this to a wide audience.*
 
+*Image-Installation view Revolting Times at Kunsthal Extra City, Eglė Dudvytytė, Songs from the compost: Mutating bodies, imploding stars © We Document Art*
 
-
-Image-Installation view Revolting Times at Kunsthal Extra City, Eglė Dudvytytė, Songs from the compost: Mutating bodies, imploding stars © We Document Art
-
-Stills from Songs from the compost: Mutating bodies, imploding stars - 2020 (in collaboration with Marija Olšauskaitė and Julija Steponaitytė) © Eglė Dudvytytė
+*Stills from Songs from the compost: Mutating bodies, imploding stars - 2020 (in collaboration with Marija Olšauskaitė and Julija Steponaitytė) © Eglė Dudvytytė*
