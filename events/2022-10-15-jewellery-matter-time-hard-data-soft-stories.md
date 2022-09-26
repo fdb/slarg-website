@@ -33,8 +33,8 @@ Why would their tools and choices be relevant?
 
 .
 
-Irma Földenyi 
+*Irma Földenyi is a designer and researcher at Sint Lucas Antwerpen.* 
 
-Saskia Van der Gucht is a visual artist, teacher and researcher at Sint Lucas Antwerpen.
+*Saskia Van der Gucht is a visual artist, teacher and researcher at Sint Lucas Antwerpen.*
 
 *Image: Fieldwork for sand probes at Kattendijkdok-Oostkaai, september 2022 - Saskia Van der Gucht*
