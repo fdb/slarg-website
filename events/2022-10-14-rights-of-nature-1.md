@@ -14,7 +14,9 @@ images:
   - https://ucarecdn.com/f9f9a84a-59cd-4dd2-afea-45821a8bb10e/
   - https://ucarecdn.com/b4df38a9-eaa0-40da-8452-393151dab669/
 ---
-**Eglė Budvytytė, Songs from the compost: mutating bodies, imploding stars, 2020, 28' 10".  In collaboration with: Marija Olšauskaitė & Julija Steponaitytė**. 
+**This activity is free and open to all, but please register [here](https://calendly.com/extra-city/eglebudvytyte).** 
+
+**Eglė Budvytytė, Songs from the compost: mutating bodies, imploding stars, 2020.  In collaboration with Marija Olšauskaitė & Julija Steponaitytė**. 
 
 *Songs from the compost* is shot in the lichen forest and sand dunes of the Curonian Spit in Lithuania. Eglė Budvytytė cast mostly local youths for a choreography that engages in intimacy and relates the human body to other bodies — those of the forest, the sand dunes and the water. The horizontality in movement undoes the usual verticality of human figure, unfurling her into the landscape.
 
@@ -24,11 +26,11 @@ One of the key elements in the video work is the accompanying musical compositio
 
 Eglė Budvytytė (LT, 1981) lives and works in Amsterdam, the Netherlands and Vilnius, Lithuania. This video was also included in The Milk of Dreams, the central exhibition of the Venice Biennale, curated by Cecilia Alemani.
 
-**19:30 Screening *Songs from the compost: mutating bodies, imploding stars* (28’10”)**
+**19:30   Screening *Songs from the compost: mutating bodies, imploding stars* (28’10”)**
 
-**20:00 Talk and Q&A with Eglė Budvytytė**
+**20:00  Talk and Q&A with Eglė Budvytytė**
 
-**21:00 Bar open** 
+**21:00   Bar open** 
 
 *This screening is part of Rights of Nature, a two-day cross-disciplinary program by SLARG, in close collaboration with [Klimaatfestival Antwerpen](https://www.klimaatfestivalantwerpen.be/nl), FOMU, and Kunsthal Extra City. Rights of Nature explores the role of law, philosophy and arts in relation to "the rights of nature". It brings together various forms of research and translates this to a wide audience.*
 
