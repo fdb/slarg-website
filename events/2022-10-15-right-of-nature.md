@@ -1,7 +1,7 @@
 ---
 layout: event.liquid
 tags: event
-title: Right of Nature
+title: Rights of Nature
 byline: "Silent Echoes: video and performance piece"
 type: Screening
 author: Dorine van Meel
