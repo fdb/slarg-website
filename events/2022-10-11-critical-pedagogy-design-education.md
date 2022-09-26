@@ -12,7 +12,7 @@ main_image: https://ucarecdn.com/8e6e6c03-7e67-49f3-ba64-552064fe5778/
 ---
 *This event is open to all. Please register by sending an email at  >* annelys.devet@kdg.be 
 
-**How are we preparing designers for a world that is in constant transition? How do we develop critical pedagogies that are adaptive to unexpected situations, and to new questions? What is the place of design in wider society, and how can design respond to urgent matters? How can the design curriculum be a space for commoning? How to think about design as emancipatory politics, and as a practice of hope?**
+**How are we preparing designers for a world that is in constant transition? How do we develop critical pedagogies that are adaptive to unexpected situations, and to new questions? What is the place of design in wider society, and how can design respond to urgent matters? How can the design curriculum be a space for commoning? How can we think about design as emancipatory politics, and as a practice of hope?**
 
 “Design pedagogy as an emancipatory practice” is a one-day-long symposium and workshop around critical pedagogy and design education. A day mostly for peers, with combined presentations and discussions (in the morning), followed by a collective lunch and work sessions (in the afternoon). The contributions will be practice-based rather than rooted in theory. We will start from our own experiences, touching upon conflict, disruption, flexibility and adaptivity, and question how each of us secures a healthy, creative and adaptive learning environment
 
