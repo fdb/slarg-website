@@ -11,7 +11,7 @@ location: Room 3.09, Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/436a3994-f2d8-4133-94b4-2a8ad9c194f6/
 images: ""
 ---
-*This seminar is open to all. Please register by sending an email at > [robin.vanbesien@kdg.be](mailto:robin.vanbesien@kdg.be)*
+***This seminar is open to all. Please register by sending an email at > [robin.vanbesien@kdg.be](mailto:robin.vanbesien@kdg.be)***
 
 In the seminar *Holding Rehearsals* I share the *what*, *why,* and *how* behind the feature film-in-the-making *Holding Mawda.* This seminar is an invitation to explore together filmmaking as an ongoing practice of collective imagination, and as a valuable method to make common cause with practices of place-making and situated knowledges. 
 

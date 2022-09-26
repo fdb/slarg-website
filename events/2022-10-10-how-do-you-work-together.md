@@ -11,7 +11,7 @@ location: Room 3.09, Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/3ba6a10e-7740-444e-8feb-d63f4e139277/
 images: null
 ---
-*Open to Sint Lucas Antwerpen researchers only*
+**This workshop is open to Sint Lucas Antwerpen researchers only.**
 
 10-13h, followed by lunch from 13-14h
 

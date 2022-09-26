@@ -10,7 +10,7 @@ time: 17:00 - 18:00
 location: Room 3.09, Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/d53b1089-7129-44fb-9e2d-83ccf3302c94/
 ---
-**Open to all**
+**This screening is open to all.**
 
 *The (Bureau)creative Age* is a research that finds itself tangled within a corporate, economic and bureaucratic environment and is explored inside an artistic parafiction. The artist plays with an overlap between fact and fiction through the imagination of the *Research Centre on Creative Abilities meandmywork.*
 
