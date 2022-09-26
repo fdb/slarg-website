@@ -3,7 +3,7 @@ layout: event.liquid
 tags: event
 title: Design pedagogy as an emancipatory practice
 byline: On design, politics, community and love
-type: Symposium and workshop
+type: Symposium & workshop
 author: Annelys de Vet (PhD) & Nuno Coelho
 date: 2022-10-11
 time: 10:00 - 17:00
