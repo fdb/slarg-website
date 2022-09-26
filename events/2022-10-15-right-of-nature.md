@@ -7,7 +7,7 @@ type: Screening
 author: Dorine van Meel
 date: 2022-10-15
 time: 16:30 - 17:30
-location: Kunsthal Extra-City
+location: Kunsthal Extra City
 main_image: https://ucarecdn.com/c3450f0a-ff94-4fba-88fa-fa4ae132bad1/
 images:
   - https://ucarecdn.com/21998844-aee0-465f-b712-93cbb6b2e761/
