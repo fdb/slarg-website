@@ -3,7 +3,7 @@ layout: event.liquid
 tags: event
 title: Reclaiming Romanticism
 byline: Insubordination, Upcycling and Ecopoetics in Fashion
-type: Talks & discussions
+type: Talk & discussion
 author: Pierre-Antoine Vettorello (PhD)
 date: 2022-10-12
 time: 10:00 - 12:00
