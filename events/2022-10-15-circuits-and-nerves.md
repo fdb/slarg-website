@@ -26,4 +26,6 @@ Can you sense the circuits and nerves intersect?
 
 M﻿ona Hedayati is an artist and a PhD researcher between St. Lucas Antwerpen (ARIA) and Concordia University, Canada with a background in issue-based, technologically mediated art.
 
-*Image: Me wearing a wireless sensor around my wrist.*
+*Image: me wearing a wearable device around my wrist.* <!--StartFragment-->*© Mona Hedayati*
+
+<!--EndFragment-->
