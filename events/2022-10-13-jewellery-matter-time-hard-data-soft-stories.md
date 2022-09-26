@@ -35,6 +35,6 @@ Why would their tools and choices be relevant?
 
 Irma Földenyi 
 
-Saskia Van der Gucht is a visual artist, teacher and researcher at Sint Lucas Antwerpen
+Saskia Van der Gucht is a visual artist, teacher and researcher at Sint Lucas Antwerpen.
 
-image: Fieldwork for sand probes at Kattendijkdok-Oostkaai, september 2022 - Saskia Van der Gucht
+*Image: Fieldwork for sand probes at Kattendijkdok-Oostkaai, september 2022 - Saskia Van der Gucht*
