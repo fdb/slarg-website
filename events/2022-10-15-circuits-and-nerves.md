@@ -10,6 +10,10 @@ time: 19:00 - 19:30
 location: "Kunsthal Extra City "
 main_image: https://ucarecdn.com/a213d24c-963f-4e6d-9cb2-48f642abc81e/
 ---
+**This performance is free and open to all but please register [here](https://calendly.com/extra-city/rightsofnature2?month=2022-10).** 
+
+
+
 **Listen**…to the subject of listening
 
 **Listen**…to the subject who is at the center of listening, who is subject *to* listening
