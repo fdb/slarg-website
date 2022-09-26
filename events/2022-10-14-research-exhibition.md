@@ -12,6 +12,8 @@ main_image: https://ucarecdn.com/0159df70-5e9c-4758-be1b-5d5249180257/
 ---
 Join us at SLARG exhibition and discover traces, leftovers and experiments of SLARG's artistic research!
 
-With contributions by Simona Da Pozzo, Annelys de Vet, Helen Dowling, Irma Földényi & Saskia Van der Gucht, Loraine Furter, Wesley Meuris, Danial Shah, Marnie Slater, Robin Vanbesien, Pierre-Antoine Vettorello, Viet Vu, Digital Master students (Frederik De Bleser & Lieven Menschaert).
+With contributions by Simona Da Pozzo, Annelys de Vet, Helen Dowling, Irma Földényi & Saskia Van der Gucht, Loraine Furter, Wesley Meuris, Danial Shah, Marnie Slater, Robin Vanbesien, Pierre-Antoine Vettorello, Viet-Vu Pham, and Digital Master students attending Frederik De Bleser & Lieven Menschaert's workshop.
 
-To iintroduce you to the ins and outs of SLARG research, we organise two guided tours  by our researchers! Join the tour at 11:00 or 15:00! *Please register by sending an email at >* petra.vanbrabandt@kdg.be
+We will organise two guided tours by our researchers to introduce you to the ins and outs of SLARG research! Join the tour at 11:00 or 15:00! 
+
+*Please register by sending an email at >* petra.vanbrabandt@kdg.be
