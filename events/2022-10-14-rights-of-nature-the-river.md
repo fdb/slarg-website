@@ -1,7 +1,7 @@
 ---
 layout: event.liquid
 tags: event
-title: Rights of Nature
+title: "Focus Program: Rights of Nature"
 byline: Rights of Nature, the Zoöp Model, and climate litigation
 type: Seminar
 author: Dorine van Norren, Mihnea Tănăsescu, Klaas Kuitenbrouwer, Aoife Fleming
@@ -15,7 +15,7 @@ images:
   - https://ucarecdn.com/4ac9390b-eff4-4c7c-9f3b-a0b5e76c7e4a/
   - https://ucarecdn.com/d757e41b-36c8-4f53-984a-693585c69de1/
 ---
-Participation is free but please subscribe [here](https://www.klimaatfestivalantwerpen.be/nl/calendar/events/rights-of-nature).
+**Participation is free but please subscribe [here](https://www.klimaatfestivalantwerpen.be/nl/calendar/events/rights-of-nature).**
 
 In a world of climate disaster, climate disputes are more frequent than ever. In this series of short talks we will shed light on the concept of "rights of nature" and "ecological justice".
 
@@ -27,10 +27,10 @@ The talks are followed by a Q&A.
 
 *Image from the series ‘Lockdown Traveling’ (Payerbach-Kreuzberg, Oostenrijk), 2021, © Kim Boske.*
 
-*Image Dorine Van Norren.* 
+*Image: Dorine Van Norren.* 
 
-*Image Mihnea Tanasescu.*
+*Image: Mihnea Tanasescu.*
 
-*Image Klaas Kuitenbrouwer.*
+*Image: Klaas Kuitenbrouwer.*
 
-*Image Aoife Fleming.*
+*Image: Aoife Fleming.*
