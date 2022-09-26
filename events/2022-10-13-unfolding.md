@@ -16,6 +16,8 @@ This research intends to unfold the phenomenon of ‘exhibiting’, in and beyon
 
 For this presentation, elements of an image archive will be part of a hypothetical constellation. An exhibition device implements two seemingly unrelated research domains and initiates a search for their interrelationships and the influence they have on each other. 
 
+Wesley Meuris is a visual artist. At Sint Lucas Antwerp, he is a doctoral researcher, an Advanced Master tutor, and the programme coordinator for the Master in an Autonomous Context.
+
 Talk near the exhibition device in the Showroom. 
 
 Photo: Details sculpture ‘probe V’, 2021, exhibition Probes, KRIEG
