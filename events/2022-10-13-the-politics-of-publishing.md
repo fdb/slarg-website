@@ -23,6 +23,6 @@ From (micro-)typography to editorial structures. From gossip to public speeches.
 
 With our glossy researchers' gloves.
 
-·
+
 
 *Loraine Furter is a PhD researcher at Sint Lucas Antwerp, a graphic designer and a teacher, specialized in hybrid publishing and in love with subversive anti-hegemonic practices. She co-founded the cyber-feminist collective Just For the Record, the typography research group Bye Bye Binary and the project Intersections of Care.*
