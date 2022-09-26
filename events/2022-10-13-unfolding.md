@@ -20,4 +20,4 @@ Wesley Meuris is a visual artist. At Sint Lucas Antwerp, he is a doctoral resear
 
 Talk near the exhibition device in the Showroom. 
 
-Photo: Details sculpture ‘probe V’, 2021, exhibition Probes, KRIEG
+Image: Details sculpture ‘probe V’, 2021, exhibition Probes, KRIEG
