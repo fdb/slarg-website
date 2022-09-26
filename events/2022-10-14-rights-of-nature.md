@@ -12,7 +12,7 @@ main_image: https://ucarecdn.com/5fb50cea-24b6-4e20-a105-b00e8993ff3d/
 images:
   - https://ucarecdn.com/ff5bb372-958a-428b-817e-94ef25e80872/
 ---
-Max. 24 participants. Participation is free, but subscription is mandatory. Subscribe [here](https://fomu.be/en/calendar/workshop-fotografie-klimaatverandering). 
+Max. 24 participants. Participation is free, but subscription is mandatory. Please subscribe [here](https://fomu.be/en/calendar/workshop-fotografie-klimaatverandering). 
 
 Dutch photography critic and curator Taco Hidde Bakker's manifesto 'Nineteen Discussions for Photographers and Artists in the Age of Climate Crisis' is the starting point for a workshop for photographers, visual artists, researchers, curators, cultural workers and students.
 
