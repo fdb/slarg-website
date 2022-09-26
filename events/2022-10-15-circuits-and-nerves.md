@@ -12,8 +12,6 @@ main_image: https://ucarecdn.com/a213d24c-963f-4e6d-9cb2-48f642abc81e/
 ---
 **This performance is free and open to all but please register [here](https://calendly.com/extra-city/rightsofnature2?month=2022-10).** 
 
-
-
 **Listen**…to the subject of listening
 
 **Listen**…to the subject who is at the center of listening, who is subject *to* listening
@@ -28,8 +26,6 @@ Can you sense the circuits and nerves intersect?
 
 \-﻿---------------------------
 
-M﻿ona Hedayati is an artist and a PhD researcher between St. Lucas Antwerpen (ARIA) and Concordia University, Canada with a background in issue-based, technologically mediated art.
+*M﻿ona Hedayati is an artist and a PhD researcher between St. Lucas Antwerpen (ARIA) and Concordia University, Canada with a background in issue-based, technologically mediated art.*
 
-*Image: me wearing a wearable device around my wrist.* <!--StartFragment-->*© Mona Hedayati*
-
-<!--EndFragment-->
+*Image: me wearing a wearable device around my wrist.*  *© Mona Hedayati.*
