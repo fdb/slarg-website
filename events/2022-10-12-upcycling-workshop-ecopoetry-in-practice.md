@@ -3,7 +3,7 @@ layout: event.liquid
 tags: event
 title: "Upcycling workshop: Ecopoetry in practice"
 byline: Repair practice with Jordy Arthur Vaesen
-type: workshop
+type: Workshop
 author: Pierre-Antoine Vettorello (PhD)
 date: 2022-10-12
 time: 13:00 - 15:00
