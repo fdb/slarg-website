@@ -6,7 +6,7 @@ byline: On sand
 type: "Conversation at the research exhibition "
 author: Irma Földényi and Saskia Van der Gucht
 date: 2022-10-13
-time: 19:30 - 21:45
+time: 19:30 - 20:00
 location: Showroom, Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/11f79147-db02-4d3b-a4a2-7c3b8155457c/
 ---
@@ -33,8 +33,8 @@ Why would their tools and choices be relevant?
 
 .
 
-Irma Földenyi 
+*Irma Földenyi is a designer and researcher at Sint Lucas Antwerpen.*
 
-Saskia Van der Gucht is a visual artist, teacher and researcher at Sint Lucas Antwerpen.
+*Saskia Van der Gucht is a visual artist, teacher and researcher at Sint Lucas Antwerpen.*
 
 *Image: Fieldwork for sand probes at Kattendijkdok-Oostkaai, september 2022 - Saskia Van der Gucht*
