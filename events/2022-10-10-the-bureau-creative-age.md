@@ -20,4 +20,4 @@ Several different layers were constructed meticulously to work on the truthiness
 
 *Sarah Hendrickx is a visual artist and obtained her PhD in the arts from Sint Lucas Antwerp (ARIA) in March 2022. She teaches Sociology of Creative Industries, is part of the artists' collective Dani O'Dean and continues to develop the visual arts programme at RADAR Mechelen.*
 
-*Image Still from The (Bureau)creative Age © Sarah Hendrickx.*
+*Image: Still of The (Bureau)creative Age © Sarah Hendrickx.*
