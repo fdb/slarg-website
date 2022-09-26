@@ -19,9 +19,8 @@ In the seminar *Holding Rehearsals* I share the *what*, *why,* and *how* behind 
 
 What film approach can *hold* the capacity and imagination of collective counter-justice that has been built in support of Mawda’s family, operating in the gap that is stretched between, on the one hand, a language of legal procedures whereby police impunity is bound up with the criminalization of “migrants,” and, on the other hand, a scandal about the resulting indifference that lets this case, like many others, pass? 
 
-Cinema refers to so much more than just a medium, and certainly to so much more than an industry. In the very first place, cinema functions as a holding environment for collective imaginations. This is especially relevant on the matter of living through dominant scenes of representations that obscure the violent processes and oppressive infrastructures that produce group-differentiated vulnerability to premature death. 
-How to envisage another scene of representation? How to wield a deep intervention precisely within scenes of injustice by reconfiguring what we understand as presence and visibility, as the sensible?
+Cinema refers to so much more than just a medium, and certainly to so much more than an industry. In the very first place, cinema functions as a holding environment for collective imaginations. This is especially relevant on the matter of living through dominant scenes of representations that obscure the violent processes and oppressive infrastructures that produce group-differentiated vulnerability to premature death. How to envisage another scene of representation? How to wield a deep intervention precisely within scenes of injustice by reconfiguring what we understand as presence and visibility, as the sensible?
 
 *Robin Vanbesien is a visual artist and filmmaker who lives in Brussels. He is PhD researcher and coordinator/tutor of the Master in a Socio-Political Context at Sint Lucas Antwerp.*
 
-Image: production still of *Holding Mawda* (July 2022)
+Image: Production still of *Holding Mawda* (July 2022)
