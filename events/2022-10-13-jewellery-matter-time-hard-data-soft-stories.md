@@ -26,3 +26,11 @@ What if sand is in fact an extremely valuable material? 
 How would a jeweler then work with it? 
 
 Why would their tools and choices be relevant?
+
+.
+
+.
+
+.
+
+Saskia Van der Gucht is a visual artist, teacher and researcher at Sint Lucas Antwerpen
