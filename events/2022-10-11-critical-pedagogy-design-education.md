@@ -8,7 +8,7 @@ author: Annelys de Vet (PhD) & Nuno Coelho
 date: 2022-10-11
 time: 10:00 - 17:00
 location: Campus Sint Lucas Antwerpen
-main_image: https://ucarecdn.com/68e02a9c-8f23-47c0-b313-22ba13f1accb/
+main_image: https://ucarecdn.com/8e6e6c03-7e67-49f3-ba64-552064fe5778/
 ---
 *This event is open to all. Please register by sending an email at  >* annelys.devet@kdg.be 
 
