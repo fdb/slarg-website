@@ -33,7 +33,7 @@ main_image: https://ucarecdn.com/905dab78-dc83-43a9-9d9e-2523743e10d4/
 * 16:00\
   Sharing output and final conclusions
 
-*Photo: Fieldtrip Disarming Design Department, september 2021, photo: Annelys de Vet*
+*Image: Fieldtrip Disarming Design Department, september 2021, photo: Annelys de Vet*
 
 **Nuno Coelho** (Univ Coimbra, CEIS20, DEI) is a Porto-based Portuguese communication designer, artist and curator. He is an Assistant Professor of the Department of Informatics Engineering (DEI) of the Faculty of Sciences and Technology of the University of Coimbra.  [www.nunocoelho.net](http://www.nunocoelho.net/)
 
