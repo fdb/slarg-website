@@ -2,17 +2,16 @@
 layout: page
 ---
 
-# About THE RESEARCH WEEK
+<div class="side-by-side">
+  <img src="/static/img/logo-slarg.jpg" alt="SLARG Logo" width="100" />
+  <h1>FROM 10 TO 15 OCTOBER 2022, SINT LUCAS ANTWERPEN RESEARCH GROUP (SLARG) ORGANIZES ITS ANNUAL RESEARCH WEEK.</h1>
+</div>
 
-Animi quaerat distinctio odit perspiciatis officiis soluta eveniet. Inventore fuga deleniti natus deleniti quos et incidunt. Velit voluptatem aut velit aut error consectetur tenetur autem.
+The SLARG researchers are delighted to provide you with an insider view on the plurality of their research methods and tools through workshops, presentations, seminars, performances, guided tours, and much more. Join one or more of our events and catch a glimpse of their processes, experiments, and propositions.
 
-Voluptatem excepturi voluptatem tempora quia. Repellendus ut quo harum deleniti. Est et voluptatibus odit.
+To discover what is happening at SLARG on an ongoing basis, we invite you to visit our research exhibition, where you will encounter research and creation as entangled processes. Because research in the arts can be challenging to grasp at first sight, we organize several guided tours led by the researchers themselves, in which you are welcome to participate. The focus of the research week is on our two-day program ‘Rights of Nature’ (14-15 October).
 
-Et repellendus neque voluptas ratione sit quia. Exercitationem facere atque dolores et dolor. Distinctio saepe placeat placeat quas. Rerum tempore dolores eius maxime. Quia et officiis magni eaque iure quibusdam esse.
-
-Qui excepturi magni deleniti autem excepturi fuga. Adipisci unde laborum consequatur culpa ad illum voluptates quod. Nam molestiae id officia ut sed magni.
-
-Et cum expedita sit officiis. Et saepe non nihil consequuntur sunt reprehenderit error. Consectetur quia nihil veniam sint laborum esse eveniet.
+Along with our partners we have curated a program inviting academics, writers, artists, activists, photographers, and curators to share their insights on this urgent matter. With this program, we highlight what matters dearly to us at SLARG; learning together how to make this world a kinder place. We thank FOMU, Klimaatfestival Antwerpen, Kunsthal Extra-City, MORPHO and ARIA for making this possible. *Peace, justice, and love.*
 
 <div class="partner-logos">
     <a rel="noreferrer" href="https://www.sintlucasantwerpen.be/en/research/" target="_blank"><img src="/static/img/logo-sla-research.png" alt="Sint Lucas Antwerpen Research" /></a>

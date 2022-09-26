@@ -287,3 +287,18 @@ article .partner-logos img {
 	width: 150px;
 	height: auto;
 }
+
+.side-by-side {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+  }
+  
+  @media (min-width: 550px) {
+	.side-by-side {
+	  flex-direction: row;
+	  justify-content: space-between;
+	  align-items: center;
+	}
+  }
+  
