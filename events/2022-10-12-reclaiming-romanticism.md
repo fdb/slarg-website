@@ -19,7 +19,7 @@ We will examine links between fashion praxes and European romantic poetry such a
 
 This conversation aims at creating a dialogue through “*ecopoetic arts of resistance*” (Rigby, 2020) allowing dialogue between designers and artists who are subverting conventions and instead pursuing an alternate path of radicalism and insubordination. A new generation is promoting hand-made slow fashion, showcasing unique pieces and upcycled garments, guided by a will to connect and contemplate Planet Earth.
 
-Pierre-Antoine Vettorello is a textile/fashion designer and PhD candidate at Sint Lucas Antwerp (Aria) and University of Antwerp. He focuses on the sartorial ties between Paris and Saint-Louis, Senegal, at the end of the colonial era (1939–1966) in his research on fashion and decoloniality
+Pierre-Antoine Vettorello is a textile/fashion designer and PhD candidate at Sint Lucas Antwerp (Aria) and University of Antwerp. He focuses on the sartorial ties between Paris and Saint-Louis, Senegal, at the end of the colonial era (1939–1966) in his research on fashion and decoloniality.
 
 \
 Photo: *Willow* by Pierre-Antoine Vettorello (2019). Model: Rahim Lone.
