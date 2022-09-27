@@ -7,7 +7,7 @@ type: Symposium & workshop
 author: Annelys de Vet (PhD) & Nuno Coelho
 date: 2022-10-11
 time: 10:00 - 17:00
-location: Campus Sint Lucas Antwerpen
+location: Room 3.09, Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/8e6e6c03-7e67-49f3-ba64-552064fe5778/
 ---
 **This event is open to all. Please register by sending an email at  > annelys.devet@kdg.be** 
@@ -33,10 +33,10 @@ How are we preparing designers for a world that is in constant transition? How d
 * 16:00\
   Sharing output and final conclusions
 
-**Nuno Coelho** (Univ Coimbra, CEIS20, DEI) is a Porto-based Portuguese communication designer, artist and curator. He is an Assistant Professor of the Department of Informatics Engineering (DEI) of the Faculty of Sciences and Technology of the University of Coimbra.  [www.nunocoelho.net ](http://www.nunocoelho.net/)[UniversadaCoimbra/NunoCoelho](https://apps.uc.pt/mypage/faculty/uc26736)
+***Nuno Coelho** (Univ Coimbra, CEIS20, DEI) is a Porto-based Portuguese communication designer, artist and curator. He is an Assistant Professor of the Department of Informatics Engineering (DEI) of the Faculty of Sciences and Technology of the University of Coimbra.  [www.nunocoelho.net ](http://www.nunocoelho.net/)[UniversadaCoimbra/NunoCoelho](https://apps.uc.pt/mypage/faculty/uc26736)*
 
-**Annelys de Vet** (1974, NL) is PhD researcher at Sint Lucas Antwerpen (ARIA). She is a Belgium based designer, researcher and educator. [www.disarmingdesign.com](http://www.disarmingdesign.com/)\
-[www.subjectiveeditions.org](http://www.subjectiveeditions.org/)\
-[www.bureaudevet.be](http://www.bureaudevet.be/)
+***Annelys de Vet** (1974, NL) is PhD researcher at Sint Lucas Antwerpen (ARIA). She is a Belgium based designer, researcher and educator. [www.disarmingdesign.com](http://www.disarmingdesign.com/)*\
+*[www.subjectiveeditions.org](http://www.subjectiveeditions.org/)*\
+*[www.bureaudevet.be](http://www.bureaudevet.be/)*
 
 *Image: Fieldtrip & informal calligraphy sessions, Disarming Design Department, 2021*

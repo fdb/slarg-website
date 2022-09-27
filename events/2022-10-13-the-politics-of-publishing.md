@@ -11,7 +11,7 @@ time: 11:00-12:00
 location: Showroom, Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/6dfd966a-7574-4cb5-9c37-b86a044933fa/
 ---
-*Open to all*
+**This presentation is open to all.**
 
 The research project ***The politics of publishing: researching encounters between artists’ books and intersectional feminist tools*** addresses artists’ books and the politics of publishing, creating forms to uncover forgotten histories in this field, through a critical design approach which includes feminist tools. The project materializes in a series of hybrid publications (paper, digital, spatial, oral) that re·activate objects and histories and re·circulate them.
 
@@ -22,7 +22,5 @@ We will do so with the objects presented in the installation, in a movement goin
 From (micro-)typography to editorial structures. From gossip to public speeches. From ghostwriting to collective pamphlets.
 
 With our glossy researchers' gloves.
-
-
 
 *Loraine Furter is a PhD researcher at Sint Lucas Antwerp, a graphic designer and a teacher, specialized in hybrid publishing and in love with subversive anti-hegemonic practices. She co-founded the cyber-feminist collective Just For the Record, the typography research group Bye Bye Binary and the project Intersections of Care.*
