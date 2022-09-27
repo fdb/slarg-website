@@ -36,10 +36,12 @@ How are we preparing designers for a world that is in constant transition? How d
 * 16:00\
   Sharing output and final conclusions
 
-**\*Nuno Coelho** (Univ Coimbra, CEIS20, DEI) is a Porto-based Portuguese communication designer, artist and curator. He is an Assistant Professor of the Department of Informatics Engineering (DEI) of the Faculty of Sciences and Technology of the University of Coimbra.  [www.nunocoelho.net ](http://www.nunocoelho.net/) | [UniversadaCoimbra/NunoCoelho](https://apps.uc.pt/mypage/faculty/uc26736)*
+***\*Nuno Coelho** (Univ Coimbra, CEIS20, DEI) is a Porto-based Portuguese communication designer, artist and curator. He is an Assistant Professor of the Department of Informatics Engineering (DEI) of the Faculty of Sciences and Technology of the University of Coimbra.  [www.nunocoelho.net ](http://www.nunocoelho.net/) | [UniversadaCoimbra/NunoCoelho](https://apps.uc.pt/mypage/faculty/uc26736)**
 
-**\*Siwar Kraitem** (1992, LB) is an Amsterdam based graphic designer and alumnus of Disarming Design at Sandberg Instituut. With her practice she explores notions of collectiveness and untapped modes and tools of activism.*
+***\*Siwar Kraitem** (1992, LB) is an Amsterdam based graphic designer and alumnus of Disarming Design at Sandberg Instituut. With her practice she explores notions of collectiveness and untapped modes and tools of activism.**
 
-**\*Annelys de Vet** (1974, NL) is PhD researcher at Sint Lucas Antwerpen (ARIA). She is a Belgium based designer, researcher and educator. [www.disarmingdesign.com](www.disarmingdesign.com) | [www.subjectiveeditions.org](http://www.subjectiveeditions.org/) | [](http://www.subjectiveeditions.org/)[www.bureaudevet.be](http://www.bureaudevet.be/)*
+***\*Annelys de Vet** (1974, NL) is PhD researcher at Sint Lucas Antwerpen (ARIA). She is a Belgium based designer, researcher and educator. [www.disarmingdesign.com](www.disarmingdesign.com) | [www.subjectiveeditions.org](http://www.subjectiveeditions.org/) | [](http://www.subjectiveeditions.org/)[www.bureaudevet.be](http://www.bureaudevet.be/)**
 
-*Image: Fieldtrip & informal calligraphy sessions, Disarming Design Department, 2021*
+*—*
+
+Image: Fieldtrip & informal calligraphy sessions, Disarming Design Department, 2021
