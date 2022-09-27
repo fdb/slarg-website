@@ -4,7 +4,7 @@ tags: event
 title: Design pedagogy as an emancipatory practice
 byline: On design, politics, community and love
 type: Symposium & workshop
-author: Annelys de Vet (PhD) | Nuno Coelho | Siwar Kraitem
+author: Annelys de Vet (PhD), Nuno Coelho, Siwar Kraitem
 date: 2022-10-11
 time: 10:00 - 17:00
 location: Room 3.09, Campus Sint Lucas Antwerpen
