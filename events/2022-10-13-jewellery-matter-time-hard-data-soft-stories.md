@@ -33,7 +33,7 @@ Why would their tools and choices be relevant?
 
 .
 
-*Irma Földenyi is a designer and researcher at Sint Lucas Antwerpen.*
+*Irma Földényi is a Rotterdam based designer, currently a researcher at Sint Lucas Antwerpen and guest teacher at Linking Bodies - Jewellery Department at the Gerrit Rietveld Academy in Amsterdam.*
 
 *Saskia Van der Gucht is a visual artist, teacher and researcher at Sint Lucas Antwerpen.*
 
