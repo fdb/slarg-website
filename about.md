@@ -9,9 +9,11 @@ layout: page
 
 The SLARG researchers are delighted to provide you with an insider view on the plurality of their research methods and tools through workshops, presentations, seminars, performances, guided tours, and much more. Join one or more of our events and catch a glimpse of their processes, experiments, and propositions.
 
-To discover what is happening at SLARG on an ongoing basis, we invite you to visit our research exhibition, where you will encounter research and creation as entangled processes. Because research in the arts can be challenging to grasp at first sight, we organize several guided tours led by the researchers themselves, in which you are welcome to participate. The focus of the research week is on our two-day program ‘Rights of Nature’ (14-15 October).
+To discover what is happening at SLARG on an ongoing basis, we invite you to visit our research exhibition, where you will encounter research and creation as entangled processes. Because research in the arts can be challenging to grasp at first sight, we organize several guided tours led by the researchers themselves, in which you are welcome to participate. 
 
-Along with our partners we have curated a program inviting academics, writers, artists, activists, photographers, and curators to share their insights on this urgent matter. With this program, we highlight what matters dearly to us at SLARG; learning together how to make this world a kinder place. We thank FOMU, Klimaatfestival Antwerpen, Kunsthal Extra-City, MORPHO and ARIA for making this possible. *Peace, justice, and love.*
+The focus of the research week is on our two-day program ‘Rights of Nature’ (14-15 October). Along with our partners we have curated a program inviting academics, writers, artists, activists, photographers, and curators to share their insights on this urgent matter. With this program, we highlight what matters dearly to us at SLARG; learning together how to make this world a kinder place. We thank FOMU, Klimaatfestival Antwerpen, Kunsthal Extra-City, MORPHO and ARIA for making this possible.
+
+*Peace, justice, and love.*
 
 <div class="partner-logos">
     <a rel="noreferrer" href="https://www.sintlucasantwerpen.be/en/research/" target="_blank"><img src="/static/img/logo-sla-research.png" alt="Sint Lucas Antwerpen Research" /></a>
