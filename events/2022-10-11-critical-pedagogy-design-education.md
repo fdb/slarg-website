@@ -19,7 +19,6 @@ How are we preparing designers for a world that is in constant transition? How d
 **Programme**:
 
 * 10:00\
-  Welcome & Introduction\
   **Nuno Coelho**, ON TRANSITION DESIGN, Teaching Transition Design (TD) at the University of Coimbra\
   **Annelys de Vet,** ON DISARMING DESIGN MASTERS, temporary master's programme at Sandberg Instituut Amsterdam on the intersection of design, politics and community
 * 11:45\
