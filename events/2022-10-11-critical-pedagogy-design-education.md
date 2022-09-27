@@ -29,14 +29,15 @@ How are we preparing designers for a world that is in constant transition? How d
 * 13:00\
   Lunch performance
 * 14:00\
-  3 parallel workshops, each by one of the speakers
+  3 parallel workshops, each by one of the speakers\
+  Workshop 1 by Nuno Coelho, room K.01.06\
+  Workshop 2 by Annelys de Vet, room K.02.08\
+  Workshop 3, room GR 111
 * 16:00\
   Sharing output and final conclusions
 
-***Nuno Coelho** (Univ Coimbra, CEIS20, DEI) is a Porto-based Portuguese communication designer, artist and curator. He is an Assistant Professor of the Department of Informatics Engineering (DEI) of the Faculty of Sciences and Technology of the University of Coimbra.  [www.nunocoelho.net ](http://www.nunocoelho.net/)[UniversadaCoimbra/NunoCoelho](https://apps.uc.pt/mypage/faculty/uc26736)*
+**\*Nuno Coelho** (Univ Coimbra, CEIS20, DEI) is a Porto-based Portuguese communication designer, artist and curator. He is an Assistant Professor of the Department of Informatics Engineering (DEI) of the Faculty of Sciences and Technology of the University of Coimbra.  [www.nunocoelho.net ](http://www.nunocoelho.net/)[UniversadaCoimbra/NunoCoelho](https://apps.uc.pt/mypage/faculty/uc26736)*
 
-***Annelys de Vet** (1974, NL) is PhD researcher at Sint Lucas Antwerpen (ARIA). She is a Belgium based designer, researcher and educator. [www.disarmingdesign.com](http://www.disarmingdesign.com/)*\
-*[www.subjectiveeditions.org](http://www.subjectiveeditions.org/)*\
-*[www.bureaudevet.be](http://www.bureaudevet.be/)*
+**\*Annelys de Vet** (1974, NL) is PhD researcher at Sint Lucas Antwerpen (ARIA). She is a Belgium based designer, researcher and educator. [www.disarmingdesign.com](http://www.disarmingdesign.com/)[www.subjectiveeditions.org](http://www.subjectiveeditions.org/)[www.bureaudevet.be](http://www.bureaudevet.be/)*
 
 *Image: Fieldtrip & informal calligraphy sessions, Disarming Design Department, 2021*
