@@ -25,7 +25,7 @@ How are we preparing designers for a world that is in constant transition? How d
 * 11:45\
   Break
 * 12:00\
-  Perspectives from practice by Siwar Kraitem and \[name to be confirmed]
+  Perspectives from practice by **Siwar Kraitem** and \[name to be confirmed]
 * 13:00\
   Lunch performance
 * 14:00\
