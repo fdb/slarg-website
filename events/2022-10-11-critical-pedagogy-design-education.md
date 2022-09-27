@@ -4,7 +4,7 @@ tags: event
 title: Design pedagogy as an emancipatory practice
 byline: On design, politics, community and love
 type: Symposium & workshop
-author: Annelys de Vet (PhD) & Nuno Coelho
+author: Annelys de Vet (PhD) | Nuno Coelho | Siwar Kraitem
 date: 2022-10-11
 time: 10:00 - 17:00
 location: Room 3.09, Campus Sint Lucas Antwerpen
@@ -25,18 +25,20 @@ How are we preparing designers for a world that is in constant transition? How d
 * 11:45\
   Break
 * 12:00\
-  Perspectives from practice (speakers to be confirmed)
+  Perspectives from practice by Siwar Kraitem and \[name to be confirmed]
 * 13:00\
   Lunch performance
 * 14:00\
   3 parallel workshops, each by one of the speakers\
   Workshop 1 by Nuno Coelho, room K.01.06\
   Workshop 2 by Annelys de Vet, room K.02.08\
-  Workshop 3, room GR 111
+  Workshop 3, 'Language Cafe', room GR 111
 * 16:00\
   Sharing output and final conclusions
 
 **\*Nuno Coelho** (Univ Coimbra, CEIS20, DEI) is a Porto-based Portuguese communication designer, artist and curator. He is an Assistant Professor of the Department of Informatics Engineering (DEI) of the Faculty of Sciences and Technology of the University of Coimbra.  [www.nunocoelho.net ](http://www.nunocoelho.net/)[UniversadaCoimbra/NunoCoelho](https://apps.uc.pt/mypage/faculty/uc26736)*
+
+**\*Siwar Kraitem** (1992, LB) is an Amsterdam based graphic designer and alumnus of Disarming Design at Sandberg Instituut. With her practice she explores notions of collectiveness and untapped modes and tools of activism.*
 
 **\*Annelys de Vet** (1974, NL) is PhD researcher at Sint Lucas Antwerpen (ARIA). She is a Belgium based designer, researcher and educator. [www.disarmingdesign.com](http://www.disarmingdesign.com/)[www.subjectiveeditions.org](http://www.subjectiveeditions.org/)[www.bureaudevet.be](http://www.bureaudevet.be/)*
 
