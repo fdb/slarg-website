@@ -24,8 +24,6 @@ One of the key elements in the video work is the accompanying musical compositio
 
 *Songs from the compost* is a hypnotic exploration of non-human forms of consciousness and different dimensions of symbiotic life: interdependence, surrender, death and decay.
 
-
-
 **19:30   Screening *Songs from the compost: mutating bodies, imploding stars* (28’10”)**
 
 **20:00  Talk and Q&A with Eglė Budvytytė**
@@ -34,7 +32,7 @@ One of the key elements in the video work is the accompanying musical compositio
 
 *Eglė Budvytytė (LT, 1981) lives and works in Amsterdam, the Netherlands and Vilnius, Lithuania. This video was also included in The Milk of Dreams, the central exhibition of the Venice Biennale, curated by Cecilia Alemani.*
 
-*This screening is part of Rights of Nature, a two-day cross-disciplinary program by SLARG, in close collaboration with [Klimaatfestival Antwerpen](https://www.klimaatfestivalantwerpen.be/nl), FOMU, and Kunsthal Extra City. Rights of Nature explores the role of law, philosophy and arts in relation to "the rights of nature". It brings together various forms of research and translates this to a wide audience.*
+*This screening is part of Rights of Nature, a two-day cross-disciplinary program by SLARG, in close collaboration with [Klimaatfestival Antwerpen](https://www.klimaatfestivalantwerpen.be/nl), Curatorial Studies KASK Gent, FOMU, and Kunsthal Extra City. Rights of Nature explores the role of law, philosophy and arts in relation to "the rights of nature". It brings together various forms of research and translates this to a wide audience.*
 
 *Image: Installation view Revolting Times at Kunsthal Extra City, Eglė Dudvytytė, Songs from the compost: Mutating bodies, imploding stars © We Document Art*
 
