@@ -24,7 +24,7 @@ After this workshop, artists Maria Lucia Correa and Risk Hazekamp will enter int
 
 *Taco Hidde Bakker is a writer, translator, teacher and curator in the field of the arts, specializing in photography.* 
 
-*This workshop is part of Rights of Nature, a two-day cross-disciplinary program by SLARG, in close collaboration with [Klimaatfestival Antwerpen](https://www.klimaatfestivalantwerpen.be/nl), FOMU, and Kunsthal Extra City. Rights of Nature explores the role of law, philosophy and arts in relation to "the rights of nature". It brings together various forms of research and translates this to a wide audience.*
+*This workshop is part of Rights of Nature, a two-day cross-disciplinary program by SLARG, in close collaboration with [Klimaatfestival Antwerpen](https://www.klimaatfestivalantwerpen.be/nl), FOMU, Curatorial Studies KASK Gent, and Kunsthal Extra City. Rights of Nature explores the role of law, philosophy and arts in relation to "the rights of nature". It brings together various forms of research and translates this to a wide audience.*
 
 *Image: 137, Fotogramme, 70.5x50.5cm, Alnus glutinosa (Black alder), 2011 © Eva-Fiore Kovacovsky.*
 
