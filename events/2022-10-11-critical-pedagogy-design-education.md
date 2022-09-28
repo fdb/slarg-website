@@ -2,9 +2,9 @@
 layout: event.liquid
 tags: event
 title: Design pedagogy as an emancipatory practice
-byline: On design, politics, community and love
+byline: On design, politics, community and transition
 type: Symposium & workshop
-author: Annelys de Vet (PhD), Nuno Coelho, Siwar Kraitem
+author: Annelys de Vet (PhD), Anna Celda, Nuno Coelho, Siwar Kraitem
 date: 2022-10-11
 time: 10:00 - 17:00
 location: Room 3.09, Campus Sint Lucas Antwerpen
@@ -35,11 +35,11 @@ How are we preparing designers for a world that is in constant transition? How d
 * 16:00\
   Sharing output and final conclusions
 
-**\*\*Anna Celda** is a cook, storyteller and graphic designer based in Amsterdam —and  alumnus of Disarming Design at Sandberg Instituut. Her work brings together publishing, cooking, care giving, designing... [sandberg.nl/graduation2022](https://sandberg.nl/graduation2022/work-in-progress/anna-celda)\*\*
+**\*\*Anna Celda** is a cook, storyteller and graphic designer based in Amsterdam — and  alumnus of Disarming Design at Sandberg Instituut. Her work brings together publishing, cooking, care giving, designing... [sandberg.nl/graduation2022](https://sandberg.nl/graduation2022/work-in-progress/anna-celda)\*\*
 
 **\*\*Nuno Coelho** (Univ Coimbra, CEIS20, DEI) is a Porto-based Portuguese communication designer, artist and curator. He is an Assistant Professor of the Department of Informatics Engineering (DEI) of the Faculty of Sciences and Technology of the University of Coimbra.  [www.nunocoelho.net ](http://www.nunocoelho.net/) | [UniversadaCoimbra/NunoCoelho](https://apps.uc.pt/mypage/faculty/uc26736)\*\*
 
-**\*\*Siwar Kraitem** (1992, LB) is a multi-lingual designer and organizer based between Beirut and Amsterdam — alumnus of Disarming Design at Sandberg Instituut. With Rasha Dakkak she co-founded the language café, a discussion and installation forum for language, semantics, and translation. [framerframed.nl](https://framerframed.nl/en/projecten/language-cafe-the-language-of-oppression-and-resistance/)\*\*
+**\*\*Siwar Kraitem** (1992, LB) is a multi-lingual designer and organizer based between Beirut and Amsterdam — and alumnus of Disarming Design at Sandberg Instituut. With Rasha Dakkak she co-founded the language café, a discussion and installation forum for language, semantics, and translation. [framerframed.nl](https://framerframed.nl/en/projecten/language-cafe-the-language-of-oppression-and-resistance/)\*\*
 
 **\*\*Annelys de Vet** (1974, NL) is PhD researcher at Sint Lucas Antwerpen (ARIA). She is a Belgium based designer, researcher and educator. [www.disarmingdesign.com](www.disarmingdesign.com) | [www.subjectiveeditions.org](http://www.subjectiveeditions.org/) | [](http://www.subjectiveeditions.org/)[www.bureaudevet.be](http://www.bureaudevet.be/)\*\*
 
