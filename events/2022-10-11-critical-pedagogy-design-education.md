@@ -24,7 +24,8 @@ How are we preparing designers for a world that is in constant transition? How d
 * 11:45\
   Break
 * 12:00\
-  Perspectives from practice by **Siwar Kraitem** and **Anna Celda**
+  **Siwar Kraitem,** ON LANGUAGE, LEARNING AND TRANSLATION\
+  **Anna Celda,** ON COOKING AND SELF-PUBLISHING
 * 13:00\
   Performative lunch with **Anna Celda**
 * 14:00\
