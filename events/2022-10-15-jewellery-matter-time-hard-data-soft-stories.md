@@ -25,14 +25,9 @@ What if sand is in fact an extremely valuable material? 
 
 How would a jeweler then work with it? 
 
-Why would their tools and choices be relevant?
-
-.
-
-.
-
-.
-
+Why would their tools and choices be relevant?\
+\
+\
 *Irma Földényi is a Rotterdam based designer, currently a researcher at Sint Lucas Antwerpen and guest teacher at Linking Bodies - Jewellery Department at the Gerrit Rietveld Academy in Amsterdam.*
 
 *Saskia Van der Gucht is a visual artist, teacher and researcher at Sint Lucas Antwerpen.*
