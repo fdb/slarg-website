@@ -24,22 +24,24 @@ How are we preparing designers for a world that is in constant transition? How d
 * 11:45\
   Break
 * 12:00\
-  Perspectives from practice by **Siwar Kraitem** and \[name to be confirmed]
+  Perspectives from practice by **Siwar Kraitem** and **Anna Celda**
 * 13:00\
-  Lunch performance
+  Performative lunch with **Anna Celda**
 * 14:00\
-  3 parallel workshops, each by one of the speakers\
-  Workshop 1 by Nuno Coelho, room K.01.06\
-  Workshop 2 by Annelys de Vet, room K.02.08\
-  Workshop 3, 'Language Cafe', room GR 111
+  3 parallel workshops:\
+  **Transition workshop** by Nuno Coelho, room K.01.06\
+  **Uncommon Session** with Annelys de Vet, room K.02.08\
+  **Language Cafe** with Siwar Kraitem, room GR 111
 * 16:00\
   Sharing output and final conclusions
 
-***\*Nuno Coelho** (Univ Coimbra, CEIS20, DEI) is a Porto-based Portuguese communication designer, artist and curator. He is an Assistant Professor of the Department of Informatics Engineering (DEI) of the Faculty of Sciences and Technology of the University of Coimbra.  [www.nunocoelho.net ](http://www.nunocoelho.net/) | [UniversadaCoimbra/NunoCoelho](https://apps.uc.pt/mypage/faculty/uc26736)**
+**\*\*Anna Celda** is a cook, storyteller and graphic designer based in Amsterdam —and  alumnus of Disarming Design at Sandberg Instituut. Her work brings together publishing, cooking, care giving, designing... [sandberg.nl/graduation2022](https://sandberg.nl/graduation2022/work-in-progress/anna-celda)\*\*
 
-***\*Siwar Kraitem** (1992, LB) is an Amsterdam based graphic designer and alumnus of Disarming Design at Sandberg Instituut. With her practice she explores notions of collectiveness and untapped modes and tools of activism.**
+**\*\*Nuno Coelho** (Univ Coimbra, CEIS20, DEI) is a Porto-based Portuguese communication designer, artist and curator. He is an Assistant Professor of the Department of Informatics Engineering (DEI) of the Faculty of Sciences and Technology of the University of Coimbra.  [www.nunocoelho.net ](http://www.nunocoelho.net/) | [UniversadaCoimbra/NunoCoelho](https://apps.uc.pt/mypage/faculty/uc26736)\*\*
 
-***\*Annelys de Vet** (1974, NL) is PhD researcher at Sint Lucas Antwerpen (ARIA). She is a Belgium based designer, researcher and educator. [www.disarmingdesign.com](www.disarmingdesign.com) | [www.subjectiveeditions.org](http://www.subjectiveeditions.org/) | [](http://www.subjectiveeditions.org/)[www.bureaudevet.be](http://www.bureaudevet.be/)**
+**\*\*Siwar Kraitem** (1992, LB) is a multi-lingual designer and organizer based between Beirut and Amsterdam — alumnus of Disarming Design at Sandberg Instituut. With Rasha Dakkak she co-founded the language café, a discussion and installation forum for language, semantics, and translation. [framerframed.nl](https://framerframed.nl/en/projecten/language-cafe-the-language-of-oppression-and-resistance/)\*\*
+
+**\*\*Annelys de Vet** (1974, NL) is PhD researcher at Sint Lucas Antwerpen (ARIA). She is a Belgium based designer, researcher and educator. [www.disarmingdesign.com](www.disarmingdesign.com) | [www.subjectiveeditions.org](http://www.subjectiveeditions.org/) | [](http://www.subjectiveeditions.org/)[www.bureaudevet.be](http://www.bureaudevet.be/)\*\*
 
 *—*
 
