@@ -8,7 +8,7 @@ author: Annelys de Vet (PhD), Anna Celda, Nuno Coelho, Siwar Kraitem
 date: 2022-10-11
 time: 10:00 - 17:00
 location: Room 3.09, Campus Sint Lucas Antwerpen
-main_image: https://ucarecdn.com/8e6e6c03-7e67-49f3-ba64-552064fe5778/
+main_image: https://ucarecdn.com/28c22151-568b-4758-81cf-e0aeeec16b62/
 ---
 **This event is open to all. Please register by sending an email at  > annelys.devet@kdg.be** 
 
