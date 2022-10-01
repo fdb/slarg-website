@@ -13,7 +13,7 @@ images:
   - https://ucarecdn.com/03c5cf02-51f8-4c03-b2fc-5b229404fb6d/
   - https://ucarecdn.com/d85fe46a-6792-4cc7-8372-303ff1fd5777/
 ---
-**This Researrch Class is scheduled from Monday till Thursday and open to Sint Lucas Antwerpen digital MA students only.**
+**This Research Class is scheduled from Monday till Thursday and open to Sint Lucas Antwerpen digital MA students only.**
 
 Machine learning for creative purposes has progressed in leaps and bounds in the last years. But the whole process still feels like black magic. What does it take to train your own model? How do you even get started? And how can you use this process creatively?\
 \
