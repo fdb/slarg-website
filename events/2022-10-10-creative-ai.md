@@ -6,7 +6,7 @@ byline: Performing with machines
 type: Research class
 author: Frederik De Bleser & Lieven Menschaert
 date: 2022-10-10
-time: 10:00 - 17:00
+time: 14:00 - 17:00
 location: Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/86b6f5b9-ac69-4cda-8d3e-cd8a464ad44a/
 images:
@@ -14,6 +14,11 @@ images:
   - https://ucarecdn.com/d85fe46a-6792-4cc7-8372-303ff1fd5777/
 ---
 **This Research Class is scheduled from Monday till Thursday and open to Sint Lucas Antwerpen digital MA students only.**
+
+**M﻿on: 14:00 - 17:00**\
+**T﻿ue: 09:30 - 17:00** \
+**W﻿ed: 09:30 - 17:00**\
+**T﻿hu: 09:30 - 17:00**
 
 Machine learning for creative purposes has progressed in leaps and bounds in the last years. But the whole process still feels like black magic. What does it take to train your own model? How do you even get started? And how can you use this process creatively?\
 \
