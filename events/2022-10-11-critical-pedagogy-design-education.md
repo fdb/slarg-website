@@ -30,13 +30,13 @@ How are we preparing designers for a world that is in constant transition? How d
   Performative lunch with **Anna Celda**
 * 14:00\
   3 parallel workshops:\
-  **Transition workshop** with Nuno Coelho, room K.01.06\
-  **Uncommonsessions** with Annelys de Vet, room K.02.08\
-  **Language Cafe** with Siwar Kraitem, room GR 111
+  **Transition workshop** with Nuno Coelho, room K.02.12 \
+  **Uncommonsessions** with Annelys de Vet, room K.02.14 \
+  **Language Cafe** with Siwar Kraitem, room K.02.10
 * 16:00\
-  Sharing output and final conclusions
+  Sharing output and final conclusions, room K.02.12 
 
-—> **Anna Celda** (ES) is a cook, storyteller and graphic designer based in Amsterdam — and  alumnus of Disarming Design at Sandberg Instituut. Her work brings together publishing, cooking, care giving, designing... [sandberg.nl/graduation2022](https://sandberg.nl/graduation2022/work-in-progress/anna-celda)
+—> **Anna Celda** (ES) is a cook, storyteller and graphic designer based in Amsterdam — and  alumnus of Disarming Design at Sandberg Instituut. Her work brings together publishing, cooking, care giving and designing. [sandberg.nl/graduation2022](https://sandberg.nl/graduation2022/work-in-progress/anna-celda)
 
 —> **Nuno Coelho** (Univ Coimbra, CEIS20, DEI) is a Porto-based Portuguese communication designer, artist and curator. He is an Assistant Professor of the Department of Informatics Engineering (DEI) of the Faculty of Sciences and Technology of the University of Coimbra.  [www.nunocoelho.net ](http://www.nunocoelho.net/) | [UniversadaCoimbra/NunoCoelho](https://apps.uc.pt/mypage/faculty/uc26736)
 
