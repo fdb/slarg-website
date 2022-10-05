@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 title: Design pedagogy as an emancipatory practice
-byline: On design, politics, community and transition
+byline: On design, politics, language, transition and the kitchen
 type: Symposium & workshop
 author: Annelys de Vet (PhD), Anna Celda, Nuno Coelho, Siwar Kraitem
 date: 2022-10-11
