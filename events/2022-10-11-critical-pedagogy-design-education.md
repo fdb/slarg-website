@@ -7,7 +7,7 @@ type: Symposium & workshop
 author: Annelys de Vet (PhD), Anna Celda, Nuno Coelho, Siwar Kraitem
 date: 2022-10-11
 time: 10:00 - 17:00
-location: Room 3.09, Campus Sint Lucas Antwerpen
+location: Room 3.09, Campus Sint Lucas Antwerpen, Van Schoonbekestraat 143
 main_image: https://ucarecdn.com/28c22151-568b-4758-81cf-e0aeeec16b62/
 ---
 **This event is open to all. Please register by sending an email at  > annelys.devet@kdg.be** 
