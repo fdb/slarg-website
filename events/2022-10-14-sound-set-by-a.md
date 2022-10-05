@@ -8,7 +8,7 @@ author: Aio Frei
 date: 2022-10-15
 time: 20:00 - 21:00
 location: "Kunsthal Extra City "
-main_image: https://ucarecdn.com/a10edcc2-1ae4-446d-8db0-11c642c572c8/
+main_image: https://ucarecdn.com/a318feda-91c3-41cb-97c4-22b1e2f4f459/
 ---
 
 
