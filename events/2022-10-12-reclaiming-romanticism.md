@@ -11,7 +11,7 @@ location: Room 3.09, Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/5e7f5dbe-95ef-4dd2-a963-86c7c6315b4c/
 images: null
 ---
-**This seminar is open to all *(12 participants max)*. Please register via [this link](https://docs.google.com/forms/d/e/1FAIpQLSctIBW55-CxziTAYtFJz1gbGmsV1BpuVE-byDpfeMgziZqarA/viewform?usp=sf_link)**
+**This seminar is open to all *(12 participants max)*. Fully booked**
 
 This seminar will explore the concepts of ecopoetics and ecocriticism, and how they can dialogue with fashion design praxes in the face of environmental catastrophe and the *Anthropocene*. We'll study Kate Rigby's analysis and text "*Reclaiming Romanticism": Towards an Ecopoetics of Decolonisation"* (2020) to examine how insubordinate designers are upcycling and disrupting the industry. 
 
