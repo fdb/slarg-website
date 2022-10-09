@@ -14,7 +14,9 @@ images:
 ---
 **Double Launch: TYPP # 8  and ADMA TYPP # 2**
 
-TYPP is the Sint Lucas Antwerpen Research Publication. At this launch we present two new TYPP publications: the regular TYPP, designed by Ward Heirwegh, with contributions by SLARG researcherrs and friends, and the AdMa TYPP, designed by Joud Toamah, with contributions by the Advanced Master of Research 2020-21 participants.
+TYPP is the Sint Lucas Antwerpen Research Publication. At this launch we present two new TYPP publications: the regular TYPP, designed by Ward Heirwegh, with contributions by SLARG researcherrs and friends, and the AdMa TYPP, designed by Joud Toamah, with contributions by the Advanced Master of Research 2020-21 participants. 
+
+Launch with performance and conversation by manoeuvre (Chris Rotsaert, Elien Ronse, Gulseren Van Dort Mustafova). 
 
 Join us at the launch and get your free copy! A collector's item! 
 
