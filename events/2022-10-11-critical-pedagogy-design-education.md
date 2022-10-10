@@ -31,7 +31,7 @@ How are we preparing designers for a world that is in constant transition? How d
 * 14:00\
   3 parallel workshops:\
   **Transition workshop** with Nuno Coelho, room K.02.12 \
-  **Uncommonsessions** with Annelys de Vet, room K.02.14 \
+  **Mapping emancipatory conditions** with Annelys de Vet, room K.02.14 \
   **Language Cafe** with Siwar Kraitem, room K.02.10
 * 16:00\
   Sharing output and final conclusions, room K.02.12 
