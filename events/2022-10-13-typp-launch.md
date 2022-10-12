@@ -11,12 +11,20 @@ location: Showroom, Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/8b143367-a758-4535-9828-d4a3c0887618/
 images:
   - https://ucarecdn.com/19906093-db71-48fe-9715-0177b2a49f64/
+  - https://ucarecdn.com/fdfb3654-3713-425c-b383-5bea19847cc0/
+  - https://ucarecdn.com/f989cae8-d84f-4f9c-bfb7-16b75fa52b02/
+  - https://ucarecdn.com/86ad5113-33e5-4cef-b791-b861a27ca358/
+  - https://ucarecdn.com/25024144-70a2-43f3-83e7-ab039d53d106/
 ---
 **Double Launch: TYPP # 8  and ADMA TYPP # 2**
 
 TYPP is the Sint Lucas Antwerpen Research Publication. At this launch we present two new TYPP publications: the regular TYPP, designed by Ward Heirwegh, with contributions by SLARG researcherrs and friends, and the AdMa TYPP, designed by Joud Toamah, with contributions by the Advanced Master of Research 2020-21 participants. 
 
-Launch with performance and conversation by manoeuvre (Chris Rotsaert, Elien Ronse, Gulseren Van Dort Mustafova). 
+Launch with performance and conversation by manoeuvre (Chris Rotsaert, Elien Ronse, Gulseren Van Dort Mustafova, Rony). 
+
+Manoeuvre is a visual platform for artists and communities. We make collective visual work where art, craft and everyday life meet. During AdMa TYPP launch, we talk about ways of "copying" within manoeuvre. Consciously and unconsciously, we mimic each other while collaborating; we copy each other words, behavior, habits, work,.... We want to share the importance of mimicking and what it means to us. 
+
+
 
 Join us at the launch and get your free copy! A collector's item! 
 
@@ -27,3 +35,9 @@ Join us at the launch and get your free copy! A collector's item!
 ***AdMa TYPP 2022. It astonishes me when I hear you say love.***
 
 The title for this issue, ‘It astonishes me when I hear you say love.’ is a quote from Federico García Lorca’s *El público* (*The Public* or *The Audience*), written between 1929 and 1930, and only published after his death. The quote appears twice, in slightly different forms, in a conversation between the Magician and the Director, as they discuss the latter’s attempt to stage a revolutionary adaptation of William Shakespeare’s *Romeo and Juliet*. For this issue, contributors were asked to consider their research through the lens of the love letter. This publication was conceived during a year in which we conducted our entire advanced master program online. Yet somehow the contributors of this publication put love and care in the air and helped them to travel through our screens and into our bedrooms, workspaces, apartments and studios. Academic research institutions and processes are generally not known for the space they make for love and vulnerable relationality, but it does exist if you know where to look. Like here. **With contributions by: Amelie Jakubek, Chris Rotsaert, Elien Ronse, Hiroko Tsuchimoto, Jennifer Clarke, Martina Petrović, Mona Hedayati, Nohad Elhajj, Rachel Bacon, Tommi Vasko & Kaisa Karvinen and Vicky De Visser.** Designed by Joud Toamah. Concept& Process by Marnie Slater. Edited by Kim Gorus, Marnie Slater and Petra Van Brabandt
+
+Image Cover AdMa 2022 TYPP by Joud Toamah
+
+Image Cover TYPP #8 by Ward Heirwegh
+
+All other images manoeuvre.
