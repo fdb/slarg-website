@@ -6,7 +6,7 @@ byline: "Sharing the outcome of Frans Masereel Residence "
 type: Research sharing
 author: Advanced Master of Research 2021-22 Participants
 date: 2022-10-14
-time: 11:00 - 17:00
+time: 13:00 - 19:00
 location: Refectory, Morpho (entrance via Extra City)
 main_image: https://ucarecdn.com/c05c55d4-5928-4b6c-b3db-14bef2909b7f/
 ---
