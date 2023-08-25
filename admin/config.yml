@@ -20,6 +20,7 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'event.liquid' }
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'event' }
+      - { label: 'Event Year', name: 'year', widget: 'hidden', default: '2023' }
       - {
           label: 'Event Title',
           name: 'title',

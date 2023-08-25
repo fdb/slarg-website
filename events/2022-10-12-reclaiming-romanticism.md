@@ -5,6 +5,7 @@ title: Reclaiming Romanticism
 byline: Insubordination, Upcycling and Ecopoetics in Fashion
 type: Talk & discussion
 author: Pierre-Antoine Vettorello (PhD)
+year: 2022
 date: 2022-10-12
 time: 10:00 - 12:00
 location: Room 3.09, Campus Sint Lucas Antwerpen

@@ -6,6 +6,7 @@ byline: From (micro-)typography to editorial structures. From gossip to public
   speech. From ghostwriting to collective pamphlets.
 type: Research presentation
 author: Loraine Furter (PhD)
+year: 2022
 date: 2022-10-13
 time: 11:00-12:00
 location: Showroom, Campus Sint Lucas Antwerpen

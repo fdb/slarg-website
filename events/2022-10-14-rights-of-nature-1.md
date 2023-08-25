@@ -5,6 +5,7 @@ title: "Focus Program: Rights of Nature"
 byline: "Songs from the compost: mutating bodies, imploding stars"
 type: Film screening & after-talk with the artist
 author: Eglė Budvytytė
+year: 2022
 date: 2022-10-14
 time: 19:30 - 21:00
 location: Kunsthal Extra City

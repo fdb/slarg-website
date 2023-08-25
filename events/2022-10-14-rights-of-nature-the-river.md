@@ -5,6 +5,7 @@ title: "Focus Program: Rights of Nature"
 byline: Rights of Nature, the Zoöp Model, and climate litigation
 type: Seminar
 author: Dorine van Norren, Mihnea Tănăsescu, Klaas Kuitenbrouwer, Peter Jacobs
+year: 2022
 date: 2022-10-14
 time: 10:00 - 13:00
 location: Theaterzaal, Het Bos

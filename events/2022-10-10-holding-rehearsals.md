@@ -5,6 +5,7 @@ title: Holding Rehearsals
 byline: On sustaining social justice in cinema
 type: Seminar
 author: Robin Vanbesien
+year: 2022
 date: 2022-10-10
 time: 14:00 - 16:00
 location: Room 3.09, Campus Sint Lucas Antwerpen

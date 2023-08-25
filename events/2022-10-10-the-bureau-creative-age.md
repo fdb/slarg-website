@@ -5,6 +5,7 @@ title: The (Bureau)creative Age
 byline: The Research Centre on Creative Abilities meandmywork - an artistic parafiction
 type: Screening
 author: Sarah Hendrickx
+year: 2022
 date: 2022-10-10
 time: 17:00 - 18:00
 location: Room 3.09, Campus Sint Lucas Antwerpen

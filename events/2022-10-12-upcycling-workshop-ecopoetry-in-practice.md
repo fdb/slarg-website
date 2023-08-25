@@ -5,6 +5,7 @@ title: "Upcycling workshop: Ecopoetry in practice"
 byline: Repair practice with Jordy Arthur Vaesen
 type: Workshop
 author: Pierre-Antoine Vettorello (PhD)
+year: 2022
 date: 2022-10-12
 time: 13:00 - 15:00
 location: Room 3.09, Campus Sint Lucas Antwerpen

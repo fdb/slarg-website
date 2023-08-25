@@ -5,6 +5,7 @@ title: SLARG Research Exhibition
 byline: Join a guided tour!
 type: Exhibition & guided tours
 author: SLARG Researchers
+year: 2022
 date: 2022-10-15
 time: 10:00 - 17:00
 location: Showroom, Campus Sint Lucas Antwerpen

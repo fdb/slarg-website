@@ -5,6 +5,7 @@ title: AdMa @ Frans Masereel @ Morpho
 byline: "Sharing the outcome of Frans Masereel Residence "
 type: Research sharing
 author: Advanced Master of Research 2021-22 Participants
+year: 2022
 date: 2022-10-14
 time: 13:00 - 19:00
 location: Refectory, Morpho (entrance via Extra City)

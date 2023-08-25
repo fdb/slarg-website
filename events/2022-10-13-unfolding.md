@@ -5,6 +5,7 @@ title: Probes
 byline: "Two stories superimposed "
 type: Research presentation
 author: Wesley Meuris
+year: 2022
 date: 2022-10-13
 time: 10:00 - 11.00
 location: Showroom, Campus Sint Lucas Antwerpen

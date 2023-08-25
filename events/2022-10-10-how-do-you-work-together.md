@@ -5,6 +5,7 @@ title: How do you work with others in your research?
 byline: On collaboration and collective practice
 type: Research methodology workshop
 author: Marnie Slater
+year: 2022
 date: 2022-10-10
 time: 10:00 - 13:00
 location: Room 3.09, Campus Sint Lucas Antwerpen

@@ -5,6 +5,7 @@ title: "Focus Program: Rights of Nature"
 byline: Nineteen Discussions for Photographers and Artists in the Age of Climate Crisis
 type: "Workshop "
 author: Taco Hidde Bakker
+year: 2022
 date: 2022-10-14
 time: 14:00 - 17:00
 location: Seminarielokaal, FOMU

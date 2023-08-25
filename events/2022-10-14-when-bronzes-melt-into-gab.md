@@ -5,6 +5,7 @@ title: When bronzes melt into gab
 byline: Training monuments to be relational objects and allies for alternative futures
 type: Workshop
 author: Simona Da Pozzo
+year: 2022
 date: 2022-10-14
 time: 10:00 - 13:00
 location: Room 3.09, Campus Sint Lucas Antwerpen

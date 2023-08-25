@@ -5,6 +5,7 @@ title: "Focus Program: Rights of Nature"
 byline: Curating with the planet, hydrofeminism and other approaches
 type: Lecture
 author: Heidi Ballet
+year: 2022
 date: 2022-10-15
 time: 15:00 - 16:00
 location: Kunsthal Extra City

@@ -5,6 +5,7 @@ title: Circuits & Nerves
 byline: "A Performative Sound Installation "
 type: Performance
 author: Mona Hedayati (PhD)
+year: 2022
 date: 2022-10-15
 time: 19:00 - 19:30
 location: "Kunsthal Extra City "

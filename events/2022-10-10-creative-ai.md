@@ -5,6 +5,7 @@ title: Creative AI Workshop
 byline: Performing with machines
 type: Research class
 author: Frederik De Bleser & Lieven Menschaert
+year: 2022
 date: 2022-10-10
 time: 14:00 - 17:00
 location: Campus Sint Lucas Antwerpen, Library (first floor)

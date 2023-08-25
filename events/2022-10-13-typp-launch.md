@@ -5,6 +5,7 @@ title: TYPP Launch
 byline: "Research publication "
 type: Launch
 author: SLARG / Advanced Master of Research
+year: 2022
 date: 2022-10-13
 time: 20:00-21:00
 location: Showroom, Campus Sint Lucas Antwerpen

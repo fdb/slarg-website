@@ -5,6 +5,7 @@ title: "Focus Program: Rights of Nature"
 byline: "Silent Echoes: video and performance piece"
 type: Screening
 author: Dorine van Meel
+year: 2022
 date: 2022-10-15
 time: 16:30 - 17:30
 location: Kunsthal Extra City

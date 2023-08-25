@@ -5,6 +5,7 @@ title: Stone witnessing – resonances in the swirls
 byline: A poetic listening session / essayistic DJ set
 type: Performance
 author: Aio Frei
+year: 2022
 date: 2022-10-15
 time: 20:00 - 21:00
 location: "Kunsthal Extra City "

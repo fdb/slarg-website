@@ -5,6 +5,7 @@ title: "Jewellery Matter Time: Hard Data, Soft Stories"
 byline: On sand
 type: "Installation at the research exhibition "
 author: Irma Földényi and Saskia Van der Gucht
+year: 2022
 date: 2022-10-16
 time: 10:00 - 17:00
 location: Sint Lucas Antwerpen - Showroom
