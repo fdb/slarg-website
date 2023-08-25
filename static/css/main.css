@@ -21,7 +21,6 @@
 		url('/static/fonts/inter-v12-latin-700.woff') format('woff');
 }
 
-
 @font-face {
 	font-family: 'AuthenticSans';
 	font-style: normal;
@@ -39,9 +38,10 @@
 }
 
 :root {
-	--text-accent: #26005e;
-	--border-accent: #26005e;
-	--bg: #e0ffdf;
+	--text-accent: #999;
+	--border-accent: #999;
+	--bg: #f7f7f7;
+	--text: #666;
 }
 
 *,
@@ -58,7 +58,7 @@ body {
 	font-family: 'AuthenticSans', sans-serif;
 	font-size: 16px;
 	line-height: 1.5;
-	color: #26005e;
+	color: var(--text);
 	background-color: var(--bg);
 	margin: 0;
 }
@@ -120,7 +120,7 @@ article > h1 {
 }
 
 .hero-text {
-	color: #3c9b5d;
+	color: var(--text-accent);
 	font-size: 2rem;
 	line-height: 2.4rem;
 	font-weight: bold;
@@ -131,11 +131,11 @@ article > h1 {
 }
 .hero-text a {
 	text-decoration: none;
-	border-bottom: 2px solid #26005e;
-	font-family: "AuthenticSans", sans-serif;
+	border-bottom: 2px solid var(--text);
+	font-family: 'AuthenticSans', sans-serif;
 	text-transform: lowercase;
 	font-weight: normal;
-	color: #26005e;
+	color: var(--text);
 	font-size: 25px;
 	vertical-align: middle;
 }
@@ -240,8 +240,6 @@ article > h1 {
 	gap: 2rem;
 }
 
-
-
 footer {
 	margin-top: 2rem;
 	padding: 0 2rem;
@@ -258,12 +256,11 @@ footer {
 	white-space: nowrap;
 }
 
-@media ( min-width: 768px) {
+@media (min-width: 768px) {
 	.footer-inner {
 		flex-direction: row;
 	}
 }
-	
 
 .footer-inner .partner-logos {
 	display: flex;
@@ -278,7 +275,7 @@ footer {
 
 article .partner-logos {
 	display: flex;
-	flex-wrap: wrap;                  /*  allow items to wrap  */
+	flex-wrap: wrap; /*  allow items to wrap  */
 	justify-content: center;
 	gap: 1rem;
 }
@@ -292,13 +289,12 @@ article .partner-logos img {
 	display: flex;
 	flex-direction: column;
 	gap: 20px;
-  }
-  
-  @media (min-width: 550px) {
+}
+
+@media (min-width: 550px) {
 	.side-by-side {
-	  flex-direction: row;
-	  justify-content: space-between;
-	  align-items: center;
+		flex-direction: row;
+		justify-content: space-between;
+		align-items: center;
 	}
-  }
-  
+}
