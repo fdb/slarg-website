@@ -22,3 +22,15 @@ layout: base.liquid
     <h2 class="event-day">Saturday OCT 15</h2>
     {% render "_eventGrid" with collections.eventsSaturday as events %}
 </main>
+
+<script>
+    if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+            if (!user) {
+                window.netlifyIdentity.on("login", () => {
+                    document.location.href = "/admin/";
+                });
+            }
+        });
+    }
+</script>

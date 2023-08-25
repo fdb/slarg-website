@@ -13,10 +13,22 @@ collections:
     label_singular: 'Event'
     folder: 'events'
     create: true
+    delete: false
     slug: '{{date}}-{{title}}'
     preview_path: '/events/{{slug}}'
     summary: '{{date}} | {{title}} | {{author}}'
     sortable_fields: ['date', 'title']
+    view_filters:
+      - label: '2023'
+        field: 'year'
+        pattern: '2023'
+      - label: '2022'
+        field: 'year'
+        pattern: '2022'
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'event.liquid' }
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'event' }
