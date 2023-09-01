@@ -6,3 +6,15 @@ title: SLARG
 <a href="/2021/">2021</a>
 <a href="/2022/">2022</a>
 <a href="/2023/">2023</a>
+
+<script>
+    if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+            if (!user) {
+                window.netlifyIdentity.on("login", () => {
+                    document.location.href = "/admin/";
+                });
+            }
+        });
+    }
+</script>

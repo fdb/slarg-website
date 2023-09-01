@@ -1,11 +1,21 @@
-const RESEARCH_WEEK_DATES = [
-	['Monday', 10],
-	['Tuesday', 11],
-	['Wednesday', 12],
-	['Thursday', 13],
-	['Friday', 14],
-	['Saturday', 15]
-];
+function groupEventsByWeekday(allEvents) {
+	let groupedByWeekday = {};
+
+	allEvents.forEach((item) => {
+		let date = new Date(item.data.date);
+		let weekday = date.toLocaleDateString('en-US', { weekday: 'long' });
+		let d = date.toLocaleDateString('en-US', { weekday: 'long', month: 'short', day: 'numeric' });
+		let formattedDate = d; // `${weekday}, ${d}`;
+
+		if (!groupedByWeekday[formattedDate]) {
+			groupedByWeekday[formattedDate] = [];
+		}
+
+		groupedByWeekday[formattedDate].push(item);
+	});
+
+	return groupedByWeekday;
+}
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('static');
@@ -15,14 +25,14 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addFilter('date', function (date) {
 		const d = new Date(date);
 		return `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`;
-		// return .toLocaleDateString();
 	});
 
-	for (const [day, date] of RESEARCH_WEEK_DATES) {
-		eleventyConfig.addCollection(`events${day}`, function (api) {
-			const events = api.getAll().filter((event) => event.data.date?.getDate() === date);
-			events.sort((a, b) => parseInt(a.data.time) - parseInt(b.data.time));
-			return events;
-		});
-	}
+	eleventyConfig.addCollection('events_2023', function (collection) {
+		const allEvents = collection.getFilteredByTag('event').filter((event) => event.data.date?.getFullYear() === 2023);
+		return groupEventsByWeekday(allEvents);
+	});
+	eleventyConfig.addCollection('events_2022', function (collection) {
+		const allEvents = collection.getFilteredByTag('event').filter((event) => event.data.date?.getFullYear() === 2022);
+		return groupEventsByWeekday(allEvents);
+	});
 };

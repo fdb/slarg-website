@@ -19,20 +19,17 @@
     {% endif %}
   </head>
 
-  <body>
-    {{ year }}
-    
+  <body>    
     <div class="wrapper">
       <header>
         <div>
-          <a href="/{{ site_year }}/">SLARG</a>
+          <a href="/{{ site_year }}/">SLARG RESEARCH WEEK</a>
         </div>
-        <div>
-          <a href="/{{ site_year }}/">RESEARCH WEEK</a>
+        <div class="years">
+          <a href="/2021/">2021</a>
+          <a href="/2022/">2022</a>
+          <a href="/2023/">2023</a>
         </div>
-        <nav>
-          <a href="/{{ site_year }}/about">ABOUT</a>
-        </nav>
       </header>
       {{ content }}
       <footer>

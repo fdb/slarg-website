@@ -8,28 +8,10 @@ layout: base.liquid
                 its annual research week. <a href="./about">Read more</a></p>
         </div>
     </div>
-    <h2 class="event-day">Monday OCT 16</h2>
-    {% render "_eventGrid" with collections.eventsMonday as events %}
-    <h2 class="event-day">Tuesday OCT 17</h2>
-    {% render "_eventGrid" with collections.eventsTuesday as events %}
-    <h2 class="event-day">Wednesday OCT 18</h2>
-    {% render "_eventGrid" with collections.eventsWednesday as events %}
-    <h2 class="event-day">Thursday OCT 19</h2>
-    {% render "_eventGrid" with collections.eventsThursday as events %}
-    <h2 class="event-day">Friday OCT 20</h2>
-    {% render "_eventGrid" with collections.eventsFriday as events %}
-    <h2 class="event-day">Saturday OCT 21</h2>
-    {% render "_eventGrid" with collections.eventsSaturday as events %}
+    {% for grouped in collections.events_2023 %}
+    {% assign weekday = grouped[0] %}
+    {% assign events = grouped[1] %}
+    <h2 class="event-day">{{ weekday }}</h2>
+    {% render "_eventGrid" with events as events %}
+    {% endfor %}
 </main>
-
-<script>
-    if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-            if (!user) {
-                window.netlifyIdentity.on("login", () => {
-                    document.location.href = "/admin/";
-                });
-            }
-        });
-    }
-</script>

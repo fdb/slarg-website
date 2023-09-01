@@ -86,6 +86,12 @@ header a {
 	/* border-bottom: 2px solid var(--text-accent); */
 }
 
+header .years {
+	display: flex;
+	gap: 0.8rem;
+	justify-content: center;
+}
+
 main {
 	margin: 0 auto;
 	padding: 0 2rem;
