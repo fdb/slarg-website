@@ -9,3 +9,8 @@ command = "npm run build"
 [[redirects]]
   from = ""
   to = "/2022/"
+
+
+[[redirects]]
+  from = "/t2"
+  to = "/2022/"
