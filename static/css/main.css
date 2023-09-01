@@ -304,3 +304,20 @@ article .partner-logos img {
 		align-items: center;
 	}
 }
+
+.sites-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	grid-gap: 1rem;
+
+	& a {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		text-decoration: none;
+		font-family: 'Marsha', sans-serif;
+		font-weight: bold;
+		font-size: 1rem;
+	}
+}
