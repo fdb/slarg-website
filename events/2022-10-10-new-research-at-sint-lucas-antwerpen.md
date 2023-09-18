@@ -12,13 +12,12 @@ time: 14:00 - 17:00
 location: "Showroom - Sint Lucas Antwerpen "
 main_image: https://ucarecdn.com/0726d64d-3637-4646-b048-fb97b6896fa4/
 ---
-This is an afternoon in which new research projects and PhD's are being presented to peers and a wider public. 
+Researchers of SLARG who set up a new research project or start up their PhD's will share their research with peers and a wider public. 
 
 Six researchers are presenting and introducing their research question and the methods that will be used to tackle that question. 
 
-There are four new research projects by Tunde Adefioye & Imane Benyecif Khoutoul, Ruth Loos, Joud Toamah and Saskia Van der Gucht. 
-
-There are two new PhD projects: Irma Foldenyi, Charine Gokceyan. 
+* Four new research projects: Tunde Adefioye & Imane Benyecif Khoutoul, Ruth Loos, Joud Toamah and Saskia Van der Gucht. 
+* Two new PhD projects: Irma Foldenyi, Charine Gokceyan. 
 
 Each presentation lasts 30 min, questions included. 
 
