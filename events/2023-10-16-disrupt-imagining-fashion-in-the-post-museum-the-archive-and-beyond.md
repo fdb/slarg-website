@@ -31,15 +31,9 @@ We wish to Disrupt! through these perspectives:
 * Co-creating communities
 * Re-writing histories and exploring through fashion’s potential histories (Azoulay)
 
-
-
 This research seminar aims to support critical discussions and offers a starting point for future collaborations and collective actions.
 
-
-
 ### Guest speakers:
-
-
 
 Erica de Greef, curator, researcher and co-founder of the African Fashion Research Institute (AFRI), Cape Town, ZA
 
@@ -55,29 +49,19 @@ Nyanchama Okemwa, curator, researcher, artist and chair of European Network Agai
 
 Nashilongweshipwe Mushaandja, performer, educator and writer, NA/ZA
 
-
-
 ### Registration
 
-Registration via this [form](https://forms.gle/LuBMFMEWDpZoeeEb6)
+Registration via this [form.](https://forms.gle/LuBMFMEWDpZoeeEb6)
 
 Deadline for registration: Wednesday, September 27th 
 
-
-
 Coordinator email: Pierre-Antoine Vettorello pierre-antoine.vettorello@student.uantwerpen.be
 
-
-
 ### Event Schedule
-
-
 
 #### TUESDAY 3
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-
 
 10am-12pm  
 
@@ -94,10 +78,7 @@ Welcome + introduce the intention
 * The Making of Archives Using Fiction (Pierre-Antoine Vettorello)  
 * Words on the exhibition “Pagnes Africains” and curating African textiles in Belgium (Nyanchama Okemwa)
 * Maison Joste Casablanca: Whose Heritage to Care for? (Angela Jansen and Karolien de Clippel)
-
-+ screening of designer Aidan Muis and Khumo Morojelo’s short film documentary DUNUSA: Life of a Garment (2023, Johannesburg, ZA). 
-
-
+* screening of designer Aidan Muis and Khumo Morojelo’s short film documentary DUNUSA: Life of a Garment (2023, Johannesburg, ZA). 
 
 1pm-2pm
 
@@ -109,26 +90,18 @@ Location: Van Schoonbekestraat 143, 2018 Antwerpen
 
 *WALKING TOUR* 
 
-
-
 * ModeMuseum Antwerpen (MOMU) 
 
   Location: Nationalestraat 28, 2000 Antwerpen
-
-
 * Doek vzw 
 
-  Location: Zirkstraat 36, 2000 Antwerpen
+    Location: Zirkstraat 36, 2000 Antwerpen
 
-
-
-5.30pm 
+  5.30pm 
 
 *EARLY DINNER*
 
 Location: Van Schoonbekestraat 143, 2018 Antwerpen
-
-
 
 7pm- 9pm 
 
@@ -136,15 +109,9 @@ ROUND TABLE
 
 Location: Van Schoonbekestraat 143, 2018 Antwerpen
 
-
-
 Provocation #2 **Nashilongweshipwe Mushaandja (virtual provocation)** 
 
 Round Table Discussion 
-
-
-
-
 
 #### WEDNESDAY 4
 
@@ -155,8 +122,6 @@ Round Table Discussion
 *ZINE MAKING*
 
 Location: Van Schoonbekestraat 143, 2018 Antwerpen
-
-	
 
 Provocation #3 **Pierre-Antoine Vettorello**
 
