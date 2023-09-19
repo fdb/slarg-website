@@ -1,7 +1,7 @@
 ---
 layout: event.liquid
 tags: event
-year: "2023"
+year: 2023
 title: "New Research at Sint Lucas Antwerpen "
 byline: Research presentations
 type: Seminar
