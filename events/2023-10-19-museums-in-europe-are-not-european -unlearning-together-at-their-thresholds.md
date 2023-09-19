@@ -6,7 +6,7 @@ title: Museums in Europe are not European - Unlearning Together at Their Thres
 byline: Lecture by Ariella Aïsha Azoulay on the impossibility of decolonising
   colonial museums without decolonising the world.
 type: Lecture
-author: "Organized by Hoda ... "
+author: "Organized by Hoda Siahtiri, Hari Prasad Sacré, Arshia Ali Azmat "
 date: 2023-10-19
 time: 19:00 - 20:00
 location: VUB Main Campus Etterbeek Pleinlaan 2 1050 Elsene
