@@ -48,13 +48,13 @@ collections:
           widget: 'select',
           options:
             [
-              { label: 'Mon 10', value: '2022-10-10' },
-              { label: 'Tue 11', value: '2022-10-11' },
-              { label: 'Wed 12', value: '2022-10-12' },
-              { label: 'Thu 13', value: '2022-10-13' },
-              { label: 'Fri 14', value: '2022-10-14' },
-              { label: 'Sat 15', value: '2022-10-15' },
-              { label: 'Sun 16', value: '2022-10-16' }
+              { label: 'Mon 16', value: '2023-10-16' },
+              { label: 'Tue 17', value: '2023-10-17' },
+              { label: 'Wed 18', value: '2023-10-18' },
+              { label: 'Thu 19', value: '2023-10-19' },
+              { label: 'Fri 20', value: '2023-10-20' },
+              { label: 'Sat 21', value: '2023-10-21' },
+              { label: 'Sun 22', value: '2023-10-22' }
             ]
         }
       - { label: 'Time', name: 'time', widget: 'string', hint: 'E.g. 10:00 - 12:00' }
