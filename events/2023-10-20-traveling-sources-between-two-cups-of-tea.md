@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 year: 2023
-title: Traveling sources, between two cups of tea
+title: "Traveling Sources: Between Two Cups of Tea"
 byline: "Storytelling evening at Kaaistudios "
 type: "Interactive evening with performances "
 author: "Organized by Hoda Siahtiri, Hari Prasad Sacré, Arshia Ali Azmat "
