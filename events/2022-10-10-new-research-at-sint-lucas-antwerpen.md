@@ -7,7 +7,7 @@ byline: Research presentations
 type: Seminar
 author: "Tundé Adefioye, Imane Benyecif Khoutoul, Charine Gokceyan, Ruth Loos,
   Joud Toamah, Saskia Van der Gucht "
-date: 2022-10-10
+date: 2023-10-16
 time: 14:00 - 17:00
 location: "Showroom - Sint Lucas Antwerpen "
 main_image: https://ucarecdn.com/0726d64d-3637-4646-b048-fb97b6896fa4/
