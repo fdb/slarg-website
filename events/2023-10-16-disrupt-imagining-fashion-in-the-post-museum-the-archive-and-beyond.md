@@ -76,15 +76,19 @@ Welcome + introduce the intention
 * Cabinet Stories and Decentering The Museum (Alison Moloney)
 * Decolonial Curatorial Practices (Erica de Greef) 
 * The Making of Archives Using Fiction (Pierre-Antoine Vettorello)  
-* Words on the exhibition “Pagnes Africains” and curating African textiles in Belgium (Nyanchama Okemwa)
+* Words on the exhibition 'Pagnes Africains' and curating African textiles in Belgium (Nyanchama Okemwa)
 * Maison Joste Casablanca: Whose Heritage to Care for? (Angela Jansen and Karolien de Clippel)
 * screening of designer Aidan Muis and Khumo Morojelo’s short film documentary DUNUSA: Life of a Garment (2023, Johannesburg, ZA). 
+
+
 
 1pm-2pm
 
 *LUNCHTIME* 
 
 Location: Van Schoonbekestraat 143, 2018 Antwerpen
+
+
 
 2pm-5pm  
 
@@ -97,15 +101,19 @@ Location: Van Schoonbekestraat 143, 2018 Antwerpen
 
     Location: Zirkstraat 36, 2000 Antwerpen
 
-  5.30pm 
+
+
+5.30pm 
 
 *EARLY DINNER*
 
 Location: Van Schoonbekestraat 143, 2018 Antwerpen
 
+
+
 7pm- 9pm 
 
-ROUND TABLE 
+*ROUND TABLE* 
 
 Location: Van Schoonbekestraat 143, 2018 Antwerpen
 
