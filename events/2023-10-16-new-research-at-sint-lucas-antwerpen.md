@@ -2,8 +2,8 @@
 layout: event.liquid
 tags: event
 year: 2023
-title: "New Research at Sint Lucas Antwerpen "
-byline: Research presentations
+title: "Introducing New Research "
+byline: "Research presentations from six Sint Lucas Antwerpen Research Group members "
 type: Seminar
 author: "Tundé Adefioye, Imane Benyecif Khoutoul, Charine Gokceyan, Ruth Loos,
   Joud Toamah, Saskia Van der Gucht "
