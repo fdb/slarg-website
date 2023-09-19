@@ -1,7 +1,7 @@
 ---
 layout: event.liquid
 tags: event
-year: "2023"
+year: 2023
 title: A Day of Presentations
 byline: Researchers share their findings and insights
 type: Seminar
