@@ -4,8 +4,8 @@ tags: event
 year: "2023"
 title: The World Like a Jewel in the Hand (2022)
 byline: "Documentary film directed by Ariella Azoulay "
-type: Film screening
-author: Hoda Siahtiri
+type: Screening
+author: "Organized by Hoda Siahtiri .... "
 date: 2023-10-18
 time: 20:00
 location: Cinema Palace - Brussels
