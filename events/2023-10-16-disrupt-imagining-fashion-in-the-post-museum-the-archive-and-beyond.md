@@ -7,7 +7,7 @@ byline: Two-days research seminar with walking tours and presentations
 type: Research Seminar
 author: "Pierre-Antoine Vettorello "
 date: 2023-10-16
-time: Tuesday, October 3rd & Wednesday, October 4th 2023
+time: Tuesday, October 3rd & Wednesday, October 4th
 location: Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/6e12ab73-949d-45d4-8da1-d9174ef0bf4f/
 ---
