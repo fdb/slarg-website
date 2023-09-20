@@ -5,7 +5,9 @@ year: 2023
 title: Disrupt! Imagining Fashion in the Post-Museum, the Archive and Beyond
 byline: Two-days research seminar with walking tours and presentations
 type: Research Seminar
-author: "Pierre-Antoine Vettorello "
+author: "Pierre-Antoine Vettorello, supported by  Sint Lucas Antwerpen - Karel
+  de Grote University College - University of Antwerp - Antwerp Research
+  Institute for the Arts (ARIA) "
 date: 2023-10-16
 time: Tuesday, October 3rd & Wednesday, October 4th
 location: Campus Sint Lucas Antwerpen
@@ -99,7 +101,7 @@ Location: Van Schoonbekestraat 143, 2018 Antwerpen
   Location: Nationalestraat 28, 2000 Antwerpen
 * Doek vzw 
 
-    Location: Zirkstraat 36, 2000 Antwerpen
+  Location: Zirkstraat 36, 2000 Antwerpen
 
 
 
@@ -108,8 +110,6 @@ Location: Van Schoonbekestraat 143, 2018 Antwerpen
 *EARLY DINNER*
 
 Location: Van Schoonbekestraat 143, 2018 Antwerpen
-
-
 
 7pm- 9pm 
 
