@@ -15,6 +15,10 @@ main_image: https://ucarecdn.com/6e12ab73-949d-45d4-8da1-d9174ef0bf4f/
 ---
 Cover image: graphic design by Felix Godefroy
 
+
+
+
+
 ### Introduction
 
 Recent developments from scholars, curators, and educators thinking from and with the global south have introduced new perspectives to research at the intersection of fashion and museum culture studies. Urgent, critical and radical interventions are called upon to address the complicity of museums in the colonial violence of the past that continues in the present through the makeup of their collections, the taxonomies that govern these museums and their practices, and the narrow definitions of fashion that support hegemonic, western aesthetics and capitalist standards. 
@@ -35,21 +39,7 @@ We wish to Disrupt! through these perspectives:
 
 This research seminar aims to support critical discussions and offers a starting point for future collaborations and collective actions.
 
-### Guest speakers:
 
-Erica de Greef, curator, researcher and co-founder of the African Fashion Research Institute (AFRI), Cape Town, ZA
-
-Alison Moloney, curator, writer, researcher. Project “Cabinet Stories”, London, UK
-
-Pierre-Antoine Vettorello, designer and researcher - PhD Research Fellow at Sint Lucas Antwerp & University of Antwerp (ARIA), BE
-
-Angela Jansen, researcher and founder of the Research Collective for Decoloniality and Fashion (RCDF), BE
-
-Karolien de Clippel, Director of the ModeMuseum in Hasselt, BE
-
-Nyanchama Okemwa, curator, researcher, artist and chair of European Network Against Racism (ENAR), BE
-
-Nashilongweshipwe Mushaandja, performer, educator and writer, NA/ZA
 
 ### Registration
 
@@ -58,6 +48,8 @@ Registration via this [form.](https://forms.gle/LuBMFMEWDpZoeeEb6)
 Deadline for registration: Wednesday, September 27th 
 
 Coordinator email: Pierre-Antoine Vettorello pierre-antoine.vettorello@student.uantwerpen.be
+
+
 
 ### Event Schedule
 
@@ -96,12 +88,13 @@ Location: Van Schoonbekestraat 143, 2018 Antwerpen
 
 *WALKING TOUR* 
 
-* ModeMuseum Antwerpen (MOMU) 
+ModeMuseum Antwerpen (MOMU) 
 
-  Location: Nationalestraat 28, 2000 Antwerpen
-* Doek vzw 
+Location: Nationalestraat 28, 2000 Antwerpen
 
-  Location: Zirkstraat 36, 2000 Antwerpen
+Doek vzw 
+
+Location: Zirkstraat 36, 2000 Antwerpen
 
 
 
@@ -110,6 +103,8 @@ Location: Van Schoonbekestraat 143, 2018 Antwerpen
 *EARLY DINNER*
 
 Location: Van Schoonbekestraat 143, 2018 Antwerpen
+
+
 
 7pm- 9pm 
 
@@ -121,9 +116,15 @@ Provocation #2 **Nashilongweshipwe Mushaandja (virtual provocation)**
 
 Round Table Discussion 
 
+
+
+
+
 #### WEDNESDAY 4
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+
 
 10am-12pm  
 
@@ -138,3 +139,23 @@ Discussion and info-session on writing and documenting the seminar for a zine pu
 How should we collect texts and knowledge for the zine publication to ensure the best possible format?
 
 Closing remarks
+
+
+
+
+
+### Guest speakers (bios)
+
+Erica de Greef, curator, researcher and co-founder of the African Fashion Research Institute (AFRI), Cape Town, ZA
+
+Alison Moloney, curator, writer, researcher. Project “Cabinet Stories”, London, UK
+
+Pierre-Antoine Vettorello, designer and researcher - PhD Research Fellow at Sint Lucas Antwerp & University of Antwerp (ARIA), BE
+
+Angela Jansen, researcher and founder of the Research Collective for Decoloniality and Fashion (RCDF), BE
+
+Karolien de Clippel, Director of the ModeMuseum in Hasselt, BE
+
+Nyanchama Okemwa, curator, researcher, artist and chair of European Network Against Racism (ENAR), BE
+
+Nashilongweshipwe Mushaandja, performer, educator and writer, NA/ZA
