@@ -12,7 +12,7 @@ time: October the 5th and the 6th, 10am – 5pm
 location: Pianofabriek, Brussels (Rue du Fort 35, 1060 Saint-Gilles)
 main_image: https://ucarecdn.com/80220e57-61d8-4674-881f-23b7534f4fe1/
 images:
-  - https://ucarecdn.com/c997bb79-5856-4ace-a85b-93576eff7557/
+  - https://ucarecdn.com/66a966fc-dccf-4822-a671-8e14c71a27b3/
 ---
 ### Introduction
 
