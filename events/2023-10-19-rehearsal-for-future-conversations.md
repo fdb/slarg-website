@@ -5,7 +5,7 @@ year: 2023
 title: Rehearsal for Future Conversations
 byline: Lecture performances on the voice + walking tour
 type: "One-day Workshop "
-author: Elephy
+author: elephy
 date: 2023-10-19
 time: 10:00 - 15:00
 location: MORPHO - Ploegstraat 27, 2018 Antwerpen
