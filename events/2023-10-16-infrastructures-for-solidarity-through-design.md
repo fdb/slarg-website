@@ -11,7 +11,8 @@ date: 2023-10-16
 time: "October the 5th and the 6th "
 location: Pianofabriek, Brussels
 main_image: https://ucarecdn.com/80220e57-61d8-4674-881f-23b7534f4fe1/
-images: null
+images:
+  - https://ucarecdn.com/c997bb79-5856-4ace-a85b-93576eff7557/
 ---
 ### Introduction
 
