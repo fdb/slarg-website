@@ -5,11 +5,11 @@ year: 2023
 title: "Infrastructures For Solidarity Through Design "
 byline: A Disarming Design workshop on notions of fairness, glossaries and ecosystems
 type: Symposium & Workshop
-author: "Annelys De Vet, Annelys Devet, Sulaiman Saleh, Siwar Krai(y)tem & Rasha
-  Dakkak, Trees Candaele (Femimain) and Ratib Bakri. "
+author: "Annelys Devet, Sulaiman Saleh, Siwar Krai(y)tem & Rasha Dakkak, Trees
+  Candaele (Femimain) and Ratib Bakri. "
 date: 2023-10-16
-time: "October the 5th and the 6th "
-location: Pianofabriek, Brussels
+time: October the 5th and the 6th, 10am – 5pm
+location: Pianofabriek, Brussels (Rue du Fort 35, 1060 Saint-Gilles)
 main_image: https://ucarecdn.com/80220e57-61d8-4674-881f-23b7534f4fe1/
 images:
   - https://ucarecdn.com/c997bb79-5856-4ace-a85b-93576eff7557/
