@@ -11,6 +11,8 @@ date: 2023-10-17
 time: 10:00 - 17:00
 location: Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/66e2d60c-803d-48c9-854e-d761be143718/
+images:
+  - https://ucarecdn.com/8ae20d13-0505-4c57-87b6-15b9190ebd52/
 ---
 Seven researchers will finalize their research by the end of this year or the beginning of 2024. 
 
