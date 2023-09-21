@@ -23,5 +23,9 @@ It will be build around three leading questions:
 * What is your research question?
 * What did you or will you do to find an answer to that question? 
 
-  + Illustrate this (when possible)?
+  * Illustrate this (when possible)?
 * What is your answer to your question (final research projects)?
+
+
+
+The PhD research 'Disarming Design' by Annelys de Vet centres around three self-initiated long-term participative design projects that engage with social and political struggles, in close collaboration with people who fight against social or political oppression. They are the bottom-up cartographic publishing platform ’Subjective Editions’, the thought provoking design label ‘Disarming Design from Palestine’ and the temporary masters programme ‘Disarming Design’. With her research De Vet fundamentally asks questions about these practices and contextualises the collaborations, aesthetics and methodologies. What is design’s potential to foster collaboration and change? How can design disarm the status quo?
