@@ -23,7 +23,7 @@ Tapestries: 'inevitable' exoticism and consumption.
 
 Three artists will ... 
 
-Hussein Shikha will talk about the design choices he made for the new piece he will be showing at Extra City. He will give an insight into the conflicts and challenges he experiences. and also of course my worries about it. 
+Hussein Shikha will talk about the design choices he made for the carpet piece he will be showing at Extra City. Why are certain elements combined? What do the drawing refer to? Apart from the themes and techniques involved, he will give an insight into the conflicts and challenges he experiences in the making process. 
 
 \[Link to exhibition CARPETLAND]
 
@@ -37,7 +37,7 @@ Tapestries have been one of the most prestigious art forms throughout centuries.
 
 Artists: Igshaan Adams, Saiqa Ejaz,  Khalil Rabah, Golnesa Rezaneshad, Hussein Shikha, Noel W Anderson, Jennifer TEE
 
-### Schedule 
+### Schedule
 
 Morning: 
 
