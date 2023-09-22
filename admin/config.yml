@@ -45,17 +45,12 @@ collections:
       - {
           label: 'Date',
           name: 'date',
-          widget: 'select',
-          options:
-            [
-              { label: 'Mon 16', value: '2023-10-16' },
-              { label: 'Tue 17', value: '2023-10-17' },
-              { label: 'Wed 18', value: '2023-10-18' },
-              { label: 'Thu 19', value: '2023-10-19' },
-              { label: 'Fri 20', value: '2023-10-20' },
-              { label: 'Sat 21', value: '2023-10-21' },
-              { label: 'Sun 22', value: '2023-10-22' }
-            ]
+          widget: 'datetime',
+          default: '2023-10-16',
+          format: 'YYYY-MM-DD',
+          date_format: 'DD/MM/YYYY',
+          time_format: false,
+          hint: 'Research Week is from Mon 16 - Sun 22 Oct 2023.'
         }
       - { label: 'Time', name: 'time', widget: 'string', hint: 'E.g. 10:00 - 12:00' }
       - { label: 'Location', name: 'location', widget: 'string', default: 'Sint Lucas Antwerpen' }
