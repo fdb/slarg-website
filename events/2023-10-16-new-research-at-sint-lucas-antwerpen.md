@@ -23,7 +23,7 @@ Six researchers are presenting and introducing their research question and the m
 
 Each presentation lasts 30 min, Q&A included. 
 
-Ruth Loos: In the project "Closer than your jugular vein" (Qur'an 50:16), I explore qualities of the religious book, specifically القرآن الكريم. The search for the multiple identity of this worldly, inter-worldly and other-worldly book proceeds through questions such as: Where/how/when does The Book unfold? I explore 'bookness' through the creation of two communicating works: a sacred text-based, conceptual collection ملامسة الحروف and an artistic-visual collection حديقة قرآنية En route, there is space for experiential and sensory book/faith practice.
+**Ruth Loos**: In the project "Closer than your jugular vein" (Qur'an 50:16), I explore qualities of the religious book, specifically القرآن الكريم. The search for the multiple identity of this worldly, inter-worldly and other-worldly book proceeds through questions such as: Where/how/when does The Book unfold? I explore 'bookness' through the creation of two communicating works: a sacred text-based, conceptual collection ملامسة الحروف and an artistic-visual collection حديقة قرآنية En route, there is space for experiential and sensory book/faith practice.
 
 Respondent(s):
 
