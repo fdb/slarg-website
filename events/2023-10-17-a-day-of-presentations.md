@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 year: 2023
-title: When Research Comes to a Close
+title: Closing Time
 byline: Researchers share their findings and insights
 type: Seminar
 author: Annelys De Vet, Helen Dowling, Irma Földényi & Saskia Van der Gucht,
