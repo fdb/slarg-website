@@ -25,8 +25,6 @@ Each presentation lasts 30 min, Q&A included.
 
 Appointed respondent(s) from the Sint Lucas Antwerpen Research Group will launch the first question after each presentation.  
 
-
-
 ### Research topics
 
 **Irma** 
@@ -37,11 +35,11 @@ Appointed respondent(s) from the Sint Lucas Antwerpen Research Group will launch
 
 **Saskia** 
 
-**Joud** 
+**Joud** **Toamah:** "Courtyard of Memory" is a research that centers the practice of طاسة الرعبة or fear soothing bowls, both as a ritualistic practice related to time-space, water and inter-generational relations, and an object with craft knowledges, engraved prayers and traced motifs. How to remember the practice of طاسة الرعبة? How can generational practices of personal and communal protection and medicine be remembered and reactivated in situations of state-violence, erasure, exile and diaspora? I explore these questions through special installations and experimentations with gathering formats based on Courtyard and Barzakh philosophies, poetic imaginaries and critical fabulations.
 
 **Imane & Tundé**
 
-### Line-up 
+### Line-up
 
 Irma : 2 pm
 
