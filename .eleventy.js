@@ -27,8 +27,17 @@ module.exports = function (eleventyConfig) {
 		return `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`;
 	});
 
+	eleventyConfig.addCollection('pre_events_2023', function (collection) {
+		const allEvents = collection
+			.getFilteredByTag('event')
+			.filter((event) => event.data.date?.getFullYear() === 2023 && event.data.date?.getDate() < 16);
+		return allEvents;
+	});
+
 	eleventyConfig.addCollection('events_2023', function (collection) {
-		const allEvents = collection.getFilteredByTag('event').filter((event) => event.data.date?.getFullYear() === 2023);
+		const allEvents = collection
+			.getFilteredByTag('event')
+			.filter((event) => event.data.date?.getFullYear() === 2023 && event.data.date?.getDate() >= 16);
 		return groupEventsByWeekday(allEvents);
 	});
 	eleventyConfig.addCollection('events_2022', function (collection) {

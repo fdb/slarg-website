@@ -4,10 +4,10 @@ tags: event
 year: "2023"
 title: "Challenging Complicity and Imagining the Post-Museum: Fashion Museums
   and Decoloniality"
-byline: XXXXX
+byline: 3-4 October 2023
 type: Workshop
 author: Pierre-Antoine Vettorello
-date: 2023-10-18
+date: 2023-10-03
 time: 14:00 - 16:00
 location: Advanced Master room - Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/1da8bf9a-941f-4eb8-b924-94598a56fb4a/
