@@ -5,19 +5,13 @@ year: 2023
 title: Disrupt! Imagining Fashion in the Post-Museum, the Archive and Beyond
 byline: Two-days research seminar with walking tours and presentations
 type: Research Seminar
-author: "Pierre-Antoine Vettorello, supported by  Sint Lucas Antwerpen - Karel
-  de Grote University College - University of Antwerp - Antwerp Research
-  Institute for the Arts (ARIA) "
+author: Pierre-Antoine Vettorello
 date: 2023-10-16
 time: Tuesday, October 3rd & Wednesday, October 4th
 location: Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/6e12ab73-949d-45d4-8da1-d9174ef0bf4f/
 ---
 Cover image: graphic design by Felix Godefroy
-
-
-
-
 
 ### Introduction
 
@@ -37,9 +31,7 @@ We wish to Disrupt! through these perspectives:
 * Co-creating communities
 * Re-writing histories and exploring through fashion’s potential histories (Azoulay)
 
-This research seminar aims to support critical discussions and offers a starting point for future collaborations and collective actions.
-
-
+This research seminar aims to support critical discussions and offers a starting point for future collaborations and collective actions. 
 
 ### Registration
 
@@ -48,8 +40,6 @@ Registration via this [form.](https://forms.gle/LuBMFMEWDpZoeeEb6)
 Deadline for registration: Wednesday, September 27th 
 
 Coordinator email: Pierre-Antoine Vettorello pierre-antoine.vettorello@student.uantwerpen.be
-
-
 
 ### Event Schedule
 
@@ -74,15 +64,11 @@ Welcome + introduce the intention
 * Maison Joste Casablanca: Whose Heritage to Care for? (Angela Jansen and Karolien de Clippel)
 * screening of designer Aidan Muis and Khumo Morojelo’s short film documentary DUNUSA: Life of a Garment (2023, Johannesburg, ZA). 
 
-
-
 1pm-2pm
 
 *LUNCHTIME* 
 
 Location: Van Schoonbekestraat 143, 2018 Antwerpen
-
-
 
 2pm-5pm  
 
@@ -96,15 +82,11 @@ Doek vzw
 
 Location: Zirkstraat 36, 2000 Antwerpen
 
-
-
 5.30pm 
 
 *EARLY DINNER*
 
 Location: Van Schoonbekestraat 143, 2018 Antwerpen
-
-
 
 7pm- 9pm 
 
@@ -116,15 +98,9 @@ Provocation #2 **Nashilongweshipwe Mushaandja (virtual provocation)**
 
 Round Table Discussion 
 
-
-
-
-
 #### WEDNESDAY 4
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-
 
 10am-12pm  
 
@@ -139,10 +115,6 @@ Discussion and info-session on writing and documenting the seminar for a zine pu
 How should we collect texts and knowledge for the zine publication to ensure the best possible format?
 
 Closing remarks
-
-
-
-
 
 ### Guest speakers (bios)
 
@@ -159,3 +131,7 @@ Karolien de Clippel, Director of the ModeMuseum in Hasselt, BE
 Nyanchama Okemwa, curator, researcher, artist and chair of European Network Against Racism (ENAR), BE
 
 Nashilongweshipwe Mushaandja, performer, educator and writer, NA/ZA
+
+
+
+**This research seminar is supported by Sint Lucas Antwerpen - Karel de Grote University College - University of Antwerp - Antwerp Research Institute for the Arts (ARIA)**
