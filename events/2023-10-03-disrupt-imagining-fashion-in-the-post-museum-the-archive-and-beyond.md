@@ -2,26 +2,25 @@
 layout: event.liquid
 tags: event
 year: 2023
-title: Disrupt! Imagining Fashion in the Post-Museum, the Archive and Beyond
-byline: Paper Presentations
-type: Seminar
+title: Indigo Dying & Sibiori Workshop
+byline: Indigo as a Method of Resistance
+type: Workshop
 author: Pierre-Antoine Vettorello
-date: 2023-10-03
-time: 10:00 - 12:00
+date: 2023-10-18
+time: 13:00 - 17:00
 location: "Sint Lucas Antwerpen "
-main_image: https://ucarecdn.com/8631df24-faf9-4495-afb4-6972be086aae/
+main_image: https://ucarecdn.com/b41d4074-d4aa-4b44-9901-c802e828fb7d/
 ---
-Registration [here](https://forms.gle/LuBMFMEWDpZoeeEb6)
+Registration here[](https://forms.gle/LuBMFMEWDpZoeeEb6)
 
-By bringing together presentations that deviate from the colonial conventions of knowledge making, we aim to explore the paradox of fashion museums as both places of colonial violence and sites for decolonial initiatives. Through poetry, photography and performance, a making thought-space, a shared dialogue, a reading, a walkabout inviting fashion-led urban-thinking, and more, we aim to find ways to journey through and with the violence towards decolonial healing. Can we move beyond/confront colonial complicity within the house of colonial violence? Can the fashion museum be reimagined out of its current framework of hoarding/storing colonial fashion knowledge? This research seminar aims to support critical discussions and offers a starting point for future collaborations and collective actions.
+In this workshop, we will explore the art of dyeing natural textiles using Indigo, a plant-based dyeing method celebrated globally for its symbolic and spiritual significance. We are thrilled to have Belgian fiber artist and educator, Live Jacob, as our guide in mastering the techniques of rejuvenating old garments into fresh, vibrant creations.
 
-Provocation #1 **Decentering the Exhibition Narratives**
+Please note that this workshop has limited available seats, and we kindly request participants to bring a cherished garment, preferably in a light natural fiber, that you wish to transform using this enchanting blue dye. 
 
-Welcome + introduce the intention 
+Changing the canon and combating colonially of Fashion means also collectively practicing ancient techniques. We will re-imagine, re-make and re-indigenise our garments. 
 
-* Cabinet Stories and Decentering The Museum (Alison Moloney)
-* Decolonial Curatorial Practices (Erica de Greef) 
-* The Making of Archives Using Fiction (Pierre-Antoine Vettorello)  
-* Words on the exhibition “Pagnes Africains” and curating African textiles in Belgium (Nyanchama Okemwa)
-* Maison Joste Casablanca: Whose Heritage to Care for? (Angela Jansen and Karolien de Clippel)
-* screening of designer Aidan Muis and Khumo Morojelo’s short film documentary DUNUSA: Life of a Garment (2023, Johannesburg, ZA).
+Duration: 4h
+
+
+
+Image: "File:Korean natural dyeNaju South Korea 2015-01-17 (3).jpg" by Mar del Este is licensed under CC BY-SA 4.0.
