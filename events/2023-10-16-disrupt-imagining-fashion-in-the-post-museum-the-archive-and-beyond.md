@@ -3,15 +3,18 @@ layout: event.liquid
 tags: event
 year: 2023
 title: Disrupt! Imagining Fashion in the Post-Museum, the Archive and Beyond
-byline: Two-days research seminar with walking tours and presentations
+byline: Research seminar with presentations, a walking tours and a round table
+  discussion
 type: Research Seminar
 author: Pierre-Antoine Vettorello
 date: 2023-10-03
-time: Tuesday, October 3rd & Wednesday, October 4th
+time: Tuesday, October 3rd
 location: Campus Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/6e12ab73-949d-45d4-8da1-d9174ef0bf4f/
 ---
 Cover image: graphic design by Felix Godefroy
+
+Registration [via this link](https://forms.gle/SuPY1qHrRFg2qNqB6)
 
 ### Introduction
 
@@ -131,7 +134,5 @@ Karolien de Clippel, Director of the ModeMuseum in Hasselt, BE
 Nyanchama Okemwa, curator, researcher, artist and chair of European Network Against Racism (ENAR), BE
 
 Nashilongweshipwe Mushaandja, performer, educator and writer, NA/ZA
-
-
 
 **This research seminar is supported by Sint Lucas Antwerpen - Karel de Grote University College - University of Antwerp - Antwerp Research Institute for the Arts (ARIA)**
