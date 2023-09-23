@@ -4,22 +4,18 @@ tags: event
 year: "2023"
 title: "Challenging Complicity and Imagining the Post-Museum: Fashion Museums
   and Decoloniality"
-byline: 3-4 October 2023
+byline: 4 October 2023
 type: Workshop
 author: Pierre-Antoine Vettorello
-date: 2023-10-18
+date: 2023-10-04
 time: 14:00 - 16:00
 location: Advanced Master room - Sint Lucas Antwerpen
-main_image: https://ucarecdn.com/1da8bf9a-941f-4eb8-b924-94598a56fb4a/
+main_image: https://ucarecdn.com/e5eaa488-5773-4f7e-b4cb-73840af018ea/
 ---
-2 h workshop of zine making and creative writing, part of the mini-symposium
+2h workshop about zine-making and creative writing, part of the research seminar 'Disrupt! Imagining Fashion in the Post-Museum, the Archive and Beyond' (hyperlink with this pre-event)
 
-
-
-Make a link with the pre-event (clarify the relationship between research seminar and this workshop)
-
-'Disrupt! Imagining Fashion in the Post-Museum, the Archive and Beyond' (hyperlink with this pre-event)
-
-3 & 4 October 2023 - Sint Lucas Antwerp
+During this workshop, we will explore the concept of creating a zine that will incorporate elements from our research seminar discussions. Participants will uncover the rationale behind producing this publication, its underlying purpose, and engage in conversations about its format, potential avenues, and opportunities for collaboration.
 
 Research seminar initiated by Pierre-Antoine Vettorello
+
+Image: "Colorado College Zine Collection" by Colorado College Tutt Library is licensed under CC BY 2.0.
