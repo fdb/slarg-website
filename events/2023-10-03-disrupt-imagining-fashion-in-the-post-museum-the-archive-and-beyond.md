@@ -7,7 +7,7 @@ byline: Indigo as a Method of Resistance
 type: Workshop
 author: Pierre-Antoine Vettorello
 date: 2023-10-18
-time: 13:00 - 17:00
+time: 13:00 - 16:00
 location: Sint Lucas Antwerpen - Adma room
 main_image: https://ucarecdn.com/b41d4074-d4aa-4b44-9901-c802e828fb7d/
 ---
@@ -21,6 +21,6 @@ Please note that this workshop has limited available seats.
 
 Changing the canon and combating colonially of Fashion means also collectively practicing ancient techniques. We will re-imagine, re-make and re-indigenise our garments. 
 
-Duration: 4h
+Duration: 3h
 
 Image: "File:Korean natural dyeNaju South Korea 2015-01-17 (3).jpg" by Mar del Este is licensed under CC BY-SA 4.0.
