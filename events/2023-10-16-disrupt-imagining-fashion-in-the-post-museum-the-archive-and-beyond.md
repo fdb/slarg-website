@@ -14,7 +14,7 @@ main_image: https://ucarecdn.com/6e12ab73-949d-45d4-8da1-d9174ef0bf4f/
 ---
 Cover image: graphic design by Felix Godefroy
 
-Registration [via this link](https://forms.gle/SuPY1qHrRFg2qNqB6)
+Registration [via this form](https://forms.gle/SuPY1qHrRFg2qNqB6)
 
 ### Introduction
 
