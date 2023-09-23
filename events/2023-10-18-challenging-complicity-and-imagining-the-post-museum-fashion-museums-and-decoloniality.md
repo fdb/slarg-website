@@ -16,6 +16,18 @@ main_image: https://ucarecdn.com/e5eaa488-5773-4f7e-b4cb-73840af018ea/
 
 During this workshop, we will explore the concept of creating a zine that will incorporate elements from our research seminar discussions. Participants will uncover the rationale behind producing this publication, its underlying purpose, and engage in conversations about its format, potential avenues, and opportunities for collaboration.
 
+
+
+10:00 - 12:00  ZINE MAKING
+
+Provocation #3 Pierre-Antoine Vettorello
+
+* Discussion and info-session on writing and documenting the seminar for a zine publication
+* How should we collect texts and knowledge for the zine publication to ensure the best possible format?
+* Closing remarks
+
+
+
 Research seminar initiated by Pierre-Antoine Vettorello
 
 Image: "Colorado College Zine Collection" by Colorado College Tutt Library is licensed under CC BY 2.0.
