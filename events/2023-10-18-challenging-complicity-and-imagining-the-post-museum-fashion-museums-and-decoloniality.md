@@ -2,13 +2,13 @@
 layout: event.liquid
 tags: event
 year: "2023"
-title: "Challenging Complicity and Imagining the Post-Museum: Fashion Museums
-  and Decoloniality"
+title: Zine Making Session - Disrupt! Imagining Fashion in the Post-Museum, the
+  Archive and Beyond
 byline: 4 October 2023
 type: Workshop
 author: Pierre-Antoine Vettorello
 date: 2023-10-04
-time: 14:00 - 16:00
+time: 10:00 - 12:00
 location: Advanced Master room - Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/e5eaa488-5773-4f7e-b4cb-73840af018ea/
 ---
