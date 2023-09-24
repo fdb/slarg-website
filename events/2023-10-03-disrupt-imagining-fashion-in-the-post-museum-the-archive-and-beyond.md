@@ -9,11 +9,10 @@ author: Pierre-Antoine Vettorello
 date: 2023-10-18
 time: 13:00 - 16:00
 location: Sint Lucas Antwerpen - Adma room
-main_image: https://ucarecdn.com/b41d4074-d4aa-4b44-9901-c802e828fb7d/
-images:
-  - https://ucarecdn.com/28858b5d-24f0-4208-be6e-1352fd4dce24/
+main_image: https://ucarecdn.com/6ee53f00-42bf-489c-a67e-f9d78521f333/
+images: null
 ---
-Cover image: 'File:Korean natural dyeNaju South Korea 2015-01-17 (3).jpg' by Mar del Este is licensed under CC BY-SA 4.0.
+Cover image Martine Bos: "Lieve Bluefingers linen coat, 'dégradé' dyed in natural indigo, finished with an arashi shibori"
 
 ### Introduction
 
@@ -24,8 +23,6 @@ In this workshop, we will explore the art of dyeing natural textiles using Indig
 We kindly request participants to bring a cherished (small) garment, preferably in a light natural fiber, that you wish to transform using this enchanting blue dye. 
 
 Changing the canon and combating colonially of Fashion means also collectively practicing ancient techniques. We will learn how to re-imagine, re-make and re-indigenise our garments. 
-
-
 
 Duration: 3h
 
