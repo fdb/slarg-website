@@ -7,7 +7,7 @@ byline: A Disarming Design workshop on notions of fairness, glossaries and ecosy
 type: Symposium & Workshop
 author: "Annelys Devet, Sulaiman Saleh, Siwar Krai(y)tem & Rasha Dakkak, Trees
   Candaele (Femimain) and Ratib Bakri. "
-date: 2023-10-16
+date: 2023-10-05
 time: October the 5th and the 6th, 10am – 5pm
 location: Pianofabriek, Brussels (Rue du Fort 35, 1060 Saint-Gilles)
 main_image: https://ucarecdn.com/80220e57-61d8-4674-881f-23b7534f4fe1/
