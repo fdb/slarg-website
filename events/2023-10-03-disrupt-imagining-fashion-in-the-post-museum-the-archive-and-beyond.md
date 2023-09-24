@@ -10,6 +10,8 @@ date: 2023-10-18
 time: 13:00 - 16:00
 location: Sint Lucas Antwerpen - Adma room
 main_image: https://ucarecdn.com/b41d4074-d4aa-4b44-9901-c802e828fb7d/
+images:
+  - https://ucarecdn.com/28858b5d-24f0-4208-be6e-1352fd4dce24/
 ---
 Cover image: 'File:Korean natural dyeNaju South Korea 2015-01-17 (3).jpg' by Mar del Este is licensed under CC BY-SA 4.0.
 
@@ -17,11 +19,11 @@ Cover image: 'File:Korean natural dyeNaju South Korea 2015-01-17 (3).jpg' by Mar
 
 In this workshop, we will explore the art of dyeing natural textiles using Indigo, a plant-based dyeing method celebrated globally for its symbolic and spiritual significance. We are thrilled to have Ghent-based fiber artist and educator, **Lieve Jacob**, as our guide in mastering the techniques of rejuvenating old garments into fresh, vibrant creations.
 
-### What
+### What?
 
 We kindly request participants to bring a cherished (small) garment, preferably in a light natural fiber, that you wish to transform using this enchanting blue dye. 
 
-Changing the canon and combating the coloniality of Fashion also means collectively practicing ancient techniques. We will re-imagine, re-make and re-indigenise our garments. 
+Changing the canon and combating colonially of Fashion means also collectively practicing ancient techniques. We will re-imagine, re-make and re-indigenise our garments. 
 
 Duration: 3h
 
@@ -33,4 +35,4 @@ Please note that this workshop has limited available seats.
 
 ### Bios
 
-Lieve Jacob ?
+[Lieve Jacob](<http://www.bluefingers.be >) (aka blue fingers) is a textile artist and teacher, specialized in weaving and natural dyes, with a particular passion for indigo. She travelled the world round to deepen her knowledge of traditional dying and weaving techniques (to among others, India, Vietnam, Thailand, Laos, Cambodia, Indonesia, China, Myanmar, Guatemala, Bolivia). She creates delicate works as a reaction to the negativity and violence around her, inviting viewers to explore intricate details and embrace vulnerability. She has recently showed her work dealing with the theme of migrations using indigo and photographs.
