@@ -13,11 +13,9 @@ main_image: https://ucarecdn.com/b41d4074-d4aa-4b44-9901-c802e828fb7d/
 ---
 Cover image: 'File:Korean natural dyeNaju South Korea 2015-01-17 (3).jpg' by Mar del Este is licensed under CC BY-SA 4.0.
 
-
-
 ### Introduction
 
-In this workshop, we will explore the art of dyeing natural textiles using Indigo, a plant-based dyeing method celebrated globally for its symbolic and spiritual significance. We are thrilled to have Ghent-based fiber artist and educator, **Live Jacob**, as our guide in mastering the techniques of rejuvenating old garments into fresh, vibrant creations.
+In this workshop, we will explore the art of dyeing natural textiles using Indigo, a plant-based dyeing method celebrated globally for its symbolic and spiritual significance. We are thrilled to have Ghent-based fiber artist and educator, **Lieve Jacob**, as our guide in mastering the techniques of rejuvenating old garments into fresh, vibrant creations.
 
 ### What?
 
@@ -27,15 +25,11 @@ Changing the canon and combating colonially of Fashion means also collectively p
 
 Duration: 3h
 
-
-
-### Registration 
+### Registration
 
 You can register [via this link](https://forms.gle/mk4uUmMeVFMvtzxbA)
 
 Please note that this workshop has limited available seats.
-
-
 
 ### Bios
 
