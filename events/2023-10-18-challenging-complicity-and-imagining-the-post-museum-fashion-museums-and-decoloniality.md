@@ -12,11 +12,17 @@ time: 10:00 - 12:00
 location: Advanced Master room - Sint Lucas Antwerpen
 main_image: https://ucarecdn.com/e5eaa488-5773-4f7e-b4cb-73840af018ea/
 ---
-2h workshop over zine-making and creative writing, part of the research seminar 'Disrupt! Imagining Fashion in the Post-Museum, the Archive and Beyond' 
+Cover image: 'Colorado College Zine Collection', by Colorado College Tutt Library is licensed under CC BY 2.0.
+
+### Introduction
+
+A two hours workshop on zine-making and creative writing - part of the research seminar 'Disrupt! Imagining Fashion in the Post-Museum, the Archive and Beyond' (Oct 3-4). 
 
 During this workshop, we will explore the concept of creating a zine that will incorporate elements from our research seminar discussions. Participants will uncover the rationale behind producing this publication, its underlying purpose, and engage in conversations about its format, potential avenues, and opportunities for collaboration.
 
 
+
+### Schedule
 
 10:00 - 12:00  ZINE MAKING
 
@@ -28,6 +34,4 @@ Provocation #3 Pierre-Antoine Vettorello
 
 
 
-Research seminar initiated by Pierre-Antoine Vettorello
-
-Image: "Colorado College Zine Collection" by Colorado College Tutt Library is licensed under CC BY 2.0.
+Research seminar initiated by Pierre-Antoine Vettorello.
