@@ -105,7 +105,7 @@ Round Table Discussion
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-10am-12pm  
+See also [this event page](https://slarg.be/admin/#/collections/events/entries/2023-10-18-challenging-complicity-and-imagining-the-post-museum-fashion-museums-and-decoloniality) for more information! 10am-12pm  
 
 *ZINE MAKING*
 
@@ -118,6 +118,8 @@ Discussion and info-session on writing and documenting the seminar for a zine pu
 How should we collect texts and knowledge for the zine publication to ensure the best possible format?
 
 Closing remarks
+
+
 
 ### Guest speakers (bios)
 
