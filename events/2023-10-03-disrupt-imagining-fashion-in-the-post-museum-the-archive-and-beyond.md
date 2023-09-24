@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 year: 2023
-title: Indigo Dying & Sibiori Workshop
+title: Indigo Dyeing & Shibori Workshop
 byline: The Resistance Through Indigo
 type: Workshop
 author: Pierre-Antoine Vettorello
