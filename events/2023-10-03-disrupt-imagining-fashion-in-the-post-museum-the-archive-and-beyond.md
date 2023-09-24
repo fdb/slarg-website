@@ -3,7 +3,7 @@ layout: event.liquid
 tags: event
 year: 2023
 title: Indigo Dying & Sibiori Workshop
-byline: Indigo as a Method of Resistance
+byline: The Resistance Through Indigo
 type: Workshop
 author: Pierre-Antoine Vettorello
 date: 2023-10-18
