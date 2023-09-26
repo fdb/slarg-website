@@ -35,10 +35,5 @@ Ariella Aïsha Azoulay is an author, curator of anti-colonial archives, film ess
 
 This screening is part of '**[Traveling Sources](https://kaaitheater.be/en/agenda/travelling-sources)**' - a three-day art & reflection program on communities traveling imperial borders carrying endangered sources of storytelling. An established academic accompanies the audience in reconciling with the tales and voices of worlds silenced by imperial history. In the 2023 edition, we invite Ariella Aïsha Azoulay to guide us on an academic, cinematographic and narrative journey on stolen art exhibited in imperial museums. Azoulay invites us to reimagine how displaced communites fleeing into Europe are historically connected to the stolen objects exhibited in European colonial museums. 
 
-Curators: Hari Prasad Sacré, Arshia Ali Azmat & [Hoda Siahtiri](https://docmaniacs.com/hoda-siahtiri/) 
-
-Production: Kaaitheater. 
-
-Co-production: VUB Crosstalks & Cinema Palace. 
-
-With the support of Sint Lucas Antwerpen School of Arts, Constant,...
+Curators: Hari Prasad Sacré, Arshia Ali Azmat & [Hoda Siahtiri](https://docmaniacs.com/hoda-siahtiri/) \
+| production Kaaitheater  | co-production VUB Crosstalks & Cinema Palace | with the support of Sint-Lucas Antwerp, Constant
