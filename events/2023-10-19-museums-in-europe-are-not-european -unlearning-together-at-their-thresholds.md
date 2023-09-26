@@ -24,9 +24,7 @@ Following the lecture, the student platform wedecolonizevub will moderate a pane
 
 20:00-21:00 -  Panel discussion and Q&A
 
-### Bio
 
-Ariella Aïsha Azoulayis an author, curator of anti-colonial archives, film essayist, and theorist of empires and its various technologies (from partition to photography). She is Professor of Modern Culture and Media at the Department of Comparative Literature at Brown University. Her work focuses on unlearning imperial histories, engaging with archives to generate anti-colonial knowledge and generate potential histories.
 
 ### **Tickets and registration**
 
@@ -34,4 +32,12 @@ Ticket prices for this event are available at three different levels: €12, €
 
 More information: <https://www.vub.be/en/event/lecture-ariella-aisha-azoulay>
 
-[](https://www.vub.be/en/event/lecture-ariella-aisha-azoulay)[](https://www.vub.be/en/event/lecture-ariella-aisha-azoulay)
+### Bio
+
+Ariella Aïsha Azoulayis an author, curator of anti-colonial archives, film essayist, and theorist of empires and its various technologies (from partition to photography). She is Professor of Modern Culture and Media at the Department of Comparative Literature at Brown University. Her work focuses on unlearning imperial histories, engaging with archives to generate anti-colonial knowledge and generate potential histories.
+
+### Travelling sources[](https://www.vub.be/en/event/lecture-ariella-aisha-azoulay)
+
+This evening is part of '**Traveling Sources**' - a three-day art & reflec/on program on communi/es traveling imperial borders carrying endangered sources of storytelling. An established academic accompanies the audience in reconciling with the tales and voices of worlds silenced by imperial history. In the 2023 edi/on, we invite Ariella Aïsha Azoulay to guide us on an academic, cinematographic and narra/ve journey on stolen art exhibited in imperial museums. Azoulay invites us to reimagine how displaced communi/es fleeing into Europe are historically connected to the stolen objects exhibited in European colonial museums. 
+
+curators Hari Prasad Sacré, Arshia Ali Azmat & Hoda Siahtiri | production Kaaitheater  | co-production VUB Crosstalks & Cinema Palace | with the support of Sint-Lucas Antwerp, Constant[](https://www.vub.be/en/event/lecture-ariella-aisha-azoulay)[](https://www.vub.be/en/event/lecture-ariella-aisha-azoulay)[](https://www.vub.be/en/event/lecture-ariella-aisha-azoulay)[](https://www.vub.be/en/event/lecture-ariella-aisha-azoulay)[](https://www.vub.be/en/event/lecture-ariella-aisha-azoulay)
