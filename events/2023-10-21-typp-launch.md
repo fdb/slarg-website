@@ -7,32 +7,26 @@ byline: New editions
 type: Launch
 author: Kim Gorus, Ward Heirwegh, Marnie Slater & Joud Toamah
 date: 2023-10-21
-time: 19:00 - 20:00
+time: 20:00 - 21:00
 location: Bar @ Extra City Kunsthal
 main_image: https://ucarecdn.com/b590ff98-e339-46dc-810b-eb896ee9e717/
 images: null
 ---
 Cover image from the new *TYPP*, by Ward Heirwegh, its designer.
 
+
+
 ### Line up of the night
 
-During the launch, Petra Van Brabandt and Marnie Slater will welcome you. And officially launch these two copies of the newest TYPP. 
+The newest editions of *TYPP #9* and *ADMA TYPP #3* will be launced. 
 
-This will be followed by a performative intervention by Mrs. Kovich. (image blow)
-
-*signed, sealed, delivered* 
-
-Performative intervention by Mrs. Kovich
-
-During the launch,* guests will be able to get their fresh AdMa TYPP copy signed, sealed and delivered with limited edition stamps created by contributor Mrs. Kovich especially for the occasion. 
-
-\*The booth will operate on and off according to the mood of its operator and the bureaucratic guidance from above. 
+* Welcome: Petra Van Brabandt & Marnie Slater 
+* *signed, sealed, delivered:* A performative intervention by Mrs. Kovich. During the launch, guests will be able to get their fresh AdMa TYPP copy signed, sealed and delivered with limited edition stamps created by contributor Mrs. Kovich especially for the occasion. The booth will operate on and off according to the mood of its operator and the bureaucratic guidance from above. 
+* Performance Tijana Petrovic 
 
 
 
-
-
-### *TYPP #9* and *ADMA TYPP #3*
+### More on TYPP
 
 TYPP is the journal for artistic research of Sint Lucas School of Arts in Antwerp. It brings together artistic research practices, without any hierarchy or a predefined format. It seeks to offer a forum for the field of artistic research, which is averse to categories and continuously reinvents and reorients itself. The editorial board is responsible for the composition of each periodical.
 
@@ -48,8 +42,6 @@ Its coordinator, Marnie Slater, clarifies its editorial approach:
 
 'It will focus on conversation as a form of exchange, as a relational mode of research, as a collective possibility of knowledge-making, of learning, and of thinking processes made public. We will approach conversation as an expanded field of possibilities that includes interviews, more informal or unstructured exchanges in voice, image or text, intimate moments of connection, and acts of appropriation, mimicry, time travel and translation.'
 
-![](https://ucarecdn.com/bf679ce8-1889-4727-885a-64820e81e1de/)
+![](https://ucarecdn.com/bf679ce8-1889-4727-885a-64820e81e1de/ "Cover image of ADMA TYP #3")
 
-
-
-![](https://ucarecdn.com/2229cc9a-cc34-4603-971f-d9ca0bd80c4d/)
+![](https://ucarecdn.com/2229cc9a-cc34-4603-971f-d9ca0bd80c4d/ "Image by Mrs. Kovich, 2023")
