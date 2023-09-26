@@ -4,8 +4,8 @@ tags: event
 year: 2023
 title: "Travelling Sources: Between Two Cups of Tea"
 byline: "Storytelling evening at Kaaistudios "
-type: "Interactive evening with performances "
-author: "Organized by Hoda Siahtiri, Hari Prasad Sacré, Arshia Ali Azmat "
+type: Interactive evening with performances and exhibition
+author: "Organized by Hoda Siahtiri, Hari Prasad Sacré and Arshia Ali Azmat "
 date: 2023-10-20
 time: 18:00 - 22:30
 location: "KAAISTUDIO'S - Rue Notre-Dame-du-Sommeil 81, 1000 Bruxelles "
@@ -31,7 +31,7 @@ Travelling sources invites the audience for a storytelling evening about displac
 
 \> after buying your ticket, you can book your slot via the reservation mail that will be sent to you. You can book a ticket for either the entire performance or for separate moments.
 
-Recalling History; Sitting number 6; Conjuring A Fork of Tales by Hagar Ophir in collaboration with Juna Suleiman (invited by Ariella Aïsha Azoulay) is a performative séance in which a family object forms the starting point to travel through Algerian history, navigating questions of colonial heritage, ancestral knowledge and displacement. Please note: the séance has a duration of around three hours (with two breaks of around 15 min). The audience books time slots for different moments in the scéance or for the entire scéance.
+Recalling History; Sitting number 6; Conjuring A Fork of Tales by Hagar Ophir in collaboration with Juna Suleiman (invited by Ariella Aïsha Azoulay) is a performative séance in which a family object forms the starting point to travel through Algerian history, navigating questions of colonial heritage, ancestral knowledge and displacement. Please note: the séance has a duration of around three hours (with two breaks around 15 min). The audience books time slots for different moments in the scéance or for the entire scéance.
 
 ### Tickets
 
@@ -53,6 +53,7 @@ Ariella Aïsha Azoulay is an author, curator of anti-colonial archives, film ess
 
 ### Travelling Sources
 
-This evening is part of '**Traveling Sources**' - a three-day art & reflec/on program on communi/es traveling imperial borders carrying endangered sources of storytelling. An established academic accompanies the audience in reconciling with the tales and voices of worlds silenced by imperial history. In the 2023 edi/on, we invite Ariella Aïsha Azoulay to guide us on an academic, cinematographic and narra/ve journey on stolen art exhibited in imperial museums. Azoulay invites us to reimagine how displaced communi/es fleeing into Europe are historically connected to the stolen objects exhibited in European colonial museums. 
+This evening is part of '**[Traveling Sources](https://kaaitheater.be/en/agenda/travelling-sources)**' - a three-day art & reflection program on communities traveling imperial borders carrying endangered sources of storytelling. An established academic accompanies the audience in reconciling with the tales and voices of worlds silenced by imperial history. In the 2023 edition, we invite Ariella Aïsha Azoulay to guide us on an academic, cinematographic and narrative journey on stolen art exhibited in imperial museums. Azoulay invites us to reimagine how displaced communities fleeing into Europe are historically connected to the stolen objects exhibited in European colonial museums. 
 
-curators Hari Prasad Sacré, Arshia Ali Azmat & Hoda Siahtiri | production Kaaitheater  | co-production VUB Crosstalks & Cinema Palace | with the support of Sint-Lucas Antwerp, Constant
+Curators: Hari Prasad Sacré, Arshia Ali Azmat & [Hoda Siahtiri](https://docmaniacs.com/hoda-siahtiri/) \
+| production Kaaitheater  | co-production VUB Crosstalks & Cinema Palace | with the support of Sint-Lucas Antwerp, Constant
