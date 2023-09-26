@@ -17,28 +17,23 @@ This screening is the first evening of a three-day art and reflection program in
 
 Q&A with the director after the screening.
 
-The follow-up events with Azoulay are:
 
-19/10: A Talk with Ariella Aïsha Azoulay, 'Museums in Europe are not European'. For more here.
-
-20/10: A Performance 'Travelling Sources, Between Two Cups of Tea', with Ariella Aïsha Azoulay, Juna Suleiman et Hagar Ophir. For more here. 
 
 ### Tickets
 
-You can buy your tickets here.
+You can buy your tickets [here](https://cinema-palace.be/en/events/special-event-world-jewel-hand-ariella-aisha-azoulay).
 
 ### Bio
 
 Ariella Aïsha Azoulay is an author, curator of anti-colonial archives, film essayist, and theorist of empires and its various technologies (from partition to photography). She is Professor of Modern Culture and Media at the Department of Comparative Literature at Brown University. Her work focuses on unlearning imperial histories, engaging with archives to generate anti-colonial knowledge and generate potential histories.
 
-\---
+The two follow-up events with Azoulay are:
 
-This screening is part of 'Traveling Sources' - a three-day art & reflection program on communities traveling imperial borders carrying endangered sources of storytelling. An established academic accompanies the audience in reconciling with the tales and voices of worlds silenced by imperial history. In the 2023 editioon, we invite Ariella Aïsha Azoulay to guide us on an academic, cinematographic and narra/ve journey on stolen art exhibited in imperial museums. Azoulay invites us to reimagine how displaced communi/es fleeing into Europe are historically connected to the stolen objects exhibited in European colonial museums. 
+* 19/10: A Talk with Ariella Aïsha Azoulay, 'Museums in Europe are not European'. For more [here](https://slarg.be/admin/#/collections/events/entries/2023-10-19-museums-in-europe-are-not-european%E2%80%AF-unlearning-together-at-their-thresholds).
+* 20/10: A Performance 'Travelling Sources, Between Two Cups of Tea', with Ariella Aïsha Azoulay, Juna Suleiman et Hagar Ophir. For more [here.](https://slarg.be/admin/#/collections/events/entries/2023-10-20-traveling-sources-between-two-cups-of-tea) 
 
-Curators: Hari Prasad Sacré, Arshia Ali Azmat & Hoda Siahtiri 
+### Travelling sources
 
-Production: Kaaitheater. 
+This evening is part of '**Traveling Sources**' - a three-day art & reflec/on program on communi/es traveling imperial borders carrying endangered sources of storytelling. An established academic accompanies the audience in reconciling with the tales and voices of worlds silenced by imperial history. In the 2023 edi/on, we invite Ariella Aïsha Azoulay to guide us on an academic, cinematographic and narra/ve journey on stolen art exhibited in imperial museums. Azoulay invites us to reimagine how displaced communi/es fleeing into Europe are historically connected to the stolen objects exhibited in European colonial museums. 
 
-Co-production: VUB Crosstalks & Cinema Palace. 
-
-With the support of Sint Lucas Antwerpen School of Arts, Constant,...
+curators Hari Prasad Sacré, Arshia Ali Azmat & Hoda Siahtiri | production Kaaitheater  | co-production VUB Crosstalks & Cinema Palace | with the support of Sint-Lucas Antwerp, Constant
