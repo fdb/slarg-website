@@ -33,7 +33,14 @@ Ariella Aïsha Azoulay is an author, curator of anti-colonial archives, film ess
 
 \---
 
-This screening is part of '**[Traveling Sources](https://kaaitheater.be/en/agenda/travelling-sources)**' - a three-day art & reflection program on communities traveling imperial borders carrying endangered sources of storytelling. An established academic accompanies the audience in reconciling with the tales and voices of worlds silenced by imperial history. In the 2023 edition, we invite Ariella Aïsha Azoulay to guide us on an academic, cinematographic and narrative journey on stolen art exhibited in imperial museums. Azoulay invites us to reimagine how displaced communites fleeing into Europe are historically connected to the stolen objects exhibited in European colonial museums. 
+This screening is part of '**[Travelling Sources](https://kaaitheater.be/en/agenda/travelling-sources)**' - a three-day art & reflection program on communities traveling imperial borders carrying endangered sources of storytelling. An established academic accompanies the audience in reconciling with the tales and voices of worlds silenced by imperial history. In the 2023 edition, we invite Ariella Aïsha Azoulay to guide us on an academic, cinematographic and narrative journey on stolen art exhibited in imperial museums. Azoulay invites us to reimagine how displaced communities fleeing into Europe are historically connected to the stolen objects exhibited in European colonial museums. 
 
-Curators: [Hari Prasad Sacré](https://be.linkedin.com/in/hari-prasad-sacr%C3%A9-14685b79), Arshia Ali Azmat & [Hoda Siahtiri](https://docmaniacs.com/hoda-siahtiri/) \
+Curators: [Hari Prasad Sacré](https://be.linkedin.com/in/hari-prasad-sacr%C3%A9-14685b79), Arshia Ali Azmat & [Hoda Siahtiri](https://docmaniacs.com/hoda-siahtiri/) 
+
+• **Hoda Siahtiri** is an audio-visual and performance artist and researcher. Her artistic and educational background is in cinema and performing arts. She defines herself as a storyteller who narrates and mediates voices that have been silenced in the past. Siahtiri’s work centers around the feminine body, knowledge and ancestral heritage. She conducts a PhD-research on the singing tradition of Bakhtiari women in the west of Iran at Sint-Lucas Antwerp and University of Antwerp.\
+\
+• **Hari Prasad Sacré** obtained a doctoral degree in educational sciences from Ghent University with his dissertation entitled Reading Illiteracy. His research discusses new forms of illiteracy arising in displaced communities travelling imperial borders. Overall, his academic and artistic work explores cultural translation as a pedagogical project for dialogue, solidarity and emancipation.
+
+• **Arshia Ali Azmat** is a graphic designer, community organiser and researcher affiliated with VUB. Her artistic and graphic work focuses on linking personal and global histories through storytelling and archival explorations. She is also contributing to a research project on vacant spaces in the city and their transformation from temporary occupation sites to permanent social infrastructures. \
+\
 | production Kaaitheater  | co-production VUB Crosstalks & Cinema Palace | with the support of Sint-Lucas Antwerp, Constant
