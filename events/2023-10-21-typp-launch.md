@@ -3,7 +3,7 @@ layout: event.liquid
 tags: event
 year: 2023
 title: TYPP
-byline: New editions
+byline: "An evening of the brand new TYPP, performance and drinks. "
 type: Launch
 author: Kim Gorus, Ward Heirwegh, Marnie Slater & Joud Toamah
 date: 2023-10-21
