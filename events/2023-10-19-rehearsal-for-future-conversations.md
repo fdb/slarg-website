@@ -3,11 +3,11 @@ layout: event.liquid
 tags: event
 year: 2023
 title: Rehearsal for Future Conversations
-byline: Lecture performances on the voice + walking tour
+byline: "Workshop and lecture performance on the voice "
 type: "One-day Workshop "
 author: elephy
 date: 2023-10-19
-time: 10:00 - 15:00
+time: 10:00 - 16:00
 location: MORPHO - Ploegstraat 27, 2018 Antwerpen
 main_image: https://ucarecdn.com/91283b1f-de88-4d50-9571-ff6577224dbb/
 ---
@@ -19,7 +19,7 @@ Information on the exhibition *Double Voiced (*curated by Auguste Orts & Kunstha
 
 ### elephy
 
-This 'collective' consists of four artists who make audiovisual work: Rebecca Jane Arthur, Chloë Delanghe, Eva Giolo, Christina Stuhlberger. 
+It consists of four artists who make audiovisual work: Rebecca Jane Arthur, Chloë Delanghe, Eva Giolo, Christina Stuhlberger. 
 
 Just as the four artists support each other within their shared production and distribution platform, elephy, their works resonate with each other when presented in one space. They share a fascination for the materiality of film and the tactility of sound, contributing to the sensory atmosphere that colours the exhibition space. The playful, multifaceted scenography invites you to discover their individual artistic practices and explore the connections between them.
 
@@ -28,6 +28,8 @@ Just as the four artists support each other within their shared production and d
 Please register for the workshop via email at info@elephy.org.
 
 The participation fee is  (including lunch) 15 euro's. 
+
+Sint Lucas Antwerpen students or researchers can participate for free but must register! 
 
 ### Schedule
 
@@ -58,7 +60,7 @@ In the lecture performance Vienna-based duo of researching artists Maggessi/Moru
 
 Iranian-Canadian artist Mona Hedayati’s interdisciplinary research practice draws on computer art, posthumanism, sound design, and affect studies. In this session, she will lay down her artistic strategy of deconstructing the voice through audio recordings integrated into performative pieces. Hedayati will delve into the codes of affective-embodied sensor-to-sound performances that aim to tap into the senses rather than the logical operation of image and language to communicate the ineffability of her experience as a migrant.
 
-12:45	Joint lunch for all participants byquitapena 
+12:45	Joint lunch for all participants by Quitapena 
 
 14:00	Laszlo Umbreit
 
