@@ -8,7 +8,7 @@ byline: Research seminar with presentations, a walking tours and a round table
 type: Research Seminar
 author: Pierre-Antoine Vettorello
 date: 2023-10-03
-time: Tuesday, October 3rd
+time: 10:00 - 21:00
 location: K.03.09, third floor,  Sint Lucas Antwerpen, Van Schoonbekestraat 143,
   2018 Antwerpen
 main_image: https://ucarecdn.com/6e12ab73-949d-45d4-8da1-d9174ef0bf4f/
@@ -49,7 +49,7 @@ Coordinator email: Pierre-Antoine Vettorello pierre-antoine.vettorello@student.u
 
 #### TUESDAY 3 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-10am-12pm  *PRESENTATIONS:* Decentering the Exhibition Narratives 
+10:00-12:00  *PRESENTATIONS:* Decentering the Exhibition Narratives 
 
 * Cabinet Stories and Decentering The Museum (Alison Moloney)
 * Decolonial Curatorial Practices (Erica de Greef) 
@@ -58,17 +58,15 @@ Coordinator email: Pierre-Antoine Vettorello pierre-antoine.vettorello@student.u
 * Maison Joste Casablanca: Whose Heritage to Care for? (Angela Jansen and Karolien de Clippel)
 * Screening of designer Aidan Muis and Khumo Morojelo’s short film documentary DUNUSA: Life of a Garment (2023, Johannesburg, ZA). 
 
-1pm-2pm *LUNCHTIME* 
+13:00-14:00 *LUNCHTIME* 
 
-2pm-5pm  *WALKING TOUR* 
+14:00-17:00  *WALKING TOUR* 
 
 ModeMuseum Antwerpen (MOMU), Doek vzw 
 
-5.30pm  *EARLY DINNER*
+17:00  *EARLY DINNER*
 
-7pm- 9pm  *ROUND TABLE*  with Nashilongweshipwe Mushaandja (virtual) 
-
-
+19:00-21:00  *ROUND TABLE*  with Nashilongweshipwe Mushaandja (virtual) 
 
 ### Guest speakers (bios)
 
