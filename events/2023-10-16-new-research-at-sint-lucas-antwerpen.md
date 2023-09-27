@@ -14,8 +14,6 @@ main_image: https://ucarecdn.com/8b4477f4-8287-4123-91c4-41399b8c71f1/
 images:
   - https://ucarecdn.com/19accc2c-86da-478b-a7ce-22fedd87e95e/
 ---
-### Introduction
-
 Curious about the new research projects starting at SLARG? Come to our sharing session!  
 
 **Irma Földényi:** **Voices of Materials** is a PhD research project on materiality through a jewellers' eye. How can jewellery act as a performative medium that tells stories about material finitude on a planetary and local scale? Just as the ‘Blue Marble’ image shed new view on Earth, can jewellery, with its small scale in this world, be able to create new, caring ways of relating to planetary processes or hyperobjects we are part of, yet which remain, in their complexity, hard to grasp. From an eco-critical approach, I propose an inquiry that goes beyond the human time scale to materiality. Actively listening to three materials - sand, coal and water - forms the basis for three case studies, and a range of outcomes that explore how materials can register and tell changes of their environments from geological deep-time to contemporary events. 
