@@ -5,8 +5,7 @@ year: 2023
 title: Closing Time SLARG
 byline: Finalized Research Projects SLARG
 type: Research presentations
-author: Annelys De Vet, Helen Dowling, Irma Földényi & Saskia Van der Gucht,
-  Marnie Slater, Robin Vanbesien
+author: Annelys De Vet, Helen Dowling, Marnie Slater, Robin Vanbesien
 date: 2023-10-17
 time: 14:00 - 17:00
 location: Showroom, Sint Lucas Antwerpen, Van Schoonbekestraat 143, 2018 Antwerpen
