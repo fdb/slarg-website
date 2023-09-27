@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 year: 2023
-title: TYPP
+title: "Here's TYPP! "
 byline: "An evening of the brand new TYPP, performance and drinks. "
 type: Launch
 author: Ward Heirwegh, Mrs. Kovich, Marnie Slater & Tijana Petrovic
