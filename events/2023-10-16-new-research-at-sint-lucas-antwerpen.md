@@ -18,9 +18,7 @@ images:
 
 Curious about the new research projects starting at SLARG? Come to our sharing session!  
 
-
-
-**Irma Földényi:** 
+**Irma Földényi:** 'Voices of Materials' is a research project on materiality through a jewellers' eye. How can jewellery act as a performative medium that tells stories about material finitude on a planetary and local scale? Just as the ‘Blue Marble’ image shed new view on Earth, can jewellery, with its small scale in this world, be able to create new, caring ways of relating to planetary processes or hyperobjects we are part of, yet which remain, in their complexity, hard to grasp. From an eco-critical approach, I propose an inquiry that goes beyond the human time scale to materiality. Actively listening to three materials - sand, coal and water - forms the basis for three case studies, and a range of outcomes that explore how materials can register and tell changes of their environments from geological deep-time to contemporary events. 
 
 **Garine Gokceyan:** The PhD project **Exploring Armenian Multiscript Design** investigates the microhistories of Multiscript typography, with a focus on the specificities of diasporic scripts. Taking the Armenian writing system as a laboratory script, I seek to unlearn my westernized design practices and find ways to access written and unwritten archives. The key research questions revolve around the challenges of designing/using contemporary Armenian typefaces and creating discourse around it in the absence of a rulebook, a specific terminology and an understanding of the various perspectives within the diaspora and Հայաստան. 
 
