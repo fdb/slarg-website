@@ -5,7 +5,7 @@ year: 2023
 title: TYPP
 byline: "An evening of the brand new TYPP, performance and drinks. "
 type: Launch
-author: Kim Gorus, Ward Heirwegh, Marnie Slater & Joud Toamah
+author: Ward Heirwegh, Mrs. Kovich, Marnie Slater & Tijana Petrovic
 date: 2023-10-21
 time: 20:00 - 21:00
 location: Bar @ Extra City Kunsthal
@@ -59,4 +59,4 @@ Its coordinator, Marnie Slater, clarifies its editorial approach:
 
 ![](https://ucarecdn.com/bf679ce8-1889-4727-885a-64820e81e1de/ "Cover image of ADMA TYP #3")
 
-![]( "Image by Mrs. Kovich, 2023")
+![]()
