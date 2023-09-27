@@ -47,17 +47,9 @@ Coordinator email: Pierre-Antoine Vettorello pierre-antoine.vettorello@student.u
 
 ### Event Schedule
 
-#### TUESDAY 3
+#### TUESDAY 3 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-10am-12pm  *PRESENTATIONS*
-
-Location: K.03.09, third floor, Van Schoonbekestraat 143, 2018 Antwerpen
-
-Provocation #1: **Decentering the Exhibition Narratives** 
-
-Welcome + introduce the intention 
+10am-12pm  *PRESENTATIONS:* Decentering the Exhibition Narratives 
 
 * Cabinet Stories and Decentering The Museum (Alison Moloney)
 * Decolonial Curatorial Practices (Erica de Greef) 
@@ -68,53 +60,15 @@ Welcome + introduce the intention
 
 1pm-2pm *LUNCHTIME* 
 
-Location: K.03.09, third floor, Van Schoonbekestraat 143, 2018 Antwerpen
-
-
-
 2pm-5pm  *WALKING TOUR* 
 
-ModeMuseum Antwerpen (MOMU) 
-
-Location: Nationalestraat 28, 2000 Antwerpen
-
-Doek vzw 
-
-Location: Zirkstraat 36, 2000 Antwerpen
-
-
+ModeMuseum Antwerpen (MOMU), Doek vzw 
 
 5.30pm  *EARLY DINNER*
 
-Location: K.03.09, third floor, Van Schoonbekestraat 143, 2018 Antwerpen
+7pm- 9pm  *ROUND TABLE*  with Nashilongweshipwe Mushaandja (virtual) 
 
 
-
-7pm- 9pm  *ROUND TABLE* 
-
-Location: K.03.09, third floor, Van Schoonbekestraat 143, 2018 Antwerpen
-
-Provocation #2 **Nashilongweshipwe Mushaandja (virtual provocation)** 
-
-Round Table Discussion 
-
-#### WEDNESDAY 4
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-See also [this event page](https://slarg.be/admin/#/collections/events/entries/2023-10-18-challenging-complicity-and-imagining-the-post-museum-fashion-museums-and-decoloniality) for more information! 10am-12pm  
-
-*ZINE MAKING*
-
-Location: Van Schoonbekestraat 143, 2018 Antwerpen
-
-Provocation #3 **Pierre-Antoine Vettorello**
-
-Discussion and info-session on writing and documenting the seminar for a zine publication
-
-How should we collect texts and knowledge for the zine publication to ensure the best possible format?
-
-Closing remarks
 
 ### Guest speakers (bios)
 
