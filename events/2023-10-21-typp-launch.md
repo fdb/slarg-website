@@ -14,17 +14,30 @@ images: null
 ---
 Cover image from the new *TYPP*, by Ward Heirwegh, its designer.
 
-
-
 ### Line up of the night
 
 The newest editions of *TYPP #9* and *ADMA TYPP #3* will be launced. 
 
-* Welcome: Petra Van Brabandt & Marnie Slater 
-* *signed, sealed, delivered:* A performative intervention by Mrs. Kovich. During the launch, guests will be able to get their fresh AdMa TYPP copy signed, sealed and delivered with limited edition stamps created by contributor Mrs. Kovich especially for the occasion. The booth will operate on and off according to the mood of its operator and the bureaucratic guidance from above. 
-* Performance Tijana Petrovic 
+Welcome: Petra Van Brabandt & Marnie Slater 
 
+* *Signed, sealed, delivered.* Performative intervention by **Mrs. Kovich**. During the launch, guests will be able to get their fresh AdMa TYPP copy signed, sealed and delivered with limited edition stamps created by contributor Mrs. Kovich especially for the occasion. The booth will operate on and off according to the mood of its operator and the bureaucratic guidance from above. 
+* *I don’t know where is the best place to be born again*. Performance **Tijana Petrovic**. 
 
+  *They can’t say anything* 
+
+  *And they don’t*
+
+  *We can say anything*
+
+  *But we won’t* 
+
+  Instead of saying, she looked at me with caring determination
+
+  She licked her thumb and pressed it on my cheek wiping the stain I didn’t even notice was there
+
+  I thought it was icky, but felt like home
+
+  ![](https://ucarecdn.com/bd3fbe29-05bd-465b-9489-c53445439b67/ "A drawing by Tijana Petrovic (2023)")
 
 ### More on TYPP
 
