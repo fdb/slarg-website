@@ -21,6 +21,8 @@ Tapestries have been one of the most prestigious art forms throughout centuries.
 
 In his lecture performance Shikha will lay bare the design choices behind the carpet piece he will be showing in the context of this exhibition. Why are certain elements combined? What do the drawings refer to? Apart from the themes and techniques involved, he will give an insight into the conflicts and challenges he experiences in the making process. 
 
+*Free entrance*
+
 ### Bio
 
 Hussein Shikha's practice betwixt design, art, and research engages with complex symbologies that reflect his heritage and family history he comes from generations of workers engaged in the traffic and logistics of carpet-making-through equally complex pixel drawing. 
