@@ -8,7 +8,7 @@ type: Launch
 author: Ward Heirwegh, Mrs. Kovich, Marnie Slater & Tijana Petrovic
 date: 2023-10-21
 time: 20:00 - 21:00
-location: Bar @ Extra City Kunsthal
+location: In the bar of Extra City Kunsthal
 main_image: https://ucarecdn.com/b590ff98-e339-46dc-810b-eb896ee9e717/
 images: null
 ---
