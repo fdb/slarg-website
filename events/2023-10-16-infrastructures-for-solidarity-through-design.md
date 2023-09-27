@@ -8,8 +8,8 @@ type: Symposium & Workshop
 author: "Annelys Devet, Sulaiman Saleh, Siwar Krai(y)tem & Rasha Dakkak, Trees
   Candaele (Femimain) and Ratib Bakri. "
 date: 2023-10-05
-time: October the 5th and the 6th, 10am – 5pm
-location: Pianofabriek, Brussels (Rue du Fort 35, 1060 Saint-Gilles)
+time: 5-6 Oct, 10:00 - 17:00
+location: Pianofabriek, Brussels (Rue du Fort 35, 1060 Saint-Gilles
 main_image: https://ucarecdn.com/80220e57-61d8-4674-881f-23b7534f4fe1/
 images:
   - https://ucarecdn.com/66a966fc-dccf-4822-a671-8e14c71a27b3/
@@ -26,7 +26,7 @@ With: Annelys Devet, Sulaiman Saleh, Siwar Krai(y)tem & Rasha Dakkak, Trees Cand
 
 ### Workshop programme
 
-*Thursday 5 October, 10am—5pm*
+*Thursday 5 October, 10:00 - 17:00*
 
 * Welcome & check-in
 * Guided tour of exhibition Pianofabriek
@@ -36,7 +36,7 @@ With: Annelys Devet, Sulaiman Saleh, Siwar Krai(y)tem & Rasha Dakkak, Trees Cand
 * Presentation and workshop by Sulaiman Saleh, researcher International and Intercultural Communication, giving more insight on the role of culture in the struggle for fairer relationships.
 * Workshop on designing infrastructures
 
-*Friday 6 October, 10am—5pm*
+*Friday 6 October, 10:00-17:00*
 
 * Hybrid presentation and Q&A by Latlateh (Arabic for meaningless chatter) which is a platform curated by artists Rasha Dakkak and Siwar Krai(y)tem that centers on the potential of language, our relation to language(s), and the impact of translation
 * Conversation with Trees Candaele, founder of Moroccan design brand Femimain on how she developed this label, how she works with Moroccan craftswomen, how they jointly develop the designs, what is the role of design and what complexities arise with such a socially engaged project.
@@ -46,17 +46,17 @@ With: Annelys Devet, Sulaiman Saleh, Siwar Krai(y)tem & Rasha Dakkak, Trees Cand
 
 ### Workshop hosts (bios)
 
-– **Annelys Devet** is a Belgium-based designer, researcher and educator. She co-founded the publishing initiative Subjective Editions, mapping regions from inside out, as well as the thought-provoking design label Disarming Design from Palestine. She was the course director of the Design Department at the Sandberg Instituut, Amsterdam, Master of the Gerrit Rietveld Academie (2009–2019) where she founded the temporary master’s programme Disarming Design (2020–2022). De Vet currently holds a position as PhD researcher at ARIA (Antwerp Research Institute for the Arts) where she conducts a practice-based study on participative design approaches that engage in social and political struggles.
+**Annelys Devet** is a Belgium-based designer, researcher and educator. She co-founded the publishing initiative Subjective Editions, mapping regions from inside out, as well as the thought-provoking design label Disarming Design from Palestine. She was the course director of the Design Department at the Sandberg Instituut, Amsterdam, Master of the Gerrit Rietveld Academie (2009–2019) where she founded the temporary master’s programme Disarming Design (2020–2022). De Vet currently holds a position as PhD researcher at ARIA (Antwerp Research Institute for the Arts) where she conducts a practice-based study on participative design approaches that engage in social and political struggles.
 
-– **Sulaiman Saleh** is a communicator and researcher with a focus on international and intercultural communication. He was a lecturer at Jonkoping University (Sweden), teaching students in Media and Communication, and Global studies. Born in Gaza, studied in Malaysia, worked in Sweden,and currently based in Belgium, he is an active member of Cinema Maximiliaan and works as a coordinator for the Disarming Design project.
+**Sulaiman Saleh** is a communicator and researcher with a focus on international and intercultural communication. He was a lecturer at Jonkoping University (Sweden), teaching students in Media and Communication, and Global studies. Born in Gaza, studied in Malaysia, worked in Sweden,and currently based in Belgium, he is an active member of Cinema Maximiliaan and works as a coordinator for the Disarming Design project.
 
-– **Rasha Dakkak** is a Palestinian researcher and maker with publishing and curatorial initiatives alongside working in art and design education. Her research and artistic practice center on the interplay of language, imagery, and education as nuanced soft power tools, disclosing the subtle yet potent dynamics that underlie the creation of canons and narratives and influence the formation of knowledge and its accessibility. She was formerly trained in visual communication and holds graduate degrees in fine art and design from Sandberg Instituut in Amsterdam and The FHNW Academy of Art and Design in Basel.
+**Rasha Dakkak** is a Palestinian researcher and maker with publishing and curatorial initiatives alongside working in art and design education. Her research and artistic practice center on the interplay of language, imagery, and education as nuanced soft power tools, disclosing the subtle yet potent dynamics that underlie the creation of canons and narratives and influence the formation of knowledge and its accessibility. She was formerly trained in visual communication and holds graduate degrees in fine art and design from Sandberg Instituut in Amsterdam and The FHNW Academy of Art and Design in Basel.
 
-– **Siwar Krai(y)tem** is a multi-lingual designer, researcher, writer and artist based between Beirut and Amsterdam. Her research and artistic practice focuses on multilingualism and language in times of transformation, as well as the construction of society through language. Since May 2021, she co-curates the platform Latlateh (arabic for unmeaningful chatter), an encounter-based platform which focuses on language and the power plays embedded in language, semantics, translation, and the daily conversation. She is currently a participant in Mophradat’s New Agents Program as well as co-coordinator at the Sandberg Instituut’s design department where she was a recent alumni from the temporary program ‘Disarming Design’. She recently published a zine with publisher Unformed Informed, entitled ‘Arabic is still in my quotian, yes it is’. She is also part of the BAK Cell, Utrecht, in the Fellowship for Situated Practice. During the fellowship, she questions whether it is possible to be in alignment in a multi-lingual world.
+**Siwar Krai(y)tem** is a multi-lingual designer, researcher, writer and artist based between Beirut and Amsterdam. Her research and artistic practice focuses on multilingualism and language in times of transformation, as well as the construction of society through language. Since May 2021, she co-curates the platform Latlateh (arabic for unmeaningful chatter), an encounter-based platform which focuses on language and the power plays embedded in language, semantics, translation, and the daily conversation. She is currently a participant in Mophradat’s New Agents Program as well as co-coordinator at the Sandberg Instituut’s design department where she was a recent alumni from the temporary program ‘Disarming Design’. She recently published a zine with publisher Unformed Informed, entitled ‘Arabic is still in my quotian, yes it is’. She is also part of the BAK Cell, Utrecht, in the Fellowship for Situated Practice. During the fellowship, she questions whether it is possible to be in alignment in a multi-lingual world.
 
-– **Trees Candaele** is coordinator of PIOW projects at PianoFabriek Brussels, from where she founded the Moroccan design label Femimain. Femimain is a socio-economic project that aims to strengthen the social and economic position of women in Morocco.
+**Trees Candaele** is coordinator of PIOW projects at PianoFabriek Brussels, from where she founded the Moroccan design label Femimain. Femimain is a socio-economic project that aims to strengthen the social and economic position of women in Morocco.
 
-– **Rateb Bakri** is a young (currently Dutch based) Palestinian landscape architect interested in the transformative potential of architecture to benefit communities and individuals alike. He has been an active member of the Disarming Design community in Birzeit (Palestine) as an exhibition designer, a talent he will activate during the workshop at the Pianofabriek.
+**Rateb Bakri** is a young (currently Dutch based) Palestinian landscape architect interested in the transformative potential of architecture to benefit communities and individuals alike. He has been an active member of the Disarming Design community in Birzeit (Palestine) as an exhibition designer, a talent he will activate during the workshop at the Pianofabriek.
 
 ### Context
 
