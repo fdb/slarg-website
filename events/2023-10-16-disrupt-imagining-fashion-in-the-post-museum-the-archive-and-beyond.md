@@ -3,7 +3,7 @@ layout: event.liquid
 tags: event
 year: 2023
 title: Disrupt! Imagining Fashion in the Post-Museum, the Archive and Beyond
-byline: Research seminar with presentations, a walking tours and a round table
+byline: Research seminar with presentations, a walking tour and a round table
   discussion
 type: Research Seminar
 author: Pierre-Antoine Vettorello
