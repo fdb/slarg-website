@@ -4,7 +4,7 @@ tags: event
 year: 2023
 title: "Rerooting, a film by The Post Film Collective "
 byline: Screening and Aftertalk
-type: Seminar
+type: Film screening
 author: "The Post-Collective and Robin Vanbesien "
 date: 2023-10-20
 time: 10:30 - 13:00
