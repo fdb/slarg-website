@@ -9,7 +9,7 @@ author: Annelys De Vet, Helen Dowling, Marnie Slater, Robin Vanbesien
 date: 2023-10-17
 time: 14:00 - 17:00
 location: Showroom, Sint Lucas Antwerpen, Van Schoonbekestraat 143, 2018 Antwerpen
-main_image: https://ucarecdn.com/12e73b44-c085-471f-a533-2a8aa7cb65e6/
+main_image: https://ucarecdn.com/dee930d8-cc63-4277-bd51-f5de47737c25/
 images: null
 ---
 Several SLARG research projects are coming to an end. Curious about their conclusions? Join our sharing session and learn more! 
