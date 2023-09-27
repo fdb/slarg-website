@@ -23,7 +23,7 @@ In this workshop, we will explore the art of dyeing natural textiles using Indig
 
 We kindly request participants to bring a cherished (small) garment, preferably in a light natural fiber, that you wish to transform using this enchanting blue dye. 
 
-Changing the canon and combating colonially of Fashion means also collectively practicing ancient techniques. We will learn how to re-imagine, re-make and re-indigenise our garments. 
+Changing the canon and combating colonially of fashion means also collectively practicing ancient techniques. We will learn how to re-imagine, re-make and re-indigenise our garments. 
 
 Duration: 3h
 
