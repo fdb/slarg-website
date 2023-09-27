@@ -31,13 +31,8 @@ The conversation is open to all.
 * Robin Vanbesien: 2.30 pm
 * Marnie Slater: 3 pm
 
-
-
   \_\_\_\__Break (30 min)
-
-
 * Helen Dowling: 4 pm
-* Irma Földényi & Saskia Van der Gucht: 4.30 pm
 
 
 
@@ -50,5 +45,3 @@ The conversation is open to all.
 — **Marnie Slater**'s research project '**Sharing Tools and Strategies for Transformative Art Collaboration**' addresses the methodologies used in queer, feminist and anti-racist art collaboration. The research emerged from challenges she identified though her collective practice within the visual arts. Namely, that although there is an increasing interest in collaboration as a transformative practice, artists are under-tooled to work together. During this one-year research project, she asked: How are transformative art collaborations embedding their aims within their collective working methodologies and how can I share these tools and strategies with others?
 
 — Helen Dowling
-
-— Irma Földényi & Saskia Van der Gucht
