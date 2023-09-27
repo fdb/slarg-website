@@ -2,13 +2,14 @@
 layout: event.liquid
 tags: event
 year: 2023
-title: Indigo Dyeing & Shibori Workshop
-byline: The Resistance Through Indigo
+title: Resistance Through Indigo
+byline: Indigo Dyeing & Shibori Workshop
 type: Workshop
 author: Pierre-Antoine Vettorello
 date: 2023-10-18
 time: 13:00 - 16:00
-location: Sint Lucas Antwerpen - Adma room
+location: K.03.09, third floor, Sint Lucas Antwerpen, Van Schoonbekestraat 143,
+  2018 Antwerpen
 main_image: https://ucarecdn.com/6ee53f00-42bf-489c-a67e-f9d78521f333/
 images: null
 ---
