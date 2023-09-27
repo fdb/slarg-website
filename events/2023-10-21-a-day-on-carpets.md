@@ -7,7 +7,7 @@ byline: Hussein Shikha
 type: Lecture performance
 author: Hussein Shikha
 date: 2023-10-21
-time: 14:00 - 15:00
+time: 16:00 - 17:00
 location: "Extra City Kunsthal "
 main_image: https://ucarecdn.com/95bfc069-1420-47e5-8ed7-c5eede2a79b9/
 images:
