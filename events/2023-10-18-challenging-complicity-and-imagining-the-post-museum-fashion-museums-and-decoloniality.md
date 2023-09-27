@@ -29,4 +29,4 @@ Provocation #3 Pierre-Antoine Vettorello
 * How should we collect texts and knowledge for the zine publication to ensure the best possible format?
 * Closing remarks
 
-Research seminar initiated by Pierre-Antoine Vettorello which is part of the two days program  Imagining Fashion in the Post-Museum, the Archive and Beyond.
+Research seminar initiated by Pierre-Antoine Vettorello.
