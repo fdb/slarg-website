@@ -2,14 +2,14 @@
 layout: event.liquid
 tags: event
 year: 2023
-title: "1, 2, 3...SLARG! "
+title: "START SLARG! "
 byline: New research projects SLARG
 type: Research presentations
 author: "Tundé Adefioye, Imane Benyecif Khoutoul, Garine Gokceyan, Irma
   Földényi, Ruth Loos, Joud Toamah, Saskia Van der Gucht "
 date: 2023-10-16
 time: 14:00 - 17:30
-location: "Showroom - Sint Lucas Antwerpen "
+location: "Showroom, Sint Lucas Antwerpen, Van Schoonbekestraat 143, 2018 Antwerpen "
 main_image: https://ucarecdn.com/8b4477f4-8287-4123-91c4-41399b8c71f1/
 images:
   - https://ucarecdn.com/19accc2c-86da-478b-a7ce-22fedd87e95e/
