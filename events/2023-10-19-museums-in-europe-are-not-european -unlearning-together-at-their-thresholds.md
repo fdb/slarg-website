@@ -25,7 +25,7 @@ Following the lecture, the student platform wedecolonizevub will moderate a pane
 ### **Tickets and registration**
 
 Ticket prices for this event are available at three different levels: €12, €8 (suggested price), or €5. [GET YOUR TICKET](https://apps.ticketmatic.com/widgets/kaaitheater/flow/ticketsinfo?event=504622742823&l=en#!/addtickets). \
-Free admission for students, but registration is required. [REGISTER HERE](https://vrije-universiteit-brussel-vub.idloom.events/lecture-museums-in-europe-are-not-european-unlearning-imperial-plunder/register).
+Free admission for Sint Lucas students and researchers, but registration is required. [REGISTER HERE](https://vrije-universiteit-brussel-vub.idloom.events/lecture-museums-in-europe-are-not-european-unlearning-imperial-plunder/register).
 
 More information [here](https://www.vub.be/en/event/lecture-ariella-aisha-azoulay).[](https://www.vub.be/en/event/lecture-ariella-aisha-azoulay)
 
