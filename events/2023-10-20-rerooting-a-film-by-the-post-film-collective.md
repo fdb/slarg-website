@@ -8,7 +8,8 @@ type: Film screening
 author: "The Post-Collective and Robin Vanbesien "
 date: 2023-10-20
 time: 10:30 - 13:00
-location: Advanced Master room - Sint Lucas Antwerpen
+location: K.03.09, third floor, Sint Lucas Antwerpen, Van Schoonbekestraat 143,
+  2018 Antwerpen
 main_image: https://ucarecdn.com/e847d9af-2faf-4080-8b24-1143da7e3983/
 ---
 "With the notion that when you tell a story in assembly there is no owner, as the story creates the assembly, we are trying to find our own ‘story,' which will create its own assembly." The Post Film Collective
