@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 year: 2023
-title: "1, 3, 3 SLARG! "
+title: "1, 2, 3... SLARG! "
 byline: Starting research projects SLARG
 type: Research presentations
 author: "Tundé Adefioye, Imane Benyecif Khoutoul, Garine Gokceyan, Irma
