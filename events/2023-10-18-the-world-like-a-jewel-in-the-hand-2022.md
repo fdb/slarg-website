@@ -4,14 +4,14 @@ tags: event
 year: "2023"
 title: The World Like a Jewel in the Hand (2022)
 byline: "Documentary film directed by Ariella Azoulay "
-type: Screening
+type: Film screening
 author: Organized by Hoda Siahtiri, Arshia Ali Azmat & Hari Prasad Sacré
 date: 2023-10-18
 time: 20:00
-location: Cinema Palace - Brussels
+location: Cinema Palace, Anspachlaan 85, 1000 Brussels
 main_image: https://ucarecdn.com/49319910-697c-4d15-a9cc-85dd0d1c5373/
 ---
-This screening is the first evening of a three-day art and reflection program in Brussels in which author and curator Ariella Aïsha Azoulay is involved. 
+This screening is the first evening of a three-day art and reflection program in Brussels around the work of researcher, writer and curator Ariella Aïsha Azoulay. 
 
 *The world like a jewel in the hand* is the latest film essay by Azoulay. The film engages with stolen art to question the imperial foundations of the world we live in. Narrating the destruction of the Jewish Muslim world in North-Africa through imperial technologies of colonizing, partitioning, mining, stealing, archiving, and exhibiting, Azoulay invites us to reclaim the world of skills, care for the world enshrined in stolen objects, and inhabit ruined worlds we are being told could no longer exist. 
 
@@ -43,4 +43,4 @@ Curators: [Hari Prasad Sacré](https://be.linkedin.com/in/hari-prasad-sacr%C3%A9
 
 • **Arshia Ali Azmat** is a graphic designer, community organiser and researcher affiliated with VUB. Her artistic and graphic work focuses on linking personal and global histories through storytelling and archival explorations. She is also contributing to a research project on vacant spaces in the city and their transformation from temporary occupation sites to permanent social infrastructures. \
 \
-| production Kaaitheater  | co-production VUB Crosstalks & Cinema Palace | with the support of Sint-Lucas Antwerp, Constant
+| production Kaaitheater  | co-production VUB Crosstalks & Cinema Palace | with the support of Sint Lucas Antwerpen School of Arts KdG, Constant
