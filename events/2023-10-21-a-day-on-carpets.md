@@ -25,7 +25,7 @@ In his lecture performance Shikha will lay bare the design choices behind the ca
 
 Hussein Shikha's practice betwixt design, art, and research engages with complex symbologies that reflect his heritage and family history he comes from generations of workers engaged in the traffic and logistics of carpet-making-through equally complex pixel drawing. 
 
-Hussein was born and raised in Iraq and moved to Antwerp in 2009 where he is currently based. He holds a Master’s degree in Visual Arts from the Royal Academy of Fine Arts Antwerp and an Advanced Master’s degree of Research in Art and Design at Sint Lucas Antwerp. Hussein’s work was recently presented at BAK, Utrecht; Kiosk, Ghent; and Kunsthal Extra City, Antwerp. He concluded residencies at Frans Masereel Centrum, Z33 and Morpho.
+Hussein was born and raised in Iraq and moved to Antwerp in 2009 where he is currently based. He holds a Master’s degree in Visual Arts from the Royal Academy of Fine Arts Antwerp and an Advanced Master’s degree of Research in Art and Design from Sint Lucas Antwerpen. Hussein’s work was recently presented at BAK, Utrecht; Kiosk, Ghent; and Kunsthal Extra City, Antwerp. He concluded residencies at Frans Masereel Centrum, Z33 and Morpho.
 
 ### The exhibition@ Kunsthal Extra City
 
