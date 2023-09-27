@@ -2,8 +2,7 @@
 layout: event.liquid
 tags: event
 year: "2023"
-title: Zine Making Session - Disrupt! Imagining Fashion in the Post-Museum, the
-  Archive and Beyond
+title: Disrupt! Zine Making Session
 byline: 4 October 2023
 type: Workshop
 author: Pierre-Antoine Vettorello
@@ -20,8 +19,6 @@ A two hours workshop on zine-making and creative writing - part of the research 
 
 During this workshop, we will explore the concept of creating a zine that will incorporate elements from our research seminar discussions. Participants will uncover the rationale behind producing this publication, its underlying purpose, and engage in conversations about its format, potential avenues, and opportunities for collaboration.
 
-
-
 ### Schedule
 
 10:00 - 12:00  ZINE MAKING
@@ -32,6 +29,4 @@ Provocation #3 Pierre-Antoine Vettorello
 * How should we collect texts and knowledge for the zine publication to ensure the best possible format?
 * Closing remarks
 
-
-
-Research seminar initiated by Pierre-Antoine Vettorello.
+Research seminar initiated by Pierre-Antoine Vettorello which is part of the two days program  Imagining Fashion in the Post-Museum, the Archive and Beyond.
