@@ -3,7 +3,8 @@ layout: event.liquid
 tags: event
 year: 2023
 title: "Infrastructures For Solidarity Through Design "
-byline: A Disarming Design workshop on notions of fairness, glossaries and ecosystems
+byline: A two-day Disarming Design workshop on notions of fairness, glossaries
+  and ecosystems
 type: Symposium & Workshop
 author: "Annelys Devet, Sulaiman Saleh, Siwar Krai(y)tem & Rasha Dakkak, Trees
   Candaele (Femimain) and Ratib Bakri. "
