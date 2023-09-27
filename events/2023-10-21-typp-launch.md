@@ -21,6 +21,8 @@ The newest editions of *TYPP #9* and *ADMA TYPP #3* will be launced.
 Welcome: Petra Van Brabandt & Marnie Slater 
 
 * *Signed, sealed, delivered.* Performative intervention by **Mrs. Kovich**. During the launch, guests will be able to get their fresh AdMa TYPP copy signed, sealed and delivered with limited edition stamps created by contributor Mrs. Kovich especially for the occasion. The booth will operate on and off according to the mood of its operator and the bureaucratic guidance from above. 
+
+  ![](https://ucarecdn.com/0b072257-aa46-4ae6-b02f-bf4e63732638/ "Image by Mrs. Kovich (2023)")
 * *I don’t know where is the best place to be born again*. Performance **Tijana Petrovic**. 
 
   *They can’t say anything* 
@@ -57,4 +59,4 @@ Its coordinator, Marnie Slater, clarifies its editorial approach:
 
 ![](https://ucarecdn.com/bf679ce8-1889-4727-885a-64820e81e1de/ "Cover image of ADMA TYP #3")
 
-![](https://ucarecdn.com/2229cc9a-cc34-4603-971f-d9ca0bd80c4d/ "Image by Mrs. Kovich, 2023")
+![]( "Image by Mrs. Kovich, 2023")
