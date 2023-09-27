@@ -3,13 +3,13 @@ layout: event.liquid
 tags: event
 year: 2023
 title: Closing Time
-byline: Researchers share their findings and insights
-type: Seminar
+byline: Finalized Research Projects SLARG
+type: Research presentations
 author: Annelys De Vet, Helen Dowling, Irma Földényi & Saskia Van der Gucht,
   Marnie Slater, Robin Vanbesien
 date: 2023-10-17
-time: 10:00 - 17:00
-location: Sint Lucas Antwerpen
+time: 14:00 - 17:00
+location: Showroom, Sint Lucas Antwerpen, Van Schoonbekestraat 143, 2018 Antwerpen
 main_image: https://ucarecdn.com/66e2d60c-803d-48c9-854e-d761be143718/
 images:
   - https://ucarecdn.com/8ae20d13-0505-4c57-87b6-15b9190ebd52/
