@@ -22,7 +22,7 @@ The newest editions of *TYPP #9* and *ADMA TYPP #3* will be launched.
 
 Welcome: Petra Van Brabandt & Marnie Slater 
 
-* Lecture  by Danial Shah
+* Mirrors, fantasies and realities in photo studios. A lecture  by Danial Shah
 * *Signed, sealed, delivered.* Performative intervention by **Mrs. Kovich**. During the launch, guests will be able to get their fresh AdMa TYPP copy signed, sealed and delivered with limited edition stamps created by contributor Mrs. Kovich especially for the occasion. The booth will operate on and off according to the mood of its operator and the bureaucratic guidance from above. 
 
   ![](https://ucarecdn.com/0b072257-aa46-4ae6-b02f-bf4e63732638/ "Image by Mrs. Kovich (2023)")
@@ -55,8 +55,6 @@ TYPP #9 is designed by Ward Heirwegh.
 \--
 
 From within the Advanced Master Share Research module, each year a new group of students produce their own *ADMA TYPP*, to open up conversation as a mode of research and practice. *ADMA TYPP #3 Your Travel Companion is designed by Joud Toamah.* 
-
-
 
 ![](https://ucarecdn.com/bf679ce8-1889-4727-885a-64820e81e1de/ "Cover image of ADMA TYP #3")
 
