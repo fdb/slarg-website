@@ -3,7 +3,7 @@ layout: event.liquid
 tags: event
 year: 2023
 title: "From Knot to Pixel to Weft: Unraveling New Temporalities "
-byline: Hussein Shikha on designing tapestries
+byline: Hussein Shikha on making tapestries
 type: Lecture performance
 author: Hussein Shikha
 date: 2023-10-21
