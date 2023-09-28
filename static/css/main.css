@@ -307,7 +307,7 @@ article .partner-logos img {
 
 .sites-grid {
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
 	grid-gap: 1rem;
 
 	& a {
