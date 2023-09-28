@@ -15,7 +15,9 @@ main_image: https://ucarecdn.com/91283b1f-de88-4d50-9571-ff6577224dbb/
 
 In their exhibition at CON10UR, *[Double Voiced](https://extracitykunsthal.org/en/exhibitions/double-voiced)*, elephy listens to the human voice. A manifestation of the speaker’s distinctiveness, the voice resonates in reciprocal communication with other voices and amplifies through collectivity, opening the possibility of a different mode of political existence. Rehearsal for Future Conversations is a one-day workshop in the framework of elephy's show at CON10UR that brings together artists, thinkers, and practitioners working with the voice in different forms. They all share insights and experiences from their various practices to inspire each other during a moment of community. The event is open to the public upon registration.
 
-elephy organises this event together with Kunsthal Extra City, CON10UR and Sint Lucas Antwerpen School of Arts - KDG as part of the SLARG 2023 research week. 
+elephy organises this event together with Kunsthal Extra City, CON10UR and LUCA School of Arts as part of the SLARG 2023 research week. 
+
+With the generous support of: Kunsthal Extra City, LUCA Breakout, SOFAM, and MORPHO.
 
 ### elephy
 
@@ -25,11 +27,13 @@ Just as the four artists support each other within their shared production and d
 
 ### Registration
 
-Please register for the workshop via email at info@elephy.org.
+Please register for the workshop via [ this link](https://extracitykunsthal.org/en/shop/workshop-rehearsal-for-future-conversations).
 
 The participation fee is 15 Euro and includes a vegetarian lunch by quitapena. 
 
-Sint Lucas Antwerpen students or researchers can participate for free but must register! 
+Note: Sint Lucas Antwerpen students or researchers can participate for free but must register!
+
+When subscribing please notify that you are a Sint Lucas Antwerpen student or researcher. 
 
 ### Schedule
 
