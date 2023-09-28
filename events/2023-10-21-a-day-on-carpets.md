@@ -2,8 +2,8 @@
 layout: event.liquid
 tags: event
 year: 2023
-title: "Carpets: what's in a name"
-byline: Hussein Shikha
+title: "From Knot to Pixel to Weft: Unraveling New Temporalities "
+byline: Hussein Shikha on designing tapestries
 type: Lecture performance
 author: Hussein Shikha
 date: 2023-10-21
