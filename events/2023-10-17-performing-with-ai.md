@@ -3,7 +3,7 @@ layout: event.liquid
 tags: event
 year: 2023
 title: "Performing with AI: Sensing the body through touch & sound"
-byline: AI performance and exhibition
+byline: Two AI performances
 type: Performance & exhibition
 author: Mona Hedayati, Frederik De Bleser, Lieven Menschaert
 date: 2023-10-17
@@ -27,5 +27,5 @@ Breathless is a sound performance developed using machine learning for sound gen
 
 *An AI performance created by Madina Mahomedova [UA], Alexandra Fraser [EN], Nika de La Loncha [DE], Myrthe Bokelmann [NL], Gizem Karaosmanoğlu [TR], Frederik De Bleser and Lieven Menschaert.*
 
-In this project, we explore the cyber feminist realm — an artistic, theoretical and cultural movement that explores the intersections of technology, gender and identity — by creating nature-inspired body extensions. Female-looking bodies are blended with elements from nature, such as wilting plants and flowers. This creates a new view of the human body as a hybrid entity, a mix of organic and synthetic material. A virtual dancer created from these extended bodies, and trained using artificial intelligence, converses with a physical dancer. Both share a common heritage, mirroring each other's movements. But who is controlling who?
+In this project, we explore the cyber feminist realm — an artistic, theoretical and cultural movement that explores the intersections of technology, gender and identity — by creating nature-inspired body extensions. Female-looking bodies are blended with elements from nature, such as wilting plants and flowers. This creates a new view of the human body as a hybrid entity, a mix of organic and synthetic material. A virtual dancer created from these extended bodies, and trained using artificial intelligence, converses with a physical dancer. Both share a common heritage, mirroring each other's movements. But who is controlling whom?
 
