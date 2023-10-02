@@ -3,8 +3,8 @@ layout: event.liquid
 tags: event
 year: 2023
 title: Mirrors, Fantasies and Realities in Photo Studios
-byline: Image Mapping Process
-type: Lecture
+byline: Image Mapping
+type: Presentation
 author: "Danial Shah "
 date: 2023-10-21
 time: 19:00 - 20:00
