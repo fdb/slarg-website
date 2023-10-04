@@ -7,7 +7,7 @@ byline: "Documentary film directed by Ariella Azoulay "
 type: Film screening
 author: Organized by Hoda Siahtiri, Arshia Ali Azmat & Hari Prasad Sacré
 date: 2023-10-18
-time: 20:00
+time: 19:00
 location: Cinema Palace, Anspachlaan 85, 1000 Brussels
 main_image: https://ucarecdn.com/49319910-697c-4d15-a9cc-85dd0d1c5373/
 ---
