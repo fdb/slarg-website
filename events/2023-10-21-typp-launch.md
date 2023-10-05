@@ -10,7 +10,7 @@ author: "Ward Heirwegh, Mrs. Kovich, Danial Shah, Marnie Slater, Tijana
   Petrovic, Joud Toamah "
 date: 2023-10-21
 time: 19:00 - 21:00
-location: In the bar of Kunsthal Extra City, Provinciestraat 112, 2018 Antwerpen
+location: "In the bar @ Kunsthal Extra City, Ploegstraat 25 "
 main_image: https://ucarecdn.com/b590ff98-e339-46dc-810b-eb896ee9e717/
 images: null
 ---
