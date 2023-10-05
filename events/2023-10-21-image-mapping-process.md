@@ -8,7 +8,7 @@ type: Presentation
 author: "Danial Shah "
 date: 2023-10-21
 time: 19:00 - 20:00
-location: "In the bar of Kunsthal Extra City "
+location: "In the bar @ Kunsthal Extra City, Ploegstraat 25 "
 main_image: https://ucarecdn.com/cf45c1d2-18f1-4dfd-beef-1df47da4651c/
 images:
   - https://ucarecdn.com/4202bea1-9b5e-455d-b6bf-781a5314923d/
