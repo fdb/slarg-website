@@ -8,7 +8,7 @@ type: "One-day Workshop "
 author: elephy
 date: 2023-10-19
 time: 10:00 - 16:00
-location: MORPHO - Ploegstraat 27, 2018 Antwerpen
+location: De refter @ Kunsthal Extra City & Morpho - Ploegstraat 25, 2018 Antwerpen
 main_image: https://ucarecdn.com/91283b1f-de88-4d50-9571-ff6577224dbb/
 ---
 ### Introduction
