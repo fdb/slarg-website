@@ -52,7 +52,7 @@ In a spirit of playfulness, filmmaker and voice coach Sonia Pastecchia will help
 
 11: 30     Maggessi/Morusiewicz: **Wormholes**
 
-In the lecture performance Vienna-based duo of researching artists Maggessi/Morusiewicz introduces their concept and work series “Wormholes” and invite the audience into a polyvocal portal of affect, cruising through sci-fi films, pre-AIDS gay-art porn films, and women’s cinema archives.”
+Maggessi/Morusiewicz, a Vienna-based duo of researching artists, present their practice that currently revolves around two simultaneously-running keywords: “wormholes” and “archives.” The artists will invite the audience to step into a polyvocal portal of affect, cruising through clusters of film-based references to sci-fi, pre-AIDS gay-art porn, and women’s cinema archives.
 
 12:00      Mona Hedayati: **Human vs. Machine Logic: Constructing Affectivity beyond Voice** 
 
@@ -60,9 +60,11 @@ Iranian-Canadian artist Mona Hedayati’s interdisciplinary research practice dr
 
 12:45	Joint lunch for all participants by quitapena 
 
-14:00	Laszlo Umbreit: **How to record voice**
+14:00	Laszlo Umbreit: **Recording voice is a nightmare**
 
-Sound designer and musician Laszlo Umbreit speaks about conditions, considerations, and techniques when recording voice for film and performances. How do recording devices, microphones and storage media, post-production and playback situations impact the shape and audience experience of voice and how do we take the technical impact into consideration in the artistic process?
+In many soundtracks, voice is the most common object of analytical listening (i.e. interpretation and meaning) where it often adheres to aesthetic conventions of mainstream aural culture. Sound designer and musician Laszlo Umbreit challenges these conventions, derived from mental projections on how a voice should sound, by opening up the many realities in which the sound of voice can exist. 
+
+This talk elaborates on the process and technical possibilities for voice recording, why it is a difficult task and proposals for getting it done. It shines a light on the choices artists can make to define their own aesthetic approach for voice, and beyond, in moving image. 
 
 14:45	Sonia Pastecchia: **Breathing and Speaking with Intention II**
 
