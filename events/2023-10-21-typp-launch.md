@@ -45,7 +45,7 @@ Welcome: Petra Van Brabandt & Marnie Slater
 
 
 
-During this evening you can also visit the installation *On Sandscapes* by **Irma Földényi, Saskia Van der Gucht, Eline De Clercq, Virág Szálas-Motesiczky** at the refter of Morpho, between 19:00 - 21:00. For more see [here](https://slarg.be/events/2023-10-19-on-sand/). 
+During this evening you can also visit the installation *Sandscapes* by **Irma Földényi, Saskia Van der Gucht, Eline De Clercq, Virág Szálas-Motesiczky** at the refter of Morpho, between 19:00 - 21:00. For more see [here](https://slarg.be/events/2023-10-19-on-sand/). 
 
 ### More on TYPP
 
