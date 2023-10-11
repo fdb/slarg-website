@@ -22,7 +22,7 @@ The newest editions of *TYPP #9* and *ADMA TYPP #3* will be launched.
 
 Welcome: Petra Van Brabandt & Marnie Slater 
 
-* Mirrors, fantasies and realities in photo studios. A lecture  by Danial Shah
+* Mirrors, fantasies and realities in photo studios. A lecture  by **Danial Shah**. More see [here](https://slarg.be/events/2023-10-21-image-mapping-process/). 
 * *Signed, sealed, delivered.* Performative intervention by **Mrs. Kovich**. During the launch, guests will be able to get their fresh AdMa TYPP copy signed, sealed and delivered with limited edition stamps created by contributor Mrs. Kovich especially for the occasion. The booth will operate on and off according to the mood of its operator and the bureaucratic guidance from above. 
 
   ![](https://ucarecdn.com/0b072257-aa46-4ae6-b02f-bf4e63732638/ "Image by Mrs. Kovich (2023)")
@@ -43,6 +43,8 @@ Welcome: Petra Van Brabandt & Marnie Slater
   I thought it was icky, but felt like home
 
   ![](https://ucarecdn.com/bd3fbe29-05bd-465b-9489-c53445439b67/ "A drawing by Tijana Petrovic (2023)")
+
+During this evening you can also visit the installation *On Sandscapes* by **Irma Földényi, Saskia Van der Gucht, Eline De Clercq, Virág Szálas-Motesiczky** at the refter of Morpho, between 19:00 - 21:00. For more see [here](https://slarg.be/events/2023-10-19-on-sand/). 
 
 ### More on TYPP
 
