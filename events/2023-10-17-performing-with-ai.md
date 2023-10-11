@@ -7,7 +7,7 @@ byline: Two AI performances
 type: Performance & exhibition
 author: Mona Hedayati, Frederik De Bleser, Lieven Menschaert
 date: 2023-10-17
-time: 18:00 - 21:00
+time: 18:00 - 19:00
 location: Showroom  Sint Lucas Antwerpen, Van Schoonbekestraat 143, 2018 Antwerpen
 main_image: https://ucarecdn.com/d3d83438-8739-4d97-9451-340a556bde31/
 images: ""
@@ -22,10 +22,12 @@ Breathless is a sound performance developed using machine learning for sound gen
 
 ![](https://ucarecdn.com/aab623a7-6bd0-4893-9359-fdbcf51bad7c/)
 
-
 ## Flesh to Foliage: a Technological Requiem
 
-*An AI performance created by Madina Mahomedova [UA], Alexandra Fraser [EN], Nika de La Loncha [DE], Myrthe Bokelmann [NL], Gizem Karaosmanoğlu [TR], Frederik De Bleser and Lieven Menschaert.*
+*An AI performance created by Madina Mahomedova \[UA], Alexandra Fraser \[EN], Nika de La Loncha \[DE], Myrthe Bokelmann \[NL], Gizem Karaosmanoğlu \[TR], Frederik De Bleser and Lieven Menschaert.*
 
 In this project, we explore the cyber feminist realm — an artistic, theoretical and cultural movement that explores the intersections of technology, gender and identity — by creating nature-inspired body extensions. Female-looking bodies are blended with elements from nature, such as wilting plants and flowers. This creates a new view of the human body as a hybrid entity, a mix of organic and synthetic material. A virtual dancer created from these extended bodies, and trained using artificial intelligence, converses with a physical dancer. Both share a common heritage, mirroring each other's movements. But who is controlling whom?
 
+
+
+**After the performances there's a drink, as a way of both opening this time-based AI exhibition, and to close off the presentation day with the PhD researchers (see [here).](https://slarg.be/events/2023-10-17-a-day-of-presentations/)**
