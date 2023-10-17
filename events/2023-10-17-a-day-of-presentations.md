@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 year: 2023
-title: Closing Time SLARG
+title: "Closing Time SLARG --->THIS IS CANCELLED TODAY! "
 byline: Finalized Research Projects SLARG
 type: Research presentations
 author: Annelys De Vet, Helen Dowling, Marnie Slater, Robin Vanbesien
@@ -12,6 +12,12 @@ location: Showroom, Sint Lucas Antwerpen, Van Schoonbekestraat 143, 2018 Antwerp
 main_image: https://ucarecdn.com/7061c447-64e6-4cf4-816f-2e20b2b1f826/
 images: null
 ---
+> NOTE: THIS IS CANCELLED DUE TO THE SITUATION IN BRUSSELS TODAY (TUESDAY OCT 17). 
+>
+> THE PRESENTATIONS WILL BE RE-RESCHEDULED THIS WEEK - to be announced!
+
+
+
 Several SLARG research projects are coming to an end. Curious about their conclusions? Join our sharing session and learn more! 
 
 The PhD research '**Disarming Design**' by **Annelys de Vet** centres around three self-initiated long-term participative design projects that engage with social and political struggles. They are the bottom-up cartographic publishing platform ’Subjective Editions’, the thought provoking design label ‘Disarming Design from Palestine’ and the temporary masters programme ‘Disarming Design’. With her research De Vet asks fundamental questions about these practices and contextualises the collaborations, aesthetics and methodologies. What is design’s potential to foster collaboration and change? How can design disarm the status quo?
