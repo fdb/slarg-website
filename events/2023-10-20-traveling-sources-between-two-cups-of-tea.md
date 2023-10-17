@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 year: 2023
-title: "Travelling Sources: Between Two Cups of Tea"
+title: "Travelling Sources: Between Two Cups of Tea ----> CANCELLED"
 byline: "Storytelling evening at Kaaistudios "
 type: Interactive evening with performances and exhibition
 author: "Organized by Hoda Siahtiri, Hari Prasad Sacré and Arshia Ali Azmat "
