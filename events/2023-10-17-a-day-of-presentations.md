@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 year: 2023
-title: "Closing Time SLARG --->THIS IS CANCELLED TODAY! "
+title: "Closing Time SLARG "
 byline: Finalized Research Projects SLARG
 type: Research presentations
 author: Annelys De Vet, Helen Dowling, Marnie Slater, Robin Vanbesien
