@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 year: "2023"
-title: The World Like a Jewel in the Hand (2022)
+title: "The World Like a Jewel in the Hand (2022) ----> CANCELLED!!! "
 byline: "Documentary film directed by Ariella Azoulay "
 type: Film screening
 author: Organized by Hoda Siahtiri, Arshia Ali Azmat & Hari Prasad Sacré
