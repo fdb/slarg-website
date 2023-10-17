@@ -2,7 +2,8 @@
 layout: event.liquid
 tags: event
 year: 2023
-title: Museums in Europe are not European - Unlearning Together at Their Thresholds
+title: "Museums in Europe are not European - Unlearning Together at Their
+  Thresholds ---> CANCELLED!!! "
 byline: Lecture by Ariella Aïsha Azoulay on the impossibility of decolonising
   colonial museums without decolonising the world.
 type: Lecture
