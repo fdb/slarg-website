@@ -6,17 +6,13 @@ title: "Closing Time SLARG --->THIS IS CANCELLED TODAY! "
 byline: Finalized Research Projects SLARG
 type: Research presentations
 author: Annelys De Vet, Helen Dowling, Marnie Slater, Robin Vanbesien
-date: 2023-10-17
-time: 14:00 - 17:00
+date: 2023-10-19
+time: 16:30 -- 18:30
 location: Showroom, Sint Lucas Antwerpen, Van Schoonbekestraat 143, 2018 Antwerpen
 main_image: https://ucarecdn.com/7061c447-64e6-4cf4-816f-2e20b2b1f826/
 images: null
 ---
-> NOTE: THIS IS CANCELLED DUE TO THE SITUATION IN BRUSSELS TODAY (TUESDAY OCT 17). 
->
-> THE PRESENTATIONS WILL BE RE-RESCHEDULED THIS WEEK - to be announced!
-
-
+> **Note: This was cancelled on Tuesday Oct 17 but rescheduled on Oct 19, starting at 16:30**
 
 Several SLARG research projects are coming to an end. Curious about their conclusions? Join our sharing session and learn more! 
 
