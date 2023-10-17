@@ -2,18 +2,17 @@
 layout: event.liquid
 tags: event
 year: 2023
-title: "Performing with AI: Sensing the body through touch & sound ----> THIS IS
-  CANCELLED! "
+title: "Performing with AI: Sensing the body through touch & sound "
 byline: Two AI performances
 type: Performance & exhibition
 author: Mona Hedayati, Frederik De Bleser, Lieven Menschaert
-date: 2023-10-17
-time: 18:00 - 19:00
+date: 2023-10-19
+time: 18:30 - 19:30
 location: Showroom  Sint Lucas Antwerpen, Van Schoonbekestraat 143, 2018 Antwerpen
 main_image: https://ucarecdn.com/d3d83438-8739-4d97-9451-340a556bde31/
 images: ""
 ---
-**NOTE/ THIS IS CANCELLED TODAY DUE TO THE EVENTS IN BRUSSELS (17/10)**
+**NOTES: This was first cancelled on Tuesday and then rescheduled to Thursday Oct 19, starting at 18:30** 
 
 We present an evening delving into two realms of sensory exploration: one centered around a dialogue between a physical and virtual body, the other steeped in auditory experience. Both challenge the audience to delve into embodied perception. This poses compelling questions: How is our understanding of sensory perception and embodiment evolving in an era suffused with artificial intelligence? And is it possible that AI, rather than distancing us from our own sensory experiences, could deepen our connection to them?
 
