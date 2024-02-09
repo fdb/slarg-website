@@ -3,3 +3,12 @@ layout: page.liquid
 ---
 
 <h1>Researchers</h1>
+<div class="researcher-grid">
+{% for researcher in collections.researcher %}
+<a class="researcher" href="{{ researcher.url }}">
+    <h1> {{ researcher.data.name }}</h1>
+    <img src="{{researcher.data.headshot_image}}" alt="headshot of {{researcher.data.name}}">
+    wheeee this is stufff bla bla bla
+</a>
+{% endfor %}
+</div>
