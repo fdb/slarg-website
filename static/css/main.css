@@ -321,3 +321,19 @@ article .partner-logos img {
 		font-size: 1rem;
 	}
 }
+
+.researcher-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+	grid-gap: 1rem;
+
+	.researcher {
+		border: 2px solid var(--border-accent);
+	}
+
+	img {
+		width: 300px;
+		height: 300px;
+		object-fit: cover;
+	}
+}
