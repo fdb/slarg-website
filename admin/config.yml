@@ -69,3 +69,49 @@ collections:
           required: false,
           media_library: { config: { multiple: true } }
         }
+  - name: researchers
+    label: 'Researchers'
+    label_singular: 'Researcher'
+    folder: 'researchers'
+    create: true
+    delete: false
+    slug: '{{researcher_name}}'
+    preview_path: '/researchers/{{slug}}'
+    summary: '{{date}} | {{researcher_name}}'
+    sortable_fields: ['researcher_name']
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'researcher.liquid' }
+      - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'researcher' }
+      - {
+          label: 'researcher_name',
+          name: 'title',
+          widget: 'string',
+          hint: 'Will be displayed large and in bold. Keep it short for layout purposes.'
+        }
+      - {
+          label: 'Date',
+          name: 'date',
+          widget: 'datetime',
+          default: '2023-10-16',
+          format: 'YYYY-MM-DD',
+          date_format: 'DD/MM/YYYY',
+          time_format: false,
+          hint: 'Research Week is from Mon 16 - Sun 22 Oct 2023.'
+        }
+      - { label: 'Time', name: 'time', widget: 'string', hint: 'E.g. 10:00 - 12:00' }
+      - { label: 'Location', name: 'location', widget: 'string', default: 'Sint Lucas Antwerpen' }
+      - {
+          label: 'Main image',
+          name: 'main_image',
+          widget: 'image',
+          hint: 'Please use a square image; otherwise it will be cropped in the grid.'
+        }
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Describe your event. Add a registration link at the end if needed.' }
+      - {
+          label: 'Images',
+          name: 'images',
+          widget: 'image',
+          label_singular: 'image',
+          required: false,
+          media_library: { config: { multiple: true } }
+        }

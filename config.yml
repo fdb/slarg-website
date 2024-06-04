@@ -1,0 +1,5 @@
+collections:
+  - name: "events"
+    create: "true"
+  - name: "researchers"
+    create: "true"
