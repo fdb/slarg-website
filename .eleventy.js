@@ -46,6 +46,6 @@ module.exports = function (eleventyConfig) {
 	});
 
 	eleventyConfig.addCollection('researchers', function (collection) {
-		return collection.getFilteredByGlob('/researchers/*.md');
+		return collection.getFilteredByGlob('researchers/*.md');
 	});
 };

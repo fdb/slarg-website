@@ -71,24 +71,18 @@ collections:
         }
   - name: researchers
     label: 'Researchers'
-    label_singular: 'Researcher'
     folder: 'researchers'
     create: true
     delete: true
-    slug: '{{researcher_name}}'
-    preview_path: '/researchers/{{slug}}'
-    summary: '{{date}} | {{researcher_name}}'
-    sortable_fields: ['researcher_name', 'field']
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'researcher.liquid' }
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'researcher' }
-      - {
-          label: 'Researcher_name',
+      - { label: 'Researcher_name',
           name: 'researcher_name',
           widget: 'string',
           hint: 'Will be displayed large and in bold. Keep it short for layout purposes.'
         }
-      - { label: 'Description', name: 'description', widget: 'markdown', hint: ' short bio' }
+      - { label: 'Bio', name: 'bio', widget: 'markdown', hint: ' short bio' }
       - {
           label: 'Headshot_image',
           name: 'headshot_image',
@@ -98,4 +92,5 @@ collections:
           media_library: { config: { multiple: true } }
         }
       - { label: 'Email', name: 'email', widget: 'string', hint: 'email' }
-
+      - { label: 'Researcher_description', name: 'researcher_description', widget: 'markdown', hint: 'researcher description'}
+      - { label: 'researcher_flag', name: 'researcher_flag', widget: 'boolean', default: 'true' , hint: 'tick this box if you are a researcher'}
