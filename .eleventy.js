@@ -44,4 +44,8 @@ module.exports = function (eleventyConfig) {
 		const allEvents = collection.getFilteredByTag('event').filter((event) => event.data.date?.getFullYear() === 2022);
 		return groupEventsByWeekday(allEvents);
 	});
+
+	eleventyConfig.addCollection('researchers', function (collection) {
+		return collection.getFilteredByGlob('/researchers/*.md');
+	});
 };
