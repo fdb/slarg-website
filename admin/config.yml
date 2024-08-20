@@ -1,6 +1,8 @@
 backend:
   name: git-gateway
-  branch: slarg-imane-test 
+  branch: slarg-imane-test
+  local_backend: true
+
 media_library:
   name: uploadcare
   config:
@@ -13,7 +15,7 @@ collections:
     label_singular: 'Event'
     folder: 'events'
     create: true
-    delete: false
+    delete: true
     slug: '{{date}}-{{title}}'
     preview_path: '/events/{{slug}}'
     summary: '{{date}} | {{title}} | {{author}}'
@@ -82,7 +84,7 @@ collections:
           widget: 'string',
           hint: 'Will be displayed large and in bold. Keep it short for layout purposes.'
         }
-      - { label: 'Bio', name: 'bio', widget: 'markdown', hint: ' short bio' }
+      - { label: 'Bio', name: 'bio', widget: 'markdown', hint: ' short bio of researcher' }
       - {
           label: 'Headshot_image',
           name: 'headshot_image',
@@ -92,5 +94,10 @@ collections:
           media_library: { config: { multiple: true } }
         }
       - { label: 'Email', name: 'email', widget: 'string', hint: 'email' }
-      - { label: 'Researcher_description', name: 'researcher_description', widget: 'markdown', hint: 'researcher description'}
       - { label: 'researcher_flag', name: 'researcher_flag', widget: 'boolean', default: 'true' , hint: 'tick this box if you are a researcher'}
+      - { label: 'Staff_flag', name: 'staff_flag', widget: 'boolean', default: 'false', hint: 'check this box if you are a staff member'}
+      - { lablel: 'Available_for_supervision', name: 'available_for_supervision', widget: 'boolean', default: 'false', hint: 'tick this box if you are a post doc available for supervision'}
+      - {label: 'Status_of_research', name: 'status_of_research', widget: 'select', options: ['ongoing', 'finished']}
+      - {label: 'Social_links', name: 'social_links', widget: 'markdown', hint: 'add a link to external websites or social profiles' }
+      - { label: 'Time', name: 'time', widget: 'string', optional: true, hint: 'start time/end time of research, ex.: October 2021 - October 2025' }
+      # TODO: add a widget for a list of tags eventually
