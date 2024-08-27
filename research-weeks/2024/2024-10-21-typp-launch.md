@@ -1,6 +1,6 @@
 ---
 layout: event.liquid
-eventtype2024: exhibition2024
+event_type: exhibition
 year: 2024
 title: TEST 3 EXPO
 byline: "Launch of the SLARG and AdMa artistic research publications with
@@ -10,6 +10,7 @@ author: "Ward Heirwegh, Mrs. Kovich, Danial Shah, Marnie Slater, Tijana
   Petrovic, Joud Toamah "
 date: 2024-10-21
 time: 19:00 - 21:00
+eventtype2024: exhibition2024
 location: "In the bar @ Kunsthal Extra City, Ploegstraat 25 "
 main_image: https://ucarecdn.com/b590ff98-e339-46dc-810b-eb896ee9e717/
 images: null
