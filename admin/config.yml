@@ -71,9 +71,9 @@ collections:
           required: false,
           media_library: { config: { multiple: true } }
         }
-  - name: 'research-week-2024'
-    label: 'Research week 2024'
-    label_singular: 'Research week'
+  - name: 'events_2024'
+    label: 'events_2024'
+    label_singular: 'event'
     folder: 'research-weeks/2024'
     create: true
     delete: true
@@ -82,6 +82,9 @@ collections:
     summary: '{{date}} | {{title}} | {{author}}'
     sortable_fields: ['date', 'title']
     view_filters:
+      - label: '2024'
+        field: 'year'
+        pattern: '2024'
       - label: '2023'
         field: 'year'
         pattern: '2023'
@@ -94,8 +97,9 @@ collections:
         pattern: \d{4}
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'event.liquid' }
-      - { label: 'EventType2024', name: 'eventtype2024', widget: 'select', default: 'event', options: ['event', 'exhibition'] }
-      - { label: 'Event Year', name: 'year', widget: 'hidden', default: 2023 }
+      - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'event' }
+      - { label: 'Event Type', name: 'event_type', widget: 'select', options: ['event', 'exhibition'], default: 'event'}
+      - { label: 'Event Year', name: 'year', widget: 'hidden', default: 2024 }
       - {
           label: 'Event Title',
           name: 'title',

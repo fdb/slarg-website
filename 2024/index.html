@@ -9,25 +9,38 @@ layout: base.liquid
         </div>
     </div>
 
-    <h2 class="event-day">Exhibition</h2>
+    <!-- Debugging Exhibitions -->
+    <h2 class="event-day">Exhibitions</h2>
+    {% if collections.exhibition_2024 %}
+        <p>Exhibition collection exists and has {{ collections.exhibition_2024 | size }} items.</p>
+        {% for event in collections.exhibition_2024 %}
+            <article class="event-item">
+                <h3>{{ event.data.title }}</h3>
+                <p>{{ event.data.date | date: "%B %d, %Y" }}</p>
+                <p>{{ event.data.location }}</p>
+                <p>{{ event.data.author }}</p>
+                <div>{{ event.templateContent }}</div>
+            </article>
+        {% endfor %}
+    {% else %}
+        <p>No exhibitions found for 2024.</p>
+    {% endif %}
 
-
-    <!-- {% render "_eventGrid" with collections.pre_events_2023 as events %} -->
-
-
-    {% for grouped in collections.exhibition_2024 %}
-    {% assign weekday = grouped[0] %}
-    {% assign events = grouped[1] %}
-    {% render "_eventGrid" with events as events %}
-    {% endfor %}
-
+    <!-- Debugging Events -->
     <h2 class="event-day">Events</h2>
-
-    {% for grouped in collections.events_2024 %}
-    {% assign weekday = grouped[0] %}
-    {% assign events = grouped[1] %}
-    {% render "_eventGrid" with events as events %}
-    {% endfor %}
-
+    {% if collections.events_2024 %}
+        <p>Events collection exists and has {{ collections.events_2024 | size }} items.</p>
+        {% for event in collections.events_2024 %}
+            <article class="event-item">
+                <h3>{{ event.data.title }}</h3>
+                <p>{{ event.data.date | date: "%B %d, %Y" }}</p>
+                <p>{{ event.data.location }}</p>
+                <p>{{ event.data.author }}</p>
+                <div>{{ event.templateContent }}</div>
+            </article>
+        {% endfor %}
+    {% else %}
+        <p>No events found for 2024.</p>
+    {% endif %}
 
 </main>

@@ -1,6 +1,5 @@
 ---
 layout: event.liquid
-eventtype2024: exhibition2024
 year: 2024
 title: TEST 1 EXHIBITION
 byline: Hussein Shikha on making tapestries

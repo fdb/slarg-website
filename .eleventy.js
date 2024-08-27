@@ -34,18 +34,34 @@ module.exports = function (eleventyConfig) {
 		return allEvents;
 	});
 
+	// eleventyConfig.addCollection('events_2024', function (collection) {
+	// 	const allEvents = collection
+	// 		.getFilteredByTag('event')
+	// 		.filter((event) => event.data.date?.getFullYear() === 2024);
+	// 	return groupEventsByWeekday(allEvents);
+	// });
+	// eleventyConfig.addCollection('exhibition_2024', function (collection) {
+	// 	const allEvents = collection
+	// 		.getFilteredByTag('exhibition')
+	// 		.filter((event) => event.data.date?.getFullYear() === 2024);
+	// 	return groupEventsByWeekday(allEvents);
+	// });
+
 	eleventyConfig.addCollection('events_2024', function (collection) {
-		const allEvents = collection
-			.getFilteredByEventType2024('event')
-			.filter((event) => event.data.date?.getFullYear() === 2024 && event.data.date?.getDate() >= 16);
-		return groupEventsByWeekday(allEvents);
+		return collection.getAll().filter((item) => {
+			return item.data.event_type === 'event' && new Date(item.data.date).getFullYear() === 2024;
+		});
 	});
+	
 	eleventyConfig.addCollection('exhibition_2024', function (collection) {
-		const allEvents = collection
-			.getFilteredByEventType2024('exhibition')
-			.filter((event) => event.data.date?.getFullYear() === 2024 && event.data.date?.getDate() >= 16);
-		return groupEventsByWeekday(allEvents);
+		return collection.getAll().filter((item) => {
+			return item.data.event_type === 'exhibition' && new Date(item.data.date).getFullYear() === 2024;
+		});
 	});
+
+
+
+
 	eleventyConfig.addCollection('events_2023', function (collection) {
 		const allEvents = collection
 			.getFilteredByTag('event')
