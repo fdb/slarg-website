@@ -1,0 +1,33 @@
+---
+layout: base.liquid
+---
+<main>
+    <div class="hero">
+        <div class="container">
+            <p class="hero-text">From October 2024, the Sint Lucas Antwerpen Research Group organises
+                its annual research week. <a href="./about">Read more</a></p>
+        </div>
+    </div>
+
+    <h2 class="event-day">Exhibition</h2>
+
+
+    <!-- {% render "_eventGrid" with collections.pre_events_2023 as events %} -->
+
+
+    {% for grouped in collections.exhibition_2024 %}
+    {% assign weekday = grouped[0] %}
+    {% assign events = grouped[1] %}
+    {% render "_eventGrid" with events as events %}
+    {% endfor %}
+
+    <h2 class="event-day">Events</h2>
+
+    {% for grouped in collections.events_2024 %}
+    {% assign weekday = grouped[0] %}
+    {% assign events = grouped[1] %}
+    {% render "_eventGrid" with events as events %}
+    {% endfor %}
+
+
+</main>

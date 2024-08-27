@@ -34,6 +34,18 @@ module.exports = function (eleventyConfig) {
 		return allEvents;
 	});
 
+	eleventyConfig.addCollection('events_2024', function (collection) {
+		const allEvents = collection
+			.getFilteredByEventType2024('event')
+			.filter((event) => event.data.date?.getFullYear() === 2024 && event.data.date?.getDate() >= 16);
+		return groupEventsByWeekday(allEvents);
+	});
+	eleventyConfig.addCollection('exhibition_2024', function (collection) {
+		const allEvents = collection
+			.getFilteredByEventType2024('exhibition')
+			.filter((event) => event.data.date?.getFullYear() === 2024 && event.data.date?.getDate() >= 16);
+		return groupEventsByWeekday(allEvents);
+	});
 	eleventyConfig.addCollection('events_2023', function (collection) {
 		const allEvents = collection
 			.getFilteredByTag('event')
