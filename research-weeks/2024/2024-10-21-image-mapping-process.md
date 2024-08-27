@@ -1,6 +1,6 @@
 ---
 layout: event.liquid
-eventtype2024: exhibition2024
+event_type: event
 year: 2024
 title: TEST 2 EXPO
 byline: Image Mapping
@@ -8,6 +8,7 @@ type: Presentation
 author: "Danial Shah "
 date: 2024-10-21
 time: 19:00 - 20:00
+eventtype2024: exhibition2024
 location: "In the bar @ Kunsthal Extra City, Ploegstraat 25 "
 main_image: https://ucarecdn.com/cf45c1d2-18f1-4dfd-beef-1df47da4651c/
 images:
