@@ -1,18 +1,18 @@
 ---
 layout: event.liquid
-event_type: exhibition
+eventtype2024: exhibition2024
 year: 2024
-title: TEST 1 EXHIBITION
+title: TEST RESEARCH WORK EXHIBITED
 byline: Hussein Shikha on making tapestries
 type: Lecture performance
 author: Hussein Shikha
 date: 2024-10-21
 time: 16:00 - 17:00
-eventtype2024: exhibition2024
 location: "Ploegstraat 25 @ Kunsthal Extra City "
 main_image: https://ucarecdn.com/95bfc069-1420-47e5-8ed7-c5eede2a79b9/
 images:
   - https://ucarecdn.com/152fc29d-22a5-4818-9d05-64b33f389f0f/
+event_type: exhibition
 ---
 Cover Image: Hussein Shikha, design process
 
