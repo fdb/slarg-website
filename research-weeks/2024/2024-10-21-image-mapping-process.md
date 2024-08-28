@@ -1,8 +1,8 @@
 ---
 layout: event.liquid
-eventtype2024: event2024
+eventtype2024: exhibition2024
 year: 2024
-title: TEST 2 event
+title: TEST 2 RESEARCH WORK EXHIBITED
 byline: Image Mapping
 type: Presentation
 author: "Danial Shah "
