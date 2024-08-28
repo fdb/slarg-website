@@ -25,6 +25,16 @@ content:
 ```
 
 </div>
+
+<section id="content-sections">
+    {% for section in content %}
+        <div class="highlight-event">
+            <h2>{{ section.section_title }}</h2>
+            <p>{{ section.description }}</p>
+        </div>
+    {% endfor %}
+</section>
+
 <h2>Archive of past events</h2>
 <div class="sites-grid">
     

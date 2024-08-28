@@ -166,3 +166,23 @@ collections:
       - {label: 'Social_links', name: 'social_links', widget: 'markdown', hint: 'add a link to external websites or social profiles' }
       - { label: 'Time', name: 'time', widget: 'string', optional: true, hint: 'start time/end time of research, ex.: October 2021 - October 2025' }
       # TODO: add a widget for a list of tags eventually
+  - name: homepage
+    label: "Homepage"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - label: "Homepage"
+        name: "homepage"
+        file: "index.html"  
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          # - { label: "Content", name: "body", widget: "markdown" }
+          - { label: "content", name: "content", widget: "list", 
+              fields: 
+                [
+                  {label: "section title", name: "section title", widget: "string"}, 
+                  {label: "section Description", name: "description", widget: "text"}
+                ] 
+          }
+
