@@ -2,7 +2,7 @@
 layout: event.liquid
 event_type: exhibition
 year: 2024
-title: TEST 3 EXPO
+title: text exibtion post/event
 byline: "Launch of the SLARG and AdMa artistic research publications with
   presentations, performances and drinks! "
 type: Launch
