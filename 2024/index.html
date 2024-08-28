@@ -4,42 +4,46 @@ layout: base.liquid
 <main>
     <div class="hero">
         <div class="container">
-            <p class="hero-text">From October 2024, the Sint Lucas Antwerpen Research Group organises
-                its annual research week. <a href="./about">Read more</a></p>
+            <p class="hero-text">This year, on October 24-27 2024, the Sint Lucas Antwerpen Research Group presents an exhibition for its annual research week, with related events. <a href="./about">Read more</a></p>
         </div>
     </div>
 
-    <!-- Debugging Exhibitions -->
-    <h2 class="event-day">Exhibitions</h2>
-    {% if collections.exhibition_2024 %}
+    <h2 class="event-day">Group Exhibition<br><span style="font-family: serif; font-size: 80px; font-style: italic; font-weight: normal; text-transform: none;">“Exhibition title”?</span></h2>
+    <div class="events-grid">
         {% for event in collections.exhibition_2024 %}
-            <article class="event-item">
-                <h3>{{ event.data.title }}</h3>
-                <p>{{ event.data.date | date: "%B %d, %Y" }}</p>
-                <p>{{ event.data.location }}</p>
-                <p>{{ event.data.author }}</p>
-                <div>{{ event.templateContent }}</div>
-            </article>
+            <div class="event">
+                <a href="{{ event.url }}"><img src="{{ event.data.main_image }}-/scale_crop/600x600/smart/" alt=""></a>
+                <h2 class="event-title">
+                    <a href="{{ event.url }}">{{ event.data.title }}</a>
+                </h2>
+                <h3 class="event-byline">{{ event.data.byline }}</h3>
+                <div class="event-details">
+                    <span class="event-type">{{ event.data.type }}</span> |
+                    <span class="event-author">{{ event.data.author}}</span> |
+                    <span class="event-date">{{ event.data.time }}</span> |
+                    <span class="event-date">{{ event.data.location }}</span>
+                </div>
+            </div>
         {% endfor %}
-    {% else %}
-        <p>No exhibitions found for 2024.</p>
-    {% endif %}
+    </div>
 
-    <!-- Debugging Events -->
     <h2 class="event-day">Events</h2>
-    {% if collections.events_2024 %}
-        <p>Events collection exists and has {{ collections.events_2024 | size }} items.</p>
+    <div class="events-grid">
         {% for event in collections.events_2024 %}
-            <article class="event-item">
-                <h3>{{ event.data.title }}</h3>
-                <p>{{ event.data.date | date: "%B %d, %Y" }}</p>
-                <p>{{ event.data.location }}</p>
-                <p>{{ event.data.author }}</p>
-                <div>{{ event.templateContent }}</div>
-            </article>
+            <div class="event">
+                <a href="{{ event.url }}"><img src="{{ event.data.main_image }}-/scale_crop/600x600/smart/" alt=""></a>
+                <h2 class="event-title">
+                    <a href="{{ event.url }}">{{ event.data.title }}</a>
+                </h2>
+                <h3 class="event-byline">{{ event.data.byline }}</h3>
+                <div class="event-details">
+                    <span class="event-type">{{ event.data.type }}</span> |
+                    <span class="event-author">{{ event.data.author}}</span> |
+                    <span class="event-date">{{ event.data.time }}</span> |
+                    <span class="event-date">{{ event.data.location }}</span>
+                </div>
+            </div>
         {% endfor %}
-    {% else %}
-        <p>No events found for 2024.</p>
-    {% endif %}
+    </div>
 
 </main>
