@@ -1,8 +1,8 @@
 ---
 layout: event.liquid
-eventtype2024: exhibition2024
+eventtype2024: event2024
 year: 2024
-title: TEST 2024 EVENT
+title: TEST 2024 EVENT MOVIE
 byline: "Launch of the SLARG and AdMa artistic research publications with
   presentations, performances and drinks! "
 type: Launch
