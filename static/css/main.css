@@ -332,3 +332,10 @@ article .partner-logos img {
 		font-size: 1rem;
 	}
 }
+
+.highlight-event {
+	padding: 1rem;
+	background: #ffe5ef;
+	border: solid 3px #ff00a7;
+	margin: 1rem;
+}

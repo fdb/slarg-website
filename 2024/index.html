@@ -12,7 +12,6 @@ layout: base.liquid
     <!-- Debugging Exhibitions -->
     <h2 class="event-day">Exhibitions</h2>
     {% if collections.exhibition_2024 %}
-        <p>Exhibition collection exists and has {{ collections.exhibition_2024 | size }} items.</p>
         {% for event in collections.exhibition_2024 %}
             <article class="event-item">
                 <h3>{{ event.data.title }}</h3>
