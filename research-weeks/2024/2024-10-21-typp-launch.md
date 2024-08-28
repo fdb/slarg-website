@@ -1,6 +1,6 @@
 ---
 layout: event.liquid
-eventtype2024: event2024
+eventtype2024: exhibition2024
 year: 2024
 title: TEST 2024 EVENT
 byline: "Launch of the SLARG and AdMa artistic research publications with
