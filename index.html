@@ -4,10 +4,13 @@ title: SLARG
 ---
 <div class="highlight-event">
 
-    <!-- this can come from a collection -->
-    <h2>Research week 2024</h2>
-    <p>This is a short description of the research week</p>
-    <p>From Thursday 24 to Sunday 27 october 2024</p>
+```
+<!-- this can come from a collection -->
+<h2>Research week 2024</h2>
+<p>This is a short description of the research week</p>
+<p>From Thursday 24 to Sunday 27 october 2024</p>
+```
+
 </div>
 <h2>Archive of past events</h2>
 <div class="sites-grid">
@@ -25,14 +28,3 @@ title: SLARG
         <span>2021</span>
     </a>
 </div>
-<script>
-    if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-            if (!user) {
-                window.netlifyIdentity.on("login", () => {
-                    document.location.href = "/admin/";
-                });
-            }
-        });
-    }
-</script>
