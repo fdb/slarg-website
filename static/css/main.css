@@ -339,3 +339,12 @@ article .partner-logos img {
 	border: solid 3px #ff00a7;
 	margin: 1rem;
 }
+
+.big-title{
+	font-family: serif;
+  font-size: 80px;
+  font-style: italic;
+  font-weight: normal;
+  text-transform: none;
+  color: purple;
+}

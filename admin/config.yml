@@ -181,7 +181,7 @@ collections:
           - { label: "content", name: "content", widget: "list", 
               fields: 
                 [
-                  {label: "section title", name: "section title", widget: "string"}, 
+                  {label: "section title", name: "section_title", widget: "string"}, 
                   {label: "section Description", name: "description", widget: "text"}
                 ] 
           }
