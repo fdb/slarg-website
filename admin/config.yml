@@ -104,27 +104,16 @@ collections:
           label: 'Event Title',
           name: 'title',
           widget: 'string',
-          hint: 'Will be displayed large and in bold. Keep it short for layout purposes.'
+          hint: 'Will be displayed large and in bold in the overview page. Keep it short for layout purposes. if your work does not have a titile, use your research title or you can describe what it is, ex. "video installation - untitled 2006" '
         }
-      - { label: 'Event Byline', name: 'byline', widget: 'string', hint: 'Will be displayed as a smaller subtitle.' }
-      - { label: 'Event Type', name: 'type', widget: 'string', hint: 'E.g. Research Methdology Workshop, Seminar' }
-      - { label: 'Author', name: 'author', widget: 'string', hint: 'Organisers / artists involved in this event' }
-      - {
-          label: 'Date',
-          name: 'date',
-          widget: 'datetime',
-          default: '2023-10-16',
-          format: 'YYYY-MM-DD',
-          date_format: 'DD/MM/YYYY',
-          time_format: false,
-          hint: 'Research Week is from Mon 16 - Sun 22 Oct 2023.'
-        }
-      - { label: 'Time', name: 'time', widget: 'string', hint: 'E.g. 10:00 - 12:00' }
-      - { label: 'Location', name: 'location', widget: 'string', default: 'Sint Lucas Antwerpen' }
+      # - { label: 'Event Byline', name: 'byline', widget: 'string', hint: 'Will be displayed as a smaller subtitle.' }
+      - { label: 'Event Type', name: 'type', widget: 'string', hint: 'In case you want to add more information' }
+      - { label: 'Author', name: 'author', widget: 'string', hint: ' Your name and potentially Organisers, collaborators etc.' }
       - {
           label: 'Main image',
           name: 'main_image',
           widget: 'image',
+          required: false,
           hint: 'Please use a square image; otherwise it will be cropped in the grid.'
         }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Describe your event. Add a registration link at the end if needed.' }
@@ -132,10 +121,23 @@ collections:
           label: 'Images',
           name: 'images',
           widget: 'image',
-          label_singular: 'image',
-          required: false,
+          label_singular: 'image', 
           media_library: { config: { multiple: true } }
         }
+      # These are fields that apply to your work if it is an event/performance
+      - {
+          label: 'Date',
+          name: 'date',
+          widget: 'datetime',
+          required: false,
+          default: '2023-10-16',
+          format: 'YYYY-MM-DD',
+          date_format: 'DD/MM/YYYY',
+          time_format: false,
+          hint: 'Date of your event/performance ex.: "Monday 16 October 2024"'
+        }
+      - { label: 'Time', name: 'time', widget: 'string', required: false, hint: 'E.g. 10:00 - 12:00' }
+      - { label: 'Location', name: 'location', widget: 'string', required: false, default: 'Sint Lucas Antwerpen' }
   - name: researchers
     label: 'Researchers'
     folder: 'researchers'
