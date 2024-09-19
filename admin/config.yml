@@ -99,7 +99,8 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'event.liquid' }
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'event' }
       - { label: 'Event Year', name: 'year', widget: 'hidden', default: 2024 }
-      - { label: 'Event Type', name: 'event_type', widget: 'select', options: ['event', 'exhibition'], default: 'event', hint: 'choose event if your contributon is not part of the permanent exhibition, but rather a performance/screening/event..'}
+      # - Here starts the visible fields in the CMS
+      - { label: 'Section website 2024', name: 'section_website_2024', widget: 'select', options: ['event', 'exhibition'], default: 'event', hint: 'Choose “event” if your contributon is not part of the permanent exhibition, but rather a performance/screening/event.'}
       - {
           label: 'Event Title',
           name: 'title',
@@ -107,8 +108,8 @@ collections:
           hint: 'Will be displayed large and in bold in the overview page. Keep it short for layout purposes. if your work does not have a titile, use your research title or you can describe what it is, ex. "video installation - untitled 2006" '
         }
       # - { label: 'Event Byline', name: 'byline', widget: 'string', hint: 'Will be displayed as a smaller subtitle.' }
-      - { label: 'Event Type', name: 'type', widget: 'string', hint: 'In case you want to add more information' }
-      - { label: 'Author', name: 'author', widget: 'string', hint: ' Your name and potentially Organisers, collaborators etc.' }
+      - { label: 'Project or event type', name: 'type', widget: 'string', hint: 'We recommend to add what type of event it is (ex: performance, video installation, talk, movie screening…)' }
+      - { label: 'Researcher', name: 'author', widget: 'string', hint: 'Your name. If you want to add collaborators etc, you can use the body text.' }
       - {
           label: 'Main image',
           name: 'main_image',
@@ -116,7 +117,7 @@ collections:
           required: false,
           hint: 'Please use a square image; otherwise it will be cropped in the grid.'
         }
-      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Describe your event. Add a registration link at the end if needed.' }
+      - { label: 'Body text', name: 'body', widget: 'markdown', hint: 'Describe your event/project exhibited. Add a registration link at the end if needed.' }
       - {
           label: 'Images',
           name: 'images',
@@ -137,7 +138,7 @@ collections:
           hint: 'Date of your event/performance'
         }
       - { label: 'Time', name: 'time', widget: 'string', required: false, hint: 'E.g. 10:00 - 12:00' }
-      - { label: 'Location', name: 'location', widget: 'string', required: false, default: 'Sint Lucas Antwerpen' }
+      - { label: 'Location', name: 'location', widget: 'select', options: ['Sint Lucas Antwerpen showroom', 'Chapel'], default: 'Sint Lucas Antwerpen showroom'}
   - name: researchers
     label: 'Researchers'
     folder: 'researchers'
@@ -153,11 +154,10 @@ collections:
         }
       - { label: 'Bio', name: 'bio', widget: 'markdown', hint: ' short bio of researcher' }
       - {
-          label: 'Headshot_image',
-          name: 'headshot_image',
+          label: 'Image Researcher',
+          name: 'image_researcher',
           widget: 'image',
           label_singular: 'image',
-          required: false,
           media_library: { config: { multiple: true } }
         }
       - { label: 'Email', name: 'email', widget: 'string', hint: 'email' }
