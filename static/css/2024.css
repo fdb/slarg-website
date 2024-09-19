@@ -1,0 +1,9 @@
+:root {
+	--text-accent: #9d00c8;
+	--border-accent: #2f5f0f;
+	--bg: #d0f5fd;
+	--text: #272518;
+}
+.hero-text {
+	color: #0eaa44;
+}

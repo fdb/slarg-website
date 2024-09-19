@@ -34,6 +34,34 @@ module.exports = function (eleventyConfig) {
 		return allEvents;
 	});
 
+	// eleventyConfig.addCollection('events_2024', function (collection) {
+	// 	const allEvents = collection
+	// 		.getFilteredByTag('event')
+	// 		.filter((event) => event.data.date?.getFullYear() === 2024);
+	// 	return groupEventsByWeekday(allEvents);
+	// });
+	// eleventyConfig.addCollection('exhibition_2024', function (collection) {
+	// 	const allEvents = collection
+	// 		.getFilteredByTag('exhibition')
+	// 		.filter((event) => event.data.date?.getFullYear() === 2024);
+	// 	return groupEventsByWeekday(allEvents);
+	// });
+
+	eleventyConfig.addCollection('events_2024', function (collection) {
+		return collection.getAll().filter((item) => {
+			return item.data.event_type === 'event' && new Date(item.data.date).getFullYear() === 2024;
+		});
+	});
+	
+	eleventyConfig.addCollection('exhibition_2024', function (collection) {
+		return collection.getAll().filter((item) => {
+			return item.data.event_type === 'exhibition' && new Date(item.data.date).getFullYear() === 2024;
+		});
+	});
+
+
+
+
 	eleventyConfig.addCollection('events_2023', function (collection) {
 		const allEvents = collection
 			.getFilteredByTag('event')
@@ -43,5 +71,9 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addCollection('events_2022', function (collection) {
 		const allEvents = collection.getFilteredByTag('event').filter((event) => event.data.date?.getFullYear() === 2022);
 		return groupEventsByWeekday(allEvents);
+	});
+
+	eleventyConfig.addCollection('researchers', function (collection) {
+		return collection.getFilteredByGlob('researchers/*.md');
 	});
 };

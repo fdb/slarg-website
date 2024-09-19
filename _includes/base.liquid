@@ -16,22 +16,26 @@
     <link rel="stylesheet" href="/static/css/2022.css">
     {% elsif site_year == '2023' %}
     <link rel="stylesheet" href="/static/css/2023.css">
+    {% elsif site_year == '2024' %}
+    <link rel="stylesheet" href="/static/css/2024.css">
     {% endif %}
   </head>
 
   <body>    
     <div class="wrapper">
       <header>
-        <div>
-          <a href="/{{ site_year }}/">SLARG RESEARCH WEEK</a>
-        </div>
-        <!--
-        <div class="years">
-          <a href="/2021/">2021</a>
-          <a href="/2022/">2022</a>
-          <a href="/2023/">2023</a>
-        </div>
-        -->
+        <div class="slarg"><a href="/">SLARG</a></div>
+        <h1><a href="/">Sint Lucas Antwerpen Research Group</a></h1>
+
+        <div class="menu-button">MENU</div>
+        <nav class="menu">
+          <a href="/2024">Research week 2024</a>
+          <a href="/about">About</a>
+          <a href="/researchers">Researchers</a>
+          <a href="/Projects">Projects</a>
+          <a href="/Publications">Publications</a>
+        </nav>
+      
       </header>
       {{ content }}
       <footer>

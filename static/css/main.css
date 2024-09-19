@@ -1,3 +1,18 @@
+/* :root {
+	--text-accent: #334299;
+	--border-accent: #99bc00;
+	--bg: #eaeaff;
+	--text: #272518;
+} */
+
+:root {
+	--text-accent: #9d00c8;
+	--border-accent: #2f5f0f;
+	--bg: #d0f5fd;
+	--text: #9d00c8;
+}
+
+
 @font-face {
 	font-family: 'Marsha';
 	font-style: normal;
@@ -37,12 +52,6 @@
 		url('/static/fonts/AUTHENTIC-Sans-Pro-130.woff') format('woff');
 }
 
-:root {
-	--text-accent: #999;
-	--border-accent: #999;
-	--bg: #f7f7f7;
-	--text: #666;
-}
 
 *,
 *::before,
@@ -72,10 +81,7 @@ header {
 	color: #000;
 	display: flex;
 	justify-content: space-between;
-	align-items: center;
-	padding: 1rem 2rem;
-	/* text-transform: uppercase; */
-	font-family: 'Marsha', sans-serif;
+	padding: 0 2rem;
 	font-weight: bold;
 	font-size: 1rem;
 }
@@ -83,13 +89,22 @@ header {
 header a {
 	color: var(--text-accent);
 	text-decoration: none;
-	/* border-bottom: 2px solid var(--text-accent); */
+}
+header .slarg a {
+	font-family: 'Marsha';
+	font-size: 3em;
+}
+header h1 {
+	font-family: 'Marsha';
+	padding-left: 1rem;
 }
 
-header .years {
-	display: flex;
-	gap: 0.8rem;
-	justify-content: center;
+nav a {
+	padding-right: 1rem;
+	font-weight: 400;
+}
+.hidden {
+	display: none;
 }
 
 main {
@@ -304,7 +319,21 @@ article .partner-logos img {
 		align-items: center;
 	}
 }
+.researcher-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+	grid-gap: 1rem;
 
+	.researcher {
+		border: 2px solid var(--border-accent);
+	}
+
+	img {
+		width: 300px;
+		height: 300px;
+		object-fit: cover;
+	}
+}
 .sites-grid {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -320,4 +349,26 @@ article .partner-logos img {
 		font-weight: bold;
 		font-size: 1rem;
 	}
+}
+
+.highlight-event {
+	font-size: 2rem;
+	line-height: 2.4rem;
+	font-weight: bold;
+	font-family: 'Marsha', sans-serif;
+	text-transform: uppercase;
+	text-align: left;
+	letter-spacing: 2px;
+	color: cornsilk;
+	padding: 20px;
+	background-color: #0eaa44;
+}
+
+.big-title{
+	font-family: serif;
+  font-size: 80px;
+  font-style: italic;
+  font-weight: normal;
+  text-transform: none;
+  color: purple;
 }
