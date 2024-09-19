@@ -90,14 +90,14 @@ header a {
 	color: var(--text-accent);
 	text-decoration: none;
 }
-header .slarg a {
+/* header .slarg a {
 	font-family: 'Marsha';
 	font-size: 3em;
 }
 header h1 {
 	font-family: 'Marsha';
 	padding-left: 1rem;
-}
+} */
 
 nav a {
 	padding-right: 1rem;
