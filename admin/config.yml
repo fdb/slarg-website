@@ -161,12 +161,11 @@ collections:
           media_library: { config: { multiple: true } }
         }
       - { label: 'Email', name: 'email', widget: 'string', hint: 'email' }
-      - { label: 'researcher_flag', name: 'researcher_flag', widget: 'boolean', default: 'true' , hint: 'tick this box if you are a researcher'}
+      - { label: 'researcher_flag', name: 'researcher_flag', widget: 'boolean', default: 'false' , hint: 'tick this box if you are a researcher'}
       - { label: 'Staff_flag', name: 'staff_flag', widget: 'boolean', default: 'false', hint: 'check this box if you are a staff member'}
       - { lablel: 'Available_for_supervision', name: 'available_for_supervision', widget: 'boolean', default: 'false', hint: 'tick this box if you are a post doc available for supervision'}
       - {label: 'Status_of_research', name: 'status_of_research', widget: 'select', options: ['ongoing', 'finished']}
-      - {label: 'Social_links', name: 'social_links', widget: 'markdown', hint: 'add a link to external websites or social profiles' }
-      - { label: 'Time', name: 'time', widget: 'string', optional: true, hint: 'start time/end time of research, ex.: October 2021 - October 2025' }
+      - {label: 'Social_links', name: 'social_links', widget: 'markdown', default: 'false', hint: 'add a link to external websites or social profiles' }
       # TODO: add a widget for a list of tags eventually
   - name: homepage
     label: "Homepage"
