@@ -13,7 +13,7 @@ bio: Danial Shah, a Pakistani documentary filmmaker and photographer, brings a
   feature, "20 Miles Apart," through a collaborative production spanning
   Pakistan, Belgium, Netherlands, and Hungary.
 image_researcher:
-  - https://ucarecdn.com/511bf9b2-e56f-44fe-a818-4e94e76645a7/
+  - https://ucarecdn.com/c0ef8db3-6b7e-4391-9b1b-a690a3203362/
 email: shah.danial@kdg.be
 researcher_flag: "true"
 staff_flag: "false"
