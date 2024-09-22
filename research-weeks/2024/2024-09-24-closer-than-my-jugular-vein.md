@@ -8,7 +8,7 @@ type: Arabic handwriting, lettering, and drawing within a spatial book practice
 author: Ruth Razan Loos
 main_image: https://ucarecdn.com/09d3027e-2f12-4f75-a50a-2de6b767abbe/
 images:
-  - https://ucarecdn.com/fa548737-c0ec-4882-a06b-51ce060202fa/
+  - https://ucarecdn.com/5c2e14f4-03fd-4d60-bab5-1abe08272c86/
 date: 2024-09-24
 location: Sint Lucas Antwerpen showroom
 ---
