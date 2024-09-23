@@ -9,7 +9,7 @@ author: Joud Toamah
 main_image: https://ucarecdn.com/1728b1f7-6dcb-4688-b6b0-6917b30b361a/
 images:
   - https://ucarecdn.com/3718f8e1-3433-4b37-9220-b5355732975b/
-date: ""
+date: 2024-09-24
 location: Sint Lucas Antwerpen showroom
 ---
 
