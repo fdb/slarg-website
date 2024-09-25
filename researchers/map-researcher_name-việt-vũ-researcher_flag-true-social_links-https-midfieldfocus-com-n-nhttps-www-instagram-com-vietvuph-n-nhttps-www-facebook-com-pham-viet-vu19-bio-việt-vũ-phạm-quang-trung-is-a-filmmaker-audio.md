@@ -1,7 +1,7 @@
 ---
 layout: researcher.liquid
 tags: researcher
-researcher_name: Việt Vũ
+researcher_name: Việt Vũ (Phạm Quang Trung)
 bio: Việt Vũ (Phạm Quang Trung) is a filmmaker, audio-visual artist and
   reseacher in the arts. He has so far completed a series of audio-visual works
   in various socio-political zones, including Vietnam, Portugal, Hungary and
