@@ -1,9 +1,17 @@
-:root {
+/* :root {
 	--text-accent: #334299;
 	--border-accent: #99bc00;
 	--bg: #eaeaff;
 	--text: #272518;
+} */
+
+:root {
+	--text-accent: #9d00c8;
+	--border-accent: #2f5f0f;
+	--bg: #d0f5fd;
+	--text: #9d00c8;
 }
+
 
 @font-face {
 	font-family: 'Marsha';
@@ -73,8 +81,7 @@ header {
 	color: #000;
 	display: flex;
 	justify-content: space-between;
-	align-items: center;
-	padding: 1rem 2rem;
+	padding: 0 2rem;
 	font-weight: bold;
 	font-size: 1rem;
 }
@@ -83,10 +90,21 @@ header a {
 	color: var(--text-accent);
 	text-decoration: none;
 }
+header .slarg a {
+	font-family: 'Marsha';
+	font-size: 3em;
+}
+header h1 {
+	font-family: 'Marsha';
+	padding-left: 1rem;
+}
 
-nav a{
+nav a {
 	padding-right: 1rem;
 	font-weight: 400;
+}
+.hidden {
+	display: none;
 }
 
 main {
@@ -334,10 +352,16 @@ article .partner-logos img {
 }
 
 .highlight-event {
-	padding: 1rem;
-	background: #ffe5ef;
-	border: solid 3px #ff00a7;
-	margin: 1rem;
+	font-size: 2rem;
+	line-height: 2.4rem;
+	font-weight: bold;
+	font-family: 'Marsha', sans-serif;
+	text-transform: uppercase;
+	text-align: left;
+	letter-spacing: 2px;
+	color: cornsilk;
+	padding: 20px;
+	background-color: #0eaa44;
 }
 
 .big-title{
