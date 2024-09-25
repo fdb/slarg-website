@@ -6,7 +6,7 @@ bio: Việt Vũ (Phạm Quang Trung) is a filmmaker, audio-visual artist and
   reseacher in the arts. He has so far completed a series of audio-visual works
   in various socio-political zones, including Vietnam, Portugal, Hungary and
   Belgium. His works, focusing on accenting repressed voices of queer and
-  neglected communities in a globalizing world, have been shown at different
+  neglected communities in a globalizing world, have been shown at various
   European and Asian film festivals – including Locarno, Rotterdam, Tampere, and
   Singapore ones. In 2018, his debut fiction short "Ant-Man" won the top prize –
   The Most Promising Filmmaker from South East Asia at the 2nd SeaShorts Film
