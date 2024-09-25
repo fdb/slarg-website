@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 year: 2023
-title: Auto-ethnography of our burning years
+title: Auto-ethnography of those burning years
 byline: "A (self)-investigation by a queer experimental filmmaker from Vietnam
   on filmmaking in the neoliberal and authoritarian society "
 type: Exhibition in Research Week
