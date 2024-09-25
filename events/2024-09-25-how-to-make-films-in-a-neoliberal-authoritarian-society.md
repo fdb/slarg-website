@@ -10,7 +10,7 @@ author: Viet Vu Pham
 date: 2024-09-25
 time: 10:00 - 12:00
 location: Sint Lucas Antwerpen
-main_image: https://ucarecdn.com/79a53d9e-dead-46c7-87a9-3fc57e07e31f/-/preview/
+main_image: https://ucarecdn.com/c92bca6c-fddf-4318-9ce3-a7476c3f14ce/
 images:
   - https://ucarecdn.com/97d879ed-7f58-4283-8e00-266d1dae4a31/
 ---
