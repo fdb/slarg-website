@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: main
+  branch: slarg-imane-test
   local_backend: true
 
 media_library:
@@ -74,11 +74,11 @@ collections:
   - name: 'events_2024'
     label: 'events_2024'
     label_singular: 'event'
-    folder: 'research-weeks/2024'
+    folder: 'research-week/2024'
     create: true
     delete: true
     slug: '{{date}}-{{title}}'
-    preview_path: '/research-weeks/{{slug}}'
+    preview_path: '/research-week/{{slug}}'
     summary: '{{date}} | {{title}} | {{author}}'
     sortable_fields: ['date', 'title']
     view_filters:

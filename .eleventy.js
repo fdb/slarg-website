@@ -27,12 +27,16 @@ module.exports = function (eleventyConfig) {
 		return `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`;
 	});
 
-	eleventyConfig.addCollection('pre_events_2023', function (collection) {
-		const allEvents = collection
-			.getFilteredByTag('event')
-			.filter((event) => event.data.date?.getFullYear() === 2023 && event.data.date?.getDate() < 16);
-		return allEvents;
-	});
+	// eleventyConfig.addCollection('pre_events_2023', function (collection) {
+	// 	const allEvents = collection
+	// 		.getFilteredByTag('event')
+	// 		.filter((event) => {
+	// 			console.log(event.data.date); // Check the format of the date here
+	// 			const date = new Date(event.data.date);
+	// 			return date.getFullYear() === 2023 && date.getDate() < 16;
+	// 		});
+	// 	return allEvents;
+	// });
 
 	// eleventyConfig.addCollection('events_2024', function (collection) {
 	// 	const allEvents = collection
@@ -62,16 +66,16 @@ module.exports = function (eleventyConfig) {
 
 
 
-	eleventyConfig.addCollection('events_2023', function (collection) {
-		const allEvents = collection
-			.getFilteredByTag('event')
-			.filter((event) => event.data.date?.getFullYear() === 2023 && event.data.date?.getDate() >= 16);
-		return groupEventsByWeekday(allEvents);
-	});
-	eleventyConfig.addCollection('events_2022', function (collection) {
-		const allEvents = collection.getFilteredByTag('event').filter((event) => event.data.date?.getFullYear() === 2022);
-		return groupEventsByWeekday(allEvents);
-	});
+	// eleventyConfig.addCollection('events_2023', function (collection) {
+	// 	const allEvents = collection
+	// 		.getFilteredByTag('event')
+	// 		.filter((event) => event.data.date?.getFullYear() === 2023 && event.data.date?.getDate() >= 16);
+	// 	return groupEventsByWeekday(allEvents);
+	// });
+	// eleventyConfig.addCollection('events_2022', function (collection) {
+	// 	const allEvents = collection.getFilteredByTag('event').filter((event) => event.data.date?.getFullYear() === 2022);
+	// 	return groupEventsByWeekday(allEvents);
+	// });
 
 	eleventyConfig.addCollection('researchers', function (collection) {
 		return collection.getFilteredByGlob('researchers/*.md');
