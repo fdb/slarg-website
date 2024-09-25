@@ -38,28 +38,15 @@ module.exports = function (eleventyConfig) {
 	// 	return allEvents;
 	// });
 
-	// eleventyConfig.addCollection('events_2024', function (collection) {
-	// 	const allEvents = collection
-	// 		.getFilteredByTag('event')
-	// 		.filter((event) => event.data.date?.getFullYear() === 2024);
-	// 	return groupEventsByWeekday(allEvents);
-	// });
-	// eleventyConfig.addCollection('exhibition_2024', function (collection) {
-	// 	const allEvents = collection
-	// 		.getFilteredByTag('exhibition')
-	// 		.filter((event) => event.data.date?.getFullYear() === 2024);
-	// 	return groupEventsByWeekday(allEvents);
-	// });
-
 	eleventyConfig.addCollection('events_2024', function (collection) {
 		return collection.getAll().filter((item) => {
-			return item.data.event_type === 'event' && new Date(item.data.date).getFullYear() === 2024;
+			return item.data.event_type === 'event' && item.data.date === 2024;
 		});
 	});
 	
 	eleventyConfig.addCollection('exhibition_2024', function (collection) {
 		return collection.getAll().filter((item) => {
-			return item.data.event_type === 'exhibition' && new Date(item.data.date).getFullYear() === 2024;
+			return item.data.event_type === 'exhibition' && item.data.year === 2024;
 		});
 	});
 
