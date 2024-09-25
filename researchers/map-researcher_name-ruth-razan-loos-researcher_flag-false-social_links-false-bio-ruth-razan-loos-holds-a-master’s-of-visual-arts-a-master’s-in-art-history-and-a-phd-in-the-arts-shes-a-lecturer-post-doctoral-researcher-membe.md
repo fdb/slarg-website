@@ -24,5 +24,5 @@ researcher_flag: "false"
 staff_flag: "false"
 available_for_supervision: "false"
 status_of_research: finished
-social_links: "false"
+social_links: \-
 ---
