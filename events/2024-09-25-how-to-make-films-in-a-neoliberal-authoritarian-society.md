@@ -6,7 +6,7 @@ title: Auto-ethnography of our years on fire
 byline: A (self)-investigation on the dramatic filmmaking scene in the
   neoliberal and authoritarian society of Vietnam since the early 2000s by a
   local queer experimental filmmaker.
-type: Exhibition in Research Week
+type: Exhibition in Research Week 2024
 author: Viet Vu Pham
 date: 2024-09-25
 time: 10:00 - 12:00
