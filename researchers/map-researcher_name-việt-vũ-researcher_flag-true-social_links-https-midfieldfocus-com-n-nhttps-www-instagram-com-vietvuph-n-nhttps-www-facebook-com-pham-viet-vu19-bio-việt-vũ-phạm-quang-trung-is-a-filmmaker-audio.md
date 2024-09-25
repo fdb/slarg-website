@@ -18,6 +18,7 @@ bio: >-
   was granted the prestiged Wildcard Award from Vlaams Audiovisueel Fonds (VAF,
   Belgium). 
 
+
   Viet attained a Master Degree in Documentary Film Directing at Doc Nomads in 2021, which is fully funded by Erasmus Scholarship. Since September 2022, Viet has been carrying out his PhD in the Arts (Artistic Research) at University of Antwerp and Sint Lucas Antwerpen School of Arts (KDG).
 image_researcher:
   - https://ucarecdn.com/a0c1aad3-89ec-433c-9cf8-700ecfaa8954/
