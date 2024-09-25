@@ -5,9 +5,8 @@ researcher_name: Việt Vũ (Phạm Quang Trung)
 bio: Việt Vũ (Phạm Quang Trung) is a filmmaker, audio-visual artist and
   reseacher in the arts. He has so far completed a series of audio-visual works
   in various socio-political zones, including Vietnam, Portugal, Hungary and
-  Belgium. His works are shot in long takes with an intimate first-person
-  camera, focusing on accenting repressed voices of queer and neglected
-  communities in a globalizing world. His works have been shown at different
+  Belgium. His works, focusing on accenting repressed voices of queer and
+  neglected communities in a globalizing world, have been shown at different
   European and Asian film festivals – including Locarno, Rotterdam, Tampere, and
   Singapore ones. In 2018, his debut fiction short "Ant-Man" won the top prize –
   The Most Promising Filmmaker from South East Asia at the 2nd SeaShorts Film
