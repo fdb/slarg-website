@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SLARG | Sint Lucas Antwerpen Research Group</title>
-    <link rel="stylesheet" href="/static/css/main.css">
+    <link rel="stylesheet" href="/static/css/2024.css">
     {% if year  %}
     {% assign site_year = year | append: ''  %}
     {% else %}
@@ -27,23 +27,34 @@
         <div>
           <a href="/">SLARG</a>
         </div>
-        <!--
-        <nav class="menu">
+    
+      
+      </header>
+      <div class="sidebar">
+      <a href="/">
+      <h1>SLARG</h1>
+      <h2> sint lucas </br> Antwerpen </br> Research </br> Group </h2>
+      </a>
+      <img class="sidebar-logo" src="/static/web-images/logo-sla.png">
+      </div>
+      <main>
+      <nav class="menu">
+        <button id="menu-toggle" aria-label="Toggle navigation">Menu</button>
+        <div id="menu-links">
           <a href="/2024">Research week 2024</a>
           <a href="/About">About</a>
           <a href="/researchers">Researchers</a>
-          <a href="/Projects">Projects</a>
-          <a href="/Publications">Publications</a>
-       
-        </nav>
-        -->
+        </div>
+        {% comment %} <a href="/Projects">Projects</a>
+        <a href="/Publications">Publications</a> {% endcomment %}
       
-      </header>
+      </nav>
       {{ content }}
+      </main>
       <footer>
         <div class="footer-inner">
-          <p>SLARG is the research group of
-            <a href="https://www.sintlucasantwerpen.be" target="_blank">Sint Lucas Antwerpen</a>.</p>
+          {% comment %} <p>SLARG is the research group of
+            <a href="https://www.sintlucasantwerpen.be" target="_blank">Sint Lucas Antwerpen</a>.</p> {% endcomment %}
           <div class="partner-logos">
             <a rel="noreferrer" href="https://www.sintlucasantwerpen.be/en/research/" target="_blank"><img src="/static/img/logo-sla-research.png" alt="Sint Lucas Antwerpen Research"></a>
             <a rel="noreferrer" href="https://www.kdg.be/en" target="_blank"><img src="/static/img/logo-kdg.png" alt="Karel de Grote Hogeschool"></a>
@@ -58,6 +69,7 @@
       </footer>
     </div>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script src="/static/scripts/menu.js"></script>
   </body>
 
 </html>
