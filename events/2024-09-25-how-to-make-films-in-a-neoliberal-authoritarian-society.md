@@ -2,9 +2,9 @@
 layout: event.liquid
 tags: event
 year: 2023
-title: How to make films in a neoliberal & authoritarian society
-byline: "A (self)-investigation through auto-ethnography method by a queer
-  experimental filmmaker in Vietnam "
+title: Auto-ethnography of our burning years
+byline: "A (self)-investigation on filmmaking in a neoliberal and authoritarian
+  society by a queer experimental filmmaker from Vietnam "
 type: Exhibition in Research Week
 author: Viet Vu Pham
 date: 2024-09-25
