@@ -10,7 +10,10 @@ image_researcher:
   - https://ucarecdn.com/d2544cb0-b39e-4e1d-9c39-f8f1f2b2cbfc/
 researcher_flag: true
 staff_flag: true
-social_links: https://www.instagram.com/lorainefurter/
+social_links: |-
+  https://www.lorainefurter.net/
+
+  https://www.instagram.com/lorainefurter/
 time: September 2019-September 2025
 headshot_image: https://www.lorainefurter.net/user/pages/01.home/02._works/02._2022-agrafes-bouts-ficelle/messy-reliures-edition-02.jpg
 email: loraine.furter@kdg.be
