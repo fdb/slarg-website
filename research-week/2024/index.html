@@ -26,8 +26,8 @@ layout: base.liquid
     <!-- Display Exhibitions -->
     {% if exhibitions_2024 and exhibitions_2024.size > 0 %}
       <h2>Exhibitions</h2>
-      <a href="/research-week/2024/{{ event.fileSlug }}" class="grid-container">
         {% for exhibition in exhibitions_2024 %}
+        <a href="/research-week/2024/{{ exhibition.fileSlug }}" class="grid-container">
           <div class="grid-item">
             {% if event.data.main_image %}
             <img src="{{ event.data.main_image }}" alt="{{ event.data.title }}">
@@ -36,7 +36,7 @@ layout: base.liquid
             <p>Date: {{ exhibition.data.date | date: "%B %d, %Y" }}</p>
           </div>
         {% endfor %}
-        </a>
+      </a>
     {% endif %}
     
   {% else %}
