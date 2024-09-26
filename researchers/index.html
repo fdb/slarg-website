@@ -6,8 +6,8 @@ layout: page.liquid
 <div class="researcher-grid">
 {% for researcher in collections.researchers %}
 <a class="researcher" href="{{ researcher.url }}">
-    <h1> {{ researcher.data.researcher_name }}</h1>
-    <img src="{{researcher.data.headshot_image}}" alt="headshot of {{researcher.data.researcher_name}}">
+    <img src="{{researcher.data.image_researcher}}" alt="headshot of {{researcher.data.researcher_name}}">
+    <h3> {{ researcher.data.researcher_name }}</h3>
 
 </a>
 {% endfor %}

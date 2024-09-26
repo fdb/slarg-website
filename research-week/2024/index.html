@@ -8,19 +8,17 @@ layout: base.liquid
   {% assign exhibitions_2024 = collections.exhibition_2024 %}
 
   {% if events_2024 or exhibitions_2024 %}
-
-    <!-- Display Events -->
     {% if events_2024 and events_2024.size > 0 %}
-     
-      
         {% for event in events_2024 %}
-          <div class="grid-item">
-            {% if event.data.image %}
-            <img src="{{ event.data.image }}" alt="{{ event.data.title }}">
+          <a href="/research-week/2024/{{ event.fileSlug }}" class="grid-item">
+            {% if event.data.main_image %}
+            <img src="{{ event.data.main_image }}" alt="{{ event.data.title }}">
             {% endif %}
             <h3>{{ event.data.title }}</h3>
+            <!-- {% if event.data.date %}
             <p>Date: {{ event.data.date | date: "%B %d, %Y" }}</p>
-          </div>
+            {% endif %} -->
+          </a>
         {% endfor %}
       
     {% endif %}
@@ -28,17 +26,17 @@ layout: base.liquid
     <!-- Display Exhibitions -->
     {% if exhibitions_2024 and exhibitions_2024.size > 0 %}
       <h2>Exhibitions</h2>
-      <div class="grid-container">
+      <a href="/research-week/2024/{{ event.fileSlug }}" class="grid-container">
         {% for exhibition in exhibitions_2024 %}
           <div class="grid-item">
-            {% if event.data.image %}
-            <img src="{{ event.data.image }}" alt="{{ event.data.title }}">
+            {% if event.data.main_image %}
+            <img src="{{ event.data.main_image }}" alt="{{ event.data.title }}">
             {% endif %}
             <h3>{{ exhibition.data.title }}</h3>
             <p>Date: {{ exhibition.data.date | date: "%B %d, %Y" }}</p>
           </div>
         {% endfor %}
-      </div>
+        </a>
     {% endif %}
     
   {% else %}
