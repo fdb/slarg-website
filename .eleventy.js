@@ -50,17 +50,6 @@ module.exports = function (eleventyConfig) {
 		});
 	});
 
-	// eleventyConfig.addCollection('events_2023', function (collection) {
-	// 	const allEvents = collection
-	// 		.getFilteredByTag('event')
-	// 		.filter((event) => event.data.date?.getFullYear() === 2023 && event.data.date?.getDate() >= 16);
-	// 	return groupEventsByWeekday(allEvents);
-	// });
-	// eleventyConfig.addCollection('events_2022', function (collection) {
-	// 	const allEvents = collection.getFilteredByTag('event').filter((event) => event.data.date?.getFullYear() === 2022);
-	// 	return groupEventsByWeekday(allEvents);
-	// });
-
 	eleventyConfig.addCollection('events_2023', function (collection) {
 		const allEvents = collection.getFilteredByTag('event').filter((event) => {
 		  const date = event.data.date;
