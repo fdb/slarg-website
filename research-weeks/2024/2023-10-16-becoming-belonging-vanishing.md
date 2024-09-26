@@ -3,12 +3,12 @@ layout: event.liquid
 tags: event
 year: 2024
 section_website_2024: exhibition
-title: What is real? Becoming, Belonging, Vanishing.
+title: What is Real? Becoming, Belonging, Vanishing.
 type: Mixed Reality Interactive Display
 author: Danial Shah
-main_image: https://ucarecdn.com/d90c288d-6055-4884-92b4-dd98301bf791/
+main_image: https://ucarecdn.com/8fa7ea9f-c8c0-4799-abd1-9e538080bb7b/
 images:
-  - https://ucarecdn.com/a0590218-c6a0-4118-84d9-e64826cb9348/
+  - https://ucarecdn.com/5ea000cb-bb2c-43f0-b3a1-04fef1e1e1f9/
 date: 2023-10-16
 location: Sint Lucas Antwerpen showroom
 ---
