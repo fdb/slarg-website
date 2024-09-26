@@ -30,48 +30,42 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addCollection('pre_events_2023', function (collection) {
 		const allEvents = collection
 			.getFilteredByTag('event')
-			.filter((event) => event.data.date?.getFullYear() === 2023 && event.data.date?.getDate() < 16);
+			.filter((event) => {
+				console.log(event.data.date); // Check the format of the date here
+				const date = new Date(event.data.date);
+				return date.getFullYear() === 2023 && date.getDate() < 16;
+			});
 		return allEvents;
 	});
 
-	// eleventyConfig.addCollection('events_2024', function (collection) {
-	// 	const allEvents = collection
-	// 		.getFilteredByTag('event')
-	// 		.filter((event) => event.data.date?.getFullYear() === 2024);
-	// 	return groupEventsByWeekday(allEvents);
-	// });
-	// eleventyConfig.addCollection('exhibition_2024', function (collection) {
-	// 	const allEvents = collection
-	// 		.getFilteredByTag('exhibition')
-	// 		.filter((event) => event.data.date?.getFullYear() === 2024);
-	// 	return groupEventsByWeekday(allEvents);
-	// });
-
 	eleventyConfig.addCollection('events_2024', function (collection) {
 		return collection.getAll().filter((item) => {
-			return item.data.event_type === 'event' && new Date(item.data.date).getFullYear() === 2024;
+			return item.data.section_website_2024 === 'event' && item.data.year === 2024;
 		});
 	});
 	
 	eleventyConfig.addCollection('exhibition_2024', function (collection) {
 		return collection.getAll().filter((item) => {
-			return item.data.event_type === 'exhibition' && new Date(item.data.date).getFullYear() === 2024;
+			return item.data.section_website_2024 === 'exhibition' && item.data.year === 2024;
 		});
 	});
 
-
-
-
 	eleventyConfig.addCollection('events_2023', function (collection) {
-		const allEvents = collection
-			.getFilteredByTag('event')
-			.filter((event) => event.data.date?.getFullYear() === 2023 && event.data.date?.getDate() >= 16);
+		const allEvents = collection.getFilteredByTag('event').filter((event) => {
+		  const date = event.data.date;
+		  return date instanceof Date && date.getFullYear() === 2023 && date.getDate() >= 16;
+		});
 		return groupEventsByWeekday(allEvents);
-	});
+	  });
+
 	eleventyConfig.addCollection('events_2022', function (collection) {
-		const allEvents = collection.getFilteredByTag('event').filter((event) => event.data.date?.getFullYear() === 2022);
-		return groupEventsByWeekday(allEvents);
+	const allEvents = collection.getFilteredByTag('event').filter((event) => {
+		const date = event.data.date;
+		return date instanceof Date && date.getFullYear() === 2022 ;
 	});
+	return groupEventsByWeekday(allEvents);
+	});
+	  
 
 	eleventyConfig.addCollection('researchers', function (collection) {
 		return collection.getFilteredByGlob('researchers/*.md');
