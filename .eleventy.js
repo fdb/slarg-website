@@ -40,13 +40,14 @@ module.exports = function (eleventyConfig) {
 
 	eleventyConfig.addCollection('events_2024', function (collection) {
 		return collection.getAll().filter((item) => {
-			return item.data.event_type === 'event' && item.data.date === 2024;
+			return item.data.section_website_2024 === 'event' && item.data.year === 2024;
+			console.log(item);
 		});
 	});
 	
 	eleventyConfig.addCollection('exhibition_2024', function (collection) {
 		return collection.getAll().filter((item) => {
-			return item.data.event_type === 'exhibition' && item.data.year === 2024;
+			return item.data.section_website_2024 === 'exhibition' && item.data.year === 2024;
 		});
 	});
 

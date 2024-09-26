@@ -1,18 +1,51 @@
 ---
 layout: base.liquid
 ---
+<h2>Events</h2>
 <div class="grid-container">
-    {% for event in collections.events_2024 %}
-      <div class="grid-item">
-        {% if event.data.main_image %}
-          <img src="{{ event.data.main_image }}" alt="{{ event.data.title }}">
-        {% endif %}
-        <h3>{{ event.data.title }}</h3>
-        <p>Location: {{ event.data.location }}</p>
-        <p>Date: {{ event.data.date | date: "%d/%m/%Y" }}</p>
-        {% if event.data.time %}
-          <p>Time: {{ event.data.time }}</p>
-        {% endif %}
+
+  {% assign events_2024 = collections.events_2024 %}
+  {% assign exhibitions_2024 = collections.exhibition_2024 %}
+
+  {% if events_2024 or exhibitions_2024 %}
+
+    <!-- Display Events -->
+    {% if events_2024 and events_2024.size > 0 %}
+     
+      
+        {% for event in events_2024 %}
+          <div class="grid-item">
+            {% if event.data.image %}
+            <img src="{{ event.data.image }}" alt="{{ event.data.title }}">
+            {% endif %}
+            <h3>{{ event.data.title }}</h3>
+            <p>Date: {{ event.data.date | date: "%B %d, %Y" }}</p>
+          </div>
+        {% endfor %}
+      
+    {% endif %}
+</div>
+    <!-- Display Exhibitions -->
+    {% if exhibitions_2024 and exhibitions_2024.size > 0 %}
+      <h2>Exhibitions</h2>
+      <div class="grid-container">
+        {% for exhibition in exhibitions_2024 %}
+          <div class="grid-item">
+            {% if event.data.image %}
+            <img src="{{ event.data.image }}" alt="{{ event.data.title }}">
+            {% endif %}
+            <h3>{{ exhibition.data.title }}</h3>
+            <p>Date: {{ exhibition.data.date | date: "%B %d, %Y" }}</p>
+          </div>
+        {% endfor %}
       </div>
-    {% endfor %}
+    {% endif %}
+    
+  {% else %}
+    <p>No events or exhibitions found.</p>
+  {% endif %}
+  
+
+
+  
 </div>

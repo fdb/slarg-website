@@ -209,3 +209,16 @@ nav a:last-child {
 		background-color: whitesmoke;
 	}
 }
+
+.grid-container {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+	grid-gap: 20px;
+  }
+  
+  .grid-item {
+	background-color: #f5f5f5;
+	padding: 20px;
+	border: 1px solid #ddd;
+	border-radius: 8px;
+  }
