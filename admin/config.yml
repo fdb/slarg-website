@@ -142,6 +142,8 @@ collections:
   - name: researchers
     label: 'Researchers'
     folder: 'researchers'
+    slug: '{{researcher_name}}'
+    preview_path: '/researcher/{{slug}}'
     create: true
     delete: true
      slug: '{{researcher_name}}'
