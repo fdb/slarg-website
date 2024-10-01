@@ -19,5 +19,8 @@ researcher_flag: "false"
 staff_flag: "false"
 available_for_supervision: "false"
 status_of_research: ongoing
-social_links: "false"
+social_links: |-
+  <https://www.biancabaldi.net>
+
+  <https://www.instagram.com/bianca_baldi/>
 ---
