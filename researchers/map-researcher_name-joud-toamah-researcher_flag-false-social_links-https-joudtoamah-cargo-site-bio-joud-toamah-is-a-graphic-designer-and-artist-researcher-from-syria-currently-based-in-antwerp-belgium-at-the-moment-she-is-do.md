@@ -12,7 +12,7 @@ bio: >-
 
   She participated in residencies at Frans Masereel centrum, Futures Photography and Morpho. Her work has been presented at Photoforumpasquart, Fomu Museum of Photography, Beursschouwburg, Globe Aroma and Constant.
 image_researcher:
-  - https://ucarecdn.com/73054143-b6ff-4f0f-8f8f-32b6a76e56f5/
+  - https://ucarecdn.com/321fe481-a2a1-4d3a-8e10-8f44721c7bde/
 email: joud.toamah@gmail.be
 researcher_flag: "false"
 staff_flag: "false"
