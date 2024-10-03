@@ -19,6 +19,8 @@ In a series of performances involving the body and the sphere, I ask myself: “
 
 My creative process has led me to re-examine the subtle relationship between family memory and the traces of life shared between mother and daughter by continuing to establish a visual language of communication that transcends both the mother tongue and foreign languages.
 
+
+
 **This performance is part of a performance night that runs in the chapel next to Sint Lucas Antwerpen.**
 
 **Duration: 30-40 min**
