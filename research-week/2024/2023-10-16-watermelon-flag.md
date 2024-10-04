@@ -9,7 +9,7 @@ author: Annelys de Vet
 main_image: https://ucarecdn.com/5e647d03-1eea-4a8a-8efb-09f35cc2e0a9/
 images:
   - https://ucarecdn.com/8b853fd7-48e0-4463-bc32-bddc7c2fb87a/
-date: 2023-10-16
+date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---
 **Watermelon flag** by Khaled Hourani, to wave untill liberation\
