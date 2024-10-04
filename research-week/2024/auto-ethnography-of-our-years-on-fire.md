@@ -9,7 +9,7 @@ author: Việt Vũ (Phạm Quang Trung)
 main_image: ""
 images:
   - https://ucarecdn.com/fd860924-ec7c-41c9-8425-adb5f7fe4b30/
-date: 2024-09-25
+date: 2024-09-24
 time: 10:00 - 12:00
 location: Sint Lucas Antwerpen showroom
 ---
