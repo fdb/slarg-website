@@ -9,7 +9,7 @@ author: Loraine Furter
 main_image: https://ucarecdn.com/1907503a-a6fc-4b80-9c48-50a071dbfefe/
 images:
   - https://ucarecdn.com/30e2e7f5-3064-4283-a327-a3f7c7d7ea75/
-date: 2023-10-16
+date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---
 Take a deep breath in through your nose, and a deep breath out through your mouth... In a few breaths we will meet in a parallel space-time in which we can share and dream stories of empowerment through publishing, in an expanded understanding of the term, including oral transmission and hybrid~cyborg formats.·՞ ՟ ՚
