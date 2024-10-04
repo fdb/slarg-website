@@ -9,7 +9,7 @@ author: Hoda Siahtiri & Azertyklavierwerke
 main_image: ""
 images:
   - https://ucarecdn.com/c29ee746-afbf-45fe-94ce-25a11e42ae8b/
-date: 2023-10-25
+date: 2024-10-25
 time: 19:30
 location: Sint Lucas Antwerpen showroom
 ---
