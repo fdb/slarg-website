@@ -8,7 +8,8 @@ type: Feature film
 author: Robin Vanbesien
 images:
   - https://ucarecdn.com/ff44009e-15f4-4225-87ab-e3b6900e77cc/
-date: 2024-10-18
+date: 2024-10-16
+time: 19:30
 location: Sint Lucas Antwerpen showroom
 ---
 hold on to her
