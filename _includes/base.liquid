@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="/static/css/2022.css">
     {% elsif site_year == '2023' %}
     <link rel="stylesheet" href="/static/css/2023.css">
-    {% elsif site_year == '2024' %}
+    {% elsif site_year == 'research-week/2024' %}
     <link rel="stylesheet" href="/static/css/2024.css">
     {% endif %}
   </head>
@@ -32,8 +32,9 @@
       <img class="sidebar-logo" src="/static/web-images/logo-sla.png">
       </div>
       <nav class="menu">
-        <button id="menu-toggle" aria-label="Toggle navigation">Menu</button>
+        <button id="menu-toggle" aria-label="Toggle navigation">Menu <img src="/static/img/menu.svg" /></button>
         <div id="menu-links">
+          <a href="/">Home</a>
           <a href="/research-week/2024">Research week 2024</a>
           <a href="/about">About</a>
           <a href="/researchers">Researchers</a>

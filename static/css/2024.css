@@ -1,8 +1,8 @@
 :root {
-	--text-accent: #9d00c8;
-	--border-accent: #2f5f0f;
+	--text-accent: #00C589;
+	--border-accent: #00C589;
 	--bg: #d0f5fd;
-	--text: #272518;
+	--text: #02110d;
 	--turquoise: #00C589;
 }
 
@@ -31,6 +31,24 @@
 
 body{
 	color: var(--turquoise);
+}
+
+main {
+	color: var(--turquoise);
+}
+
+.hero-text {
+	color: var(--text-accent);
+	font-size: 2rem;
+	line-height: 2.4rem;
+	font-weight: bold;
+	font-family: 'Marsha', sans-serif;
+	text-transform: uppercase;
+	text-align: left;
+	letter-spacing: 2px;
+}
+.events-grid {
+	margin-bottom: 2rem;
 }
 
 

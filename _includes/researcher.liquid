@@ -1,8 +1,22 @@
 ---
 layout: base
 ---
-<article>
-    <h1>{{ researcher_name }}</h1>
-    <img src="{{ image_researcher }}-/scale_crop/600x600/smart/" width="" height="" alt="{{ name }}">
-    {{ bio }}
-</article>
+
+    <h2 class="big-title">{{ researcher_name }}</h2>
+    <div class="researcher-page">
+        <div class="researcher-image">
+            <img src="{{ image_researcher }}-/scale_crop/600x600/smart/" width="" height="" alt="{{ name }}">
+        </div>
+        <div class="researcher-text">
+            <p>
+            {{ bio }}
+            </p>
+            <p>Contact:<br>
+            {{ email }}
+            </p>
+            <p>
+            Links<br>
+            {{ social_links }}
+            </p>
+        </div>
+    </div>

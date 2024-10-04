@@ -10,3 +10,6 @@ body {
 /* .sidebar h1, .sidebar h2, nav {
 	color: black;
 } */
+main h2, main p {
+	color: #4c5ebf;
+}
