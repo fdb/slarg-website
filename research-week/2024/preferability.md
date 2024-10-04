@@ -9,7 +9,7 @@ author: Wesley Meuris
 main_image: https://ucarecdn.com/ac9d1a3a-dfb5-4caa-b794-217e776065fd/
 images:
   - https://ucarecdn.com/97843c6e-a7c3-4237-958e-9b176115d37a/
-date: 2023-10-16
+date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---
 A panel composed of strips of various types of wood. Leftover pieces from furniture boards. The horizontal grains of the wood suggest a landscape—whether it references historical painting, or a hypothetical landscape of the future remains undefined. Often, imagined images within future thinking work with the concept of landscape and horizon, encompassing what may lie beyond the horizon.
