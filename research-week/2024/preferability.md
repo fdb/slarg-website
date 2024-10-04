@@ -4,7 +4,7 @@ tags: event
 year: 2024
 section_website_2024: exhibition
 title: Preferability
-type: studie for artwork
+type: study for artwork
 author: Wesley Meuris
 main_image: https://ucarecdn.com/ac9d1a3a-dfb5-4caa-b794-217e776065fd/
 images:
