@@ -6,7 +6,7 @@ section_website_2024: exhibition
 title: Access·ories
 type: installation
 author: Loraine Furter
-main_image: https://ucarecdn.com/1907503a-a6fc-4b80-9c48-50a071dbfefe/
+main_image: https://ucarecdn.com/9208ba0a-06c3-4fb6-9800-fb90c12ab316/
 images:
   - https://ucarecdn.com/30e2e7f5-3064-4283-a327-a3f7c7d7ea75/
 date: 2024-10-24
