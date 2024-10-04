@@ -7,7 +7,7 @@ bio: Loraine Furter is a PhD researcher at Sint Lucas Antwerp, a graphic
   collective Just For the Record, the typography research group Bye Bye Binary
   and the project Intersections of Care.
 image_researcher:
-  - https://ucarecdn.com/d2544cb0-b39e-4e1d-9c39-f8f1f2b2cbfc/
+  - https://ucarecdn.com/0bfb8237-d623-41cd-8754-eada04619c3f/
 researcher_flag: true
 staff_flag: true
 social_links: |-
