@@ -9,7 +9,7 @@ author: Robin Vanbesien
 main_image: ""
 images:
   - https://ucarecdn.com/f1db7857-86f7-4eeb-a53c-9e327fbe7d49/
-date: ""
+date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---
 In 2018, under the pretext of "border control," a Belgian police officer shot at a moving van without warning, killing two-year-old Mawda Shawri, who was in her mother's arms. The feature film ‘hold on to her' (2024, 80’) shows how, in 2023, a group of documented and undocumented activists gathered to stage a collective hearing of Mawda’s case. The film intertwines their reflections, expanding the traditional framework of what a court considers "legally relevant" evidence. It challenges the narrow forensic logic typically employed in legal settings, insisting instead on centring language and emotions often disregarded by standard legal procedures.
