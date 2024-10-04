@@ -9,7 +9,7 @@ author: Danial Shah
 main_image: https://ucarecdn.com/8fa7ea9f-c8c0-4799-abd1-9e538080bb7b/
 images:
   - https://ucarecdn.com/5ea000cb-bb2c-43f0-b3a1-04fef1e1e1f9/
-date: 2023-10-16
+date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---
 This mixed reality interactive display questions the boundaries between the real and the unreal. The physical becomes digital, the tangible turns virtual and digital turns objects. We explore the transition of a photo studio in Quetta, Pakistan, examining the interplay between the past and present, reality and unreality. 
