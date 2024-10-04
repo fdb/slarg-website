@@ -21,22 +21,6 @@
 }
 
 @font-face {
-	font-family: 'Inter';
-	font-style: normal;
-	font-weight: 400;
-	src: local(''), url('/static/fonts/inter-v12-latin-regular.woff2') format('woff2'),
-		url('/static/fonts/inter-v12-latin-regular.woff') format('woff');
-}
-
-@font-face {
-	font-family: 'Inter';
-	font-style: normal;
-	font-weight: 700;
-	src: local(''), url('/static/fonts/inter-v12-latin-700.woff2') format('woff2'),
-		url('/static/fonts/inter-v12-latin-700.woff') format('woff');
-}
-
-@font-face {
 	font-family: 'AuthenticSans';
 	font-style: normal;
 	font-weight: normal;
@@ -63,46 +47,82 @@ img {
 	max-width: 100%;
 }
 
-body {
+body{
+	background-color: whitesmoke;
 	font-family: 'AuthenticSans', sans-serif;
-	font-size: 16px;
-	line-height: 1.5;
-	color: var(--text);
-	background-color: var(--bg);
-	margin: 0;
 }
 
 a {
 	color: inherit;
-	text-decoration: underline;
-}
-
-header {
-	color: #000;
-	display: flex;
-	justify-content: space-between;
-	padding: 0 2rem;
-	font-weight: bold;
-	font-size: 1rem;
-}
-
-header a {
-	color: var(--text-accent);
 	text-decoration: none;
 }
-/* header .slarg a {
-	font-family: 'Marsha';
-	font-size: 3em;
-}
-header h1 {
-	font-family: 'Marsha';
-	padding-left: 1rem;
-} */
 
-nav a {
-	padding-right: 1rem;
-	font-weight: 400;
+h1 {
+	font-family: 'Marsha';
 }
+
+nav{
+	margin: 2rem;
+	position: fixed;
+	right: 0;
+	top: 0;
+}
+nav a{
+	color: var(--turquoise);
+	font-family: "AuthenticSans";
+	text-decoration: none;
+	padding-right: 1.5rem;
+	padding-bottom: 2.5rem;
+}
+nav a:last-child {
+	padding-right: 0; 
+}
+
+.sidebar{
+	min-width: 200px;
+	width: 25%;
+	height: 100vh;
+	position: fixed;
+	top: 0;
+  	left: 0;
+  	padding: 1rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+
+}
+.sidebar-logo{
+	width: 150px;
+	
+}
+.sidebar h1{
+color: var(--turquoise);
+margin-bottom: 0;
+font-size: 3rem;
+}
+.sidebar a{
+	color: var(--turquoise);
+	text-decoration: none;
+}
+.sidebar h2{
+	font-family: 'AuthenticSans';
+	text-transform: uppercase;
+	margin-top: 0.2rem;
+
+}
+
+
+.big-title{
+	color: var(--turquoise);
+	text-transform: uppercase;
+	font-family: 'AuthenticSans';
+	border-bottom: 2px solid var(--turquoise);
+	margin-bottom: 1rem;
+	font-weight: normal;
+}
+
+
+
 .hidden {
 	display: none;
 }
@@ -114,8 +134,6 @@ main {
 
 article {
 	max-width: 80ch;
-	margin: 0 auto;
-	padding: 0 2rem;
 }
 
 article > h1 {
@@ -123,6 +141,16 @@ article > h1 {
 	color: var(--text-accent);
 
 	/* text-transform: uppercase; */
+}
+
+.intro-text {
+	font-family: 'AuthenticSans', sans-serif;
+	font-size: 1.4rem;
+	line-height: 1.1;
+	margin-bottom: 30px;
+}
+a .intro-text {
+	text-decoration: none;
 }
 
 .hero {
@@ -213,11 +241,17 @@ article > h1 {
 	font-size: 1rem;
 	font-weight: bold;
 	margin: 0;
+	font-family: 'AuthenticSans', sans-serif;
+	line-height: 1.5;
+	color: var(--text);
 }
 
 .event-details {
 	font-size: 1rem;
+	font-family: 'AuthenticSans', sans-serif;
 	margin: 0;
+	line-height: 1.5;
+	color: var(--text);
 }
 
 .event-layout {
@@ -350,6 +384,12 @@ article .partner-logos img {
 		font-size: 1rem;
 	}
 }
+.site-thumb img {
+	margin-bottom: 0.5rem;
+}
+.site-thumb {
+	text-transform: uppercase;
+}
 
 .highlight-event {
 	font-size: 2rem;
@@ -361,14 +401,212 @@ article .partner-logos img {
 	letter-spacing: 2px;
 	color: cornsilk;
 	padding: 20px;
-	background-color: #0eaa44;
+	background-color: var(--turquoise);
 }
 
-.big-title{
-	font-family: serif;
-  font-size: 80px;
-  font-style: italic;
-  font-weight: normal;
-  text-transform: none;
-  color: purple;
+
+
+
+footer {
+	margin-top: 2rem;
+	padding: 0 2rem;
+	font-size: 0.8rem;
 }
+
+.footer-inner {
+	border-top: 2px solid var(--turquoise);
+	padding: 1rem 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	white-space: nowrap;
+}
+
+@media (min-width: 768px) {
+	.footer-inner {
+		flex-direction: row;
+	}
+}
+
+.footer-inner .partner-logos {
+	display: flex;
+
+	gap: 0.5rem;
+}
+
+.footer-inner .partner-logos img {
+	width: 50px;
+	height: auto;
+}
+
+article .partner-logos {
+	display: flex;
+	flex-wrap: wrap; /*  allow items to wrap  */
+	justify-content: center;
+	gap: 1rem;
+}
+
+article .partner-logos img {
+	width: 150px;
+	height: auto;
+}
+main {
+	margin-top: 2rem;
+}
+main, footer{
+	padding: 1rem;
+	margin-left: 13rem;
+}
+
+
+
+/* Mobile styles */
+#menu-toggle {
+	display: none;
+    background: none;
+    border: none;
+    font-size: 2.7rem;
+    cursor: pointer;
+    color: var(--turquoise);
+	text-transform: uppercase;
+}
+
+#menu-links.open {
+    display: flex;
+}
+.sites-grid{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+	grid-gap: 1rem;
+}
+@media (max-width: 768px) {
+	#menu-toggle{
+		display: inline;
+		margin: 1rem;
+		position: fixed;
+		right: 0;
+		top: 0;
+	}
+    nav {
+		display: flex;
+		transition: background-color 0.3s ease; 
+	}
+	#menu-links{
+		padding-top: 1rem;
+		display: none;
+		flex-direction: column;
+		background-color: whitesmoke;
+	}
+	#menu-links a{
+		padding: 0;
+	}
+
+	#menu-links.open + nav{
+		background-color: whitesmoke;
+	}
+	nav {
+		margin: 0;
+	}
+	nav.open{
+		display: block;
+		position: fixed;
+		height: 100vh;
+		width: 100%;
+		padding: 1rem;
+		padding-top: 3rem;
+		overflow: hidden; 
+		background-color: whitesmoke;
+		font-size: 3rem;
+		text-align: right;
+	}
+}
+
+/* .grid-container {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+	grid-gap: 20px;
+}
+
+.grid-item {
+background-color: #f5f5f5;
+padding: 20px;
+border: 1px solid #ddd;
+border-radius: 8px;
+} */
+
+
+@media (max-width: 480px) {
+	.sidebar h2, .sidebar-logo {
+		display: none;
+	}
+	main {
+		margin-left: 0;
+		margin-top: 100px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* FROM 2024 it need to be intergrated up there in the future */
+
+
+
+
+  :root {
+	--text-accent: #9d00c8;
+	--border-accent: #2f5f0f;
+	--bg: #d0f5fd;
+	--text: #272518;
+	--turquoise: #00C589;
+}
+
+@font-face {
+	font-family: 'Marsha';
+	font-style: normal;
+	font-weight: 700;
+	src: local(''), url('/static/fonts/vtc-marsha-bold.woff2') format('woff2'), url('/static/fonts/vtc-marsha-bold.woff') format('woff');
+}
+@font-face {
+	font-family: 'AuthenticSans';
+	font-style: normal;
+	font-weight: normal;
+	src: local(''), url('/static/fonts/AUTHENTIC-Sans-Pro-90.woff2') format('woff2'),
+		url('/static/fonts/AUTHENTIC-Sans-Pro-90.woff') format('woff');
+}
+
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	color: var(--turquoise);
+}
+
+
+
+
