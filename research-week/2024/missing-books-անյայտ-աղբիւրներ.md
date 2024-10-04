@@ -8,7 +8,7 @@ type: "mobile installation "
 author: Garine Gokceyan
 images:
   - https://ucarecdn.com/fd013cff-2770-4d99-8c4d-1d8be0b4715a/
-date: 2023-10-16
+date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---
 Countless times, I’ve stood in front of my library, searching through the shelves only to come up empty-handed, unable to find the books needed to create and discuss typography and design in my mother tongue, Western Armenian. 
