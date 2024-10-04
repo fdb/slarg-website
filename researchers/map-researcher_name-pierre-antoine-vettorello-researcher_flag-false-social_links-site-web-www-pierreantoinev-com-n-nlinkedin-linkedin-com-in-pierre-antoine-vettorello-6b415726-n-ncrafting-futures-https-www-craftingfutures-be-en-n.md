@@ -16,6 +16,9 @@ bio: >-
 
 
   Pierre-Antoine Vettorello is also part of the research group on the transmission of craftsmanship in Flanders, "Crafting Futures." He has participated in several artistic residencies, notably at the Cité Internationale des Arts in Paris (2022), Villa Ndar in Saint-Louis (2022), SuperOtium in Naples (2024), and Océan Savane (2024). His work combines fashion, sculpture, fashion critique, and resistance through clothing. He is the author of a forthcoming chapter titled "Uniqueness in Fashion: Disrupting Modernity, Igniting Indigenous Romanticism" in the book The Future of Fashion Education(Routledge, UK), and he is also the editor of the bilingual zine The Yarn. Additionally, he has taught artistic research methodology at the Royal Academy of Fine Arts in Brussels and supervises Master's theses at the Institut Marangoni in Paris.
+
+
+  Portrait of Pierre-Antoine: William Thompson
 image_researcher:
   - https://ucarecdn.com/d7b49386-648c-48b4-ae9d-bc0912c583f4/
 email: tom.viaene@kdg.be
