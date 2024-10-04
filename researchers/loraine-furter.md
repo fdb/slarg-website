@@ -11,9 +11,9 @@ image_researcher:
 researcher_flag: true
 staff_flag: true
 social_links: |-
-  https://www.lorainefurter.net/
+  <https://www.lorainefurter.net/>
 
-  https://www.instagram.com/lorainefurter/
+  <https://www.instagram.com/lorainefurter/>
 time: September 2019-September 2025
 headshot_image: https://www.lorainefurter.net/user/pages/01.home/02._works/02._2022-agrafes-bouts-ficelle/messy-reliures-edition-02.jpg
 email: loraine.furter@kdg.be
