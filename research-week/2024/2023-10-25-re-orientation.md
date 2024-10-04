@@ -9,7 +9,7 @@ author: Biyi Zhu
 main_image: https://ucarecdn.com/68de27cf-db69-4800-8314-f7ce17770cb7/
 images:
   - https://ucarecdn.com/2ba63832-53f2-4008-b75d-e67bbb7de7c1/
-date: 2023-10-25
+date: 2024-10-25
 time: 16:00
 location: Sint Lucas Antwerpen showroom
 ---
