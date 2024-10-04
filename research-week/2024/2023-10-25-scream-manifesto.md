@@ -15,8 +15,8 @@ location: Sint Lucas Antwerpen showroom
 ---
 Scream Manifesto is a sonic statement against war and destruction, against killing human and non-human beings.
 
-This performance fits in a larger researcher called 'Singing The Silences', Here, Hoda Siahtiri voices nearby her ancestral lineage of Bakhtiari women in the west of Iran. By floating in the processes of sonic ancestral embodiment, this research mediates intersectional possibilities of knowledge transmission, which leads to alternative qualities of resilience and resistance.  
+This performance fits in a larger research called 'Singing The Silences'. In this project, Hoda Siahtiri voices her ancestral lineage of Bakhtiari women in the west of Iran. By floating in the processes of sonic ancestral embodiment, this research mediates intersectional possibilities of knowledge transmission, which leads to alternative qualities of resilience and resistance.  
 
-Through vocal performances, audio-visual exhibitions, and ceremonies, Hoda experiments and practices with ritualistic forms of embodied sonicity to create collective spaces of transformation in societies in which dominant voices mute and silence fragile narratives and ways of being, sensing and feeling.
+Through vocal performances, audio-visual exhibitions, and ceremonies, Hoda experiments and practices with ritualistic forms of embodied sonicity to create collective spaces of transformation in societies in which the dominant voices mute and silence fragile narratives and ways of being, sensing and feeling.
 
 **Duration: 30-40 min**
