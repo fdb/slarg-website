@@ -12,7 +12,7 @@ images:
   - https://ucarecdn.com/ef188be4-c8da-45cf-ab4a-9ab293cb870b/
   - https://ucarecdn.com/ed122204-8c48-4138-8d2a-1b6749dc895a/
   - https://ucarecdn.com/25b045e5-82f6-4527-a386-6d2cfa19cb48/
-date: 2023-10-16
+date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---
 *Artistic participation project along the river Dijle with designer Annelys de Vet (PhD candidate ARIA) & Leen Maes (consultant De Natuuracademie). With Sint Lucas School of Arts & Natuurpunt, Spring – Winter 2024*
