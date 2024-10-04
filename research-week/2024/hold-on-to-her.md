@@ -8,7 +8,7 @@ type: Feature film
 author: Robin Vanbesien
 images:
   - https://ucarecdn.com/ff44009e-15f4-4225-87ab-e3b6900e77cc/
-date: ""
+date: 2024-10-18
 location: Sint Lucas Antwerpen showroom
 ---
 hold on to her
@@ -18,7 +18,7 @@ Mawda Shawri, two years old in 2018, daughter of Phrast and Shamden, sister of H
 
 In 2023, over 40 people, both undocumented and documented resident activists, assembled before the camera at La Voix des sans papiers in Brussels to stage a collective hearing of documents from and reactions to Mawda’s case.A ghostly haunting is acknowledged, caused by police impunity and lack of accountability of the state. In their refusal of such a shortage of truth and human rights the activists feel the need to explore beyond the official narratives. They produce the counter-evidence of this deadly crossing, and they practice justice as a sensuous social space for collective mourning and healing. Faced with the inability to proceed within the dominant frameworks, this hearing challenges what is visible and audible, foregrounding the opaque and the poetic.
 
-Screenings of 'hold on to her' take place @ Film Fest Gent:
+**Screenings of 'hold on to her' take place @ Film Fest Gent:**
 
 Wed 16/10 - 19h30 - Kinepolis 1 - FR/NL subs (Belgian premiere)
 
