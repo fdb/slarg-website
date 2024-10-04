@@ -9,7 +9,7 @@ author: Saskia Van der Gucht
 main_image: ""
 images:
   - https://ucarecdn.com/52bb4a1b-4cb4-418f-a3b3-7b23bde3592e/
-date: ""
+date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---
 '16.8 kg is the daily global demand of sand per person on June 5th, 2024' is an installation consisting of 15 objects which together contain 16.8 kg of river sand. The packaging is made by hand in textile, wood cardboard and flocked paper. The objects reference food packaging in rations calculating the daily demand of sand, the earth’s most mined material.\
