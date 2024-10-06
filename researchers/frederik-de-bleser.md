@@ -3,13 +3,13 @@ layout: researcher.liquid
 tags: researcher
 researcher_name: Frederik De Bleser
 bio: Dr. Frederik De Bleser is a postdoctoral researcher and lecturer at Sint
-  Lucas Antwerpen. His research concentrates on the democratization of
+  Lucas Antwerpen (KdG). His research concentrates on the democratization of
   technology for the arts, with a particular emphasis on the development of
   open-source software tools for artificial intelligence and data visualization.
-  He is the co-founder of the Algorithmic Gaze Research Cluster (SLARG). In
+  He is the co-founder of the Algorithmic Gaze research cluster (SLARG). In
   addition, he coordinates the Master’s program in Digital Media at Sint Lucas
-  and works as a freelance data visualization artist, creating projects for
-  Belgian news outlets and online democracy platforms.
+  Antwerpen and works as a freelance data visualization artist, creating
+  projects for Belgian news outlets and online democracy platforms.
 image_researcher:
   - https://ucarecdn.com/78f36d31-7aac-4e5c-bd31-5303d4125af0/
 email: frederik.debleser@kdg.be
