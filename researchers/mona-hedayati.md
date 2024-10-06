@@ -3,16 +3,16 @@ layout: researcher.liquid
 tags: researcher
 researcher_name: Mona Hedayati
 bio: Mona Hedayati is an Iranian-Canadian artist-researcher and a joint PhD
-  researcher in interdisciplinary humanities at Concordia University, Canada and
-  the digital arts doctorate program at Antwerp Research Institute for the Arts,
-  Belgium. Her interdisciplinary research-creation draws on science and
-  technology studies, computation arts, and sensory studies. She has a BA in
-  translation studies, an MFA in digital media and Master of Research in
-  social-political art and design. Given the hybrid nature of her work that
-  hovers across media and disciplines, Hedayati’s artistic presence has been at
-  diverse venues such as Hessian Center for Artificial Intelligence, Darmstadt,
-  Whitworth Gallery, Manchester, Kunsthal Extra City, Antwerp, Body Electric
-  Retrospective, Toronto, New York City Electroacoustic Music Festival,
+  researcher at Sint Lucas Antwerpen / ARIA (University of Antwerp) and in
+  interdisciplinary humanities at Concordia University, Canada. Her
+  interdisciplinary research-creation draws on science and technology studies,
+  computation arts, and sensory studies. She has a BA in translation studies and
+  an MFA in digital media. She graduated from the Advanced Master of Research in
+  Arts and Design at Sint Lucas Antwerpen.  Given the hybrid nature of her work
+  that hovers across media and disciplines, Hedayati’s artistic presence has
+  been at diverse venues such as Hessian Center for Artificial Intelligence,
+  Darmstadt, Whitworth Gallery, Manchester, Kunsthal Extra City, Antwerp, Body
+  Electric Retrospective, Toronto, New York City Electroacoustic Music Festival,
   Fylkingen New Music & Intermedia Center, Stockholm, and Ars Electronica
   Festival, Linz.
 image_researcher:
