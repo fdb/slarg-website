@@ -8,7 +8,7 @@ bio: >-
   heritage.
 
 
-  Her artistic research entitled ‘Singing The Silences’ is framed in a Ph.d research at Sint Lucas Antwerp. In this research, she comes to voice through singing nearby her lineage of Bakhtiari women in the west of Iran.
+  Her artistic research entitled ‘Singing The Silences’ is framed in a PhD research at Sint Lucas Antwerpen / ARIA (University of Antwerp). In this research, she comes to voice through singing nearby her lineage of Bakhtiari women in the west of Iran.
 
 
   Hoda’s creations and ceremonies were shown and shared in different festivals and cultural venues in Belgium and Europe.
@@ -19,5 +19,5 @@ researcher_flag: "false"
 staff_flag: "false"
 available_for_supervision: "false"
 status_of_research: ongoing
-social_links: "false"
+social_links: https://www.instagram.com/siahtiri.hoda/?hl=en
 ---
