@@ -6,7 +6,7 @@ section_website_2024: exhibition
 title: hear / musical score drawings
 type: texts on the wall / drawings
 author: Robin Vanbesien
-main_image: ""
+main_image: https://ucarecdn.com/c6317751-5bf7-476d-aeaf-569bbef0efe5/
 images:
   - https://ucarecdn.com/f1db7857-86f7-4eeb-a53c-9e327fbe7d49/
 date: 2024-10-24
