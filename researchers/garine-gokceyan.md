@@ -2,7 +2,7 @@
 layout: researcher.liquid
 tags: researcher
 researcher_name: Garine Gokceyan
-bio: 'Garine Gokceyan is a PhD researcher in Sint Lucas Antwerpen (KdG) / ARIA
+bio: 'Garine Gokceyan is a PhD researcher at Sint Lucas Antwerpen (KdG) / ARIA
   (University of Antwerp) and a Brussels-based independent graphic designer. Her
   multidisciplinary projects revolve around scripts, languages, design politics,
   archives and collective ressource creation that embraces multicultural and
