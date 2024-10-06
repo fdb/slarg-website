@@ -6,7 +6,7 @@ section_website_2024: event
 title: "Curves & Reverbs III "
 type: Performance
 author: Mona Hedayati
-main_image: ""
+main_image: https://ucarecdn.com/a5bfad12-890f-4de2-880c-6785ee0e20d7/
 images:
   - https://ucarecdn.com/3ec9d23f-54a5-4b5b-bf12-14e2c4a831b8/
 date: 2024-10-25
