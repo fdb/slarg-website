@@ -14,14 +14,14 @@ bio: "Tundé is a Nigerian-American based in Belgium. He helped founding the
   Spaces Antwerp\". This space reflects on different ways of gathering and
   collective care. From this point they have helped facilitate spaces that dealt
   with transformative justice and grace and conducted together with Imane
-  Benyecif the research project \"Towards Braver Spaces\" at Sint Lucas
-  Antwerpen."
+  Benyecif a one-year research project \"Towards Braver Spaces\" (2023-2024) at
+  Sint Lucas Antwerpen."
 image_researcher:
   - https://ucarecdn.com/d83be6ab-91d8-45ab-9cb5-93bc75fe54a5/
 email: tunde.adefioye@kdg.be
 researcher_flag: "false"
 staff_flag: "false"
 available_for_supervision: "false"
-status_of_research: finished
+status_of_research: ongoing
 social_links: https://www.instagram.com/braverspaces_summercamp/
 ---
