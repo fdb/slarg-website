@@ -4,8 +4,8 @@ tags: researcher
 researcher_name: Robin Vanbesien
 bio: "Robin Vanbesien is an artist, filmmaker, researcher, and educator, based
   in Brussels. Vanbesien obtained a PhD in the arts from Sint Lucas Antwerpen
-  (KdG) / ARIA (University of Antwerp) with his research project ‘Ciné
-  Place-Making’ . His first feature ‘hold on to her’ (2024) premiered at
+  (KdG) / ARIA (University of Antwerp) with his research project \"Ciné
+  Place-Making.\" His first feature ‘hold on to her’ (2024) premiered at
   Berlinale Forum Expanded 2024. In 2017, Vanbesien published the book
   'Solidarity Poiesis: I Will Come and Steal You' with b_books Berlin. He
   co-founded The Post Film Collective (2020-2024), which explored cinema as a
