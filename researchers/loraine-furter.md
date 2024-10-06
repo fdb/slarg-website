@@ -5,8 +5,8 @@ bio: Loraine Furter is a graphic designer and a teacher, specialized in hybrid
   publishing and in love with subversive anti-hegemonic practices. She
   co-founded the cyber-feminist collective Just For the Record, the typography
   research group Bye Bye Binary and the project Intersections of Care. She is
-  doing a PhD in the arts at Sint Lucas Antwerpen / ARIA (University of
-  Antwerp),
+  doing a PhD in the arts at Sint Lucas Antwerpen (KdG) / ARIA (University of
+  Antwerp), entitled "The politics of publishing."
 image_researcher:
   - https://ucarecdn.com/0bfb8237-d623-41cd-8754-eada04619c3f/
 email: loraine.furter@kdg.be
