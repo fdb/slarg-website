@@ -2,9 +2,9 @@
 layout: researcher.liquid
 tags: researcher
 researcher_name: Annelys de Vet
-bio: Annelys de Vet is a designer, researcher, and educator with a practice for
+bio: Annelys de Vet is a designer, researcher, and educator with a practice in
   long-term, participative design projects engaged in social and political
-  struggles. De Vet initiated the publishing initiative' Subjective Editions,'
+  struggles. De Vet initiated the publishing initiative 'Subjective Editions,'
   mapping regions from the inside out by the inhabitants themselves, including
   'Subjective Atlas of Brussels' (2018), and 'Subjective Atlas of Palestine'
   (2007). De Vet co-founded 'Disarming Design from Palestine,' a
@@ -13,8 +13,9 @@ bio: Annelys de Vet is a designer, researcher, and educator with a practice for
   (2020–2022), centring design practices in situations of oppression, which was
   part of the Sandberg Instituut Amsterdam, where she was the course director of
   the MA in Design from 2009 to 2019. De Vet is a lecturer and PhD researcher at
-  Sint Lucas Antwerp – defending her dissertation  'Disarming Design, politics
-  of Participatory Practices' on 29 November 2024.
+  Sint Lucas Antwerpen / ARIA (University of Antwerp).  She will defend her PhD
+  dissertation  'Disarming Design, politics of Participatory Practices' in
+  November 2024.
 image_researcher:
   - https://ucarecdn.com/852d9697-05a1-4167-b112-ab0fe3226140/
 email: annelys.devet@kdg.be
