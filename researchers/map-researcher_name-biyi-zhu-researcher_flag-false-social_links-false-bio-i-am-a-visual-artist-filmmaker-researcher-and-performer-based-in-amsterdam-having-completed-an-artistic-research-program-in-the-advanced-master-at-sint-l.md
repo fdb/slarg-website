@@ -3,8 +3,8 @@ layout: researcher.liquid
 tags: researcher
 researcher_name: Biyi Zhu
 bio: I am a visual artist, filmmaker, researcher, and performer based in
-  Amsterdam. I completed the Advanced Master program in Artistic Research at
-  Sint Lucas Antwerpen. My work centers on time-based media and video
+  Amsterdam. I completed the Advanced Master of Research in Arts and Design
+  program at Sint Lucas Antwerpen. My work centers on time-based media and video
   experiments that utilize custom mobile shooting devices to immerse viewers in
   the complexities of human mobility across physical, virtual, symbolic, and
   imaginary spaces. My recent research interests encompass memory, diaspora, and
