@@ -8,8 +8,8 @@ bio: Danial Shah, a Pakistani documentary filmmaker and photographer, brings a
   International Film Festival and Vancouver International Film Festival. He
   holds a joint-masters degree in Documentary Film Direction from DocNomads in
   Hungary, Belgium and Portugal and is currently a part-time PhD researcher at
-  SInt Lucas Antwerpen / ARIA (University of Antwerp). Danial is editing his
-  first feature film, "Functioning Photographs," in Brussels, while also
+  Sint Lucas Antwerpen (KdG) / ARIA (University of Antwerp). Danial is editing
+  his first feature film, "Functioning Photographs," in Brussels, while also
   developing his second feature, "20 Miles Apart," through a collaborative
   production spanning Pakistan, Belgium, Netherlands, and Hungary.
 image_researcher:
