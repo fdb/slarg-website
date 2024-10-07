@@ -10,7 +10,7 @@ bio: Hoda Siahtiri is an audio visual performance artist and researcher based in
   the west of Iran. Hoda’s creations and ceremonies were shown and shared in
   different festivals and cultural venues in Belgium and Europe.
 image_researcher:
-  - https://ucarecdn.com/165deded-ca13-42c6-87dc-30881c96a621/
+  - https://ucarecdn.com/abd5e7ba-e6b4-4696-b4f9-711e05da3da2/
 email: "hoda.siahtiri@kdg.be "
 researcher_flag: "false"
 staff_flag: "false"
