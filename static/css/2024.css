@@ -50,7 +50,12 @@ main {
 .events-grid {
 	margin-bottom: 2rem;
 }
-
+.event-image {
+	width: 300px;
+	height: 300px;
+	background-color: #00C589;
+	margin-bottom: 0.5rem;
+}
 
 
 
