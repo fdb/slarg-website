@@ -6,9 +6,9 @@ section_website_2024: exhibition
 title: Watermelon flag
 type: Alternative flag for Palestine
 author: Annelys de Vet
-main_image: https://ucarecdn.com/5e647d03-1eea-4a8a-8efb-09f35cc2e0a9/
+main_image: https://ucarecdn.com/423890f8-0b6d-4d65-8835-95b3ab2e9d08/
 images:
-  - https://ucarecdn.com/8b853fd7-48e0-4463-bc32-bddc7c2fb87a/
+  - https://ucarecdn.com/4d0c010f-7bb7-42c0-9ff7-02d9154993fe/
 date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---
