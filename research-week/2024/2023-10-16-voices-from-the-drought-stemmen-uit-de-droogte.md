@@ -6,12 +6,12 @@ section_website_2024: exhibition
 title: Voices from the drought | Stemmen uit de Droogte
 type: Series of framed herbaria depicting imaginairy dry landscapes
 author: Annelys de Vet
-main_image: https://ucarecdn.com/12998d38-c14d-4337-9848-26496f162004/
+main_image: https://ucarecdn.com/93d19315-f24d-44a8-8e7c-0ce2831359d9/
 images:
-  - https://ucarecdn.com/d87eea21-1009-4594-9e8d-435581af2617/
-  - https://ucarecdn.com/ef188be4-c8da-45cf-ab4a-9ab293cb870b/
-  - https://ucarecdn.com/ed122204-8c48-4138-8d2a-1b6749dc895a/
-  - https://ucarecdn.com/25b045e5-82f6-4527-a386-6d2cfa19cb48/
+  - https://ucarecdn.com/bdcf7165-4158-4817-b398-72127a59c979/
+  - https://ucarecdn.com/24fc9371-ddd5-4e42-bd2a-bd8e7d0a0850/
+  - https://ucarecdn.com/72d41640-b40f-4cbe-a83c-badbe0e12ba9/
+  - https://ucarecdn.com/2d77287c-4d2b-466b-aaf4-f4d94e3a010b/
 date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---
