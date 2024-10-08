@@ -4,7 +4,7 @@ tags: event
 year: 2024
 section_website_2024: exhibition
 title: What is Real? Becoming, Belonging, Vanishing.
-type: Mixed Reality Interactive Insallation
+type: Mixed Reality Interactive Installation
 author: Danial Shah
 main_image: https://ucarecdn.com/8fa7ea9f-c8c0-4799-abd1-9e538080bb7b/
 images:
