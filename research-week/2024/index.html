@@ -7,8 +7,7 @@ layout: base.liquid
 <h2 class="big-title">Research week 2024</h2>
 <div class="hero">
   <div class="container">
-      <p class="hero-text">From October 24 to November 3 2024, the Sint Lucas Antwerpen Research Group organises
-          its annual research week. <a href="about">Read more</a></p>
+      <p class="hero-text">This year, SLARG Research Week will feature both a Research Exhibition and a Performance Night. <a href="about">Read more</a></p>
   </div>
 </div>
 
@@ -23,7 +22,7 @@ layout: base.liquid
       <a href="/research-week/2024/{{ exhibition.fileSlug }}" class="event">
         <div class="event">
           {% if exhibition.data.main_image %}
-          <img src="{{ exhibition.data.main_image }}" alt="{{ exhibition.data.title }}">
+          <div class="event-image"><img src="{{ exhibition.data.main_image }}" alt="{{ exhibition.data.title }}"></div>
           {% endif %}
           <h3>{{ exhibition.data.title }}</h3>
           <!-- <p>Date: {{ exhibition.data.date | date: "%B %d, %Y" }}</p> -->
@@ -43,7 +42,7 @@ layout: base.liquid
         {% for event in events_2024 %}
           <a href="/research-week/2024/{{ event.fileSlug }}" class="event">
             {% if event.data.main_image %}
-            <img src="{{ event.data.main_image }}" alt="{{ event.data.title }}">
+            <div class="event-image"><img src="{{ event.data.main_image }}" alt="{{ event.data.title }}"></div>
             {% endif %}
             <h3>{{ event.data.title }}</h3>
             <!-- {% if event.data.date %}
