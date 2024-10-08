@@ -106,36 +106,33 @@ nav a:last-child {
 	padding-right: 0; 
 }
 
-.sidebar{
+.sidebar {
 	min-width: 200px;
-	height: 100vh;
 	position: fixed;
 	top: 0;
   	left: 0;
   	padding: 0.9rem 1rem;
-	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
-
 }
-.sidebar-logo{
+.sidebar-logo {
+	position: fixed;
+	bottom: 0;
+  	left: 0;
+  	padding: 0.9rem 1rem;
 	width: 150px;
-	
 }
-.sidebar h1{
-color: var(--turquoise);
-margin-bottom: 0;
-font-size: 3rem;
+.sidebar h1 {
+	color: var(--turquoise);
+	margin-bottom: 0;
+	font-size: 3rem;
 }
-.sidebar a{
+.sidebar a {
 	color: var(--turquoise);
 	text-decoration: none;
 }
-.sidebar h2{
+.sidebar h2 {
 	font-family: 'AuthenticSans';
 	text-transform: uppercase;
 	margin-top: 0.2rem;
-
 }
 
 
