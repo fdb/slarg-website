@@ -10,7 +10,7 @@ main_image: https://ucarecdn.com/7b7fc03d-4d1d-4fd0-a0cb-466d54d3e86c/
 images:
   - https://ucarecdn.com/46104337-313e-4e88-8ae4-56d2a783d3cc/
   - https://ucarecdn.com/d5d1489a-5810-49e3-8563-e7589014f848/
-date: 2024-10-24
+date: 2024-10-25
 time: 20:00
 location: Sint Lucas Antwerpen showroom
 ---
