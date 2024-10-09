@@ -3,7 +3,8 @@ layout: event.liquid
 tags: event
 year: 2024
 section_website_2024: exhibition
-title: "Kasala and Lukasa : ongoing "
+title: "Contemporary Kasala and Lukasa: towards a Reconfiguration of Identity
+  and Geopolitics"
 type: Video, prints, sculpture
 author: "Sammy Baloji "
 main_image: https://ucarecdn.com/6fb1b93e-f2b4-46d8-b72d-685de4429977/
@@ -12,7 +13,9 @@ images:
 date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---
-In september 2019 startte Sammy Baloji een doctoraat in Artistic Research getiteld 'Contemporary Kasala and Lukasa: towards a Reconfiguration of Identity and Geopolitics' aan Sint Lucas Antwerpen. Een onderzoeksproject in de kunsten over het creëren van nieuwe Memory Devices, gebaseerd op twee bestaande memory devices die gebruikt worden door verschillende Luba-groepen in de DRC; Kasala, een ceremonieel gedicht en Lukasa, een geheugenbord dat gebruikt wordt bij rituele voorstellingen. De twee groepen die deze memory devices gebruiken werden tijdens het koloniale tijdperk verdeeld door grenzen die werden getrokken tussen de voormalige provincies Kasai en Katanga. De kunstwerken die in het kader van dit onderzoeksproject zijn gemaakt, zijn bedoeld om deze groepen weer bij elkaar te brengen door middel van een verhaal dat deels persoonlijk, deels historisch en deels fictief is. De volgende twee projecten zijn ontwikkeld als onderdeel van dit onderzoek en belichten verschillende aspecten van Sammy's onderzoek en zijn artistieke praktijk.
+In September 2019, Sammy Baloji started a PhD in Artistic Research entitled ‘Contemporary Kasala and Lukasa: towards a Reconfiguration of Identity and Geopolitics’ at Sint Lucas Antwerp. A research project in the arts on creating new memory devices based on two existing memory devices used by different Luba groups in the DRC; Kasala, a ceremonial poem and Lukasa, a memory board used in ritual performances. The two groups using these memory devices were divided during the colonial era by borders drawn between the former provinces of Kasai and Katanga. The artworks created as part of this research project aim to bring these groups back together through a narrative that is part personal, part historical and part fictional. The following two projects were developed as part of this research and highlight different aspects of Sammy's research and his artistic practice.
+
+
 
 ***The Long Hand, 2022***
 
@@ -44,28 +47,32 @@ In september 2019 startte Sammy Baloji een doctoraat in Artistic Research getite
 >
 > Alsook voor de Antwerpse bevolking
 
-– Fragment uit *De Lange Hand*, een kasàlà geschreven door Jean Kabuta op uitnodiging van Sammy Baloji en opgevoerd tijdens de inhuldiging van Baloji’s kunstwerk The Long Hand op 3 juni 2022
+\- Excerpt from The Long Hand, a kasàlà written by Jean Kabuta at the invitation of Sammy Baloji and performed at the inauguration of Baloji's artwork The Long Hand on 3 June 2022
 
-Op uitnodiging van Kunst in de Stad maakte Sammy Baloji een nieuw kunstwerk voor de stedelijke collectie kunst in de publieke ruimte. Deze monumentale sculptuur, getiteld *The Long Hand*, neemt een permanente locatie in op de Scheldekaai ter hoogte van de Zuidersluis in Antwerpen.
 
-Baloji maakte zijn werk specifiek voor deze locatie, zo dicht mogelijk bij de Schelde. Hij beschouwt de rivier als de toegangsweg van ‘hier’ naar ‘daar’, de verbindingsweg tussen de stad en de wereld, maar ook tussen België en Congo, het geboorteland van de kunstenaar. 
 
-The Long Hand verwijst naar uiteenlopende bronnen, die samenvloeien in een kunstwerk vervaardigd in brons, baksteen en gerecycleerd plastic – drie samengestelde materialen. Brons, een legering van tin en koper, dat laatste één van de belangrijkste ontginnings- en exportproducten van Congo. Bakstenen, artisanaal vervaardigd in Maaseik uit klei en grond gewonnen uit de Limburgse mijn terrils. Plastic afval van Belgische bedrijven omgesmolten en gegoten in de vorm van geslepen diamanten die de bronzen figuur verfraaien.  
+At the invitation of Art in the City, Sammy Baloji created a new artwork for the city's collection of art in public spaces. This monumental sculpture, entitled The Long Hand, will take up a permanent location on the Scheldekaai near the Zuidersluis in Antwerp.
 
-De vorm en de titel van het beeld zijn ontleend aan de Lukasa, een artefact uit de Luba-cultuur in Zuid-Congo. Lukasa (ofte “lange hand” in Kiluba) fungeren als geheugensteuntje of ezelsbruggetje en zijn een vitaal onderdeel van de Luba-traditie van mondelinge geschiedschrijving en kennisoverdracht. Met The Long Hand introduceert Sammy Baloji dit geheugenobject op monumentale schaal in de stad en sluit zo aan bij de traditie van kunstwerken in de publieke ruimte als herdenkingstekens. 
+Baloji made his work specifically for this location, as close to the Scheldt as possible. He sees the river as the access road from ‘here’ to ‘there’, the connecting road between the city and the world, but also between Belgium and Congo, the artist's native country. 
 
-Doorgaans worden Lukasa in hout vervaardigd en rijkelijk versierd met abstracte inkervingen en ingelegde schelpen of (edel)stenen. Ze worden gebruikt in ceremonies waarin de politieke geschiedenis en mythologie van het Luba-volk verteld wordt door een “herinneringsman”. Deze houdt de Lukasa in zijn linkerhand en traceert met zijn rechterhand de patronen en ingelegde juwelen, die dienen als ankerpunten voor de opgevoerde vertelling.
+The Long Hand refers to diverse sources, which merge into an artwork made in bronze, brick and recycled plastic - three composite materials. Bronze, an alloy of tin and copper, the latter one of Congo's main mining and export products. Bricks, artisanally manufactured in Maaseik from clay and soil extracted from Limburg's mining rills. Plastic waste from Belgian companies remelted and cast in the form of cut diamonds that embellish the bronze figure.  
 
-De gekleurde plastic diamanten zijn zo aangebracht op het oppervlak van het bronzen beeld om de zeeroute tussen Antwerpen en Muanda, de voornaamste havenstad in Congo, te verbeelden. Het bakstenen platform waarop het beeld staat, is ontworpen door de kunstenaar als een plek voor bijeenkomsten en uitwisselingen. 
+The shape and title of the sculpture are taken from the Lukasa, an artefact from the Luba culture in southern Congo. Lukasa (or ‘long hand’ in Kiluba) act as a memory aid or mnemonic device and are a vital part of the Luba tradition of oral history and knowledge transmission. With The Long Hand, Sammy Baloji introduces this memory object on a monumental scale in the city, joining the tradition of artworks in public spaces as memorials. 
 
-Het houten beeld dat in deze tentoonstelling te zien is, is het prototype dat werd vervaardigd als tussenstap in het productieproces van The Long Hand. Een test naar vorm en proportie toe. 
+Typically, Lukasa are made in wood and richly decorated with abstract carvings and inlaid shells or (precious) stones. They are used in ceremonies in which the political history and mythology of the Luba people is told by a ‘memory man’. This person holds the Lukasa in his left hand and traces with his right hand the patterns and inlaid jewels, which serve as anchor points for the staged narration.
+
+The coloured plastic diamonds are so applied to the surface of the bronze statue to represent the sea route between Antwerp and Muanda, the main port in Congo. The brick platform on which the sculpture stands was designed by the artist as a place for meetings and exchanges. 
+
+The wooden sculpture shown in this exhibition is the prototype that was manufactured as an intermediate step in the production process of The Long Hand, a test towards form and proportion. 
+
+
 
 **Kasala: The Slaughterhouse of Dreams or the First Human, Bende’s Error, 2019** 
 
-*The Slaughterhouse of Dreams* is een performance en interactieve video-installatie over de overdracht van de specifieke geschiedenis van Luba door middel van geheugensteunen en oraliteit.
+The Slaughterhouse of Dreams is a performance and interactive video installation on the subject of the transmission of Luba specific history through mnemonic objets and orality.
 
-De Kasala is een ceremonieel gedicht, een lovende, publieke en plechtige manier om een persoon een naam te geven. In de Baluba-traditie is de “Kasala” een welomschreven vorm van slogans of poëzie in vrije verzen. Het wordt gezongen of voorgedragen, soms met instrumentale begeleiding, door mannen en vrouwen die professionele specialisten zijn. Het dramatiseert publieke gebeurtenissen die sterke emoties vereisen, zoals moed in de strijd, collectieve vreugde bij officiële functies en rouw bij begrafenissen. Qua stijl en inhoud is kasala een heel ander genre met spreekwoorden, mythen, fabels, raadsels, verhalen en historische vertellingen.
+The Kasala is a ceremonial pœm, a laudatory, public and solemn way of naming the person. In the Baluba tradition, the“Kasala” is a well-defined form of slogans or pœtry in free verse. It is sung or recited, sometimes with instrumental accompaniment, by men and women who are professional specialists. It dramatizes public events that require strong emotions, such as courage in battle, collective joy at official functions, and mourning at funerals. In style and content, kasala is an entirely different genre with proverbs, myths, fables, riddles, tales and historical narratives.
 
-Een hedendaagse Kasala geschreven door Fiston Mwanza Mujila - een Congolese auteur die in Graz, Oostenrijk woont - over onteigeningen van diamantgravers wordt voorgedragen door de auteur zelf, begeleid door Patrick Dunst op saxofoon en Grilli Pollheimer op de drums. Op het podium worden koperen muziekinstrumenten (een trommel en een trompet) gepresenteerd waarvan het oppervlak is gemarkeerd door traditionele scarificatie. Ondertussen wordt de performance opgenomen en omgezet in een interactieve installatie waar beelden van Congolese televisiereportages worden gemixt met beelden van door röntgenstralen gescande sculpturen en beelden van Mbudye-dansers. Het publiek kan zo zelf kiezen wat het wil zien en beluisteren.
+A contemporary Kasala written by Fiston Mwanza Mujila - a Congolese author based in Graz, Austria - on expropriations of diamond diggers is recited by the author him- self accompanied by Patrick Dunst on saxophone and Grilli Pollheimer on the drums. On stage copper musical instruments (a drum and a trumpet) whose surface has been marked by traditional scarification are presented. In the meanwhile, the performance is recorded and transposed into an interactive installation where images of Con- golese television reports are mixed with images of X Ray scanned sculptures and images of Mbudye dancers. The public is thus able to interact and choose what they want to see and listen to.
 
-Deze installatie en performance waren zichtbaar in het Rietberg Museum in Zürich en werden gefilmd om nadien om te zetten naar de video die nu ook in deze tentoonstelling te zien is.
+This installation and performance were visible at the Rietberg Museum in Zurich and were filmed and then converted into the video that is now also shown in this exhibition.
