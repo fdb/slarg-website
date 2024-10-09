@@ -1,9 +1,61 @@
 :root {
-	--text-accent: #9d00c8;
-	--border-accent: #2f5f0f;
+	--text-accent: #00C589;
+	--border-accent: #00C589;
 	--bg: #d0f5fd;
-	--text: #272518;
+	--text: #02110d;
+	--turquoise: #00C589;
 }
+
+@font-face {
+	font-family: 'Marsha';
+	font-style: normal;
+	font-weight: 700;
+	src: local(''), url('/static/fonts/vtc-marsha-bold.woff2') format('woff2'), url('/static/fonts/vtc-marsha-bold.woff') format('woff');
+}
+@font-face {
+	font-family: 'AuthenticSans';
+	font-style: normal;
+	font-weight: normal;
+	src: local(''), url('/static/fonts/AUTHENTIC-Sans-Pro-90.woff2') format('woff2'),
+		url('/static/fonts/AUTHENTIC-Sans-Pro-90.woff') format('woff');
+}
+
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	color: var(--turquoise);
+}
+
+main {
+	color: var(--turquoise);
+}
+
 .hero-text {
-	color: #0eaa44;
+	color: var(--text-accent);
+	font-size: 2rem;
+	line-height: 2.4rem;
+	font-weight: bold;
+	font-family: 'Marsha', sans-serif;
+	text-transform: uppercase;
+	text-align: left;
+	letter-spacing: 2px;
 }
+.events-grid {
+	margin-bottom: 2rem;
+}
+.event-image {
+	width: 300px;
+	height: 300px;
+	background-color: #00C589;
+	margin-bottom: 0.5rem;
+}
+
+
+

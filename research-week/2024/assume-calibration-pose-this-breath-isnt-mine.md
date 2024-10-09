@@ -3,7 +3,7 @@ layout: event.liquid
 tags: event
 year: 2024
 section_website_2024: event
-title: "Assume calibration pose: this breath isn’t mine"
+title: "Assume calibration pose: this breath isn't mine"
 type: Performance
 author: Myrthe Bokelmann & Cèlia Tort Pujol
 main_image: https://ucarecdn.com/7b7fc03d-4d1d-4fd0-a0cb-466d54d3e86c/
