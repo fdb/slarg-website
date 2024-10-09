@@ -146,7 +146,6 @@ collections:
     preview_path: '/researcher/{{slug}}'
     create: true
     delete: true
-     slug: '{{researcher_name}}'
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'researcher.liquid' }
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'researcher' }
