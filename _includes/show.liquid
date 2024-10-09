@@ -1,0 +1,25 @@
+---
+layout: base
+---
+<div class="event-meta">
+    <h2 class="event-title">{{ title }}</h2>
+    <h3 class="event-byline">{{ byline }}</h3>
+    <div class="event-details">
+        <span class="event-type">{{ type }}</span> |
+        <span class="event-author">{{ author}}</span> |
+        <span class="event-location">{{ location }}</span>
+    </div>
+</div>
+<div class="event-layout">
+    <div class="event-image">
+        <img src="{{ main_image }}-/preview/2000x2000/" alt="{{ title }}">
+    </div>
+    <div class="event-text">
+        {{ content }}
+    </div>
+</div>
+<div class="event-images">
+    {%- for image in images -%}
+    <img class="image" src="{{ image }}-/preview/2000x2000/" alt="" />
+    {%- endfor -%}
+</div>

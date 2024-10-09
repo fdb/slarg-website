@@ -4,3 +4,9 @@
 	--bg: #e0ffdf;
 	--text: #26005e;
 }
+body {
+	background-color: var(--bg);
+}
+.sidebar h1, .sidebar h2, nav a {
+	color: var(--border-accent);
+}

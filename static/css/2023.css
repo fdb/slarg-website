@@ -4,3 +4,12 @@
 	--bg: #dfe0ff;
 	--text: #272518;
 }
+body {
+	background-color: var(--bg);
+}
+/* .sidebar h1, .sidebar h2, nav {
+	color: black;
+} */
+main h2, main p {
+	color: #4c5ebf;
+}
