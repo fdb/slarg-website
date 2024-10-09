@@ -102,6 +102,7 @@ nav a{
 	padding-right: 1.5rem;
 	padding-bottom: 2.5rem;
 }
+
 nav a:last-child {
 	padding-right: 0; 
 }
@@ -134,7 +135,6 @@ nav a:last-child {
 	text-transform: uppercase;
 	margin-top: 0.2rem;
 }
-
 
 .big-title{
 	color: var(--turquoise);
