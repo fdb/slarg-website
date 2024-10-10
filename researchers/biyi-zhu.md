@@ -18,5 +18,5 @@ researcher_flag: "false"
 staff_flag: "false"
 available_for_supervision: "false"
 status_of_research: ongoing
-social_links: https://www.adma.be/2023-2024/biyi_zhu
+social_links: <https://www.adma.be/2023-2024/biyi_zhu>
 ---
