@@ -19,6 +19,6 @@ Following the 1967 Six-Day War, the Israeli military forces unilaterally crimina
 
 After the Oslo accords in 1993, the order was not completely revoked, neither has the Israeli occupation of Palestine ended. Artist Khaled Hourani borrowed from this officer the idea for the ‘Watermelon flag’ to commemorate the legacy of resistance to the prohibition of the Palestinian flag. Hourani originally made the design for the *Subjective Atlas of Palestine* in 2007, and afterwards it waved at many exhibitions worldwide. During the 2021 Palestinian uprisings, the flag has been produced as an effective alternative flag, to wave until the occupation ends. 
 
-During the world wide protests against the current genocidal war the watermelon is an international symbol for Palestinian resistance. The flag  waved at demonstrations, on the facade of countless cultural institutions, and now here at SLARG, to firmly express solidarity with the Palestinian struggle for liberation, self determination and dignity. #ceasefirenow #endtheoccupation #BDS
+During the world wide protests against the current genocidal war the watermelon is an international symbol for Palestinian resistance. The flag  waved at demonstrations, on the facade of countless cultural institutions, and now here at SLARG, to firmly express solidarity with the Palestinian struggle for liberation, self-determination and dignity. #ceasefirenow #endtheoccupation #BDS
 
 More: https://disarmingdesign.com/product/watermelon-flag/
