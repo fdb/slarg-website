@@ -3,69 +3,65 @@ layout: base.liquid
 ---
 <link rel="stylesheet" href="/static/css/2024.css">
 
-
 <h2 class="big-title">Research week 2024</h2>
 <div class="hero">
   <div class="container">
-      <p class="hero-text">This year, SLARG Research Week will feature both a Research Exhibition and a Performance Night. <a href="about">Read more</a></p>
+    <p class="hero-text">This year, SLARG Research Week will feature both a Research Exhibition and a Performance Night. <a href="about">Read more</a></p>
   </div>
 </div>
 
 {% assign events_2024 = collections.events_2024 %}
 {% assign exhibitions_2024 = collections.exhibition_2024 %}
 
-  <!-- Display Exhibitions -->
-  {% if exhibitions_2024 and exhibitions_2024.size > 0 %}
-    <h2 class="big-title">Exhibition 25.10-03.11.2024 SHOWROOM</h2>
-    <div class="events-grid">
-      {% for exhibition in exhibitions_2024 %}
+<!-- Display Exhibitions -->
+{% if exhibitions_2024 and exhibitions_2024.size > 0 %}
+  <h2 class="big-title">Exhibition 25.10-03.11.2024 SHOWROOM</h2>
+  <div class="events-grid">
+    {% for exhibition in exhibitions_2024 %}
       <a href="/research-week/2024/{{ exhibition.fileSlug }}" class="event">
         <div class="event">
           {% if exhibition.data.main_image %}
-          <div class="event-image"><img src="{{ exhibition.data.main_image }}" alt="{{ exhibition.data.title }}"></div>
+            <div class="event-image"><img src="{{ exhibition.data.main_image }}" alt="{{ exhibition.data.title }}"></div>
           {% endif %}
           <h3>{{ exhibition.data.title }}</h3>
           <span class="exhibition-type">{{ exhibition.data.type }}</span> |
-          <span class="exhibition-author">{{ exhibition.data.author}}</span>
+          <span class="exhibition-author">{{ exhibition.data.author }}</span>
         </div>
-      {% endfor %}
-    </a>
+      </a>
+    {% endfor %}
   </div>
-  {% endif %}
+{% endif %}
 
-  <h2 class="big-title">Events 24.10 & 26.10.2024 SHOWROOM</h2>
-  <div class="events-grid">
-    {% if events_2024 or exhibitions_2024 %}
-      {% if events_2024 and events_2024.size > 0 %}
-          {% assign sorted_events = events_2024 | sort: 'data.date' %}
-          
-          {% assign sorted_events_by_date_and_time = sorted_events | sort: 'data.time' %}
-          
-          {% for event in sorted_events_by_date_and_time %}
-            <a href="/research-week/2024/{{ event.fileSlug }}" class="event">
-              {% if event.data.main_image %}
-              <div class="event-image"><img src="{{ event.data.main_image }}" alt="{{ event.data.title }}"></div>
-              {% endif %}
-              <h3>{{ event.data.title }}</h3>
-              <span class="event-type">{{ event.data.type }}</span> |
-              <span class="event-author">{{ event.data.author }}</span> |
-              <span class="event-date">
-                {% if event.data.date %}
-                    {{ event.data.date | formatDate }}
-                {% else %}
-                    No Date Provided
-                {% endif %}
-                {% if event.data.time %}
-                    | {{ event.data.time }}
-                {% endif %}
-              </span> |
-            </a>
-          {% endfor %}
-      {% endif %}
-    {% endif %}
-  </div>
-  
+<h2 class="big-title">Events 24.10 & 26.10.2024 SHOWROOM</h2>
+<div class="events-grid">
+  {% if events_2024 and events_2024.size > 0 %}
+    {% assign sorted_events = events_2024 | sort: 'data.date' %}
+    
+    {% for event in sorted_events %}
+      <a href="/research-week/2024/{{ event.fileSlug }}" class="event">
+        {% if event.data.main_image %}
+          <div class="event-image"><img src="{{ event.data.main_image }}" alt="{{ event.data.title }}"></div>
+        {% endif %}
+        <h3>{{ event.data.title }}</h3>
+        <span class="event-type">{{ event.data.type }}</span> |
+        <span class="event-author">{{ event.data.author }}</span> |
+        <span class="event-date">
+          {% if event.data.date %}
+            {{ event.data.date | formatDate }}
+          {% else %}
+            No Date Provided
+          {% endif %}
+          {% if event.data.time %}
+            | {{ event.data.time }}
+          {% endif %}
+        </span> |
+      </a>
+    {% endfor %}
   {% else %}
-    <p>No events or exhibitions found.</p>
-  {% endif %} 
+    <p>No events found for 2024.</p>
+  {% endif %}
 </div>
+
+{% if exhibitions_2024.size == 0 and events_2024.size == 0 %}
+  <p>No events or exhibitions available.</p>
+{% endif %}
