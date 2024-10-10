@@ -5,7 +5,7 @@ researcher_name: Myrthe Bokelmann
 bio: Myrthe Bokelmann (they/she, 1998) is a freelance dance maker and dance
   performer, currently based in Antwerp, Belgium. Within their artistic practice
   she is interested in the relationship between human and non-human entities and
-  the way in which they can perform together in a non-hierarchical way. As a
+  the way in which they can perform together in a non-hierarchical way. As at 
   performer Myrthe has worked with Claudia Bosse, Ashley Ho & Domenik Naue,
   Eilit Marom and LeineRoebana amongst others. Currently they are part of
   research group the Algorithmic Gaze at Sint Lucas working on performative AI
