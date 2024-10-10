@@ -18,7 +18,7 @@ bio: Annelys de Vet is a designer, researcher, and educator with a practice in
   her PhD dissertation "Disarming Design, politics of Participatory Practices"
   in November 2024.
 image_researcher:
-  - https://ucarecdn.com/852d9697-05a1-4167-b112-ab0fe3226140/
+  - https://ucarecdn.com/ca0059fa-b44b-4562-bc62-50ceb7f5fc6f/
 email: annelys.devet@kdg.be
 researcher_flag: "false"
 staff_flag: "false"
