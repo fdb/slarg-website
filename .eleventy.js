@@ -70,4 +70,10 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addCollection('researchers', function (collection) {
 		return collection.getFilteredByGlob('researchers/*.md');
 	});
+
+
+	eleventyConfig.addFilter("formatDate", (dateStr) => {
+		const date = new Date(dateStr);	
+		return date.toDateString();
+	  });
 };
