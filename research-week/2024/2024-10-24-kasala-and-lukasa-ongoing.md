@@ -13,11 +13,9 @@ images:
 date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---
-In September 2019, Sammy Baloji started a PhD in Artistic Research entitled ‘Contemporary Kasala and Lukasa: towards a Reconfiguration of Identity and Geopolitics’ at Sint Lucas Antwerp. A research project in the arts on creating new memory devices based on two existing memory devices used by different Luba groups in the DRC; Kasala, a ceremonial poem and Lukasa, a memory board used in ritual performances. The two groups using these memory devices were divided during the colonial era by borders drawn between the former provinces of Kasai and Katanga. The artworks created as part of this research project aim to bring these groups back together through a narrative that is part personal, part historical and part fictional. The following two projects were developed as part of this research and highlight different aspects of Sammy's research and his artistic practice.
+In September 2019, Sammy Baloji started a PhD in the arts on creating new memory devices based on two existing ones used by different Luba groups in the DRC; Kasala, a ceremonial poem and Lukasa, a memory board used in ritual performances. The two groups using these devices were divided during the colonial era by borders drawn between the former provinces of Kasai and Katanga. The artworks created as part of this research aim to bring these groups back together through a narrative that is part personal, part historical and part fictional. The following two projects were developed as part of this research and highlight different aspects of Sammy's research and his artistic practice.
 
-
-
-***The Long Hand, 2022***
+***The Long Hand,* 2022**
 
 > Kom kijken op deze plechtige dag     
 >
@@ -49,9 +47,7 @@ In September 2019, Sammy Baloji started a PhD in Artistic Research entitled ‘C
 
 \- Excerpt from The Long Hand, a kasàlà written by Jean Kabuta at the invitation of Sammy Baloji and performed at the inauguration of Baloji's artwork The Long Hand on 3 June 2022
 
-
-
-At the invitation of Art in the City, Sammy Baloji created a new artwork for the city's collection of art in public spaces. This monumental sculpture, entitled The Long Hand, will take up a permanent location on the Scheldekaai near the Zuidersluis in Antwerp.
+At the invitation of Art in the City, Sammy Baloji created a new artwork for the city's collection of art in public spaces. This monumental sculpture, entitled The Long Hand, takes up a permanent location on the Scheldekaai near the Zuidersluis in Antwerp.
 
 Baloji made his work specifically for this location, as close to the Scheldt as possible. He sees the river as the access road from ‘here’ to ‘there’, the connecting road between the city and the world, but also between Belgium and Congo, the artist's native country. 
 
@@ -64,8 +60,6 @@ Typically, Lukasa are made in wood and richly decorated with abstract carvings a
 The coloured plastic diamonds are so applied to the surface of the bronze statue to represent the sea route between Antwerp and Muanda, the main port in Congo. The brick platform on which the sculpture stands was designed by the artist as a place for meetings and exchanges. 
 
 The wooden sculpture shown in this exhibition is the prototype that was manufactured as an intermediate step in the production process of The Long Hand, a test towards form and proportion. 
-
-
 
 **Kasala: The Slaughterhouse of Dreams or the First Human, Bende’s Error, 2019** 
 
