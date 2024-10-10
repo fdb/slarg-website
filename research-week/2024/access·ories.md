@@ -18,4 +18,4 @@ This installation presents work in progress around accessories as portals for su
 
 It is an experiment as part of the research project *The politics of publishing: researching encounters between artists’ books and intersectional feminist tools* which addresses artists’ books and the politics of publishing, creating forms to uncover forgotten histories in this field, through a critical design approach which includes feminist tools.
 
-Visual: parenthesis font project in collaboration with Lara Dautun
+Visual: parenthesis font project in collaboration with Lara Dautun.

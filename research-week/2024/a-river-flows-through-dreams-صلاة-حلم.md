@@ -16,4 +16,4 @@ Merging dream and imaginary with prayers I learned for fear soothing on طاسة
 
 This particular water vessel is the centerpiece in a cultural practice of grief, sickness and terror soothing traditions practiced in the Levant, Egypt and South Asia. My research asks how to remember طاسة الرعبة, the fear soothing bowl? How can generational practices of personal and communal protection and care be remembered and practiced in conditions of state violence, climate crisis and displacement? 
 
-A River Flows Through Dreams صلاة حلم explores the interconnected impacts of displacement and finds steadfastness in acts of ritual, transmission and preservation, reflecting on relationships to water, dispossession, and enduring beliefs.
+*A River Flows Through Dreams صلاة حلم* explores the interconnected impacts of displacement and finds steadfastness in acts of ritual, transmission and preservation, reflecting on relationships to water, dispossession, and enduring beliefs.
