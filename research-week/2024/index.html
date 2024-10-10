@@ -10,7 +10,6 @@ layout: base.liquid
   </div>
 </div>
 
-{% assign events_2024 = collections.events_2024 %}
 {% assign exhibitions_2024 = collections.exhibition_2024 %}
 
 <!-- Display Exhibitions -->
@@ -32,37 +31,76 @@ layout: base.liquid
   </div>
 {% endif %}
 
-<h2 class="big-title">Events 24.10 & 26.10.2024 SHOWROOM</h2>
+{% assign events_2024 = collections.events_2024 %}
+
+<h2 class="big-title">Events 2024</h2>
+
+<!-- Display the events -->
 <div class="events-grid">
   {% if events_2024 and events_2024.size > 0 %}
+    
     <!-- Sort events by date -->
     {% assign sorted_events_by_date = events_2024 | sort: 'data.date' %}
 
+    <!-- Initialize variables -->
+    {% assign current_date = "" %}
+    {% assign events_for_day = "" | split: "" %}  <!-- Create an empty array -->
+
+    <!-- Loop through sorted events -->
     {% for event in sorted_events_by_date %}
-      <a href="/research-week/2024/{{ event.fileSlug }}" class="event">
-        {% if event.data.main_image %}
-          <div class="event-image"><img src="{{ event.data.main_image }}" alt="{{ event.data.title }}"></div>
+      {% assign formatted_date = event.data.date | date: "%Y-%m-%d" %}
+      {% if formatted_date != current_date %}        
+        {% if events_for_day != "" %}
+          {% assign sorted_by_time = events_for_day | sort: 'data.time' %}
+          {% for event_time in sorted_by_time %}
+            <a href="/research-week/2024/{{ event_time.fileSlug }}" class="event">
+              {% if event_time.data.main_image %}
+                <div class="event-image"><img src="{{ event_time.data.main_image }}" alt="{{ event_time.data.title }}"></div>
+              {% endif %}
+              <h3>{{ event_time.data.title }}</h3>
+              <span class="event-type">{{ event_time.data.type }}</span> |
+              <span class="event-author">{{ event_time.data.author }}</span> |
+              <span class="event-date">
+                {{ current_date }}
+                {% if event_time.data.time %}
+                  | {{ event_time.data.time | split: ' - ' | first }} <!-- Extract the start time -->
+                {% endif %}
+              </span>
+            </a>
+          {% endfor %}
         {% endif %}
-        <h3>{{ event.data.title }}</h3>
-        <span class="event-type">{{ event.data.type }}</span> |
-        <span class="event-author">{{ event.data.author }}</span> |
-        <span class="event-date">
-          {% if event.data.date %}
-            {{ event.data.date | date: "%Y-%m-%d" }} <!-- Display the date in YYYY-MM-DD format -->
-          {% else %}
-            No Date Provided
-          {% endif %}
-          {% if event.data.time %}
-            | {{ event.data.time | split: ' - ' | first }} <!-- Extract and display the start time -->
-          {% endif %}
-        </span> 
-      </a>
+        
+        <!-- Reset variables for new date -->
+        {% assign current_date = formatted_date %}
+        {% assign events_for_day = "" | split: "" %}  <!-- Reset to a new empty array -->
+      {% endif %}
+      
+      <!-- Add current event to the list of events for this date -->
+      {% assign events_for_day = events_for_day | concat: event %}
     {% endfor %}
+    
+    <!-- Display the last batch of events (for the last date) -->
+    {% if events_for_day != "" %}
+      {% assign sorted_by_time = events_for_day | sort: 'data.time' %}
+      {% for event_time in sorted_by_time %}
+        <a href="/research-week/2024/{{ event_time.fileSlug }}" class="event">
+          {% if event_time.data.main_image %}
+            <div class="event-image"><img src="{{ event_time.data.main_image }}" alt="{{ event_time.data.title }}"></div>
+          {% endif %}
+          <h3>{{ event_time.data.title }}</h3>
+          <span class="event-type">{{ event_time.data.type }}</span> |
+          <span class="event-author">{{ event_time.data.author }}</span> |
+          <span class="event-date">
+            {{ current_date }}
+            {% if event_time.data.time %}
+              | {{ event_time.data.time | split: ' - ' | first }} <!-- Extract the start time -->
+            {% endif %}
+          </span>
+        </a>
+      {% endfor %}
+    {% endif %}
+    
   {% else %}
     <p>No events found for 2024.</p>
   {% endif %}
 </div>
-
-{% if exhibitions_2024.size == 0 and events_2024.size == 0 %}
-  <p>No events or exhibitions available.</p>
-{% endif %}
