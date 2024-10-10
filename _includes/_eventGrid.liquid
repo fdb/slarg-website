@@ -9,7 +9,7 @@
         <div class="event-details">
             <span class="event-type">{{ event.data.type }}</span> |
             <span class="event-author">{{ event.data.author}}</span> |
-            <span class="event-date">{{ event.data.time }}</span> |
+            <span class="event-date"> {{ event.data.date | formatDate }}{% if event.data.time %} | {{ event.data.time }}{% endif %}</span> |
             <span class="event-date">{{ event.data.location }}</span>
         </div>
     </div>

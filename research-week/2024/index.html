@@ -57,8 +57,9 @@ layout: base.liquid
             {% endif %} -->
           <span class="event-type">{{ event.data.type }}</span> |
           <span class="event-author">{{ event.data.author}}</span> |
-          <span class="event-date">{{ event.data.date }}</span> |
+          <span class="event-date">{{ event.data.date | formatDate }}</span> |
           <span class="event-date">{{ event.data.time }}</span>
+          <p>Raw Time: {{ event.data.time }}</p>
         </a>
         {% endfor %}
       
