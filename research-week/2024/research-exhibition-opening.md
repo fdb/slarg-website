@@ -9,7 +9,7 @@ author: SLARG
 main_image: https://ucarecdn.com/76843947-6e1b-46d9-a170-74193ad13700/
 images:
   - https://ucarecdn.com/fa2a8b33-cc74-49bc-9e13-c4c34901cde3/
-date: 2024-10-10
+date: ""
 time: 18:00 - 22:00
 location: Sint Lucas Antwerpen showroom
 ---
