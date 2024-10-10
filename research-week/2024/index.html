@@ -45,8 +45,16 @@ layout: base.liquid
             <h3>{{ event.data.title }}</h3>
           <span class="event-type">{{ event.data.type }}</span> |
           <span class="event-author">{{ event.data.author}}</span> |
-          <span class="event-date">{{ event.data.date | formatDate }}</span> |
-          <span class="event-date">{{ event.data.time }}</span>
+          <span class="event-date">
+            {% if event.data.date %}
+                {{ event.data.date | formatDate }}
+            {% else %}
+                No Date Provided
+            {% endif %}
+            {% if event.data.time %}
+                | {{ event.data.time }}
+            {% endif %}
+        </span>|
         </a>
         {% endfor %}
       
