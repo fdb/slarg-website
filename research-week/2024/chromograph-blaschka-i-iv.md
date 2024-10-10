@@ -12,7 +12,7 @@ images:
 date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---
-Bianca Baldi reenacts “The Parable of the Sunfish,” in which a student observes a sunfish until its decomposition. She spent a week in the “Ocean Invertebrates” department of the Natural History Museum in London, drawing the Blaschka glass models of cephalopods.
+Bianca Baldi reenacts Ezra Pound’s ‘The Parable of the Sunfish’ (1934) in which a student observes a sunfish until its decomposition. She spent a week in the “Ocean Invertebrates” department of the Natural History Museum in London, drawing the Blaschka glass models of cephalopods.
 
 Unlike other animals, preserving fish and sea invertebrates through taxidermy is challenging. Their pigmentation fades quickly, and gelatinous bodies like squid, octopus, or jellyfish can shrink. A solution to this issue was provided by the Blaschka’s who crafted intricate glass models of marine life. These models were designed to replicate the natural colours and textures, maintaining the essence of the creatures after death. When first exhibited in natural history museums, these models were often displayed alongside real specimens, serving as stand-in’s for the animals whose bodies could not endure decomposition.
 
