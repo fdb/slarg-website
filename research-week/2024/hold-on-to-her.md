@@ -10,7 +10,7 @@ main_image: https://ucarecdn.com/4b4d4816-c87a-474a-b254-70fb47c61fcc/
 images:
   - https://ucarecdn.com/ff44009e-15f4-4225-87ab-e3b6900e77cc/
 date: 2024-10-16
-time: 19:30
+time: 19:30 - 21:30
 location: Sint Lucas Antwerpen showroom
 ---
 hold on to her

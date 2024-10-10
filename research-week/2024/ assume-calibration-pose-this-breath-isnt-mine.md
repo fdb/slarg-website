@@ -11,7 +11,7 @@ images:
   - https://ucarecdn.com/46104337-313e-4e88-8ae4-56d2a783d3cc/
   - https://ucarecdn.com/d5d1489a-5810-49e3-8563-e7589014f848/
 date: 2024-10-24
-time: 20:00
+time: 21:00 - 22:00
 location: Sint Lucas Antwerpen showroom
 ---
 The piece features two beings whose movements and behavior are shaped by the technological devices they wear. The dancer's motion capture suit is equipped with sensors that transmit her movements to the oboist's hands. The oboist, in turn, receives these signals through a custom-designed hand prototype that vibrates, enabling her to musically respond to the dancer’s actions. This exchange of haptic feedback transforms how they relate to their bodies, allowing them to explore new ways of interacting with the technology around them.

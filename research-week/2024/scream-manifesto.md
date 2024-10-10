@@ -10,7 +10,7 @@ main_image: https://ucarecdn.com/f8605076-a251-4c87-9d29-129ac24ad464/
 images:
   - https://ucarecdn.com/c29ee746-afbf-45fe-94ce-25a11e42ae8b/
 date: 2024-10-25
-time: 19:30
+time: 19:30 - 21:00
 location: Sint Lucas Antwerpen showroom
 ---
 Scream Manifesto is a sonic statement against war and destruction, against killing human and non-human beings.
