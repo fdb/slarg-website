@@ -3,7 +3,7 @@ layout: event.liquid
 tags: event
 year: 2024
 section_website_2024: exhibition
-title: Watermelon flag
+title: Disarming Design from Palestine
 type: Alternative flag for Palestine
 author: Annelys de Vet
 main_image: https://ucarecdn.com/423890f8-0b6d-4d65-8835-95b3ab2e9d08/
