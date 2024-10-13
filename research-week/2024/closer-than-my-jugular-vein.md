@@ -14,7 +14,7 @@ images:
   - https://ucarecdn.com/67723bc2-8e9c-43ef-a3ec-bf2a820c1702/
   - https://ucarecdn.com/2b6d7b87-a899-4153-9a31-54444ed2917c/
   - https://ucarecdn.com/f0823065-e2f2-4376-8eb7-c882a1bc41ca/
-date: ""
+date: 1904-10-24
 location: Sint Lucas Antwerpen showroom
 ---
 In the project *Closer than your jugular vein* (Q 50:16) I traverse worldly, interworldly and otherworldly book qualities of the Qur’an. My artistic considerations unfold within a scribal practice. Arabic handwriting, lettering, and drawing become means of holding space connected to the divine. As the specific qualities of the Book transcend the idea of two covers and linearly fixed pages, I look at the possibilities of mobile pages, a play with different reading directions, folds, layers, cut-outs, and pop-up elements. 
