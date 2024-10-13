@@ -14,8 +14,11 @@ bio: >-
 
 
   Studying Modern Standard Arabic and volunteering as a language buddy for newcomers, led to a socio-political interest in our multilingual and multiscript world. How artists and designers critique, engage and propose a way of dealing with mono- and multilingual/multiscript realities is the focus of an elective course she teaches, and of a new Erasmus+ collaboration between Sint Lucas Antwerpen (KdG) and the American University in Cairo.
+
+
+  Ruth Razan is currently completing a one-year post-doctoral research project "Closer than your jugular vein" at Sint Lucas Antwerpen (KdG), which will lead to new initiatives where art and religion can meet.
 image_researcher:
-  - https://ucarecdn.com/491077d0-3f6e-49cf-802e-40811de53ec3/
+  - https://ucarecdn.com/35ec83ac-5f39-4eb6-be8a-5ed6a07cd490/
 email: ruth.loos@kdg.be
 researcher_flag: "false"
 staff_flag: "false"
