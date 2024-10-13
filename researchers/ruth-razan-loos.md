@@ -18,7 +18,7 @@ bio: >-
 
   Ruth Razan is currently completing a one-year post-doctoral research project "Closer than your jugular vein" at Sint Lucas Antwerpen (KdG), which will lead to new initiatives where art and religion can meet.
 image_researcher:
-  - https://ucarecdn.com/12ee3a68-0f52-4668-9ef5-9bf46e2046a7/
+  - https://ucarecdn.com/35ec83ac-5f39-4eb6-be8a-5ed6a07cd490/
 email: ruth.loos@kdg.be
 researcher_flag: "false"
 staff_flag: "false"
