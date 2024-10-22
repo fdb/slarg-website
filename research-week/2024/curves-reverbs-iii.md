@@ -15,6 +15,6 @@ location: Sint Lucas Antwerpen showroom
 ---
 This performance captures participants’ stress response using a wristband and reflects these measurements into sound and images relevant to my experience of exiled migration. The performance comprises three acts where participants become familiar with the operation of the device, are affected by the sound and images while affecting their operation through the wearable. The third act recenters participants to exit the performance atmosphere. Having gone through two iterations, the third one aims to recognize the intensity of the performance to put emphasis on the experience of entering and exiting the performative space. Curves & Reverbs aims to create a collective atmosphere where the intensity of migration and exile can be felt through technical mediation that makes the rhythms of the body audible and visible. It finds a sensibility in collective affectivity where technical apparatuses can afford a kind of transmission—or rather transduction—of affective intensities.
 
-\*The performance can accommodate maximum 24 participants, however, audiences are welcome in the performance space
+\*The performance can accommodate maximum 24 participants, however, audiences are welcome in the performance space.
 
 **Duration: 1h20**
