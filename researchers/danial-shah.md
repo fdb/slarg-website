@@ -10,10 +10,9 @@ bio: 'Danial Shah is a Pakistani documentary filmmaker and photographer. Danial
   DocNomads in Hungary, Belgium and Portugal. Danial is doing a PhD in the arts
   at Sint Lucas Antwerpen (KdG) / ARIA (University of Antwerp), entitled
   "Visions of becoming and belonging: an (autobiographical) exploration of photo
-  studios in Balochistan, Pakistan." He is editing his first feature film,
-  "Functioning Photographs," in Brussels, while also developing his second
-  feature, "20 Miles Apart," through a collaborative production spanning
-  Pakistan, Belgium, Netherlands, and Hungary.'
+  studios in Balochistan, Pakistan." His first feature film Make it Look Real is
+  set to premiere at International Documentary Film Festival Amsterdam (IDFA) in
+  November 2024.'
 image_researcher:
   - https://ucarecdn.com/c0ef8db3-6b7e-4391-9b1b-a690a3203362/
 email: shah.danial@kdg.be
