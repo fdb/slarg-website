@@ -22,21 +22,17 @@ bio: >-
   Portrait of Pierre-Antoine: William Thompson
 image_researcher:
   - https://ucarecdn.com/d7b49386-648c-48b4-ae9d-bc0912c583f4/
-email: tom.viaene@kdg.be
+email: "pierreantoine.vettorello@kdg.be "
 researcher_flag: "false"
 staff_flag: "false"
 available_for_supervision: "false"
 status_of_research: ongoing
 social_links: |-
-  Contact: pierreantoine.vettorello@kdg.be 
-
-  www.pierreantoinev.com 
+  [Website ](www.pierreantoinev.com)
 
   [Linkedin](linkedin.com/in/pierre-antoine-vettorello-6b415726)  
 
+  [Crafting futures](https://www.craftingfutures.be/en/)
 
-
-  Crafting futures: https://www.craftingfutures.be/en/ 
-
-  The Yarn : https://theyarn.cargo.site
+  [The Yarn ](https://theyarn.cargo.site)
 ---
