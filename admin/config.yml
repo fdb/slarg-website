@@ -1,7 +1,6 @@
 backend:
   name: git-gateway
-  branch: slarg-imane-test
-  local_backend: true
+  branch: main
 
 media_library:
   name: uploadcare
