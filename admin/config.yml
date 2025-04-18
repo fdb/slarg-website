@@ -1,7 +1,6 @@
 backend:
   name: git-gateway
   branch: main
-
 media_library:
   name: uploadcare
   config:
@@ -161,13 +160,50 @@ collections:
           label_singular: 'image',
           media_library: { config: { multiple: true } }
         }
-      - { label: 'Email', name: 'email', widget: 'string', hint: 'email' }
-      - { label: 'researcher_flag', name: 'researcher_flag', widget: 'boolean', default: 'false' , hint: 'tick this box if you are a researcher'}
-      - { label: 'Staff_flag', name: 'staff_flag', widget: 'boolean', default: 'false', hint: 'check this box if you are a staff member'}
-      - { lablel: 'Available_for_supervision', name: 'available_for_supervision', widget: 'boolean', default: 'false', hint: 'tick this box if you are a post doc available for supervision'}
+      - {label: 'Email', name: 'email', widget: 'string', hint: 'email' }
+      - {label: 'researcher_flag', name: 'researcher_flag', widget: 'boolean', default: 'false' , hint: 'tick this box if you are a researcher'}
+      - {label: 'Staff_flag', name: 'staff_flag', widget: 'boolean', default: 'false', hint: 'check this box if you are a staff member'}
+      - {lablel: 'Available_for_supervision', name: 'available_for_supervision', widget: 'boolean', default: 'false', hint: 'tick this box if you are a post doc available for supervision'}
       - {label: 'Status_of_research', name: 'status_of_research', widget: 'select', options: ['ongoing', 'finished']}
       - {label: 'Social_links', name: 'social_links', widget: 'markdown', default: 'false', hint: 'add a link to external websites or social profiles' }
       # TODO: add a widget for a list of tags eventually
+  - name: people
+    label: 'People'
+    folder: 'people'
+    slug: '{{person_name}}'
+    preview_path: '/people/{{slug}}'
+    create: true
+    delete: true
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'people.liquid' }
+      - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'people' }
+      - { label: 'Person_name',
+          name: 'person_name',
+          widget: 'string',
+          hint: 'Will be displayed large and in bold. Keep it short for layout purposes.'
+        }
+      - { label: 'Bio', name: 'bio', widget: 'markdown', hint: ' short bio ' }
+      - {
+          label: 'Image Person',
+          name: 'image_person',
+          widget: 'image',
+          label_singular: 'image',
+          media_library: { config: { multiple: true } }
+        }
+      - { label: 'Email', name: 'email', widget: 'string', hint: 'email' }
+      - { label: 'supervisor_flag', name: 'supervisor_flag', widget: 'boolean', default: 'false' , hint: 'tick this box if you are a supervisor'}
+      - { label: 'Staff_flag', name: 'staff_flag', widget: 'boolean', default: 'false', hint: 'check this box if you are a staff member'}
+      - { label: 'Available_for_supervision', name: 'available_for_supervision', widget: 'boolean', default: 'false', hint: 'tick this box if you are a post doc available for supervision'}
+      - {label: 'Status_of_research', name: 'status_of_research', widget: 'select', options: ['ongoing', 'finished']}
+      # - {label: 'Social_links', name: 'social_links', widget: 'markdown', default: 'false', hint: 'add a link to external websites or social profiles' }
+      - {label: "Social Links", name: "social_links", widget: "list", allow_add: true, hint: "Add links to external websites or social profiles.", 
+          fields:
+          [
+            {label: "Name", name: "name", widget: "string", hint: "e.g., Twitter, Website" },
+            {label: "URL", name: "url", widget: "string", hint: "e.g., https://twitter.com/example"},
+          ]
+      }
+
   - name: homepage
     label: "Homepage"
     delete: false
@@ -177,6 +213,23 @@ collections:
       - label: "Homepage"
         name: "homepage"
         file: "index.html"  
+        fields:
+          - { label: "content", name: "content", widget: "list", 
+              fields: 
+                [
+                  {label: "section title", name: "section_title", widget: "string"}, 
+                  {label: "section Description", name: "description", widget: "text"}
+                ] 
+          }
+  - name: accessibility
+    label: "Accessibility"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - label: "Accessibility"
+        name: "accessibility"
+        file: "access.html"  
         fields:
           - { label: "Title", name: "title", widget: "string" }
           # - { label: "Content", name: "body", widget: "markdown" }

@@ -1,0 +1,15 @@
+---
+layout: page.liquid
+---
+
+<h2 class="big-title">Supervisors</h2>
+<div class="researcher-grid">
+	{% for supervisor in collections.supervisor %}
+	<a class="researcher" href="{{ supervisor.url }}">
+		<img src="{{supervisor.data.image_supervisor}}/-/preview/600x600/" alt="headshot of {{supervisor.data.supervisor_name}}" />
+		<h3>{{ supervisor.data.supervisor_name }}</h3>
+	</a>
+
+	{% endfor %}
+
+</div>
