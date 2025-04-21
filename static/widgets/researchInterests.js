@@ -13,7 +13,7 @@ const ResearchInterestsControl = createClass({
 		}
 
 		try {
-			const response = await fetch('/admin/data/global-tags.json');
+			const response = await fetch(`/admin/data/global-tags.json?_=${Date.now()}`);
 			if (!response.ok) {
 				throw new Error('Failed to fetch tags');
 			}
@@ -155,6 +155,18 @@ const ResearchInterestsControl = createClass({
 });
 
 // Register the widget
-if (typeof window !== 'undefined' && window.CMS) {
-	window.CMS.registerWidget('researchInterests', ResearchInterestsControl);
-}
+(function () {
+	if (typeof window !== 'undefined') {
+		// Wait for CMS to be ready
+		if (window.CMS) {
+			window.CMS.registerWidget('researchInterests', ResearchInterestsControl);
+		} else {
+			// If CMS isn't loaded yet, wait for it
+			window.addEventListener('load', function () {
+				if (window.CMS) {
+					window.CMS.registerWidget('researchInterests', ResearchInterestsControl);
+				}
+			});
+		}
+	}
+})();

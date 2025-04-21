@@ -7,6 +7,7 @@
 		<title>SLARG Admin</title>
 		<link rel="stylesheet" href="/static/css/research-interests.css" />
 		<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/netlify-cms@2.10.192/dist/netlify-cms.css" /> -->
+		<link href="/admin/config.yml" type="text/yaml" rel="cms-config-url" />
 		<style>
 			/* Fix for CSS compatibility issues */
 			input::-ms-input-placeholder {
@@ -24,21 +25,55 @@
 			input[type='range']::-moz-range-thumb {
 				background: #666;
 			}
+
+			/* Styles for the collect tags button */
+			.collect-tags-button {
+				position: fixed;
+				bottom: 20px;
+				right: 20px;
+				padding: 10px 20px;
+				background-color: #313d3e;
+				color: white;
+				border: none;
+				border-radius: 4px;
+				cursor: pointer;
+				z-index: 1000;
+			}
+			.collect-tags-button:hover {
+				background-color: #455a64;
+			}
 		</style>
 	</head>
 	<body>
-		<script src="https://cdn.jsdelivr.net/npm/netlify-cms@2.10.192/dist/netlify-cms.js"></script>
+		<button id="update-interests" style="display: none">Update Available Interests</button>
+		<script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
 		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 		<script>
-			// Error handling for CMS loading
-			window.addEventListener('error', function (e) {
-				if (e.target.src && e.target.src.includes('netlify-cms')) {
-					console.error('Error loading Netlify CMS:', e);
-				}
-			});
+			// Handle loading errors
+			window.onerror = function (msg, url, lineNo, columnNo, error) {
+				console.error(
+					'Error: ' + msg + '\nURL: ' + url + '\nLine: ' + lineNo + '\nColumn: ' + columnNo + '\nError object: ' + JSON.stringify(error)
+				);
+				return false;
+			};
 
 			// Initialize CMS
 			CMS.init();
+
+			// Function to collect all tags
+			async function collectAllTags() {
+				try {
+					const response = await fetch('/admin/data/global-tags.json');
+					const data = await response.json();
+					return data.research_interests || [];
+				} catch (error) {
+					console.error('Error fetching tags:', error);
+					return [];
+				}
+			}
+
+			// Register the custom widget after CMS initialization
+			CMS.registerWidget('researchInterests', window.ResearchInterestsControl);
 
 			// Load our widget after CMS is ready
 			window.addEventListener('load', function () {

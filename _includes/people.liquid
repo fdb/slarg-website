@@ -1,27 +1,39 @@
 ---
 layout: base
 ---
-    <h2 class="big-title">{{ supervisor_name }}</h2>
-    <div class="supervisor-page">
-        <div class="supervisor-image">
-            <img src="{{ image_supervisor }}-/scale_crop/600x600/smart/" width="" height="" alt="{{ name }}">
+<link rel="stylesheet" href="/static/css/people.css">
+
+<div class="person-container">
+    <div class="person-header">
+        <div class="person-image">
+            {% if headshot %}
+                <img src="{{ headshot }}-/scale_crop/800x1000/smart/" alt="{{ page.data.person_name }}" width="800" height="1000">
+            {% else %}
+                <div class="placeholder-image"></div>
+            {% endif %}
         </div>
-        <div class="supervisor-text">
-            <p>
-            {{ bio }}
-            </p>
-            <p>Contact:<br>
-            {{ email }}
-            </p>
-            <p>
-            Links<br>
-            {% for link in social_links %}
-                <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.name }}</a>
-            {% endfor %}
-            </p>
-            
-            <div class="research-interests">
-                {% include tag-widget.liquid %}
-            </div>
+        <div class="person-info">
+            <h1 class="person-name">{{ person_name }}</h1>
+            {% if role %}
+                <p class="person-role">{{ role | join: ", " }}</p>
+            {% endif %}
+            {% if research_interests %}
+                <div class="person-interests">
+                    {% for interest in research_interests %}
+                        <span class="interest-tag">{{ interest }}</span>
+                    {% endfor %}
+                </div>
+            {% endif %}
         </div>
     </div>
+
+    <div class="person-bio">
+        {{ content }}
+    </div>
+
+    <div class="person-projects">
+        projects can come here and other related things
+    </div>
+
+
+</div> 

@@ -1,0 +1,160 @@
+---
+layout: base
+---
+<link rel="stylesheet" href="/static/css/people.css">
+
+<div class="people-container">
+  <h1 class="page-title">People</h1>
+
+  <div class="people-grid">
+    {% for person in collections.people %}
+      <a href="{{ person.url }}" class="person-card">
+        <div class="person-image">
+          {% if person.data.headshot %}
+            <img
+              src="{{ person.data.headshot }}-/scale_crop/600x800/smart/"
+              alt="{{ person.data.person_name }}"
+              width="600"
+              height="800">
+          {% else %}
+            <div class="placeholder-image"></div>
+          {% endif %}
+        </div>
+        <div class="person-overlay">
+          <h2 class="person-name">{{ person.data.person_name }}</h2>
+          {% if person.data.role %}
+            <p class="person-role">{{ person.data.role | join: ", " }}</p>
+          {% endif %}
+          {% if person.data.research_interests %}
+            <div class="person-interests">
+              {% for interest in person.data.research_interests limit: 3 %}
+                <span class="interest-tag">{{ interest }}</span>
+              {% endfor %}
+              {% if person.data.research_interests.size > 3 %}
+                <span class="more-interests">+{{ person.data.research_interests.size | minus: 3 }}</span>
+              {% endif %}
+            </div>
+          {% endif %}
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</div>
+
+<style > 
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+.people-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.page-title {
+  font-size: 3.5rem;
+  margin-bottom: 3rem;
+  font-weight: 300;
+  color: var(--text-color);
+}
+
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.person-card {
+  position: relative;
+  aspect-ratio: 6 / 9;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  border: 3px solid black;
+  border-radius: 20px;
+}
+
+.person-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.person-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.placeholder-image {
+  width: 100%;
+  height: 100%;
+  background: var(--tag-bg);
+}
+
+.person-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 2rem;
+  background: var(--bg-color);
+}
+
+.person-name {
+  font-size: 1.5rem;
+  margin: 0;
+  font-weight: 400;
+  color: var(--text-color);
+}
+
+.person-role {
+  font-size: 1rem;
+  margin: 0.5rem 0 1rem;
+  color: var(--text-light);
+}
+
+.person-interests {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.interest-tag {
+  background: var(--tag-bg);
+  padding: 0.25rem 0.75rem;
+  border-radius: 2rem;
+  font-size: 0.8rem;
+  color: var(--text-color);
+}
+
+.more-interests {
+  font-size: 0.8rem;
+  color: var(--text-light);
+}
+
+@media(max-width: 768px) {
+  .people-container {
+    padding: 1rem;
+  }
+
+  .page-title {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .people-grid {
+    gap: 1rem;
+  }
+
+  .person-overlay {
+    padding: 1.5rem;
+  }
+}
+</style>

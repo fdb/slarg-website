@@ -1,5 +1,3 @@
-const fs = require('fs');
-const path = require('path');
 const yaml = require('js-yaml');
 
 exports.handler = async function (event, context) {
@@ -11,25 +9,49 @@ exports.handler = async function (event, context) {
 	}
 
 	try {
-		// Get all files in the people directory
-		const peopleDir = path.join(process.cwd(), 'people');
-		const files = fs.readdirSync(peopleDir);
+		// Get the client token from the request headers
+		const token = event.headers.authorization?.split(' ')[1];
+		if (!token) {
+			return {
+				statusCode: 401,
+				body: JSON.stringify({ error: 'Unauthorized - No token provided' })
+			};
+		}
 
-		// Collect all unique interests
+		// Initialize the Netlify client
+		const client = context.clientContext?.client;
+		const user = context.clientContext?.user;
+
+		if (!client || !user) {
+			return {
+				statusCode: 401,
+				body: JSON.stringify({ error: 'Unauthorized - Invalid client context' })
+			};
+		}
+
+		// Get the Git instance from Netlify
+		const { git } = context.clientContext;
+		if (!git) {
+			return {
+				statusCode: 500,
+				body: JSON.stringify({ error: 'Git Gateway not configured' })
+			};
+		}
+
+		// Collect all unique interests from markdown files
 		const allInterests = new Set();
 
-		// Read each person's file
-		files.forEach((file) => {
-			if (file.endsWith('.md')) {
-				const filePath = path.join(peopleDir, file);
-				const content = fs.readFileSync(filePath, 'utf8');
+		// Get all files in the people directory
+		const peopleFiles = await git.listFiles({ path: 'people' });
 
-				// Extract frontmatter
+		// Process each markdown file
+		for (const file of peopleFiles) {
+			if (file.path.endsWith('.md')) {
+				const content = await git.readFile(file.path);
 				const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
+
 				if (frontmatterMatch) {
 					const frontmatter = yaml.load(frontmatterMatch[1]);
-
-					// Add their research interests to the set
 					if (Array.isArray(frontmatter.research_interests)) {
 						frontmatter.research_interests.forEach((interest) => {
 							if (interest && interest.trim()) {
@@ -39,12 +61,11 @@ exports.handler = async function (event, context) {
 					}
 				}
 			}
-		});
+		}
 
 		// Read the current global-tags.json
-		const tagsPath = path.join(process.cwd(), 'admin', 'data', 'global-tags.json');
-		const currentContent = fs.readFileSync(tagsPath, 'utf8');
-		const currentTags = JSON.parse(currentContent);
+		const tagsContent = await git.readFile('admin/data/global-tags.json');
+		const currentTags = JSON.parse(tagsContent);
 
 		// Combine existing tags with collected ones and sort
 		const updatedTags = {
@@ -52,7 +73,11 @@ exports.handler = async function (event, context) {
 		};
 
 		// Write back to global-tags.json
-		fs.writeFileSync(tagsPath, JSON.stringify(updatedTags, null, 2));
+		await git.writeFile({
+			path: 'admin/data/global-tags.json',
+			content: JSON.stringify(updatedTags, null, 2),
+			message: 'Update research interests from all profiles'
+		});
 
 		return {
 			statusCode: 200,

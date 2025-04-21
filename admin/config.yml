@@ -233,65 +233,37 @@ collections:
     preview_path: '/people/{{slug}}'
     create: true
     delete: true
+    filter: { field: 'layout', value: 'people.liquid' }
+    identifier_field: 'person_name'
+    sortable_fields: ['person_name', 'role']
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'people.liquid' }
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'people' }
       - {
-          label: 'Person_name',
+          label: 'Person Name',
           name: 'person_name',
           widget: 'string',
           hint: 'Will be displayed large and in bold. Keep it short for layout purposes.'
         }
-      - { label: 'Bio', name: 'bio', widget: 'markdown', hint: ' short bio ' }
-      - { label: 'Headshot', name: 'headshot', widget: 'image', label_singular: 'image', media_library: { config: { multiple: false } } }
+      - { label: 'Bio', name: 'bio', widget: 'markdown', hint: 'Short bio' }
+      - { label: 'Headshot', name: 'headshot', widget: 'image', media_library: { config: { multiple: false } } }
       - {
           label: 'Role',
           name: 'role',
           widget: 'select',
           multiple: true,
-          options: ['Researcher', 'PHD', 'Supervisor', 'Staff'],
+          options: ['Researcher', 'Staff', 'PhD Student', 'Post-Doc'],
           default: ['Researcher']
         }
-      - { label: 'Email', name: 'email', widget: 'string', hint: 'email' }
+      - { label: 'Email', name: 'email', widget: 'string', required: false }
+      - { label: 'Available for Supervision', name: 'available_for_supervision', widget: 'boolean', default: false, required: false }
       - {
-          label: 'Available_for_supervision',
-          name: 'available_for_supervision',
-          widget: 'boolean',
-          default: 'false',
-          hint: 'tick this box if you are a post doc available for supervision'
-        }
-      - { label: 'Status_of_research', name: 'status_of_research', widget: 'select', options: ['ongoing', 'finished'] }
-      - {
-          label: 'Social Links',
-          name: 'social_links',
-          widget: 'list',
-          allow_add: true,
-          hint: 'Add links to external websites or social profiles.',
-          fields:
-            [
-              { label: 'Name', name: 'name', widget: 'string', hint: 'e.g., Mastodon, Website' },
-              { label: 'URL', name: 'url', widget: 'string', hint: 'e.g., https://twitter.com/example' }
-            ]
-        }
-
-      - {
-          label: 'Projects',
-          name: 'projects',
-          widget: 'list',
-          allow_add: true,
-          hint: 'Add keywords that hint at your interests for research purposes',
-          fields:
-            [
-              { label: 'Name', name: 'name', widget: 'string', hint: 'name of project' },
-              { label: 'URL', name: 'url', widget: 'string', hint: ' ' },
-              {
-                label: 'Thumbnail_project',
-                name: 'thumbnail_project',
-                widget: 'image',
-                label_singular: 'image',
-                media_library: { config: { multiple: false } }
-              }
-            ]
+          label: 'Status of Research',
+          name: 'status_of_research',
+          widget: 'select',
+          options: ['ongoing', 'finished'],
+          default: 'ongoing',
+          required: false
         }
       - {
           label: 'Research Interests',
