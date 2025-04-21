@@ -26,9 +26,7 @@ status_of_research: finished
 social_links:
   - url: https://disarmingdesign.com/
     name: https://disarmingdesign.com/
-research_interests:
-  - name: "graphic design "
-    url: https://disarmingdesign.com/
+research_interests: []
 image_person: https://ucarecdn.com/9f8d4d5e-7f8e-4772-8a12-621edc4c9590/
 headshot: https://ucarecdn.com/c51c2673-f22e-4352-9bcc-45f7c62491f0/
 email: "annelys.devet@kdg.be "
