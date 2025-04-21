@@ -27,6 +27,7 @@ social_links:
   - url: https://disarmingdesign.com/
     name: https://disarmingdesign.com/
 research_interests:
+  - just wanna be
   - subjective mapping
   - this is something that ca
 image_person: https://ucarecdn.com/9f8d4d5e-7f8e-4772-8a12-621edc4c9590/
