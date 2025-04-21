@@ -1,7 +1,7 @@
 ---
-layout: researcher.liquid
-tags: researcher
-researcher_name: Sammy Baloji
+layout: people.liquid
+tags: people
+person_name: Sammy Baloji
 bio: >-
   Since 2005, Sammy Baloji has been exploring the memory and history of the
   Democratic Republic of Congo. His work is an ongoing research on the cultural,
@@ -19,12 +19,12 @@ bio: >-
 
 
   Credits image: Kevin Faingnaert
-image_researcher:
-  - https://ucarecdn.com/6b5b9fc5-4308-4bbf-8203-0a2c29c86a92/
-email: "sammy.baloji@kdg.be "
-researcher_flag: "false"
-staff_flag: "false"
-available_for_supervision: "false"
+headshot: 'https://ucarecdn.com/6b5b9fc5-4308-4bbf-8203-0a2c29c86a92/'
+role:
+  - Researcher
+email: 'sammy.baloji@kdg.be '
+available_for_supervision: false
 status_of_research: ongoing
-social_links: http://twentyninestudio.net/
+research_interests: []
 ---
+

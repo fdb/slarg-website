@@ -1,8 +1,9 @@
 ---
-layout: researcher.liquid
-tags: researcher
-researcher_name: Saskia Van der Gucht
-bio: Saskia Van der Gucht (she/her) is a visual artist, artistic researcher and
+layout: people.liquid
+tags: people
+person_name: Saskia Van der Gucht
+bio: >-
+  Saskia Van der Gucht (she/her) is a visual artist, artistic researcher and
   teacher based in Antwerp (BE). Her work deals with the complexities of
   emotional and economic value of housing and the feeling of home. More recently
   she is working on ecologies of extracted scarce materials such as sand.
@@ -11,12 +12,12 @@ bio: Saskia Van der Gucht (she/her) is a visual artist, artistic researcher and
   writing, photography and drawings. Saskia completed several one-year research
   projects at Sint Lucas Antwerpen (KdG) and graduated from its Advanced Master
   of Research in Arts and Design program (2023-2024).
-image_researcher:
-  - https://ucarecdn.com/504aa931-e873-4c87-9ecc-43554b7f0c6c/
+headshot: 'https://ucarecdn.com/504aa931-e873-4c87-9ecc-43554b7f0c6c/'
+role:
+  - Researcher
 email: saskia.vandergucht@kdg.be
-researcher_flag: "false"
-staff_flag: "false"
-available_for_supervision: "false"
+available_for_supervision: false
 status_of_research: finished
-social_links: https://www.adma.be/2023-2024/saskia_van_der_gucht
+research_interests: []
 ---
+
