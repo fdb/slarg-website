@@ -1,7 +1,24 @@
 ---
-layout: people.liquid
 tags: people
 person_name: Annelys de Vet
+role:
+  - Researcher
+  - Supervisor
+  - PHD
+available_for_supervision: "false"
+status_of_research: finished
+research_interests:
+  - blue
+  - gray
+  - hello
+  - heya
+  - just wanna be
+  - subjective mapping
+  - tree
+social_links:
+  - url: https://disarmingdesign.com/
+    name: https://disarmingdesign.com/
+layout: people.liquid
 bio: "Annelys de Vet is a designer, researcher, and educator with a practice in
   long-term, participative design projects engaged in social and political
   struggles. Annelys initiated the publishing initiative 'Subjective Editions,'
@@ -17,27 +34,11 @@ bio: "Annelys de Vet is a designer, researcher, and educator with a practice in
   Lucas Antwerpen (KdG) / ARIA (University of Antwerp), where she will defend
   her PhD dissertation \"Disarming Design, politics of Participatory Practices\"
   in November 2024. "
-role:
-  - Researcher
-  - Supervisor
-  - PHD
-available_for_supervision: "false"
-status_of_research: finished
-social_links:
-  - url: https://disarmingdesign.com/
-    name: https://disarmingdesign.com/
-research_interests:
-  - blue
-  - hello
-  - heya
-  - just wanna be
-  - subjective mapping
-  - tree
 image_person: https://ucarecdn.com/9f8d4d5e-7f8e-4772-8a12-621edc4c9590/
-headshot: https://ucarecdn.com/c51c2673-f22e-4352-9bcc-45f7c62491f0/
-email: "annelys.devet@kdg.be "
 projects:
   - url: https://slarg.be/research-week/2024/watermelon-flag/
     name: Watermelon flag
     thumbnail_project: https://ucarecdn.com/a187b72d-3f3e-4897-9104-8cc9c33258b6/
+headshot: https://ucarecdn.com/c51c2673-f22e-4352-9bcc-45f7c62491f0/
+email: "annelys.devet@kdg.be "
 ---
