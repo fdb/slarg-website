@@ -17,12 +17,6 @@ email: Bianca.baldi@kdg.be
 available_for_supervision: "false"
 status_of_research: ongoing
 research_interests:
-  - blue
-  - hello
-  - hey
-  - heya
   - illustration
-  - no button
-  - red
-  - yellow
+  - pero
 ---
