@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: main
+media_folder: static/img
 media_library:
   name: uploadcare
   config:
@@ -8,7 +9,14 @@ media_library:
 site_url: https://slarg.be
 display_url: https://slarg.be
 load_scripts:
-  - /admin/widgets/researchInterests.js
+  - /static/widgets/researchInterests.js
+widgets:
+  - name: researchInterests
+    label: Research Interests
+    widget: list
+    fields:
+      - { label: 'Interest', name: 'interest', widget: 'string' }
+    global_tags: true
 collections:
   - name: 'events'
     label: 'Events'
@@ -100,7 +108,14 @@ collections:
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'event' }
       - { label: 'Event Year', name: 'year', widget: 'hidden', default: 2024 }
       # - Here starts the visible fields in the CMS
-      - { label: 'Section website 2024', name: 'section_website_2024', widget: 'select', options: ['event', 'exhibition'], default: 'event', hint: 'Choose “event” if your contributon is not part of the permanent exhibition, but rather a performance/screening/event.'}
+      - {
+          label: 'Section website 2024',
+          name: 'section_website_2024',
+          widget: 'select',
+          options: ['event', 'exhibition'],
+          default: 'event',
+          hint: 'Choose "event" if your contributon is not part of the permanent exhibition, but rather a performance/screening/event.'
+        }
       - {
           label: 'Event Title',
           name: 'title',
@@ -108,8 +123,18 @@ collections:
           hint: 'Will be displayed large and in bold in the overview page. Keep it short for layout purposes. if your work does not have a titile, use your research title or you can describe what it is, ex. "video installation - untitled 2006" '
         }
       # - { label: 'Event Byline', name: 'byline', widget: 'string', hint: 'Will be displayed as a smaller subtitle.' }
-      - { label: 'Project or event type', name: 'type', widget: 'string', hint: 'We recommend to add what type of event it is (ex: performance, video installation, talk, movie screening…)' }
-      - { label: 'Researcher', name: 'author', widget: 'string', hint: 'Your name. If you want to add collaborators etc, you can use the body text.' }
+      - {
+          label: 'Project or event type',
+          name: 'type',
+          widget: 'string',
+          hint: 'We recommend to add what type of event it is (ex: performance, video installation, talk, movie screening…)'
+        }
+      - {
+          label: 'Researcher',
+          name: 'author',
+          widget: 'string',
+          hint: 'Your name. If you want to add collaborators etc, you can use the body text.'
+        }
       - {
           label: 'Main image',
           name: 'main_image',
@@ -117,14 +142,13 @@ collections:
           required: false,
           hint: 'Please use a square image; otherwise it will be cropped in the grid.'
         }
-      - { label: 'Body text', name: 'body', widget: 'markdown', hint: 'Describe your event/project exhibited. Add a registration link at the end if needed.' }
       - {
-          label: 'Images',
-          name: 'images',
-          widget: 'image',
-          label_singular: 'image', 
-          media_library: { config: { multiple: true } }
+          label: 'Body text',
+          name: 'body',
+          widget: 'markdown',
+          hint: 'Describe your event/project exhibited. Add a registration link at the end if needed.'
         }
+      - { label: 'Images', name: 'images', widget: 'image', label_singular: 'image', media_library: { config: { multiple: true } } }
       # These are fields that apply to your work if it is an event/performance
       - {
           label: 'Date',
@@ -138,10 +162,17 @@ collections:
           hint: 'Date of your event/performance'
         }
       - { label: 'Time', name: 'time', widget: 'string', required: false, hint: 'E.g. 10:00 - 12:00' }
-      - { label: 'Location', name: 'location', widget: 'select', options: ['Sint Lucas Antwerpen showroom', 'Chapel'], default: 'Sint Lucas Antwerpen showroom'}
+      - {
+          label: 'Location',
+          name: 'location',
+          widget: 'select',
+          options: ['Sint Lucas Antwerpen showroom', 'Chapel'],
+          default: 'Sint Lucas Antwerpen showroom'
+        }
   - name: 'researchers'
     label: 'Researchers'
     folder: 'researchers'
+    hide: true
     slug: '{{researcher_name}}'
     preview_path: '/researcher/{{slug}}'
     create: true
@@ -149,12 +180,20 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'researcher.liquid' }
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'researcher' }
-      - { label: 'Researcher_name',
+      - {
+          label: 'Researcher_name',
           name: 'researcher_name',
           widget: 'string',
           hint: 'Will be displayed large and in bold. Keep it short for layout purposes.'
         }
       - { label: 'Bio', name: 'bio', widget: 'markdown', hint: ' short bio of researcher' }
+      - {
+          label: 'Research Interests',
+          name: 'research_interests',
+          widget: 'researchInterests',
+          required: false,
+          hint: 'Select or add your research interests'
+        }
       - {
           label: 'Image Researcher',
           name: 'image_researcher',
@@ -162,12 +201,30 @@ collections:
           label_singular: 'image',
           media_library: { config: { multiple: true } }
         }
-      - {label: 'Email', name: 'email', widget: 'string', hint: 'email' }
-      - {label: 'researcher_flag', name: 'researcher_flag', widget: 'boolean', default: 'false' , hint: 'tick this box if you are a researcher'}
-      - {label: 'Staff_flag', name: 'staff_flag', widget: 'boolean', default: 'false', hint: 'check this box if you are a staff member'}
-      - {label: 'Available_for_supervision', name: 'available_for_supervision', widget: 'boolean', default: 'false', hint: 'tick this box if you are a post doc available for supervision'}
-      - {label: 'Status_of_research', name: 'status_of_research', widget: 'select', options: ['ongoing', 'finished']}
-      - {label: 'Social_links', name: 'social_links', widget: 'markdown', default: 'false', hint: 'add a link to external websites or social profiles' }
+      - { label: 'Email', name: 'email', widget: 'string', hint: 'email' }
+      - {
+          label: 'researcher_flag',
+          name: 'researcher_flag',
+          widget: 'boolean',
+          default: 'false',
+          hint: 'tick this box if you are a researcher'
+        }
+      - { label: 'Staff_flag', name: 'staff_flag', widget: 'boolean', default: 'false', hint: 'check this box if you are a staff member' }
+      - {
+          label: 'Available_for_supervision',
+          name: 'available_for_supervision',
+          widget: 'boolean',
+          default: 'false',
+          hint: 'tick this box if you are a post doc available for supervision'
+        }
+      - { label: 'Status_of_research', name: 'status_of_research', widget: 'select', options: ['ongoing', 'finished'] }
+      - {
+          label: 'Social_links',
+          name: 'social_links',
+          widget: 'markdown',
+          default: 'false',
+          hint: 'add a link to external websites or social profiles'
+        }
       # TODO: add a widget for a list of tags eventually
   - name: 'people'
     label: 'People'
@@ -179,90 +236,109 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'people.liquid' }
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'people' }
-      - { label: 'Person_name',
+      - {
+          label: 'Person_name',
           name: 'person_name',
           widget: 'string',
           hint: 'Will be displayed large and in bold. Keep it short for layout purposes.'
         }
       - { label: 'Bio', name: 'bio', widget: 'markdown', hint: ' short bio ' }
+      - { label: 'Headshot', name: 'headshot', widget: 'image', label_singular: 'image', media_library: { config: { multiple: false } } }
       - {
-          label: 'Headshot',
-          name: 'headshot',
-          widget: 'image',
-          label_singular: 'image',
-          media_library: { config: { multiple: false } }
+          label: 'Role',
+          name: 'role',
+          widget: 'select',
+          multiple: true,
+          options: ['Researcher', 'PHD', 'Supervisor', 'Staff'],
+          default: ['Researcher']
         }
-      - {label: "Role", name: "role", widget: "select", multiple: true, options: ["Researcher", "PHD", "Supervisor", "Staff"], default: ["Researcher"] }
       - { label: 'Email', name: 'email', widget: 'string', hint: 'email' }
-      - { label: 'Available_for_supervision', name: 'available_for_supervision', widget: 'boolean', default: 'false', hint: 'tick this box if you are a post doc available for supervision'}
-      - {label: 'Status_of_research', name: 'status_of_research', widget: 'select', options: ['ongoing', 'finished']}
-      - {label: "Social Links", name: "social_links", widget: "list", allow_add: true, hint: "Add links to external websites or social profiles.", 
+      - {
+          label: 'Available_for_supervision',
+          name: 'available_for_supervision',
+          widget: 'boolean',
+          default: 'false',
+          hint: 'tick this box if you are a post doc available for supervision'
+        }
+      - { label: 'Status_of_research', name: 'status_of_research', widget: 'select', options: ['ongoing', 'finished'] }
+      - {
+          label: 'Social Links',
+          name: 'social_links',
+          widget: 'list',
+          allow_add: true,
+          hint: 'Add links to external websites or social profiles.',
           fields:
-          [
-            {label: "Name", name: "name", widget: "string", hint: "e.g., Mastodon, Website" },
-            {label: "URL", name: "url", widget: "string", hint: "e.g., https://twitter.com/example"},
-          ]
-      }
+            [
+              { label: 'Name', name: 'name', widget: 'string', hint: 'e.g., Mastodon, Website' },
+              { label: 'URL', name: 'url', widget: 'string', hint: 'e.g., https://twitter.com/example' }
+            ]
+        }
 
-      - { label: 'Projects', name: "projects", widget: "list", allow_add: true, hint: "Add keywords that hint at your interests for research purposes", 
+      - {
+          label: 'Projects',
+          name: 'projects',
+          widget: 'list',
+          allow_add: true,
+          hint: 'Add keywords that hint at your interests for research purposes',
           fields:
-          [
-            {label: "Name", name: "name", widget: "string", hint: "name of project" },
-            {label: "URL", name: "url", widget: "string", hint: " "},
-            {label: 'Thumbnail_project', name: 'thumbnail_project', widget: 'image',label_singular: 'image', media_library: { config: { multiple: false } }}
-
-          ]
-      }
-      # - { label: 'Research_interests', name: "research_interests", widget: 'list', allow_add: true, 
-      #     default:
-      #      [] ,
-      #     hint: "Add interests like tags (e.g., 'food', 'sci-fi', 'graphic design')", 
-      # }
-      - { label: "Research Interests", name: "research_interests", widget: "researchInterests" }
+            [
+              { label: 'Name', name: 'name', widget: 'string', hint: 'name of project' },
+              { label: 'URL', name: 'url', widget: 'string', hint: ' ' },
+              {
+                label: 'Thumbnail_project',
+                name: 'thumbnail_project',
+                widget: 'image',
+                label_singular: 'image',
+                media_library: { config: { multiple: false } }
+              }
+            ]
+        }
+      - {
+          label: 'Research Interests',
+          name: 'research_interests',
+          widget: 'researchInterests',
+          required: false,
+          hint: 'Select or add your research interests'
+        }
   - name: 'homepage'
-    label: "Homepage"
+    label: 'Homepage'
     delete: false
     editor:
       preview: false
     files:
-      - label: "Homepage"
-        name: "homepage"
-        file: "index.html"  
+      - label: 'Homepage'
+        name: 'homepage'
+        file: 'index.html'
         fields:
-          - { label: "content", name: "content", widget: "list", 
-              fields: 
+          - {
+              label: 'content',
+              name: 'content',
+              widget: 'list',
+              fields:
                 [
-                  {label: "section title", name: "section_title", widget: "string"}, 
-                  {label: "section Description", name: "description", widget: "text"}
-                ] 
-          }
+                  { label: 'section title', name: 'section_title', widget: 'string' },
+                  { label: 'section Description', name: 'description', widget: 'text' }
+                ]
+            }
   - name: 'accessibility'
-    label: "Accessibility"
+    label: 'Accessibility'
     delete: false
     editor:
       preview: false
     files:
-      - label: "Accessibility"
-        name: "accessibility"
-        file: "access.html"  
+      - label: 'Accessibility'
+        name: 'accessibility'
+        file: 'access.html'
         fields:
-          - { label: "Title", name: "title", widget: "string" }
+          - { label: 'Title', name: 'title', widget: 'string' }
           # - { label: "Content", name: "body", widget: "markdown" }
-          - { label: "content", name: "content", widget: "list", 
-              fields: 
+          - {
+              label: 'content',
+              name: 'content',
+              widget: 'list',
+              fields:
                 [
-                  {label: "section title", name: "section_title", widget: "string"}, 
-                  {label: "section Description", name: "description", widget: "text"}
-                ] 
-          }
-  - name: global_data
-    label: Global Data
-    delete: false
-    editor: { preview: false }
-    files:
-      - file: "data/global-tags.json"
-        label: "Global Tags"
-        name: "global_tags"
-        fields:
-          - { label: "Research Interests", name: "research_interests", widget: "list" }
-
+                  { label: 'section title', name: 'section_title', widget: 'string' },
+                  { label: 'section Description', name: 'description', widget: 'text' }
+                ]
+            }

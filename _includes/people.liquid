@@ -19,5 +19,9 @@ layout: base
                 <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.name }}</a>
             {% endfor %}
             </p>
+            
+            <div class="research-interests">
+                {% include tag-widget.liquid %}
+            </div>
         </div>
     </div>

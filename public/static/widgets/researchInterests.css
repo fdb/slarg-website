@@ -1,0 +1,249 @@
+.research-interests-widget {
+	border: 2px solid rgb(223, 223, 227);
+	border-radius: 0px 5px 5px;
+	padding: 1rem;
+	padding: 20px;
+	background-color: #f5f5f5;
+	border-radius: 8px;
+}
+
+.widget-title {
+	font-size: 1.2em;
+	margin: 0 0 20px 0;
+	color: #333;
+}
+
+.section-label {
+	font-size: 0.9em;
+	color: #666;
+	margin-bottom: 10px;
+	font-weight: 500;
+}
+
+.all-interests-grid,
+.selected-interests-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+	gap: 10px;
+	margin-bottom: 20px;
+}
+
+.interest-item {
+	padding: 8px 12px;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	border-radius: 20px;
+	font-size: 0.9em;
+	color: #333;
+	cursor: pointer;
+	transition: all 0.2s ease;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.interest-item:hover {
+	background-color: #f0f0f0;
+	border-color: #ccc;
+}
+
+.interest-item.selected {
+	background-color: #e8f4ff;
+	border-color: #b3d7ff;
+	color: #0066cc;
+}
+
+.interest-item.selected:hover {
+	border: 1px solid #d9ecff;
+}
+
+/* .remove-btn {
+	background: none;
+	border: none;
+	color: black;
+	font-size: 1.2em;
+	cursor: pointer;
+	padding: 0 0 0 8px;
+	line-height: 1;
+} */
+
+/* .remove-btn:hover {
+	color: #666;
+} */
+
+.custom-interest-input {
+	width: 100%;
+	padding: 10px 15px;
+	border: 1px solid #ddd;
+	border-radius: 20px;
+	font-size: 0.9em;
+	outline: none;
+	transition: border-color 0.2s ease;
+}
+
+.custom-interest-input:focus {
+	border-color: #b3d7ff;
+	box-shadow: 0 0 0 2px rgba(0, 102, 204, 0.1);
+}
+
+.custom-interest-input::placeholder {
+	color: #999;
+}
+
+/* Preview mode styles */
+.research-interests-widget.preview-mode .interest-item {
+	cursor: default;
+}
+
+.research-interests-widget.preview-mode .interest-item:hover {
+	background-color: #e8f4ff;
+	border-color: #b3d7ff;
+}
+
+.your-interests-section {
+	margin: 20px 0;
+}
+
+.your-interests-grid {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px;
+	margin-top: 10px;
+}
+
+.input-group {
+	margin-top: 20px;
+}
+
+.interest-input {
+	padding: 8px 12px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	font-size: 14px;
+	width: 200px;
+	margin-right: 8px;
+}
+
+.interest-item {
+	display: inline-flex;
+	align-items: center;
+	padding: 6px 12px;
+	background-color: #f5f5f5;
+	border: 1px solid #e0e0e0;
+	border-radius: 20px;
+	font-size: 14px;
+	cursor: pointer;
+	transition: all 0.2s ease;
+}
+
+.interest-item:hover {
+	background-color: #e8e8e8;
+}
+
+.interest-item.selected {
+	background-color: #4caf50;
+	color: white;
+	border-color: #4caf50;
+}
+
+.interest-item.custom {
+	background-color: #2196f3;
+	color: white;
+	border-color: #2196f3;
+}
+
+.remove-button {
+	margin-left: 6px;
+	color: inherit;
+	border: none;
+	background: none;
+	padding: 0 4px;
+	cursor: pointer;
+	font-size: 16px;
+	line-height: 1;
+}
+
+.add-button {
+	padding: 8px 16px;
+	background-color: #2196f3;
+	color: white;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	font-size: 14px;
+	transition: background-color 0.2s ease;
+}
+
+.add-button:hover {
+	background-color: #1976d2;
+}
+
+.selected-tags-container {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px;
+	margin-bottom: 8px;
+}
+
+.tag-input {
+	width: 100%;
+	padding: 8px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	margin-bottom: 8px;
+}
+
+.available-tags {
+	margin-top: 16px;
+}
+
+.tags-list {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px;
+}
+
+.tag {
+	display: inline-flex;
+	align-items: center;
+	padding: 4px 8px;
+	border-radius: 4px;
+	font-size: 14px;
+	margin: 0;
+	cursor: pointer;
+	transition: all 0.2s ease;
+}
+
+.selected-tag {
+	background-color: #4caf50;
+	color: white;
+	border: 1px solid #4caf50;
+}
+
+.custom-tag {
+	background-color: #2196f3;
+	color: white;
+	border: 1px solid #2196f3;
+}
+
+.available-tag {
+	background-color: #f5f5f5;
+	color: #666;
+	border: 1px solid #ddd;
+}
+
+.available-tag:hover {
+	background-color: #e0e0e0;
+}
+
+.pool-container {
+	border: 1px solid #ddd;
+	padding: 8px;
+	border-radius: 4px;
+	background-color: #f9f9f9;
+}
+
+.no-tags {
+	color: #666;
+	font-style: italic;
+}

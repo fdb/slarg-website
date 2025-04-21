@@ -31,7 +31,6 @@ module.exports = function (eleventyConfig) {
 		const allEvents = collection
 			.getFilteredByTag('event')
 			.filter((event) => {
-				console.log(event.data.title, event.data.time ); // Check the format of the date here
 				const date = new Date(event.data.date);
 				return date.getFullYear() === 2023 && date.getDate() < 16;
 			});
