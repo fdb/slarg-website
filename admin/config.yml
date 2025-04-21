@@ -137,7 +137,7 @@ collections:
         }
       - { label: 'Time', name: 'time', widget: 'string', required: false, hint: 'E.g. 10:00 - 12:00' }
       - { label: 'Location', name: 'location', widget: 'select', options: ['Sint Lucas Antwerpen showroom', 'Chapel'], default: 'Sint Lucas Antwerpen showroom'}
-  - name: researchers
+  - name: 'researchers'
     label: 'Researchers'
     folder: 'researchers'
     slug: '{{researcher_name}}'
@@ -163,11 +163,11 @@ collections:
       - {label: 'Email', name: 'email', widget: 'string', hint: 'email' }
       - {label: 'researcher_flag', name: 'researcher_flag', widget: 'boolean', default: 'false' , hint: 'tick this box if you are a researcher'}
       - {label: 'Staff_flag', name: 'staff_flag', widget: 'boolean', default: 'false', hint: 'check this box if you are a staff member'}
-      - {lablel: 'Available_for_supervision', name: 'available_for_supervision', widget: 'boolean', default: 'false', hint: 'tick this box if you are a post doc available for supervision'}
+      - {label: 'Available_for_supervision', name: 'available_for_supervision', widget: 'boolean', default: 'false', hint: 'tick this box if you are a post doc available for supervision'}
       - {label: 'Status_of_research', name: 'status_of_research', widget: 'select', options: ['ongoing', 'finished']}
       - {label: 'Social_links', name: 'social_links', widget: 'markdown', default: 'false', hint: 'add a link to external websites or social profiles' }
       # TODO: add a widget for a list of tags eventually
-  - name: people
+  - name: 'people'
     label: 'People'
     folder: 'people'
     slug: '{{person_name}}'
@@ -184,27 +184,39 @@ collections:
         }
       - { label: 'Bio', name: 'bio', widget: 'markdown', hint: ' short bio ' }
       - {
-          label: 'Image Person',
-          name: 'image_person',
+          label: 'Headshot',
+          name: 'headshot',
           widget: 'image',
           label_singular: 'image',
-          media_library: { config: { multiple: true } }
+          media_library: { config: { multiple: false } }
         }
+      - {label: "Role", name: "role", widget: "select", multiple: true, options: ["Researcher", "PHD", "Supervisor", "Staff"], default: ["Researcher"] }
       - { label: 'Email', name: 'email', widget: 'string', hint: 'email' }
-      - { label: 'supervisor_flag', name: 'supervisor_flag', widget: 'boolean', default: 'false' , hint: 'tick this box if you are a supervisor'}
-      - { label: 'Staff_flag', name: 'staff_flag', widget: 'boolean', default: 'false', hint: 'check this box if you are a staff member'}
       - { label: 'Available_for_supervision', name: 'available_for_supervision', widget: 'boolean', default: 'false', hint: 'tick this box if you are a post doc available for supervision'}
       - {label: 'Status_of_research', name: 'status_of_research', widget: 'select', options: ['ongoing', 'finished']}
-      # - {label: 'Social_links', name: 'social_links', widget: 'markdown', default: 'false', hint: 'add a link to external websites or social profiles' }
       - {label: "Social Links", name: "social_links", widget: "list", allow_add: true, hint: "Add links to external websites or social profiles.", 
           fields:
           [
-            {label: "Name", name: "name", widget: "string", hint: "e.g., Twitter, Website" },
+            {label: "Name", name: "name", widget: "string", hint: "e.g., Mastodon, Website" },
             {label: "URL", name: "url", widget: "string", hint: "e.g., https://twitter.com/example"},
           ]
       }
 
-  - name: homepage
+      - { label: 'Projects', name: "projects", widget: "list", allow_add: true, hint: "Add keywords that hint at your interests for research purposes", 
+          fields:
+          [
+            {label: "Name", name: "name", widget: "string", hint: "name of project" },
+            {label: "URL", name: "url", widget: "string", hint: " "},
+            {label: 'Thumbnail_project', name: 'thumbnail_project', widget: 'image',label_singular: 'image', media_library: { config: { multiple: false } }}
+
+          ]
+      }
+      - { label: 'Research_interests', name: "research_interests", widget: 'list', allow_add: true, 
+          default:
+           [] ,
+          hint: "Add interests like tags (e.g., 'food', 'sci-fi', 'graphic design')", 
+      }
+  - name: 'homepage'
     label: "Homepage"
     delete: false
     editor:
@@ -221,7 +233,7 @@ collections:
                   {label: "section Description", name: "description", widget: "text"}
                 ] 
           }
-  - name: accessibility
+  - name: 'accessibility'
     label: "Accessibility"
     delete: false
     editor:
