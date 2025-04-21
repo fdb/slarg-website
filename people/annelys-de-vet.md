@@ -27,6 +27,7 @@ social_links:
   - url: https://disarmingdesign.com/
     name: https://disarmingdesign.com/
 research_interests:
+  - blue
   - hello
   - heya
   - just wanna be
