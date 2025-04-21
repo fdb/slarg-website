@@ -23,6 +23,7 @@ research_interests:
   - heya
   - illustration
   - no button
+  - pero
   - red
   - yellow
 ---
