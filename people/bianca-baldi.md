@@ -18,5 +18,5 @@ available_for_supervision: "false"
 status_of_research: ongoing
 research_interests:
   - illustration
-  - yoo
+  - no button
 ---
