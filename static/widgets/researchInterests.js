@@ -2,28 +2,26 @@ const ResearchInterestsControl = createClass({
 	getInitialState() {
 		return {
 			value: this.props.value || [],
-			currentTags: [],
+			availableTags: [],
 			isPreview: window.location.pathname.includes('/preview/')
 		};
 	},
 
 	async componentDidMount() {
 		if (this.state.isPreview) {
-			// In preview mode, just use the current value
 			return;
 		}
 
 		try {
 			const response = await fetch('/admin/data/global-tags.json');
 			if (!response.ok) {
-				console.error('Failed to fetch tags:', response.status, response.statusText);
 				throw new Error('Failed to fetch tags');
 			}
 			const data = await response.json();
-			this.setState({ currentTags: (data.research_interests || []).sort().filter(Boolean) });
+			this.setState({ availableTags: (data.research_interests || []).sort().filter(Boolean) });
 		} catch (error) {
 			console.error('Error loading tags:', error);
-			this.setState({ currentTags: [] });
+			this.setState({ availableTags: [] });
 		}
 	},
 
@@ -53,17 +51,28 @@ const ResearchInterestsControl = createClass({
 	addCustomInterest() {
 		const inputElement = document.querySelector('.custom-interest-input');
 		const newInterest = inputElement.value.trim();
+
 		// Limit interest length to 25 characters
 		if (newInterest.length > 25) {
 			alert('Interest text should be 25 characters or less');
 			return;
 		}
-		if (newInterest && !this.state.currentTags.includes(newInterest)) {
-			this.setState((prevState) => ({
-				currentTags: [...prevState.currentTags, newInterest].sort()
-			}));
-			inputElement.value = '';
-			console.info('Remember to add "' + newInterest + '" to admin/data/global-tags.json and run npm run build');
+
+		if (newInterest) {
+			// Add to the list of selected interests
+			const newValue = [...this.state.value, newInterest].sort();
+
+			// Update both the selected interests and available tags
+			this.setState(
+				(prevState) => ({
+					value: newValue,
+					availableTags: [...new Set([...prevState.availableTags, newInterest])].sort()
+				}),
+				() => {
+					this.props.onChange(newValue);
+					inputElement.value = '';
+				}
+			);
 		}
 	},
 
@@ -113,7 +122,7 @@ const ResearchInterestsControl = createClass({
 					h(
 						'div',
 						{ className: 'all-interests-grid' },
-						this.state.currentTags
+						this.state.availableTags
 							.filter((interest) => !this.state.value.includes(interest))
 							.map((interest) =>
 								h(

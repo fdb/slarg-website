@@ -1,12 +1,11 @@
-const fs = require('fs');
-const path = require('path');
+const fetch = require('node-fetch');
 const yaml = require('js-yaml');
 
 exports.handler = async function (event, context) {
 	if (event.httpMethod !== 'POST') {
 		return {
 			statusCode: 405,
-			body: 'Method Not Allowed'
+			body: JSON.stringify({ error: 'Method Not Allowed' })
 		};
 	}
 
@@ -28,37 +27,76 @@ exports.handler = async function (event, context) {
 			};
 		}
 
-		// Update global tags file
-		const tagsPath = path.join(process.cwd(), 'admin', 'data', 'global-tags.json');
-		const tagsData = JSON.parse(fs.readFileSync(tagsPath, 'utf8'));
-		const currentTags = new Set(tagsData.research_interests);
+		// Get the client token from the request context
+		const token = context.clientContext?.identity?.token;
 
-		// Add any new tags to the global list
-		interests.forEach((tag) => {
-			if (tag.trim() !== '' && !currentTags.has(tag)) {
-				tagsData.research_interests.push(tag);
-			}
-		});
-
-		// Write updated global tags
-		fs.writeFileSync(tagsPath, JSON.stringify(tagsData, null, 2));
-
-		const dir = path.join(process.cwd(), 'people');
-		const files = fs.readdirSync(dir);
-		const personFile = files.find((file) => file.endsWith('.md') && file.toLowerCase().includes(personId.toLowerCase()));
-
-		if (!personFile) {
+		if (!token) {
 			return {
-				statusCode: 404,
-				body: JSON.stringify({ error: 'Person not found' })
+				statusCode: 401,
+				body: JSON.stringify({ error: 'Unauthorized - No token provided' })
 			};
 		}
 
-		const filePath = path.join(dir, personFile);
-		const content = fs.readFileSync(filePath, 'utf8');
+		// First, get the current content of global-tags.json
+		const tagsResponse = await fetch(
+			`https://api.github.com/repos/${process.env.REPO_OWNER}/${process.env.REPO_NAME}/contents/admin/data/global-tags.json`,
+			{
+				headers: {
+					Authorization: `token ${token}`,
+					Accept: 'application/vnd.github.v3+json'
+				}
+			}
+		);
 
-		// Split the content into frontmatter and body
+		if (!tagsResponse.ok) {
+			throw new Error('Failed to fetch global tags');
+		}
+
+		const tagsData = await tagsResponse.json();
+		const currentTags = JSON.parse(Buffer.from(tagsData.content, 'base64').toString());
+		const currentTagsSet = new Set(currentTags.research_interests);
+
+		// Add new interests to global tags
+		interests.forEach((tag) => {
+			if (tag.trim() !== '' && !currentTagsSet.has(tag)) {
+				currentTags.research_interests.push(tag);
+			}
+		});
+
+		// Update global-tags.json
+		await fetch(`https://api.github.com/repos/${process.env.REPO_OWNER}/${process.env.REPO_NAME}/contents/admin/data/global-tags.json`, {
+			method: 'PUT',
+			headers: {
+				Authorization: `token ${token}`,
+				Accept: 'application/vnd.github.v3+json',
+				'Content-Type': 'application/json'
+			},
+			body: JSON.stringify({
+				message: 'Update research interests tags',
+				content: Buffer.from(JSON.stringify(currentTags, null, 2)).toString('base64'),
+				sha: tagsData.sha
+			})
+		});
+
+		// Now update the person's file
+		const personResponse = await fetch(
+			`https://api.github.com/repos/${process.env.REPO_OWNER}/${process.env.REPO_NAME}/contents/people/${personId}.md`,
+			{
+				headers: {
+					Authorization: `token ${token}`,
+					Accept: 'application/vnd.github.v3+json'
+				}
+			}
+		);
+
+		if (!personResponse.ok) {
+			throw new Error('Failed to fetch person file');
+		}
+
+		const personData = await personResponse.json();
+		const content = Buffer.from(personData.content, 'base64').toString();
 		const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
+
 		if (!frontmatterMatch) {
 			return {
 				statusCode: 400,
@@ -73,8 +111,20 @@ exports.handler = async function (event, context) {
 		const newFrontmatter = '---\n' + yaml.dump(frontmatter) + '---\n';
 		const newContent = content.replace(/^---\n[\s\S]*?\n---/, newFrontmatter);
 
-		// Write the updated content back to the file
-		fs.writeFileSync(filePath, newContent);
+		// Update the person's file
+		await fetch(`https://api.github.com/repos/${process.env.REPO_OWNER}/${process.env.REPO_NAME}/contents/people/${personId}.md`, {
+			method: 'PUT',
+			headers: {
+				Authorization: `token ${token}`,
+				Accept: 'application/vnd.github.v3+json',
+				'Content-Type': 'application/json'
+			},
+			body: JSON.stringify({
+				message: `Update research interests for ${personId}`,
+				content: Buffer.from(newContent).toString('base64'),
+				sha: personData.sha
+			})
+		});
 
 		return {
 			statusCode: 200,
