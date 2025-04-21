@@ -59,20 +59,12 @@ const ResearchInterestsControl = createClass({
 		}
 
 		if (newInterest) {
-			// Add to the list of selected interests
+			// Just add to selected interests
 			const newValue = [...this.state.value, newInterest].sort();
-
-			// Update both the selected interests and available tags
-			this.setState(
-				(prevState) => ({
-					value: newValue,
-					availableTags: [...new Set([...prevState.availableTags, newInterest])].sort()
-				}),
-				() => {
-					this.props.onChange(newValue);
-					inputElement.value = '';
-				}
-			);
+			this.setState({ value: newValue }, () => {
+				this.props.onChange(newValue);
+				inputElement.value = '';
+			});
 		}
 	},
 
