@@ -4,36 +4,51 @@ layout: base
 <link rel="stylesheet" href="/static/css/people.css">
 
 <div class="person-container">
-    <div class="person-header">
-        <div class="person-image">
-            {% if headshot %}
-                <img src="{{ headshot }}-/scale_crop/800x1000/smart/" alt="{{ page.data.person_name }}" width="800" height="1000">
-            {% else %}
-                <div class="placeholder-image"></div>
-            {% endif %}
+  <div class="person-header">
+    <div class="person-image">
+      {% if headshot %}
+        <img
+          src="{{ headshot }}-/scale_crop/800x1000/smart/"
+          alt="{{ page.data.person_name }}"
+          width="800"
+          height="1000">
+      {% else %}
+        <div class="placeholder-image"></div>
+      {% endif %}
+    </div>
+    <div class="person-info">
+      <h1 class="person-name">{{ person_name }}</h1>
+      {% if role %}
+        <p class="person-role">{{ role | join: ", " }}</p>
+      {% endif %}
+      {% if research_interests %}
+        <div class="person-interests">
+          {% for interest in research_interests %}
+            <span class="interest-tag">{{ interest }}</span>
+          {% endfor %}
         </div>
-        <div class="person-info">
-            <h1 class="person-name">{{ person_name }}</h1>
-            {% if role %}
-                <p class="person-role">{{ role | join: ", " }}</p>
-            {% endif %}
-            {% if research_interests %}
-                <div class="person-interests">
-                    {% for interest in research_interests %}
-                        <span class="interest-tag">{{ interest }}</span>
-                    {% endfor %}
-                </div>
-            {% endif %}
-        </div>
+      {% endif %}
     </div>
+  </div>
 
-    <div class="person-bio">
-        {{ content }}
-    </div>
+  <div class="person-bio">
+    {{ content }}
+  </div>
 
-    <div class="person-projects">
-        projects can come here and other related things
-    </div>
+  <div class="person-projects">
+    {% if projects %}
+      <h2>Projects</h2>
+      <ul>
+        {% for projectEntry in collections.projects %}
+          {% if projects contains projectEntry.data.title %}
+            <li>
+              <a href="{{ projectEntry.url }}">{{ projectEntry.data.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
 
 
-</div> 
+</div>

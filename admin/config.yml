@@ -272,6 +272,46 @@ collections:
           required: false,
           hint: 'Select or add your research interests'
         }
+      - {
+          label: 'Research Projects',
+          name: 'projects',
+          widget: 'relation',
+          collection: 'projects',
+          search_fields: ['title'],
+          value_field: 'title',
+          display_fields: ['title'],
+          multiple: true,
+          required: false
+        }
+
+  - name: 'projects'
+    label: 'Research Projects'
+    folder: 'projects'
+    slug: '{{title}}'
+    create: true
+    delete: true
+    preview_path: '/projects/{{slug}}'
+    identifier_field: 'title'
+    sortable_fields: ['title']
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'project.liquid' }
+      - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'project' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'text', required: false }
+      - { label: 'Image', name: 'image', widget: 'image', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Describe the project in detail' }
+      - {
+          label: 'People Involved',
+          name: 'people',
+          widget: 'relation',
+          collection: 'people',
+          search_fields: ['person_name'],
+          value_field: 'person_name',
+          display_fields: ['person_name'],
+          multiple: true,
+          required: false
+        }
+
   - name: 'homepage'
     label: 'Homepage'
     delete: false

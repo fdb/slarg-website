@@ -32,6 +32,10 @@ module.exports = function (eleventyConfig) {
 		return `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`;
 	});
 
+	eleventyConfig.addCollection('projects', function (collectionApi) {
+		return collectionApi.getFilteredByGlob('projects/*.md');
+	});
+
 	eleventyConfig.addCollection('pre_events_2023', function (collection) {
 		const allEvents = collection.getFilteredByTag('event').filter((event) => {
 			const date = new Date(event.data.date);

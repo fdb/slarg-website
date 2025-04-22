@@ -1,0 +1,19 @@
+---
+layout: base.liquid
+---
+
+<article class="project">
+  <h1>{{ title }}</h1>
+
+  {% if image %}
+    <img width="" height="" src="{{ image | url }}" alt="Image for {{ title }}" />
+  {% endif %}
+
+  {% if authors %}
+    <p><strong>By:</strong> {{ authors }}</p>
+  {% endif %}
+
+  <div class="content">
+    {{ content}}
+  </div>
+</article>
