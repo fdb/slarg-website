@@ -3,6 +3,9 @@ publish = "_site"
 command = "npm run build"
 functions = "netlify/functions"
 
+[functions]
+  directory = "netlify/functions"
+
 [[redirects]]
   from = "/"
   to = "/2022/"
