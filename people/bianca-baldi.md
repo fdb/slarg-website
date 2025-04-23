@@ -19,10 +19,10 @@ available_for_supervision: false
 status_of_research: ongoing
 research_interests:
   - blue
-  - hello
   - illustration
   - pero
   - violet
+  - welloooooo
 projects:
   - punctuationnnn
 ---
