@@ -19,6 +19,7 @@ research_interests:
   - canelle
   - graphic design
   - new entry
+  - we try
   - wellooo
 projects:
   - punctuationnnn
