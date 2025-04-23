@@ -15,6 +15,7 @@ research_interests:
   - canelle
   - graphic design
   - green
+  - green
   - new entry
   - we try
   - wellooo
