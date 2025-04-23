@@ -17,8 +17,12 @@ available_for_supervision: false
 status_of_research: ongoing
 research_interests:
   - canelle
+  - drawww
   - graphic design
+  - green
+  - green
   - new entry
+  - violet
   - we try
   - wellooo
 projects:
