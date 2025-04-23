@@ -25,6 +25,8 @@ research_interests:
   - violet
   - we try
   - wellooo
+  - yello
+  - yello
 projects:
   - punctuationnnn
 ---
