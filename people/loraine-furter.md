@@ -18,6 +18,7 @@ research_interests:
   - green
   - green
   - new entry
+  - violet
   - we try
   - wellooo
 projects:
