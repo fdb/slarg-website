@@ -13,9 +13,7 @@ available_for_supervision: false
 status_of_research: ongoing
 research_interests:
   - cats
-  - heya
-  - new entry
-  - violet
+  - graphic design
   - we try
 projects:
   - punctuationnnn
