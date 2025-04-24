@@ -64,7 +64,7 @@ exports.handler = async function (event, context) {
 		}
 
 		// Read the current global-tags.json
-		const tagsContent = await git.readFile('admin/data/global-tags.json');
+		const tagsContent = await git.readFile('_data/global-tags.json');
 		const currentTags = JSON.parse(tagsContent);
 
 		// Combine existing tags with collected ones and sort
@@ -74,7 +74,7 @@ exports.handler = async function (event, context) {
 
 		// Write back to global-tags.json
 		await git.writeFile({
-			path: 'admin/data/global-tags.json',
+			path: '_data/global-tags.json',
 			content: JSON.stringify(updatedTags, null, 2),
 			message: 'Update research interests from all profiles'
 		});

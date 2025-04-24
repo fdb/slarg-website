@@ -9,7 +9,7 @@ CMS.registerWidget(
 		},
 
 		componentDidMount: function () {
-			const globalTagsEntry = this.props.entry.getIn(['data', 'global_tags']);
+			const globalTagsEntry = this.props.entry.getIn(['_data', 'global_tags']);
 			if (globalTagsEntry) {
 				const globalTags = globalTagsEntry.getIn(['research_interests']) || [];
 				this.setState({
@@ -17,8 +17,8 @@ CMS.registerWidget(
 					loading: false
 				});
 			} else {
-				// Fallback to fetching from the file
-				fetch('/data/global-tags.json')
+				
+				fetch('_data/global-tags.json')
 					.then((response) => response.json())
 					.then((data) => {
 						this.setState({
@@ -36,19 +36,21 @@ CMS.registerWidget(
 		handleAddTag: function (newTag) {
 			const { value, onChange } = this.props;
 			const interests = value || [];
+			console.log('fetched')
 
 			if (newTag && !interests.includes(newTag)) {
-				// Add to person's interests
+				console.log(interests);
 				onChange([...interests, newTag]);
 
 				// Add to global tags if not already there
 				const { globalTags } = this.state;
+				console.log(this.state)
 				if (!globalTags.includes(newTag)) {
-					const globalTagsEntry = this.props.entry.getIn(['data', 'global_tags']);
+					const globalTagsEntry = this.props.entry.getIn(['_data', 'global_tags']);
 					if (globalTagsEntry) {
 						const currentGlobalTags = globalTagsEntry.getIn(['research_interests']) || [];
 						const newGlobalTags = [...currentGlobalTags.toJS(), newTag];
-						this.props.entry.getIn(['data', 'global_tags', 'research_interests']).set(newGlobalTags);
+						this.props.entry.getIn(['_data', 'global_tags', 'research_interests']).set(newGlobalTags);
 					}
 				}
 			}
@@ -79,6 +81,7 @@ CMS.registerWidget(
 										const newInterests = [...interests];
 										newInterests.splice(index, 1);
 										onChange(newInterests);
+										console.log('remove')
 									}
 								},
 								'×'

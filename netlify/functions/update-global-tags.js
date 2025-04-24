@@ -19,7 +19,7 @@ exports.handler = async function (event, context) {
 		}
 
 		// Read the current tags from the correct path
-		const tagsPath = path.join(process.cwd(), 'admin', 'data', 'global-tags.json');
+		const tagsPath = path.join(process.cwd(), '_data', 'global-tags.json');
 		const currentContent = fs.readFileSync(tagsPath, 'utf8');
 		const currentTags = JSON.parse(currentContent);
 

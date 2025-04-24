@@ -38,7 +38,7 @@ exports.handler = async function (event, context) {
 		}
 
 		// Read current tags from Git
-		const tagsContent = await git.readFile('admin/data/global-tags.json');
+		const tagsContent = await git.readFile('_data/global-tags.json');
 		const currentTags = JSON.parse(tagsContent);
 
 		// Merge and sort tags
@@ -53,7 +53,7 @@ exports.handler = async function (event, context) {
 
 		// Write updated tags to Git
 		await git.writeFile({
-			path: 'admin/data/global-tags.json',
+			path: '_data/global-tags.json',
 			content: JSON.stringify(updatedTags, null, 2),
 			message: 'Manual update of research interests via POST'
 		});

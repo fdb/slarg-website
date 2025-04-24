@@ -4,7 +4,7 @@ const path = require('path');
 exports.handler = async function (event, context) {
 	try {
 		// Read the global-tags.json file from the correct path
-		const tagsPath = path.join(process.cwd(), 'admin', 'data', 'global-tags.json');
+		const tagsPath = path.join(process.cwd(), '_data', 'global-tags.json');
 		const tagsContent = fs.readFileSync(tagsPath, 'utf8');
 		const tags = JSON.parse(tagsContent);
 
