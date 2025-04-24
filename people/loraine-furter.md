@@ -16,17 +16,10 @@ email: loraine.furter@kdg.be
 available_for_supervision: false
 status_of_research: ongoing
 research_interests:
-  - canelle
-  - drawww
+  - cats
   - graphic design
   - green
-  - green
-  - new entry
-  - violet
   - we try
-  - wellooo
-  - yello
-  - yello
 projects:
   - punctuationnnn
 ---
