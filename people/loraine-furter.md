@@ -16,6 +16,7 @@ research_interests:
   - doen
   - graphic design
   - green
+  - si conmigo te quedaaaas
   - we try
 projects:
   - punctuationnnn
