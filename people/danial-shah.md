@@ -11,6 +11,7 @@ status_of_research: ongoing
 research_interests:
   - Social outreach
   - hello
+  - new one
   - subjective mapping
   - what if i add one
 ---
