@@ -2,6 +2,7 @@ const yaml = require('js-yaml');
 
 exports.handler = async function (event, context) {
 	if (event.httpMethod !== 'POST') {
+		console.log('Post failed');
 		return {
 			statusCode: 405,
 			body: JSON.stringify({ error: 'Method not allowed' })
