@@ -1,101 +1,44 @@
-const yaml = require('js-yaml');
+const fs = require("fs");
+const path = require("path");
+const matter = require("gray-matter");
 
-exports.handler = async function (event, context) {
-	if (event.httpMethod !== 'POST') {
-		console.log('Post failed');
-		return {
-			statusCode: 405,
-			body: JSON.stringify({ error: 'Method not allowed' })
-		};
-	}
+const peopleDir = path.join(__dirname, "../../people");
+const outputFile = path.join(__dirname, "../../_data/global-tags.json");
 
-	try {
-		// Get the client token from the request headers
-		const token = event.headers.authorization?.split(' ')[1];
-		if (!token) {
-			return {
-				statusCode: 401,
-				body: JSON.stringify({ error: 'Unauthorized - No token provided' })
-			};
-		}
+function getAllMarkdownFiles(dir) {
+  return fs.readdirSync(dir).filter(file => file.endsWith(".md"));
+}
 
-		// Initialize the Netlify client
-		const client = context.clientContext?.client;
-		const user = context.clientContext?.user;
+function collectTags() {
+  const files = getAllMarkdownFiles(peopleDir);
+  const allTags = new Set();
 
-		if (!client || !user) {
-			return {
-				statusCode: 401,
-				body: JSON.stringify({ error: 'Unauthorized - Invalid client context' })
-			};
-		}
+  files.forEach(file => {
+    const content = fs.readFileSync(path.join(peopleDir, file), "utf8");
+    const parsed = matter(content); // ✅ parses YAML frontmatter
 
-		// Get the Git instance from Netlify
-		const { git } = context.clientContext;
-		if (!git) {
-			return {
-				statusCode: 500,
-				body: JSON.stringify({ error: 'Git Gateway not configured' })
-			};
-		}
+    const interests = parsed.data.research_interests || [];
 
-		// Collect all unique interests from markdown files
-		const allInterests = new Set();
+    if (Array.isArray(interests)) {
+      interests.forEach(tag => {
+        if (typeof tag === "string") {
+          allTags.add(tag.trim());
+        }
+      });
+    }
+  });
 
-		// Get all files in the people directory
-		const peopleFiles = await git.listFiles({ path: 'people' });
+  return Array.from(allTags).sort();
+}
 
-		// Process each markdown file
-		for (const file of peopleFiles) {
-			if (file.path.endsWith('.md')) {
-				const content = await git.readFile(file.path);
-				const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
+function writeTags(tags) {
+  fs.writeFileSync(outputFile, JSON.stringify(tags, null, 2));
+  console.log(`✅ Successfully wrote ${tags.length} tags to global-tags.json`);
+}
 
-				if (frontmatterMatch) {
-					const frontmatter = yaml.load(frontmatterMatch[1]);
-					if (Array.isArray(frontmatter.research_interests)) {
-						frontmatter.research_interests.forEach((interest) => {
-							if (interest && interest.trim()) {
-								allInterests.add(interest.trim());
-							}
-						});
-					}
-				}
-			}
-		}
+function main() {
+  const tags = collectTags();
+  writeTags(tags);
+}
 
-		// Read the current global-tags.json
-		const tagsContent = await git.readFile('_data/global-tags.json');
-		const currentTags = JSON.parse(tagsContent);
-
-		// Combine existing tags with collected ones and sort
-		const updatedTags = {
-			research_interests: [...new Set([...currentTags.research_interests, ...Array.from(allInterests)])].sort()
-		};
-
-		// Write back to global-tags.json
-		await git.writeFile({
-			path: '_data/global-tags.json',
-			content: JSON.stringify(updatedTags, null, 2),
-			message: 'Update research interests from all profiles'
-		});
-
-		return {
-			statusCode: 200,
-			headers: {
-				'Content-Type': 'application/json'
-			},
-			body: JSON.stringify({
-				success: true,
-				message: 'Global tags updated successfully',
-				tags: updatedTags.research_interests
-			})
-		};
-	} catch (error) {
-		console.error('Error collecting tags:', error);
-		return {
-			statusCode: 500,
-			body: JSON.stringify({ error: error.message })
-		};
-	}
-};
+main();

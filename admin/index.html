@@ -45,7 +45,6 @@
 		</style>
 	</head>
 	<body>
-		<button id="update-interests" style="display: none">Update Available Interests</button>
 		<script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
 		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 		<script>
@@ -63,7 +62,7 @@
 			// Function to collect all tags
 			async function collectAllTags() {
 				try {
-					const response = await fetch('/admin/data/global-tags.json');
+					const response = await fetch('_global-tags.json');
 					const data = await response.json();
 					return data.research_interests || [];
 				} catch (error) {

@@ -45,6 +45,7 @@ const ResearchInterestsControl = createClass({
 		if (event.key === 'Enter') {
 			event.preventDefault();
 			this.addCustomInterest();
+			console.log('adding interest');
 		}
 	},
 
@@ -133,7 +134,7 @@ const ResearchInterestsControl = createClass({
 
 			// Custom Interest Input
 			!this.state.isPreview &&
-				h('div', { className: 'custom-interest-container' }, [
+				h('div', { className: 'custom-interest-container', id: 'custom-interest' }, [
 					h('input', {
 						type: 'text',
 						className: 'custom-interest-input',

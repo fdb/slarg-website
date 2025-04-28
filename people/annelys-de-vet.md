@@ -8,13 +8,8 @@ role:
 available_for_supervision: false
 status_of_research: finished
 research_interests:
-  - blue
   - gray
-  - hello
-  - heya
-  - just wanna be
   - subjective mapping
-  - tree
 social_links:
   - url: https://disarmingdesign.com/
     name: https://disarmingdesign.com/

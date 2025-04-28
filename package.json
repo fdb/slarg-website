@@ -6,10 +6,11 @@
 		"start": "concurrently \"npm run watch\" \"npm run serve\"",
 		"watch": "eleventy --watch",
 		"serve": "serve _site",
-		"build": "eleventy",
 		"clean": "rm -rf _site",
 		"format": "prettier --write '**/*.{md,js,css,scss,html,yml,json}'",
-		"dev": "netlify dev"
+		"dev": "netlify dev",
+		"collect-tags": "node netlify/functions/collect-all-tags.js",
+		"build": "npm run collect-tags && eleventy",
 	},
 	"keywords": [],
 	"author": "",
