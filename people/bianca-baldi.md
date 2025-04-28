@@ -1,17 +1,9 @@
 ---
 layout: people.liquid
 tags: people
-<<<<<<< HEAD
-person_name: Bianca Baldi
-bio: >-
-  Bianca Baldi is a South African artist, based in Brussels. In her work Bianca
-  deals with the role of narrative as a means of knowledge production in both
-  fictional and historical contexts. She is interested in the staging of
-=======
 bio: 'Bianca Baldi is a South African artist, based in Brussels. In her work
   Bianca deals with the role of narrative as a means of knowledge production in
   both fictional and historical contexts. She is interested in the staging of
->>>>>>> cfdc7ce58393d997f7f7c3ed0557851dc33df2af
   identity and history and explores these themes in photography, film, writing
   and publishing, which she often combines in the exhibition format as
   installations. Bianca is doing a Phd in the arts at Sint Lucas Antwerpen (KdG)
