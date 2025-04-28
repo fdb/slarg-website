@@ -18,6 +18,7 @@ status_of_research: ongoing
 research_interests:
   - cats
   - graphic design
+  - loraine
 projects:
   - punctuationnnn
 ---
