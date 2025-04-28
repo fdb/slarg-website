@@ -10,7 +10,7 @@
 		"format": "prettier --write '**/*.{md,js,css,scss,html,yml,json}'",
 		"dev": "netlify dev",
 		"collect-tags": "node netlify/functions/collect-all-tags.js",
-		"build": "npm run collect-tags && eleventy",
+		"build": "npm run collect-tags && eleventy"
 	},
 	"keywords": [],
 	"author": "",
