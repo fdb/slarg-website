@@ -25,15 +25,11 @@ bio: Annelys de Vet is a designer, researcher, and educator with a practice in
   temporary master's program 'Disarming Design' (2020–2022), focusing on design
   practices in situations of oppression, which was part of the Sandberg Instituut Amsterdam, where she was the course director of the MA in Design
   from 2009 to 2019. Annelys tutors Socio-Political Practices in the master's
-<<<<<<< HEAD
-  program at Sint Lucas Antwerpen (KdG). She is doing a PhD in the arts at Sint Lucas Antwerpen (KdG) / ARIA (University of Antwerp), where she will defend her PhD dissertation "Disarming Design, politics of Participatory Practices" in November 2024.
-=======
   program at Sint Lucas Antwerpen (KdG). She is doing a PhD in the arts at Sint
   Lucas Antwerpen (KdG) / ARIA (University of Antwerp), where she will defend
   her PhD dissertation "Disarming Design, politics of Participatory Practices"
   in November 2024.
 image_person: https://ucarecdn.com/9f8d4d5e-7f8e-4772-8a12-621edc4c9590/
->>>>>>> cfdc7ce58393d997f7f7c3ed0557851dc33df2af
 headshot: https://ucarecdn.com/c51c2673-f22e-4352-9bcc-45f7c62491f0/
 email: annelys.devet@kdg.be
 projects:
