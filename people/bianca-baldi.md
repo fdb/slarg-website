@@ -17,16 +17,7 @@ email: Bianca.baldi@kdg.be
 available_for_supervision: "false"
 status_of_research: ongoing
 research_interests:
-  - addigng one more
-  - blue
-  - blue moon
-  - hello
-  - heyaaa
   - illustration
-  - marleen
-  - pero
-  - violet
-  - welloooooo
 projects:
   - punctuationnnn
 ---
