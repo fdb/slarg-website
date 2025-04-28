@@ -225,7 +225,6 @@ collections:
           default: 'false',
           hint: 'add a link to external websites or social profiles'
         }
-      # TODO: add a widget for a list of tags eventually
   - name: 'people'
     label: 'People'
     folder: 'people'
@@ -252,11 +251,18 @@ collections:
           name: 'role',
           widget: 'select',
           multiple: true,
-          options: ['Researcher', 'Staff', 'PhD Student', 'Post-Doc'],
+          options: ['Researcher', 'Staff', 'PhD Student', 'Post-Doc', 'Supervisor'],
           default: ['Researcher']
         }
       - { label: 'Email', name: 'email', widget: 'string', required: false }
       - { label: 'Available for Supervision', name: 'available_for_supervision', widget: 'boolean', default: false, required: false }
+      - label: "Supervisors"
+        name: "supervisors"
+        widget: "list"
+        required: false
+        fields:
+        - { label: "Supervisor Name", name: "name", widget: "string" }
+        - { label: "Supervisor Link", name: "link", widget: "string", required: false }
       - {
           label: 'Status of Research',
           name: 'status_of_research',
@@ -283,7 +289,6 @@ collections:
           multiple: true,
           required: false
         }
-
   - name: 'projects'
     label: 'Research Projects'
     folder: 'projects'
@@ -311,6 +316,16 @@ collections:
           multiple: true,
           required: false
         }
+      - label: "Funding"
+        name: "funding"
+        widget: "list"
+        required: false
+        fields:
+        - { label: "Funding's name", name: "name", widget: "string" }
+        - { label: "Link to funding's website", name: "link", widget: "string", required: false }
+        - { label: "thumbnail for funding body", name: 'image', widget: 'image', required: false }
+
+
 
   - name: 'homepage'
     label: 'Homepage'
@@ -442,6 +457,31 @@ collections:
               fields:
                 [
                   { label: 'section title', name: 'section_title', widget: 'string' },
-                  { label: 'section Description', name: 'description', widget: 'text' }
+                  { label: 'section Description', name: 'description', widget: 'text' },
+                  { label: "thumbnail for funding body", name: 'image', widget: 'image', required: false }
+
+                ]
+            }
+  - name: 'Applying-phd'
+    label: 'Applying-phd'
+    delete: false
+    editor:
+      preview: false
+    files:
+      - label: 'Applying-phd'
+        name: 'Applying-phd'
+        file: 'Applying-for-phd.html'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - {
+              label: 'content',
+              name: 'content',
+              widget: 'list',
+              fields:
+                [
+                  { label: 'section title', name: 'section_title', widget: 'string' },
+                  { label: 'section Description', name: 'description', widget: 'text' },
+                  { label: "thumbnail for funding body", name: 'image', widget: 'image', required: false }
+
                 ]
             }
