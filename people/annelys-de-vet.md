@@ -9,6 +9,7 @@ available_for_supervision: false
 status_of_research: finished
 research_interests:
   - gray
+  - omgggg
   - subjective mapping
 social_links:
   - url: https://disarmingdesign.com/
