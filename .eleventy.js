@@ -21,6 +21,8 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('static');
 	eleventyConfig.addPassthroughCopy('admin');
 	eleventyConfig.addPassthroughCopy('2021/static');
+	eleventyConfig.addPassthroughCopy({ "_data/global-tags.json": "global-tags.json" });
+
 
 	eleventyConfig.addFilter('formatRoles', function (roles) {
 		if (!Array.isArray(roles)) return '';

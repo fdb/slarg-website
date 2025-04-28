@@ -13,13 +13,13 @@ const ResearchInterestsControl = createClass({
 		}
 
 		try {
-			const response = await fetch(`/admin/data/global-tags.json?_=${Date.now()}`);
+			const response = await fetch(`/global-tags.json?_=${Date.now()}`);
 			if (!response.ok) {
 				throw new Error('Failed to fetch tags');
 			}
 			const data = await response.json();
-			this.setState({ availableTags: (data.research_interests || []).sort().filter(Boolean) });
-		} catch (error) {
+			this.setState({ availableTags: (Array.isArray(data) ? data : []).sort().filter(Boolean) });		
+		} catch (error){
 			console.error('Error loading tags:', error);
 			this.setState({ availableTags: [] });
 		}
