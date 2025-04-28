@@ -8,5 +8,7 @@ role:
   - Researcher
 available_for_supervision: false
 status_of_research: ongoing
-research_interests: []
+research_interests:
+  - illustration
+  - illustre
 ---
