@@ -4,7 +4,7 @@ person_name: Annelys de Vet
 role:
   - Researcher
   - Supervisor
-  - PHD
+  - PhD Student
 available_for_supervision: "false"
 status_of_research: null
 research_interests:
