@@ -343,8 +343,10 @@ collections:
               widget: 'list',
               fields:
                 [
-                  { label: 'section title', name: 'section_title', widget: 'string' },
-                  { label: 'section Description', name: 'description', widget: 'text' }
+                  { label: 'section title', name: 'section_title', widget: 'string', required: false },
+                  { label: 'section Description', name: 'description', widget: 'markdown' },
+                  { label: 'image', name: 'image', widget: 'image', required: false }
+
                 ]
             }
   - name: 'events_2025'

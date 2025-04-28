@@ -3,15 +3,15 @@ layout: page
 title: SLARG
 features:
   - title: Subscribe to the news letter
-    description: "subscribe here: "
+    description: 'subscribe here: '
 content:
   - section title: About Slarg
     description: >-
-      
-      SLARG (Sint Lucas Antwerpen Research Group) carries out the academic artistic research of Sint Lucas Antwerpen School of Arts KdG, fostering artistic research that combines creative innovation with a strong social commitment. 
+
+      SLARG (Sint Lucas Antwerpen Research Group) carries out the academic artistic research of Sint Lucas Antwerpen School of Arts KdG, fostering artistic research that combines creative innovation with a strong social commitment.
     section_title: About Slarg
   - section title: Research week
-    description: "Come on the 29th to celebrate the launch of the research publication "
+    description: 'Come on the 29th to celebrate the launch of the research publication '
     section_title: Grounds Launch
   - section title: Subscribre to our newsletter
     description: |-
@@ -19,10 +19,28 @@ content:
       subscribe to our newsetter!
     section_title: Our newsletter
 ---
+
 <p>
 	SLARG (Sint Lucas Antwerpen Research Group) carries out the academic artistic research of Sint Lucas Antwerpen School of Arts KdG,
 	fostering artistic research that combines creative innovation with a strong social commitment.
 </p>
+
+{% for section in content %}
+<section class="homepage-section">
+	{% if section.section_title %}
+	<h2 class="big-title">{{ section.section_title }}</h2>
+	{% endif %}
+
+	<div class="description">{{ section.description}}</div>
+
+	{% if section.image %}
+	<div class="image">
+		<img src="{{ section.image }}" alt="{{ section.section_title }}" />
+	</div>
+	{% endif %}
+</section>
+{% endfor %}
+
 <h2 class="big-title">Past events</h2>
 
 <div class="sites-grid">

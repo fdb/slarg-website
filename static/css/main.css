@@ -545,6 +545,7 @@ nav {
 }
 nav {
 	margin: 0;
+	z-index: 999;
 }
 nav.open {
 	display: block;
@@ -573,6 +574,10 @@ padding: 20px;
 border: 1px solid #ddd;
 border-radius: 8px;
 } */
+
+.homepage-section {
+	padding-bottom: 2rem;
+}
 
 @media (max-width: 480px) {
 	.sidebar h2,
