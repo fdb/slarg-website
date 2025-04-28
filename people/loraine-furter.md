@@ -17,12 +17,7 @@ available_for_supervision: false
 status_of_research: ongoing
 research_interests:
   - cats
-  - doen
   - graphic design
-  - green
-  - si conmigo te quedaaaas
-  - test
-  - we try
 projects:
   - punctuationnnn
 ---
