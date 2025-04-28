@@ -178,3 +178,24 @@ CMS.registerWidget(
 		}
 	})
 );
+
+if (typeof window !== 'undefined' && window.CMS) {
+	window.CMS.registerEventListener({
+	  name: "entryPersisted",
+	  handler: async ({ entry }) => {
+		if (entry.get('collection') === 'people') {
+		  console.log("🛎 Person updated, triggering build...");
+  
+		  try {
+			await fetch("https://api.netlify.com/build_hooks/680fb098cfdea44826bcc98a", {
+			  method: "POST",
+			});
+			console.log("✅ Build hook triggered!");
+		  } catch (error) {
+			console.error("❌ Failed to trigger build hook:", error);
+		  }
+		}
+	  },
+	});
+  }
+  
