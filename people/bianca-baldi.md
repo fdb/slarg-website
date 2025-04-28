@@ -15,6 +15,8 @@ role:
   - Researcher
 email: Bianca.baldi@kdg.be
 available_for_supervision: "false"
+supervisors:
+  - name: ANNELYS
 status_of_research: ongoing
 research_interests:
   - graphic design
