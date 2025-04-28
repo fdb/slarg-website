@@ -79,10 +79,10 @@ layout: base
     const roles = person.getAttribute('data-roles').split(',');
     if (roles.includes(role)) {
       person.style.opacity = '1';        
-      person.style.visibility = 'visible';  
+      person.style.display = 'block';  
     } else {
       person.style.opacity = '0';       
-      person.style.visibility = 'hidden'; 
+      person.style.display = 'none'; 
     }
   });
 }

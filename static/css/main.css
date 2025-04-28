@@ -578,6 +578,10 @@ border-radius: 8px;
 .homepage-section {
 	padding-bottom: 2rem;
 }
+.description {
+	padding-bottom: 1rem;
+	line-height: 1.3;
+}
 
 @media (max-width: 480px) {
 	.sidebar h2,
