@@ -6,9 +6,27 @@ layout: base
 <div class="people-container">
   <h1 class="page-title">People</h1>
 
+  <div class="filter-box" id="role-filters">
+  <h3>filter by </h3>
+    {% assign roles = "" %}
+    {% for person in collections.people %}
+      {% for role in person.data.role %}
+        {% unless roles contains role %}
+          {% assign roles = roles | append: role | append: ',' %}
+        {% endunless %}
+      {% endfor %}
+    {% endfor %}
+  
+    {% assign uniqueRoles = roles | split: ',' | uniq %}
+  
+    {% for role in uniqueRoles %}
+      <button onclick="filterByRole('{{ role }}')">{{ role }}</button>
+    {% endfor %}
+  </div>
+
   <div class="people-grid">
     {% for person in collections.people %}
-      <a href="{{ person.url }}" class="person-card">
+      <a href="{{ person.url }}" class="person-card" data-roles="{{ person.data.role | join: ',' }}">
         <div class="person-image">
           {% if person.data.headshot %}
             <img
@@ -41,120 +59,31 @@ layout: base
   </div>
 </div>
 
-<style > 
+<script>
+  function filterByRole(role) {
+  const people = document.querySelectorAll('.person-card');
+  const buttons = document.querySelectorAll('#role-filters button');
 
-body {
-  background-color: var(--bg-color);
-  color: var(--text-color);
-}
+  // Remove the 'active' class from all buttons
+  buttons.forEach(button => {
+    button.classList.remove('active');
+  });
 
-.people-container {
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 2rem;
-}
-
-.page-title {
-  font-size: 3.5rem;
-  margin-bottom: 3rem;
-  font-weight: 300;
-  color: var(--text-color);
-}
-
-.people-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  gap: 2rem;
-}
-
-.person-card {
-  position: relative;
-  aspect-ratio: 6 / 9;
-  overflow: hidden;
-  text-decoration: none;
-  color: inherit;
-  border: 3px solid black;
-  border-radius: 20px;
-}
-
-.person-image {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.person-image img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.placeholder-image {
-  width: 100%;
-  height: 100%;
-  background: var(--tag-bg);
-}
-
-.person-overlay {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: 2rem;
-  background: var(--bg-color);
-}
-
-.person-name {
-  font-size: 1.5rem;
-  margin: 0;
-  font-weight: 400;
-  color: var(--text-color);
-}
-
-.person-role {
-  font-size: 1rem;
-  margin: 0.5rem 0 1rem;
-  color: var(--text-light);
-}
-
-.person-interests {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-top: 1rem;
-}
-
-.interest-tag {
-  background: var(--tag-bg);
-  padding: 0.25rem 0.75rem;
-  border-radius: 2rem;
-  font-size: 0.8rem;
-  color: var(--text-color);
-}
-
-.more-interests {
-  font-size: 0.8rem;
-  color: var(--text-light);
-}
-
-@media(max-width: 768px) {
-  .people-container {
-    padding: 1rem;
+  // Add the 'active' class to the clicked button
+  const activeButton = Array.from(buttons).find(button => button.textContent === role);
+  if (activeButton) {
+    activeButton.classList.add('active');
   }
 
-  .page-title {
-    font-size: 2.5rem;
-    margin-bottom: 2rem;
-  }
-
-  .people-grid {
-    gap: 1rem;
-  }
-
-  .person-overlay {
-    padding: 1.5rem;
-  }
+  people.forEach(person => {
+    const roles = person.getAttribute('data-roles').split(',');
+    if (roles.includes(role)) {
+      person.style.opacity = '1';        
+      person.style.visibility = 'visible';  
+    } else {
+      person.style.opacity = '0';       
+      person.style.visibility = 'hidden'; 
+    }
+  });
 }
-</style>
+</script>
