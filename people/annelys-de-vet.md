@@ -8,7 +8,9 @@ role:
 available_for_supervision: "false"
 status_of_research: finished
 research_interests:
+  - graphic design
   - subjective mapping
+  - weyo
 social_links:
   - url: https://disarmingdesign.com/
     name: https://disarmingdesign.com/
