@@ -470,7 +470,7 @@ collections:
     files:
       - label: 'Applying-phd'
         name: 'Applying-phd'
-        file: 'Applying-for-phd.html'
+        file: 'applying-for-phd.html'
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - {

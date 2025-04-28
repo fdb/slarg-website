@@ -557,6 +557,7 @@ nav.open {
 	background-color: whitesmoke;
 	font-size: 3rem;
 	text-align: right;
+	z-index: 999;
 }
 /*}*/
 
