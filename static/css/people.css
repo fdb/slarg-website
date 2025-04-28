@@ -76,7 +76,7 @@
 
 .people-grid {
 	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+	grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
 	gap: 2rem;
 }
 
@@ -119,7 +119,7 @@
 }
 
 .person-name {
-	font-size: 1.5rem;
+	font-size: 1.2rem;
 	margin: 0;
 	font-weight: 400;
 	color: var(--text-color);
@@ -172,7 +172,7 @@
 	}
 
 	.person-image {
-		max-width: 500px;
+		max-width:100%;
 		margin: 0 auto;
 	}
 
@@ -181,11 +181,11 @@
 	}
 
 	.person-name {
-		font-size: 2.5rem;
+		font-size: 1.2rem;
 	}
 
 	.person-role {
-		font-size: 1.25rem;
+		font-size: 1rem;
 	}
 }
 
@@ -209,11 +209,11 @@
 	}
 
 	.person-name {
-		font-size: 2rem;
+		font-size: 1.2rem;
 	}
 
 	.person-role {
-		font-size: 1.1rem;
+		font-size: 1rem;
 		margin: 0.5rem 0 1rem;
 	}
 }
@@ -239,7 +239,7 @@
 	color: white;  
   }
 .filter-box{
-	padding: 1rem;
+	padding: 1rem 0;
 }
 #people-list .person {
 	display: block;
