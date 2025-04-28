@@ -2,12 +2,7 @@
 layout: people.liquid
 tags: people
 person_name: Loraine Furter
-<<<<<<< HEAD
-bio: >-
-  Loraine Furter is a graphic designer and a teacher, specialized in hybrid
-=======
 bio: Loraine Furter is a graphic designer and a teacher, specialized in hybrid
->>>>>>> cfdc7ce58393d997f7f7c3ed0557851dc33df2af
   publishing and in love with subversive anti-hegemonic practices. She
   co-founded the cyber-feminist collective Just For the Record, the typography
   research group Bye Bye Binary and the project Intersections of Care. Loraine
