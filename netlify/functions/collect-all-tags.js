@@ -15,7 +15,7 @@ function collectTags() {
 
   files.forEach(file => {
     const content = fs.readFileSync(path.join(peopleDir, file), "utf8");
-    const parsed = matter(content); // ✅ parses YAML frontmatter
+    const parsed = matter(content); 
 
     const interests = parsed.data.research_interests || [];
 

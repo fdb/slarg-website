@@ -187,7 +187,7 @@ if (typeof window !== 'undefined' && window.CMS) {
 		  console.log("🛎 Person updated, triggering build...");
   
 		  try {
-			await fetch("https://api.netlify.com/build_hooks/680fb098cfdea44826bcc98a", {
+			await fetch("https://api.netlify.com/build_hooks/6811df0bf50db11f21b2cabd", {
 			  method: "POST",
 			});
 			console.log("✅ Build hook triggered!");
