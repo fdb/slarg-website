@@ -10,5 +10,7 @@ role:
 available_for_supervision: false
 status_of_research: finished
 research_interests:
+  - graphic design
   - illustration
+  - newwww
 ---
