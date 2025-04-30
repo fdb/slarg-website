@@ -37,6 +37,18 @@ content:
 	<h2 class="big-title">{{ section.section_title }}</h2>
 	{% endif %}
 
+  {% if section.date %}
+	<p>{{section.date}}</p>
+	{% endif %}
+
+  {% if section.time %}
+	<p>{{section.time}}</p>
+	{% endif %}
+
+  {% if section.location %}
+	<p>{{section.location}}</p>
+	{% endif %}
+
 	<div class="description">{{ section.description}}</div>
 
 	{% if section.image %}

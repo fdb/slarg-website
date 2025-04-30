@@ -338,14 +338,17 @@ collections:
         file: 'index.html'
         fields:
           - {
-              label: 'content',
-              name: 'content',
+              label: 'event-highlight',
+              name: 'event-highlight',
               widget: 'list',
               fields:
                 [
                   { label: 'section title', name: 'section_title', widget: 'string', required: false },
                   { label: 'section Description', name: 'description', widget: 'markdown' },
-                  { label: 'image', name: 'image', widget: 'image', required: false }
+                  { label: 'image', name: 'image', widget: 'image', required: false },
+                  { label: 'Date', name: 'date', widget: 'datetime', required: false, default: '2023-10-16', format: 'YYYY-MM-DD', date_format: 'DD/MM/YYYY', time_format: false, hint: 'Date of your event/performance'},
+                  { label: 'Time', name: 'time', widget: 'string', required: false, hint: 'E.g. 10:00 - 12:00' },
+                  { label: 'Location', name: 'location', widget: 'string', required: false}
 
                 ]
             }
