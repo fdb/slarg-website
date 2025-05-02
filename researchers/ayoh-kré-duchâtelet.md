@@ -15,8 +15,8 @@ image_researcher:
   - https://ucarecdn.com/561a6eb6-f4a2-485a-948f-04722d500fc0/
 email: ayoh.duchatelet@kdg.be
 researcher_flag: "false"
-staff_flag: "false"
-available_for_supervision: "false"
+staff_flag: false
+available_for_supervision: false
 status_of_research: ongoing
 social_links: _
 ---
