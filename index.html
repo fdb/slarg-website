@@ -51,8 +51,13 @@ event-highlight:
 	{% endif %}
 
   {% if section.date %}
-	<p>{{section.date}}</p>
-	{% endif %}
+  {% assign parts = section.date | split: "-" %}
+  {% assign year = parts[0] %}
+  {% assign month = parts[1] | plus: 0 | prepend: "0" | slice: -2 %}
+  {% assign day = parts[2] | plus: 0 | prepend: "0" | slice: -2 %}
+  {% assign iso_date = year | append: "-" | append: month | append: "-" | append: day %}
+  <p>{{ iso_date | date: "%A %-d %B %Y" }}</p>
+{% endif %}
 
   {% if section.time %}
 	<p>{{section.time}}</p>
