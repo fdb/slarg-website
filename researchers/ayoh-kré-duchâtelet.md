@@ -18,5 +18,5 @@ researcher_flag: "false"
 staff_flag: false
 available_for_supervision: false
 status_of_research: ongoing
-social_links: _
+social_links: _.
 ---
