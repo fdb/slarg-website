@@ -9,6 +9,7 @@ available_for_supervision: "false"
 status_of_research: null
 research_interests:
   - graphic design
+  - green
   - hihi
   - subjective mapping
 social_links:
