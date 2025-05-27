@@ -6,6 +6,7 @@ const peopleDir = path.join(__dirname, "../../people");
 const outputFile = path.join(__dirname, "../../_data/global-tags.json");
 
 function getAllMarkdownFiles(dir) {
+  console.log('getting the stuff')
   return fs.readdirSync(dir).filter(file => file.endsWith(".md"));
 }
 
