@@ -16,6 +16,7 @@ bio: 'Danial Shah is a Pakistani documentary filmmaker and photographer. Danial
 headshot: https://ucarecdn.com/951443c4-8e31-4763-9203-c3ab5003d552/
 role:
   - Researcher
+  - Staff
 email: "shah.danial@kdg.be "
 available_for_supervision: false
 status_of_research: ongoing
