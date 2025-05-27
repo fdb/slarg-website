@@ -10,7 +10,7 @@ role:
 available_for_supervision: false
 status_of_research: finished
 research_interests:
+  - gato
   - graphic design
   - illustration
-  - newwww
 ---
