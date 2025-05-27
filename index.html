@@ -48,13 +48,13 @@ event-highlight:
 	<h2 class="big-title">{{ section.section_title }}</h2>
 	{% endif %}
 
-  {% if section.date %}
+  <!-- {% if section.date %}
   {% assign parts = section.date | split: "-" %}
   {% assign year = parts[0] %}
   {% assign month = parts[1] | plus: 0 | prepend: "0" | slice: -2 %}
   {% assign day = parts[2] | plus: 0 | prepend: "0" | slice: -2 %}
-  {% assign iso_date = year | append: "-" | append: month | append: "-" | append: day %}
-  <p>{{ iso_date | date: "%A %-d %B %Y" }}</p>
+  {% assign iso_date = year | append: "-" | append: month | append: "-" | append: day %} -->
+  <!-- <p>{{ iso_date | date: "%A %-d %B %Y" }}</p> -->
 {% endif %}
 
   {% if section.time %}

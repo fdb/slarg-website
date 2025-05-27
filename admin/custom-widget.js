@@ -35,50 +35,37 @@ CMS.registerWidget(
 		handleAddTag: function (newTag) {
 			const { value, onChange } = this.props;
 			const interests = value || [];
-			console.log('fetched');
-
+		  
 			if (newTag && !interests.includes(newTag)) {
-				console.log(interests);
-				onChange([...interests, newTag]);
-
-				// Add to global tags if not already there
-				const { globalTags } = this.state;
-				console.log(this.state);
-				if (!globalTags.includes(newTag)) {
-					const globalTagsEntry = this.props.entry.getIn(['_data', 'global_tags']);
-					if (globalTagsEntry) {
-						const currentGlobalTags = globalTagsEntry.getIn(['research_interests']) || [];
-						const newGlobalTags = [...currentGlobalTags.toJS(), newTag];
-						this.props.entry.getIn(['_data', 'global_tags', 'research_interests']).set(newGlobalTags);
-						// Call Netlify Function to update global-tags.json remotely
-						const netlifyIdentity = window.netlifyIdentity;
-						if (netlifyIdentity) {
-							const user = netlifyIdentity.currentUser();
-							const token = user && user.token && user.token.access_token;
-							if (token) {
-								fetch('/api/update-tags-via-git', {
-									method: 'POST',
-									headers: {
-										'Content-Type': 'application/json',
-										Authorization: `Bearer ${token}`
-									},
-									body: JSON.stringify({ interests: newGlobalTags })
-								})
-									.then((res) => {
-										if (!res.ok) throw new Error('Failed to update tags');
-										return res.json();
-									})
-									.then((data) => {
-										this.setState({ globalTags: data.research_interests });
-									})
-									.catch((err) => console.error('Error updating remote tags:', err));
-							}
-						}
-					}
+			  onChange([...interests, newTag]);
+		  
+			  // Add to global tags remotely via Netlify function
+			  const netlifyIdentity = window.netlifyIdentity;
+			  if (netlifyIdentity) {
+				const user = netlifyIdentity.currentUser();
+				const token = user && user.token && user.token.access_token;
+				if (token) {
+				  fetch('/api/update-tags-via-git', {
+					method: 'POST',
+					headers: {
+					  'Content-Type': 'application/json',
+					  Authorization: `Bearer ${token}`
+					},
+					body: JSON.stringify({ interests: [newTag] })
+				  })
+					.then((res) => {
+					  if (!res.ok) throw new Error('Failed to update tags');
+					  return res.json();
+					})
+					.then((data) => {
+					  this.setState({ globalTags: data.research_interests });
+					})
+					.catch((err) => console.error('Error updating remote tags:', err));
 				}
+			  }
 			}
-		},
-
+		  },
+		  
 		render: function () {
 			const { value, onChange } = this.props;
 			const { globalTags, loading } = this.state;

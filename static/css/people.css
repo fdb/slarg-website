@@ -89,13 +89,13 @@
 	border: 1px solid black;
 }
 
-.person-image {
+/* .person-image {
 	position: absolute;
 	top: 0;
 	left: 0;
 	width: 100%;
 	height: 100%;
-}
+} */
 
 .person-image img {
 	width: 100%;
