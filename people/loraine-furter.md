@@ -14,6 +14,7 @@ role:
 available_for_supervision: true
 status_of_research: ongoing
 research_interests:
+  - gatito
   - graphic design
 projects: []
 ---
