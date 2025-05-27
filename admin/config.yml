@@ -302,10 +302,15 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'project.liquid' }
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'project' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Date', name: 'date', widget:'datetime'}
-      - { label: 'Summary', name: 'summary', widget: 'text', required: false }
-      - { label: 'Image', name: 'image', widget: 'image', required: false }
+      - { label: 'Start Date', name: 'start_date', widget: 'datetime', required: false, date_format: 'YYYY-MM', time_format: false }
+      - { label: 'End Date', name: 'end_date', widget: 'datetime', required: false, date_format: 'YYYY-MM', time_format: false }
+      - { label: "Project Kind", name: "project-kind", widget: "select", options: ["post-doc", "pre-doc", "PhD", "social outreach"], required: false }
+      - {label: "Ongoing", name: "ongoing", widget: "boolean", required: false }
+      - { label: 'Abstract', name: 'abstract', widget: 'text', required: false }
+      - { label: 'Main_mage', name: 'Main image', widget: 'image', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Describe the project in detail' }
+      - { label: "Gallery", name: "gallery", widget: "list", max: 3, required: false, allow_add: true, allow_remove: true, 
+          field: { label: "Image", name: "image", widget: "image" , required: false} }
       - {
           label: 'People Involved',
           name: 'people',

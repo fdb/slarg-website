@@ -5,15 +5,81 @@ layout: base.liquid
 <article class="project">
   <h1>{{ title }}</h1>
 
-  {% if image %}
-    <img width="" height="" src="{{ image | url }}" alt="Image for {{ title }}" />
+  {% if start_date %}
+  {{ start_date | monthYear }}
   {% endif %}
 
-  {% if authors %}
-    <p><strong>By:</strong> {{ authors }}</p>
+ 
+
+  {% if end_date %}
+   &ndash; {{ end_date | monthYear }}
   {% endif %}
+
+  {% if ongoing %}
+  &ndash; <span class="status"> ongoing </span>
+  {% endif %}
+
+  {% if project-kind %}
+  <p><strong>Project kind:</strong> {{ project-kind }}</p>
+  {% endif %} 
+
+  {% if image %}
+    <img src="{{ image | url }}" width=""  height="" alt="Image for {{ title }}" />
+  {% endif %}
+
+
+  {% if abstract %}
+    <p><strong>Abstract:</strong> {{ abstract }}</p>
+  {% endif %}
+
+  {% if people %}
+    <p><strong>People involved:</strong> {{ people | join: ', ' }}</p>
+  {% endif %}
+
+  {% if project_stage %}
+  <p><strong>Stage:</strong> {{ project_stage }}</p>
+{% endif %}
 
   <div class="content">
-    {{ content}}
+    {{ content }}
   </div>
+
+
+  {% if gallery %}
+  <div class="gallery">
+    {% for image in gallery %}
+      <img src="{{ image | url }}" alt="Gallery image {{ forloop.index }}" />
+    {% endfor %}
+  </div>
+{% endif %}
+
+
+{% if funding %}
+<div class="funding">
+  <h2>Funding</h2>
+  <ul>
+    {% for f in funding %}
+      <li>
+        {% if f.link %}
+          <a href="{{ f.link }}" target="_blank" rel="noopener">
+            {% if f.image %}
+              <img src="{{ f.image | url }}" alt="Funding image for {{ f.name }}" style="max-height: 60px; margin-top: 0.5em;" />
+          
+            {% endif %}
+            {{ f.name }}
+          </a>
+        {% else %}
+          {% if f.image %}
+            <img src="{{ f.image | url }}" alt="Funding image for {{ f.name }}" style="max-height: 60px; margin-top: 0.5em;" />
+           
+          {% endif %}
+          {{ f.name }}
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+
 </article>

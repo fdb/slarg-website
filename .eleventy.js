@@ -1,3 +1,5 @@
+const { DateTime } = require("luxon");
+
 function groupEventsByWeekday(allEvents) {
 	let groupedByWeekday = {};
 
@@ -88,4 +90,19 @@ module.exports = function (eleventyConfig) {
 		const date = new Date(dateStr);
 		return date.toDateString();
 	});
+
+
+	eleventyConfig.addFilter("monthYear", (value) => {
+		if (!value) return "";
+	
+		if (value instanceof Date) {
+		  return DateTime.fromJSDate(value).toFormat("MMMM yyyy");
+		}
+		return DateTime.fromISO(value).toFormat("MMMM yyyy");
+	  });
+	
 };
+
+
+
+
