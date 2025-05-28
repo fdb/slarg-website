@@ -100,26 +100,52 @@ module.exports = function (eleventyConfig, collections) {
 		}
 		return DateTime.fromISO(value).toFormat("MMMM yyyy");
 	  });
-	  
+
 	  eleventyConfig.addCollection('calendar_events', function (collectionApi) {
 		const allEvents = [
 			...collectionApi.getFilteredByGlob('./content/activities/*.md'),
-			...collectionApi.getFilteredByGlob('./content/research-week-activities/*.md') // fix spelling if needed
+			...collectionApi.getFilteredByGlob('./content/research-week-activities/*.md')
 		];
 	
 		const byMonth = {};
 	
 		allEvents.forEach(event => {
 			const date = new Date(event.data.startDate);
+			if (isNaN(date)) return; // skip invalid
 			const key = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
-			byMonth[key] = byMonth[key] || [];
+			if (!byMonth[key]) byMonth[key] = [];
 			byMonth[key].push(event);
 		});
 	
-		return {
-			months: byMonth
-		};
+		const result = Object.entries(byMonth).map(([month, events]) => ({
+			month,
+			events
+		}));
+	
+		return result.sort((a, b) => a.month.localeCompare(b.month));
 	});
+
+	eleventyConfig.addFilter("formatDateTime", (value) => {
+		if (!value) return "";
+	  
+		let dt;
+		if (value instanceof Date) {
+		  dt = DateTime.fromJSDate(value);
+		} else {
+		  dt = DateTime.fromISO(value);
+		  // fallback for non-ISO strings
+		  if (!dt.isValid) {
+			dt = DateTime.fromJSDate(new Date(value));
+		  }
+		}
+	  
+		if (!dt.isValid) return value;
+	  
+		// Format like: 29 May 2025, 17:00
+		return dt.toFormat("dd LLLL yyyy, HH:mm");
+	  });
+	
+
 	
 	
 };

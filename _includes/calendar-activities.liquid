@@ -1,17 +1,21 @@
----
-layout: base.liquid
-title: Activities Calendar
----
-
-{% for month in collections.calendar_events.months %}
-  <h2>{{ month[0] | date: "%B %Y" }}</h2>
-  <ul>
-    {% for event in month[1] %}
-      <li>
-        <a href="{{ event.url }}">{{ event.data.title }}</a><br>
-        <small>{{ event.data.startDate | date: "%B %d, %Y" }}</small><br>
-        <span>{{ event.data.location }}</span>
-      </li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+<div class="activities-calendar">
+  {% for group in collections.calendar_events %}
+    <h2>{{ group.month | append: '-01' | monthYear }}</h2>
+    <hr>
+    <ul>
+      {% for event in group.events %}
+        <a href="{{ event.url }}" class="event-card">
+          {% if event.data.thumbnail %}
+            <img src="{{ event.data.thumbnail }}" width="" height="" alt="{{ event.data.title }}" class="event-thumb">
+          {% endif %}
+          <div class="event-info">
+            <h3>{{ event.data.title }}</h3>
+            <p class="event-time">
+              {{ event.data.startDate | formatDateTime }}
+            </p>
+          </div>
+        </a>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+</div>

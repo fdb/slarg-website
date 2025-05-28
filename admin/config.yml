@@ -506,6 +506,7 @@ collections:
       - { label: "Start Date", name: "startDate", widget: "datetime" }
       - { label: "End Date", name: "endDate", widget: "datetime", required: false }
       - { label: "Location", name: "location", widget: "string", required: false }
+      - { label: "Thumbnail", name: "thumbnail", widget: "image", required: false }
       - { label: "Description", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
 
@@ -519,6 +520,7 @@ collections:
       - { label: "Start Date", name: "startDate", widget: "datetime" }
       - { label: "End Date", name: "endDate", widget: "datetime", required: false }
       - { label: "Location", name: "location", widget: "string", required: false }
+      - { label: "Thumbnail", name: "thumbnail", widget: "image", required: false }
       - { label: "Description", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
 
