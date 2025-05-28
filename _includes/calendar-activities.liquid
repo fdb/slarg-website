@@ -1,0 +1,17 @@
+---
+layout: base.liquid
+title: Activities Calendar
+---
+
+{% for month in collections.calendar_events.months %}
+  <h2>{{ month[0] | date: "%B %Y" }}</h2>
+  <ul>
+    {% for event in month[1] %}
+      <li>
+        <a href="{{ event.url }}">{{ event.data.title }}</a><br>
+        <small>{{ event.data.startDate | date: "%B %d, %Y" }}</small><br>
+        <span>{{ event.data.location }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}

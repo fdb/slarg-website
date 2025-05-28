@@ -19,7 +19,7 @@ function groupEventsByWeekday(allEvents) {
 	return groupedByWeekday;
 }
 
-module.exports = function (eleventyConfig) {
+module.exports = function (eleventyConfig, collections) {
 	eleventyConfig.addPassthroughCopy('static');
 	eleventyConfig.addPassthroughCopy('admin');
 	eleventyConfig.addPassthroughCopy('2021/static');
@@ -100,6 +100,27 @@ module.exports = function (eleventyConfig) {
 		}
 		return DateTime.fromISO(value).toFormat("MMMM yyyy");
 	  });
+	  
+	  eleventyConfig.addCollection('calendar_events', function (collectionApi) {
+		const allEvents = [
+			...collectionApi.getFilteredByGlob('./content/activities/*.md'),
+			...collectionApi.getFilteredByGlob('./content/research-week-activities/*.md') // fix spelling if needed
+		];
+	
+		const byMonth = {};
+	
+		allEvents.forEach(event => {
+			const date = new Date(event.data.startDate);
+			const key = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
+			byMonth[key] = byMonth[key] || [];
+			byMonth[key].push(event);
+		});
+	
+		return {
+			months: byMonth
+		};
+	});
+	
 	
 };
 

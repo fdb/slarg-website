@@ -496,3 +496,29 @@ collections:
 
                 ]
             }
+  - name: "activity"
+    label: "Activity"
+    folder: "content/activities"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Start Date", name: "startDate", widget: "datetime" }
+      - { label: "End Date", name: "endDate", widget: "datetime", required: false }
+      - { label: "Location", name: "location", widget: "string", required: false }
+      - { label: "Description", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+
+  - name: "research-week-activity"
+    label: "Research Week Activity"
+    folder: "content/research-week-activities"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Start Date", name: "startDate", widget: "datetime" }
+      - { label: "End Date", name: "endDate", widget: "datetime", required: false }
+      - { label: "Location", name: "location", widget: "string", required: false }
+      - { label: "Description", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+
