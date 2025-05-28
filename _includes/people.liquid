@@ -30,13 +30,15 @@ layout: base
       {% endif %}
     </div>
   </div>
-<br>
+  
+  <br>
+      
   <div class="person-bio">
     {{ bio }}
   </div>
 
   <div class="person-projects">
-    {% if projects %}
+    {% if collections.projects %}
   <h2>Projects</h2>
   <ul>
     {% for projectEntry in collections.projects %}
