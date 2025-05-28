@@ -19,9 +19,10 @@
 	--text: #02110d;
 	--turquoise: #00c589;
 	--bg-color: #fdf8f3;
-	--text-color: #2c1810;
-	--text-light: #5c4030;
-	--tag-bg: #e8ded1;
+	--text-color: #00c589;
+	--text-light: #464646;
+	--text-darker: #009b6d;
+	--tag-bg: #ddf9f0;
 }
 
 *,
@@ -83,6 +84,7 @@ a {
 
 h1 {
 	font-family: 'Marsha';
+	text-transform: uppercase;
 }
 p {
 	font-size: 1.5rem;
@@ -488,7 +490,7 @@ article .partner-logos img {
 	height: auto;
 }
 main {
-	margin-top: 2rem;
+	margin-top: 0rem;
 }
 main,
 footer {
