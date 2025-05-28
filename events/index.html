@@ -2,8 +2,12 @@
 layout: page.liquid
 ---
 
-<h1>Upcoming events</h1>
-<div class="researcher-grid">
+<h1 class="page-title">Events</h1>
+
+
+<h2 class="big-title">Upcoming events</h2>
+
+<div class="researcher-grid" style="margin-bottom: 3rem;">
 {% for event in collections.event %}
 <a class="researcher" href="{{ researcher.url }}">
     <h1> {{ event.data.name }}</h1>
@@ -11,4 +15,26 @@ layout: page.liquid
 
 </a>
 {% endfor %}
+</div>
+
+
+<h2 class="big-title" style="margin-top: 5rem;">Past events</h2>
+
+<div class="sites-grid">
+	<a class="site-thumb" href="/research-week/2024">
+		<img src="/static/img/slarg-2024-research-week-visual-exhibition.png" alt="" />
+		<span>Research Week 2024</span>
+	</a>
+	<a class="site-thumb" href="/2023/">
+		<img src="/static/img/slarg-2023-thumb.png" alt="" />
+		<span>Research Week 2023</span>
+	</a>
+	<a class="site-thumb" href="/2022/">
+		<img src="/static/img/slarg-2022-thumb.jpg" alt="" />
+		<span>Research Week 2022</span>
+	</a>
+	<a class="site-thumb" href="/2021/">
+		<img src="/static/img/slarg-2021-thumb.jpg" alt="" />
+		<span>Research Week 2021</span>
+	</a>
 </div>

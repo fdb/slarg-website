@@ -3,47 +3,50 @@ layout: base.liquid
 ---
 
 <article class="project">
+  <h2 class="big-title">RESEARCH PROJECT</h2>
   <h1>{{ title }}</h1>
-
-  {% if start_date %}
-  {{ start_date | monthYear }}
-  {% endif %}
-
- 
-
-  {% if end_date %}
-   &ndash; {{ end_date | monthYear }}
-  {% endif %}
-
-  {% if ongoing %}
-  &ndash; <span class="status"> ongoing </span>
-  {% endif %}
-
-  {% if project-kind %}
-  <p><strong>Project kind:</strong> {{ project-kind }}</p>
-  {% endif %} 
 
   {% if image %}
     <img src="{{ image | url }}" width=""  height="" alt="Image for {{ title }}" />
   {% endif %}
 
+  <div class="project-date">
+
+  <span class="date"> 
+
+  {% if start_date %}
+  {{ start_date | monthYear }}
+  {% endif %}
+
+  {% if end_date %}
+   &ndash; {{ end_date | monthYear }}
+  {% endif %}
+
+  </span>
+
+  {% if ongoing %}
+  <span class="status">ongoing</span>
+  {% endif %}
+
+  <ul class="info-project">
+
+  {% if project-kind %}
+  <li><strong>Project kind:</strong> {{ project-kind }}</li>
+  {% endif %} 
+
 
   {% if abstract %}
-    <p><strong>Abstract:</strong> {{ abstract }}</p>
+    <li><strong>Abstract:</strong> {{ abstract }}</li>
   {% endif %}
 
   {% if people %}
-    <p><strong>People involved:</strong> {{ people | join: ', ' }}</p>
+    <li><strong>People involved:</strong> {{ people | join: ', ' }}</li>
   {% endif %}
 
   {% if project_stage %}
-  <p><strong>Stage:</strong> {{ project_stage }}</p>
+  <li><strong>Stage:</strong> {{ project_stage }}</li>
 {% endif %}
-
-  <div class="content">
-    {{ content }}
-  </div>
-
+  </ul>
 
   {% if gallery %}
   <div class="gallery">
@@ -54,9 +57,14 @@ layout: base.liquid
 {% endif %}
 
 
+  <div class="content">
+    {{ content }}
+  </div>
+
+
 {% if funding %}
 <div class="funding">
-  <h2>Funding</h2>
+  <h3>Funding</h3>
   <ul>
     {% for f in funding %}
       <li>

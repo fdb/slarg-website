@@ -19,9 +19,10 @@
 	--text: #02110d;
 	--turquoise: #00c589;
 	--bg-color: #fdf8f3;
-	--text-color: #2c1810;
-	--text-light: #5c4030;
-	--tag-bg: #e8ded1;
+	--text-color: #00c589;
+	--text-light: #464646;
+	--text-darker: #009b6d;
+	--tag-bg: #ddf9f0;
 }
 
 *,
@@ -83,6 +84,14 @@ a {
 
 h1 {
 	font-family: 'Marsha';
+	text-transform: uppercase;
+}
+h3 {
+	text-transform: uppercase;
+	border-top: 2px solid var(--turquoise);
+	padding-top: 0.5rem;
+	margin-bottom: 1rem;
+	font-weight: normal;
 }
 p {
 	font-size: 1.5rem;
@@ -147,6 +156,17 @@ nav a:last-child {
 	border-bottom: 2px solid var(--turquoise);
 	margin-bottom: 1rem;
 	font-weight: normal;
+}
+
+.page-title {
+	font-size: 2.75rem;
+	margin-bottom: 3rem;
+	font-weight: 300;
+	color: var(--text-color);
+}
+
+.project h1 {
+	font-size: 2.75rem;
 }
 
 .hidden {
@@ -276,7 +296,7 @@ a .intro-text {
 	color: var(--text);
 }
 
-.event-details {
+.event-detailh3s {
 	font-size: 1rem;
 	font-family: 'AuthenticSans', sans-serif;
 	margin: 0;
@@ -488,7 +508,7 @@ article .partner-logos img {
 	height: auto;
 }
 main {
-	margin-top: 2rem;
+	margin-top: 0rem;
 }
 main,
 footer {
@@ -534,7 +554,6 @@ nav {
 	padding-top: 2rem;
 	display: none;
 	flex-direction: column;
-	background-color: whitesmoke;
 }
 #menu-links a {
 	padding: 0;
@@ -555,7 +574,7 @@ nav.open {
 	padding: 1rem;
 	padding-top: 3rem;
 	overflow: hidden;
-	background-color: whitesmoke;
+	background-color: #f5f5f5c4;
 	font-size: 3rem;
 	text-align: right;
 	z-index: 999;
@@ -601,106 +620,107 @@ border-radius: 8px;
 /* projects css */
 
 .project {
-	max-width: 800px;
-	margin: 0 auto;
-	font-family: sans-serif;
-	line-height: 1.5;
-  }
-  
-  .project h1 {
-	margin-bottom: 0.5em;
-  }
-  
-  .project img {
-	max-width: 100%;
-	height: auto;
-	display: block;
-	margin: 1em 0;
-	border-radius: 6px;
-	box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-  }
-  
-  .gallery {
-	display: flex;
-	gap: 1rem;
-	flex-wrap: wrap;
-	margin-top: 2em;
-  }
-  
-  .gallery img {
-	width: calc(33.333% - 0.67rem);
-	border-radius: 8px;
-	object-fit: cover;
-	box-shadow: 0 2px 8px rgba(0,0,0,0.2);
-  }
-  
+max-width: 800px;
+margin: 0 auto;
+line-height: 1.5;
+}
 
-  
-  @media (max-width: 600px) {
-	.gallery img {
-	  width: calc(50% - 0.5rem);
-	}
-  }
-  
-  .project .status {
-	display: inline-block;
-	background: #e0f0e0;
-	color: #206020;
-	font-size: 0.9rem;
-	font-weight: bold;
-	padding: 0.2em 0.5em;
-	border-radius: 4px;
-	margin-left: 0.5em;
-  }
-  
-  .project .gallery {
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-	gap: 1em;
-	margin: 2em 0;
-  }
-  
-  .project .gallery img {
-	width: 100%;
-	height: auto;
-	object-fit: cover;
-	border-radius: 0.5em;
-	box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  }
-  
-  .project .funding {
-	margin: 2em 0;
-  }
-  
-  .project .funding h2 {
-	font-size: 1.2em;
-	margin-bottom: 0.5em;
-  }
-  
-  .project .funding ul {
-	list-style: none;
-	padding: 0;
-  }
-  
-  .project .funding li {
+.project h1 {
+margin-bottom: 0.5em;
+}
+
+.project img {
+max-width: 100%;
+height: auto;
+display: block;
+margin: 1em 0;
+border-radius: 3px;
+}
+
+.gallery {
+display: flex;
+gap: 1rem;
+flex-wrap: wrap;
+margin-top: 2em;
+}
+
+@media (max-width: 600px) {
+.gallery img {
+	width: calc(50% - 0.5rem);
+}
+}
+
+.project-date {
+margin-bottom: 1rem;
+}
+.project-date .date {
+color: var(--text);
+}
+.project .status {
+display: inline-block;
+background: #e0f0e0;
+color: #206020;
+font-size: 0.9rem;
+padding: 0.2em 0.5em;
+border-radius: 25px;
+}
+
+.info-project {
 	margin-bottom: 1em;
-  }
-  
-  .project .funding img {
-	max-width: 120px;
-	display: block;
-	margin-top: 0.5em;
-  }
-  
-  .content p a {
-	color: #d400ad; 
-	text-decoration: underline;
-	font-weight: 500;
-	transition: color 0.2s ease;
-  }
-  
-  .content p a:hover,
-  .content p a:focus {
-	color: #003f88;
-	text-decoration: underline;
-  }
+	color: var(--text);
+}
+.info-project li {
+	list-style-type: none;
+	margin: 0;
+}
+
+.project .gallery {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+gap: 1em;
+margin: 2em 0;
+}
+
+.project .gallery img {
+width: 100%;
+height: auto;
+object-fit: cover;
+border-radius: 3px;
+}
+
+.project .funding {
+margin: 0em 0;
+}
+
+.project .funding h2 {
+font-size: 1.2em;
+margin-bottom: 0.5em;
+}
+
+.project .funding ul {
+list-style: none;
+padding: 0;
+}
+
+.project .funding li {
+margin: 0 0.5em 1em 0;
+}
+
+.project .funding img {
+max-width: 120px;
+display: block;
+margin-top: 0.5em;
+}
+
+.content p a {
+color: var(--text-darker); 
+text-decoration: underline;
+font-weight: 500;
+transition: color 0.2s ease;
+}
+
+.content p a:hover,
+.content p a:focus {
+color: var(--text-light);
+text-decoration: underline;
+}

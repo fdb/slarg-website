@@ -1,77 +1,8 @@
-.person-container {
-	max-width: 1200px;
-	margin: 0 auto;
-	padding: 2rem;
-}
-
-.person-header {
-	display: grid;
-	grid-template-columns: minmax(300px, 1fr) 2fr;
-	gap: 4rem;
-	margin-bottom: 4rem;
-}
-
-.person-image {
-	position: relative;
-	aspect-ratio: 4/5;
-	overflow: hidden;
-}
-
-.person-image img {
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
-}
-
-.placeholder-image {
-	width: 100%;
-	height: 100%;
-	background: var(--tag-bg);
-}
-
-.person-info {
-	padding: 2rem 0;
-}
-
-.person-name {
-	font-size: 3.5rem;
-	margin: 0;
-	font-weight: 300;
-	color: var(--text-color);
-}
-
-.person-role {
-	font-size: 1.5rem;
-	margin: 1rem 0 2rem;
-	color: var(--text-light);
-}
-
-.person-interests {
-	display: flex;
-	flex-wrap: wrap;
-	gap: 0.75rem;
-}
-
-.interest-tag {
-	background: var(--tag-bg);
-	padding: 0.5rem 1rem;
-	border-radius: 2rem;
-	font-size: 1rem;
-	color: var(--text-color);
-}
-
-/* People Grid Styles */
+/* People Overview Grid Styles */
 .people-container {
 	max-width: 1400px;
 	margin: 0 auto;
-	padding: 2rem;
-}
-
-.page-title {
-	font-size: 3.5rem;
-	margin-bottom: 3rem;
-	font-weight: 300;
-	color: var(--text-color);
+	padding: 0 2rem 2rem 2rem;
 }
 
 .people-grid {
@@ -80,90 +11,129 @@
 	gap: 2rem;
 }
 
-.person-card {
+.people-grid .person-card {
 	position: relative;
 	aspect-ratio: 6/9;
 	overflow: hidden;
 	text-decoration: none;
 	color: inherit;
-	border: 1px solid black;
 }
 
-/* .person-image {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-} */
-
-.person-image img {
+.people-grid .person-image img {
 	width: 100%;
 	height: 100%;
 	object-fit: cover;
+	border-radius: 3px;
 }
 
-.placeholder-image {
+.people-grid .placeholder-image {
 	width: 100%;
 	height: 100%;
 	background: var(--tag-bg);
 }
 
-.person-overlay {
+.people-grid .person-overlay {
 	position: absolute;
 	bottom: 0;
 	left: 0;
 	right: 0;
-	padding: 2rem;
+	padding-top: 1rem;
 	background: var(--bg-color);
 }
 
-.person-name {
+.people-grid .person-name {
 	font-size: 1.2rem;
 	margin: 0;
-	font-weight: 400;
-	color: var(--text-color);
+	color: var(--text-accent);
 }
 
-.person-role {
+.people-grid .person-role {
 	font-size: 1rem;
 	margin: 0.5rem 0 1rem;
 	color: var(--text-light);
 }
 
-.person-interests {
+.people-grid .person-interests {
 	display: flex;
 	flex-wrap: wrap;
-	gap: 0.5rem;
-	margin-top: 1rem;
+	gap: 0.25rem;
 }
 
-.interest-tag {
+.people-grid .interest-tag {
 	background: var(--tag-bg);
-	padding: 0.25rem 0.75rem;
+	padding: 0.25rem 0.50rem;
 	border-radius: 2rem;
 	font-size: 0.8rem;
-	color: var(--text-color);
+	color: var(--text-darker);
 }
 
-.more-interests {
+.people-grid .more-interests {
 	font-size: 0.8rem;
 	color: var(--text-light);
+	padding: 0.25rem 0.50rem;
 }
 
-.person-overlay {
-	position: absolute;
-	bottom: 0;
-	left: 0;
-	right: 0;
+
+
+/* PERSON PAGE */
+
+.person-container {
+	max-width: 1200px;
+	margin: 0 auto;
 	padding: 2rem;
-	background: var(--bg-color);
 }
 
-.more-interests {
-	font-size: 0.8rem;
+.person-container .person-header {
+	display: grid;
+	grid-template-columns: minmax(300px, 1fr) 2fr;
+	gap: 4rem;
+	margin-bottom: 4rem;
+}
+
+.person-container .person-image {
+	position: relative;
+	aspect-ratio: 4/5;
+	overflow: hidden;
+}
+
+.person-container .person-image img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	border-radius: 3px;
+}
+
+.person-container .placeholder-image {
+	width: 100%;
+	height: 100%;
+	background: var(--tag-bg);
+}
+
+.person-container .person-info {
+}
+
+
+.person-container .person-role {
+	font-size: 1.5rem;
+	margin: 1rem 0 2rem;
 	color: var(--text-light);
 }
+
+.person-container .person-interests {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.75rem;
+}
+
+.person-container .interest-tag {
+	background: var(--tag-bg);
+	padding: 0.5rem 1rem;
+	border-radius: 2rem;
+	font-size: 1rem;
+	color: var(--text-color);
+} 
+
+
 
 @media (max-width: 1024px) {
 	.person-header {
@@ -219,11 +189,11 @@
 }
 
 #role-filters button {
-	margin: 5px;
+	margin: 0 5px 5px 0;
 	padding: 10px;
 	cursor: pointer;
 	background: transparent;
-	border: 1.5px solid black;
+	border: 2px solid #00c589;
 	border-radius: 20px;
 }
 
