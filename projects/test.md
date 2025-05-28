@@ -21,6 +21,6 @@ funding:
 ---
 This is the content presenting the research project. It is a great project!
 
-More info can be here such as links
+More info can be here such as links, image credits and description (?)
 
 <https://www.vlaanderen.be/cjm/nl/cultuur>
