@@ -30,24 +30,25 @@ layout: base
       {% endif %}
     </div>
   </div>
-
+<br>
   <div class="person-bio">
-    {{ content }}
+    {{ bio }}
   </div>
 
   <div class="person-projects">
     {% if projects %}
-      <h2>Projects</h2>
-      <ul>
-        {% for projectEntry in collections.projects %}
-          {% if projects contains projectEntry.data.title %}
-            <li>
-              <a href="{{ projectEntry.url }}">{{ projectEntry.data.title }}</a>
-            </li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    {% endif %}
+  <h2>Projects</h2>
+  <ul>
+    {% for projectEntry in collections.projects %}
+      {% if projects contains projectEntry.data.title %}
+        <li>
+          <a href="{{ projectEntry.url }}">{{ projectEntry.data.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endif %}
+
   </div>
 
 
