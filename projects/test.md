@@ -12,6 +12,7 @@ gallery:
   - https://ucarecdn.com/748b9e5a-9eaf-43af-bbd0-1e9451afae28/
 people:
   - Danial Shah
+  - Annelys de Vet
 image: https://ucarecdn.com/751e477c-6063-4b85-826c-05649bd5d349/
 ongoing: true
 funding:

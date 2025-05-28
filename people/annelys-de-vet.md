@@ -35,4 +35,5 @@ headshot: https://ucarecdn.com/c51c2673-f22e-4352-9bcc-45f7c62491f0/
 email: annelys.devet@kdg.be
 projects:
   - punctuationnnn
+  - test project
 ---
