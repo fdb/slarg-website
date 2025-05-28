@@ -1,0 +1,89 @@
+---
+layout: page
+title: SLARG
+features:
+  - title: Subscribe to the news letter
+    description: 'subscribe here: '
+content:
+  - section title: Research week
+    description: >-
+      Come on the 29th of May to celebrate the launch of the Grounds
+      publication!
+
+
+      GROUNDS is the journal for artistic research of the Sint Lucas Antwerpen Research Group (SLARG).
+
+
+      It developed out of a growing need and desire to make the multifaceted research culture of Sint Lucas Antwerpen accessible to a wide audience, both within the school community and beyond.
+    section_title: Upcoming events
+    image: https://ucarecdn.com/67a2e92c-db91-4a63-a556-77b7993ef6cb/
+  - section title: Subscribre to our newsletter
+    description: |-
+      Text about newsletter
+      subscribe to our newsetter!
+
+      link to subscribe:
+    section_title: Our newsletter
+event-highlight: []
+---
+
+<h1 class="page-title">Research weeks</h1>
+
+<p>The SLARG researcher weeks are present a view on the plurality of the research projects, processes, methods, experiments and propositions through workshops, presentations, seminars, performances, guided tours, and much more. </p>
+
+<p>To discover what is happening at SLARG on an ongoing basis, we invite you to visit our research weeks, where you will encounter research and creation as entangled processes. Because research in the arts can be challenging to grasp at first sight, we organize guided tours and events led by the researchers themselves, in which you are welcome to participate.
+</p>
+
+{% for section in event-highlight %}
+<section class="homepage-section">
+	{% if section.section_title %}
+	<h2 class="big-title">{{ section.section_title }}</h2>
+	{% endif %}
+
+  <!-- {% if section.date %}
+  {% assign parts = section.date | split: "-" %}
+  {% assign year = parts[0] %}
+  {% assign month = parts[1] | plus: 0 | prepend: "0" | slice: -2 %}
+  {% assign day = parts[2] | plus: 0 | prepend: "0" | slice: -2 %}
+  {% assign iso_date = year | append: "-" | append: month | append: "-" | append: day %} -->
+  <!-- <p>{{ iso_date | date: "%A %-d %B %Y" }}</p> -->
+{% endif %}
+
+  {% if section.time %}
+	<p>{{section.time}}</p>
+	{% endif %}
+
+  {% if section.location %}
+	<p>{{section.location}}</p>
+	{% endif %}
+
+	<div class="description">{{ section.description}}</div>
+
+	{% if section.image %}
+	<div class="image">
+		<img src="{{ section.image }}" alt="{{ section.section_title }}" />
+	</div>
+	{% endif %}
+</section>
+{% endfor %}
+
+<h2 class="big-title">Past research weeks</h2>
+
+<div class="sites-grid">
+	<a class="site-thumb" href="/research-week/2024">
+		<img src="/static/img/slarg-2024-research-week-visual-exhibition.png" alt="" />
+		<span>Research Week 2024</span>
+	</a>
+	<a class="site-thumb" href="/2023/">
+		<img src="/static/img/slarg-2023-thumb.png" alt="" />
+		<span>Research Week 2023</span>
+	</a>
+	<a class="site-thumb" href="/2022/">
+		<img src="/static/img/slarg-2022-thumb.jpg" alt="" />
+		<span>Research Week 2022</span>
+	</a>
+	<a class="site-thumb" href="/2021/">
+		<img src="/static/img/slarg-2021-thumb.jpg" alt="" />
+		<span>Research Week 2021</span>
+	</a>
+</div>
