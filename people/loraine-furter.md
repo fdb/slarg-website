@@ -16,5 +16,6 @@ status_of_research: ongoing
 research_interests:
   - gatito
   - graphic design
-projects: []
+projects:
+  - some random thing
 ---
