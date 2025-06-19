@@ -194,7 +194,8 @@ collections:
           name: 'research_interests',
           widget: 'researchInterests',
           required: false,
-          hint: 'Select or add your research interests'
+          hint: 'Select or add your research interests',
+          max: 5
         }
       - {
           label: 'Image Researcher',
@@ -280,7 +281,8 @@ collections:
           name: 'research_interests',
           widget: 'researchInterests',
           required: false,
-          hint: 'Select or add your research interests'
+          hint: 'Select or add your research interests',
+          max: 5
         }
       - {
           label: 'Research Projects',
@@ -325,6 +327,14 @@ collections:
         }
       - { label: 'Ongoing', name: 'ongoing', widget: 'boolean', required: false }
       - { label: 'Abstract', name: 'abstract', widget: 'text', required: false }
+      - {
+          label: 'Research Interests',
+          name: 'research_interests',
+          widget: 'researchInterests',
+          required: false,
+          hint: 'Select or add your research interests',
+          max: 3
+        }
       - { label: 'Main_mage', name: 'Main image', widget: 'image', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Describe the project in detail' }
       - {

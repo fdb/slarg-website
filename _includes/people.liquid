@@ -37,8 +37,9 @@ layout: base
     {{ bio }}
   </div>
 
-  <div class="person-projects">
+ 
     {% if projects and projects.size > 0 and collections.projects %}
+      <div class="person-projects">
       <h2>Projects</h2>
       <ul>
         {% for projectEntry in collections.projects %}
@@ -49,8 +50,9 @@ layout: base
           {% endif %}
         {% endfor %}
       </ul>
+      </div>
     {% endif %}
-  </div>
+ 
 
 
 </div>

@@ -1,4 +1,5 @@
 ---
+layout: activity.liquid
 title: research week kick off
 startDate: 2025-04-15T11:53:47.156Z
 endDate: ""

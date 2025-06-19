@@ -1,13 +1,15 @@
 ---
-layout: page.liquid
+layout: base
 ---
 
-<h2 class="big-title">People</h2>
+{% include "people-grid.liquid" %}
+
+<!-- <h2 class="big-title">People</h2>
 <div class="researcher-grid">
-  {% for person in collections.people %}
-    <a class="researcher" href="{{ person.url }}">
-      <img src="{{ person.data.image_researcher[0] }}/-/preview/600x600/" alt="headshot of {{ person.data.researcher_name }}" />
-      <h3>{{ person.data.researcher_name }}</h3>
-    </a>
-  {% endfor %}
-</div>
+	{% assign sorted_people = collections.people | sort: "data.person_name" %} {% for person in sorted_people %}
+	<a class="researcher" href="{{ person.url }}">
+		<img src="{{ person.data.image_researcher[0] }}/-/preview/600x600/" alt="headshot of {{ person.data.researcher_name }}" />
+		<h3>{{ person.data.researcher_name }}</h3>
+	</a>
+	{% endfor %}
+</div> -->

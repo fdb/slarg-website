@@ -1,6 +1,3 @@
----
-layout: base
----
 <link rel="stylesheet" href="/static/css/people.css">
 
 <div class="people-container">
@@ -9,7 +6,7 @@ layout: base
   <p>Here you find an overview of the people involved in the research in Sint Lucas, with different roles […]</p>
 
   <div class="filter-box" id="role-filters">
-  <h3>filter by </h3>
+    <h3>filter by</h3>
     {% assign roles = "" %}
     {% for person in collections.people %}
       {% for role in person.data.role %}
@@ -18,16 +15,17 @@ layout: base
         {% endunless %}
       {% endfor %}
     {% endfor %}
-  
     {% assign uniqueRoles = roles | split: ',' | uniq %}
-  
     {% for role in uniqueRoles %}
-      <button onclick="filterByRole('{{ role }}')">{{ role }}</button>
+      {% if role != "" %}
+        <button onclick="toggleRoleFilter(this, '{{ role }}')">{{ role }}</button>
+      {% endif %}
     {% endfor %}
   </div>
 
   <div class="people-grid">
-    {% for person in collections.people %}
+    {% assign sorted_people = collections.people | sort: "data.person_name" %}
+    {% for person in sorted_people %}
       <a href="{{ person.url }}" class="person-card" data-roles="{{ person.data.role | join: ',' }}">
         <div class="person-image">
           {% if person.data.headshot %}
@@ -62,30 +60,17 @@ layout: base
 </div>
 
 <script>
-  function filterByRole(role) {
+function toggleRoleFilter(btn, role) {
+  btn.classList.toggle('active');
+  const active = Array.from(document.querySelectorAll('#role-filters button.active')).map(b => b.textContent);
   const people = document.querySelectorAll('.person-card');
-  const buttons = document.querySelectorAll('#role-filters button');
-
-  // Remove the 'active' class from all buttons
-  buttons.forEach(button => {
-    button.classList.remove('active');
-  });
-
-  // Add the 'active' class to the clicked button
-  const activeButton = Array.from(buttons).find(button => button.textContent === role);
-  if (activeButton) {
-    activeButton.classList.add('active');
+  if (active.length === 0) {
+    people.forEach(p => p.style.display = 'block');
+    return;
   }
-
   people.forEach(person => {
     const roles = person.getAttribute('data-roles').split(',');
-    if (roles.includes(role)) {
-      person.style.opacity = '1';        
-      person.style.display = 'block';  
-    } else {
-      person.style.opacity = '0';       
-      person.style.display = 'none'; 
-    }
+    person.style.display = active.some(r => roles.includes(r)) ? 'block' : 'none';
   });
 }
 </script>

@@ -1,0 +1,31 @@
+---
+layout: base
+---
+<article class="activity-detail">
+  {% if thumbnail %}
+    <img src="{{ thumbnail }}" alt="Thumbnail for {{ title }}" class="activity-thumb">
+  {% endif %}
+  <h1 class="activity-title">{{ title }}</h1>
+  <div class="activity-meta">
+    <span>
+      <strong>Date:</strong>
+      {{ startDate | formatDateTime }}
+      {% if endDate and endDate != "" %}
+        &ndash; {{ endDate | formatDateTime }}
+      {% endif %}
+    </span>
+    {% if location %}
+      <span><strong>Location:</strong> {{ location }}</span>
+    {% endif %}
+    {% if tags %}
+      <span class="activity-tags">
+        {% for tag in tags %}
+          <span class="activity-tag">{{ tag }}</span>
+        {% endfor %}
+      </span>
+    {% endif %}
+  </div>
+  <div class="activity-body">
+    {{ body }}
+  </div>
+</article> 
