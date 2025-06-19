@@ -2,12 +2,12 @@
 layout: page.liquid
 ---
 
-<h2 class="big-title">Researchers</h2>
+<h2 class="big-title">People</h2>
 <div class="researcher-grid">
-	{% for researcher in collections.researchers %}
-	<a class="researcher" href="{{ researcher.url }}">
-		<img src="{{researcher.data.image_researcher}}/-/preview/600x600/" alt="headshot of {{researcher.data.researcher_name}}" />
-		<h3>{{ researcher.data.researcher_name }}</h3>
-	</a>
-	{% endfor %}
+  {% for person in collections.people %}
+    <a class="researcher" href="{{ person.url }}">
+      <img src="{{ person.data.image_researcher[0] }}/-/preview/600x600/" alt="headshot of {{ person.data.researcher_name }}" />
+      <h3>{{ person.data.researcher_name }}</h3>
+    </a>
+  {% endfor %}
 </div>
