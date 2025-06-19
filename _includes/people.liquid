@@ -38,19 +38,18 @@ layout: base
   </div>
 
   <div class="person-projects">
-    {% if collections.projects %}
-  <h2>Projects</h2>
-  <ul>
-    {% for projectEntry in collections.projects %}
-      {% if projects contains projectEntry.data.title %}
-        <li>
-          <a href="{{ projectEntry.url }}">{{ projectEntry.data.title }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-{% endif %}
-
+    {% if projects and projects.size > 0 and collections.projects %}
+      <h2>Projects</h2>
+      <ul>
+        {% for projectEntry in collections.projects %}
+          {% if projects contains projectEntry.data.title %}
+            <li>
+              <a href="{{ projectEntry.url }}">{{ projectEntry.data.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    {% endif %}
   </div>
 
 

@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: main
+  branch: dev
 media_folder: static/img
 media_library:
   name: uploadcare
@@ -172,9 +172,9 @@ collections:
           default: 'Sint Lucas Antwerpen showroom'
         }
   - name: 'researchers'
-    label: 'People'
+    label: 'researchers-old'
     folder: 'researchers'
-    hide: false
+    hide: true
     slug: '{{researcher_name}}'
     preview_path: '/researcher/{{slug}}'
     create: true
@@ -246,45 +246,27 @@ collections:
           widget: 'string',
           hint: 'Will be displayed large and in bold. Keep it short for layout purposes.'
         }
-      - {
-          label: 'Researcher_name',
-          name: 'researcher_name',
-          widget: 'string',
-          hint: 'Will be displayed large and in bold. Keep it short for layout purposes.'
-        }
       - { label: 'Bio', name: 'bio', widget: 'markdown', hint: 'Short bio' }
       - { label: 'Headshot', name: 'headshot', widget: 'image', media_library: { config: { multiple: false } } }
-      - {
-          label: 'Image Researcher',
-          name: 'image_researcher',
-          widget: 'image',
-          label_singular: 'image',
-          media_library: { config: { multiple: true } }
-        }
       - {
           label: 'Role',
           name: 'role',
           widget: 'select',
           multiple: true,
           options: ['Researcher', 'Staff', 'PhD Student', 'Post-Doc', 'Supervisor'],
-          default: ['Researcher']
+          default: ['Researcher'],
+          required: false
         }
       - { label: 'Staff_flag', name: 'staff_flag', widget: 'boolean', default: 'false', hint: 'check this box if you are a staff member' }
-
       - { label: 'Email', name: 'email', widget: 'string', hint: 'email', required: false }
-      - { label: 'Available for Supervision', 
-          name: 'available_for_supervision', 
-          widget: 'boolean', 
-          default: false, 
-          required: false 
-        }
-      - label: "Supervisors"
-        name: "supervisors"
-        widget: "list"
+      - { label: 'Available for Supervision', name: 'available_for_supervision', widget: 'boolean', default: false, required: false }
+      - label: 'Supervisors'
+        name: 'supervisors'
+        widget: 'list'
         required: false
         fields:
-        - { label: "Supervisor Name", name: "name", widget: "string" }
-        - { label: "Supervisor Link", name: "link", widget: "string", required: false }
+          - { label: 'Supervisor Name', name: 'name', widget: 'string' }
+          - { label: 'Supervisor Link', name: 'link', widget: 'string', required: false }
       - {
           label: 'Status of Research',
           name: 'status_of_research',
@@ -293,7 +275,6 @@ collections:
           default: 'ongoing',
           required: false
         }
-
       - {
           label: 'Research Interests',
           name: 'research_interests',
@@ -317,7 +298,8 @@ collections:
           name: 'social_links',
           widget: 'markdown',
           default: 'false',
-          hint: 'add a link to external websites or social profiles'
+          hint: 'add a link to external websites or social profiles',
+          required: false
         }
   - name: 'projects'
     label: 'Research Projects'
@@ -334,13 +316,27 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Start Date', name: 'start_date', widget: 'datetime', required: false, date_format: 'YYYY-MM', time_format: false }
       - { label: 'End Date', name: 'end_date', widget: 'datetime', required: false, date_format: 'YYYY-MM', time_format: false }
-      - { label: "Project Kind", name: "project-kind", widget: "select", options: ["post-doc", "pre-doc", "PhD", "social outreach"], required: false }
-      - {label: "Ongoing", name: "ongoing", widget: "boolean", required: false }
+      - {
+          label: 'Project Kind',
+          name: 'project-kind',
+          widget: 'select',
+          options: ['post-doc', 'pre-doc', 'PhD', 'social outreach'],
+          required: false
+        }
+      - { label: 'Ongoing', name: 'ongoing', widget: 'boolean', required: false }
       - { label: 'Abstract', name: 'abstract', widget: 'text', required: false }
       - { label: 'Main_mage', name: 'Main image', widget: 'image', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Describe the project in detail' }
-      - { label: "Gallery", name: "gallery", widget: "list", max: 3, required: false, allow_add: true, allow_remove: true, 
-          field: { label: "Image", name: "image", widget: "image" , required: false} }
+      - {
+          label: 'Gallery',
+          name: 'gallery',
+          widget: 'list',
+          max: 3,
+          required: false,
+          allow_add: true,
+          allow_remove: true,
+          field: { label: 'Image', name: 'image', widget: 'image', required: false }
+        }
       - {
           label: 'People Involved',
           name: 'people',
@@ -352,16 +348,14 @@ collections:
           multiple: true,
           required: false
         }
-      - label: "Funding"
-        name: "funding"
-        widget: "list"
+      - label: 'Funding'
+        name: 'funding'
+        widget: 'list'
         required: false
         fields:
-        - { label: "Funding's name", name: "name", widget: "string" }
-        - { label: "Link to funding's website", name: "link", widget: "string", required: false }
-        - { label: "thumbnail for funding body", name: 'image', widget: 'image', required: false }
-
-
+          - { label: "Funding's name", name: 'name', widget: 'string' }
+          - { label: "Link to funding's website", name: 'link', widget: 'string', required: false }
+          - { label: 'thumbnail for funding body', name: 'image', widget: 'image', required: false }
 
   - name: 'homepage'
     label: 'Homepage'
@@ -382,10 +376,19 @@ collections:
                   { label: 'section title', name: 'section_title', widget: 'string', required: false },
                   { label: 'section Description', name: 'description', widget: 'markdown' },
                   { label: 'image', name: 'image', widget: 'image', required: false },
-                  { label: 'Date', name: 'date', widget: 'datetime', required: false, default: '2023-10-16', format: 'YYYY-MM-DD', date_format: 'DD/MM/YYYY', time_format: false, hint: 'Date of your event/performance'},
+                  {
+                    label: 'Date',
+                    name: 'date',
+                    widget: 'datetime',
+                    required: false,
+                    default: '2023-10-16',
+                    format: 'YYYY-MM-DD',
+                    date_format: 'DD/MM/YYYY',
+                    time_format: false,
+                    hint: 'Date of your event/performance'
+                  },
                   { label: 'Time', name: 'time', widget: 'string', required: false, hint: 'E.g. 10:00 - 12:00' },
-                  { label: 'Location', name: 'location', widget: 'string', required: false}
-
+                  { label: 'Location', name: 'location', widget: 'string', required: false }
                 ]
             }
   - name: 'events_2025'
@@ -499,8 +502,7 @@ collections:
                 [
                   { label: 'section title', name: 'section_title', widget: 'string' },
                   { label: 'section Description', name: 'description', widget: 'text' },
-                  { label: "thumbnail for funding body", name: 'image', widget: 'image', required: false }
-
+                  { label: 'thumbnail for funding body', name: 'image', widget: 'image', required: false }
                 ]
             }
   - name: 'Applying-phd'
@@ -522,35 +524,33 @@ collections:
                 [
                   { label: 'section title', name: 'section_title', widget: 'string' },
                   { label: 'section Description', name: 'description', widget: 'text' },
-                  { label: "thumbnail for funding body", name: 'image', widget: 'image', required: false }
-
+                  { label: 'thumbnail for funding body', name: 'image', widget: 'image', required: false }
                 ]
             }
-  - name: "activity"
-    label: "Activity"
-    folder: "content/activities"
+  - name: 'activity'
+    label: 'Activity'
+    folder: 'content/activities'
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Start Date", name: "startDate", widget: "datetime" }
-      - { label: "End Date", name: "endDate", widget: "datetime", required: false }
-      - { label: "Location", name: "location", widget: "string", required: false }
-      - { label: "Thumbnail", name: "thumbnail", widget: "image", required: false }
-      - { label: "Description", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Start Date', name: 'startDate', widget: 'datetime' }
+      - { label: 'End Date', name: 'endDate', widget: 'datetime', required: false }
+      - { label: 'Location', name: 'location', widget: 'string', required: false }
+      - { label: 'Thumbnail', name: 'thumbnail', widget: 'image', required: false }
+      - { label: 'Description', name: 'body', widget: 'markdown' }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false }
 
-  - name: "research-week-activity"
-    label: "Research Week Activity"
-    folder: "content/research-week-activities"
+  - name: 'research-week-activity'
+    label: 'Research Week Activity'
+    folder: 'content/research-week-activities'
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Start Date", name: "startDate", widget: "datetime" }
-      - { label: "End Date", name: "endDate", widget: "datetime", required: false }
-      - { label: "Location", name: "location", widget: "string", required: false }
-      - { label: "Thumbnail", name: "thumbnail", widget: "image", required: false }
-      - { label: "Description", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list", required: false }
-
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Start Date', name: 'startDate', widget: 'datetime' }
+      - { label: 'End Date', name: 'endDate', widget: 'datetime', required: false }
+      - { label: 'Location', name: 'location', widget: 'string', required: false }
+      - { label: 'Thumbnail', name: 'thumbnail', widget: 'image', required: false }
+      - { label: 'Description', name: 'body', widget: 'markdown' }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false }
