@@ -19,6 +19,7 @@ supervisors:
   - name: ANNELYS
 status_of_research: ongoing
 research_interests:
+  - fdd
   - pero
   - snail
   - tah
