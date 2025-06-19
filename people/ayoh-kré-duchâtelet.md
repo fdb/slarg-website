@@ -20,5 +20,5 @@ staff_flag: false
 email: ayoh.duchatelet@kdg.be
 available_for_supervision: false
 status_of_research: ongoing
-social_links: _.
+social_links: ""
 ---
