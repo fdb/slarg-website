@@ -1,7 +1,9 @@
 ---
 layout: people.liquid
 tags: researcher
+person_name: Annelys de Vet
 researcher_name: Annelys de Vet
+researcher_flag: "false"
 bio: Annelys de Vet is a designer, researcher, and educator with a practice in
   long-term, participative design projects engaged in social and political
   struggles. Annelys initiated the publishing initiative 'Subjective Editions,'
@@ -10,19 +12,24 @@ bio: Annelys de Vet is a designer, researcher, and educator with a practice in
   (2007). She co-founded 'Disarming Design from Palestine,' a thought-provoking
   design platform developing artisanal products from Palestine. She headed the
   temporary master's program 'Disarming Design' (2020–2022), focusing on design
-  practices in situations of oppression, which was part of the Sandberg Instituut Amsterdam, where she was the course director of the MA in Design
+  practices in situations of oppression, which was part of the Sandberg
+  Instituut Amsterdam, where she was the course director of the MA in Design
   from 2009 to 2019. Annelys tutors Socio-Political Practices in the master's
   program at Sint Lucas Antwerpen (KdG). She is doing a PhD in the arts at Sint
   Lucas Antwerpen (KdG) / ARIA (University of Antwerp), where she will defend
   her PhD dissertation "Disarming Design, politics of Participatory Practices"
   in November 2024.
+headshot: https://ucarecdn.com/74932bb7-6817-44de-a5c8-fd359dc5e00a/
 image_researcher:
   - https://ucarecdn.com/ca0059fa-b44b-4562-bc62-50ceb7f5fc6f/
-email: annelys.devet@kdg.be
-researcher_flag: "false"
+role:
+  - Staff
 staff_flag: "false"
+email: annelys.devet@kdg.be
 available_for_supervision: "false"
 status_of_research: ongoing
+research_interests:
+  - subjective mapping
 social_links: |-
   [www.subjectiveeditions.org](www.subjectiveeditions.org)
 
