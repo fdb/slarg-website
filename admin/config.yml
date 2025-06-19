@@ -1,15 +1,26 @@
 backend:
   name: git-gateway
-  branch: main
+  branch: dev
+media_folder: static/img
 media_library:
   name: uploadcare
   config:
     publicKey: 8970f409c0de54974858
 site_url: https://slarg.be
 display_url: https://slarg.be
+load_scripts:
+  - /static/widgets/researchInterests.js
+widgets:
+  - name: researchInterests
+    label: Research Interests
+    widget: list
+    fields:
+      - { label: 'Interest', name: 'interest', widget: 'string' }
+    global_tags: true
 collections:
   - name: 'events'
     label: 'Events'
+    hide: true
     label_singular: 'Event'
     folder: 'events'
     create: true
@@ -17,7 +28,7 @@ collections:
     slug: '{{date}}-{{title}}'
     preview_path: '/events/{{slug}}'
     summary: '{{date}} | {{title}} | {{author}}'
-    sortable_fields: ['date', 'title']
+    sortable_fields: ['date desc', 'title']
     view_filters:
       - label: '2023'
         field: 'year'
@@ -71,6 +82,7 @@ collections:
         }
   - name: 'events_2024'
     label: 'events_2024'
+    hide: true
     label_singular: 'event'
     folder: 'research-week/2024'
     create: true
@@ -98,7 +110,14 @@ collections:
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'event' }
       - { label: 'Event Year', name: 'year', widget: 'hidden', default: 2024 }
       # - Here starts the visible fields in the CMS
-      - { label: 'Section website 2024', name: 'section_website_2024', widget: 'select', options: ['event', 'exhibition'], default: 'event', hint: 'Choose “event” if your contributon is not part of the permanent exhibition, but rather a performance/screening/event.'}
+      - {
+          label: 'Section website 2024',
+          name: 'section_website_2024',
+          widget: 'select',
+          options: ['event', 'exhibition', 'film screening', 'performance'],
+          default: 'event',
+          hint: 'Choose "event" if your contributon is not part of the permanent exhibition, but rather a performance/screening/event.'
+        }
       - {
           label: 'Event Title',
           name: 'title',
@@ -106,8 +125,18 @@ collections:
           hint: 'Will be displayed large and in bold in the overview page. Keep it short for layout purposes. if your work does not have a titile, use your research title or you can describe what it is, ex. "video installation - untitled 2006" '
         }
       # - { label: 'Event Byline', name: 'byline', widget: 'string', hint: 'Will be displayed as a smaller subtitle.' }
-      - { label: 'Project or event type', name: 'type', widget: 'string', hint: 'We recommend to add what type of event it is (ex: performance, video installation, talk, movie screening…)' }
-      - { label: 'Researcher', name: 'author', widget: 'string', hint: 'Your name. If you want to add collaborators etc, you can use the body text.' }
+      - {
+          label: 'Project or event type',
+          name: 'type',
+          widget: 'string',
+          hint: 'We recommend to add what type of event it is (ex: performance, video installation, talk, movie screening…)'
+        }
+      - {
+          label: 'Researcher',
+          name: 'author',
+          widget: 'string',
+          hint: 'Your name. If you want to add collaborators etc, you can use the body text.'
+        }
       - {
           label: 'Main image',
           name: 'main_image',
@@ -115,14 +144,13 @@ collections:
           required: false,
           hint: 'Please use a square image; otherwise it will be cropped in the grid.'
         }
-      - { label: 'Body text', name: 'body', widget: 'markdown', hint: 'Describe your event/project exhibited. Add a registration link at the end if needed.' }
       - {
-          label: 'Images',
-          name: 'images',
-          widget: 'image',
-          label_singular: 'image', 
-          media_library: { config: { multiple: true } }
+          label: 'Body text',
+          name: 'body',
+          widget: 'markdown',
+          hint: 'Describe your event/project exhibited. Add a registration link at the end if needed.'
         }
+      - { label: 'Images', name: 'images', widget: 'image', label_singular: 'image', media_library: { config: { multiple: true } } }
       # These are fields that apply to your work if it is an event/performance
       - {
           label: 'Date',
@@ -136,10 +164,17 @@ collections:
           hint: 'Date of your event/performance'
         }
       - { label: 'Time', name: 'time', widget: 'string', required: false, hint: 'E.g. 10:00 - 12:00' }
-      - { label: 'Location', name: 'location', widget: 'select', options: ['Sint Lucas Antwerpen showroom', 'Chapel'], default: 'Sint Lucas Antwerpen showroom'}
-  - name: researchers
-    label: 'Researchers'
+      - {
+          label: 'Location',
+          name: 'location',
+          widget: 'select',
+          options: ['Sint Lucas Antwerpen showroom', 'Chapel'],
+          default: 'Sint Lucas Antwerpen showroom'
+        }
+  - name: 'researchers'
+    label: 'researchers-old'
     folder: 'researchers'
+    hide: true
     slug: '{{researcher_name}}'
     preview_path: '/researcher/{{slug}}'
     create: true
@@ -147,12 +182,21 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'researcher.liquid' }
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'researcher' }
-      - { label: 'Researcher_name',
+      - {
+          label: 'Researcher_name',
           name: 'researcher_name',
           widget: 'string',
           hint: 'Will be displayed large and in bold. Keep it short for layout purposes.'
         }
       - { label: 'Bio', name: 'bio', widget: 'markdown', hint: ' short bio of researcher' }
+      - {
+          label: 'Research Interests',
+          name: 'research_interests',
+          widget: 'researchInterests',
+          required: false,
+          hint: 'Select or add your research interests',
+          max: 5
+        }
       - {
           label: 'Image Researcher',
           name: 'image_researcher',
@@ -160,84 +204,363 @@ collections:
           label_singular: 'image',
           media_library: { config: { multiple: true } }
         }
-      - {label: 'Email', name: 'email', widget: 'string', hint: 'email' }
-      - {label: 'researcher_flag', name: 'researcher_flag', widget: 'boolean', default: 'false' , hint: 'tick this box if you are a researcher'}
-      - {label: 'Staff_flag', name: 'staff_flag', widget: 'boolean', default: 'false', hint: 'check this box if you are a staff member'}
-      - {lablel: 'Available_for_supervision', name: 'available_for_supervision', widget: 'boolean', default: 'false', hint: 'tick this box if you are a post doc available for supervision'}
-      - {label: 'Status_of_research', name: 'status_of_research', widget: 'select', options: ['ongoing', 'finished']}
-      - {label: 'Social_links', name: 'social_links', widget: 'markdown', default: 'false', hint: 'add a link to external websites or social profiles' }
-      # TODO: add a widget for a list of tags eventually
-  - name: people
-    label: 'People'
+      - { label: 'Email', name: 'email', widget: 'string', hint: 'email' }
+      - {
+          label: 'researcher_flag',
+          name: 'researcher_flag',
+          widget: 'boolean',
+          default: 'false',
+          hint: 'tick this box if you are a researcher'
+        }
+      - { label: 'Staff_flag', name: 'staff_flag', widget: 'boolean', default: 'false', hint: 'check this box if you are a staff member' }
+      - {
+          label: 'Available_for_supervision',
+          name: 'available_for_supervision',
+          widget: 'boolean',
+          default: 'false',
+          hint: 'tick this box if you are a post doc available for supervision'
+        }
+      - { label: 'Status_of_research', name: 'status_of_research', widget: 'select', options: ['ongoing', 'finished'] }
+      - {
+          label: 'Social_links',
+          name: 'social_links',
+          widget: 'markdown',
+          default: 'false',
+          hint: 'add a link to external websites or social profiles'
+        }
+  - name: 'people'
+    label: 'People-new'
     folder: 'people'
     slug: '{{person_name}}'
     preview_path: '/people/{{slug}}'
     create: true
     delete: true
+    filter: { field: 'layout', value: 'people.liquid' }
+    identifier_field: 'person_name'
+    sortable_fields: ['person_name', 'role']
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'people.liquid' }
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'people' }
-      - { label: 'Person_name',
+      - {
+          label: 'Person Name',
           name: 'person_name',
           widget: 'string',
           hint: 'Will be displayed large and in bold. Keep it short for layout purposes.'
         }
-      - { label: 'Bio', name: 'bio', widget: 'markdown', hint: ' short bio ' }
+      - { label: 'Bio', name: 'bio', widget: 'markdown', hint: 'Short bio' }
+      - { label: 'Headshot', name: 'headshot', widget: 'image', media_library: { config: { multiple: false } } }
       - {
-          label: 'Image Person',
-          name: 'image_person',
-          widget: 'image',
-          label_singular: 'image',
-          media_library: { config: { multiple: true } }
+          label: 'Role',
+          name: 'role',
+          widget: 'select',
+          multiple: true,
+          options: ['Researcher', 'Staff', 'PhD Student', 'Post-Doc', 'Supervisor'],
+          default: ['Researcher'],
+          required: false
         }
-      - { label: 'Email', name: 'email', widget: 'string', hint: 'email' }
-      - { label: 'supervisor_flag', name: 'supervisor_flag', widget: 'boolean', default: 'false' , hint: 'tick this box if you are a supervisor'}
-      - { label: 'Staff_flag', name: 'staff_flag', widget: 'boolean', default: 'false', hint: 'check this box if you are a staff member'}
-      - { label: 'Available_for_supervision', name: 'available_for_supervision', widget: 'boolean', default: 'false', hint: 'tick this box if you are a post doc available for supervision'}
-      - {label: 'Status_of_research', name: 'status_of_research', widget: 'select', options: ['ongoing', 'finished']}
-      # - {label: 'Social_links', name: 'social_links', widget: 'markdown', default: 'false', hint: 'add a link to external websites or social profiles' }
-      - {label: "Social Links", name: "social_links", widget: "list", allow_add: true, hint: "Add links to external websites or social profiles.", 
-          fields:
-          [
-            {label: "Name", name: "name", widget: "string", hint: "e.g., Twitter, Website" },
-            {label: "URL", name: "url", widget: "string", hint: "e.g., https://twitter.com/example"},
-          ]
-      }
+      - { label: 'Staff_flag', name: 'staff_flag', widget: 'boolean', default: 'false', hint: 'check this box if you are a staff member' }
+      - { label: 'Email', name: 'email', widget: 'string', hint: 'email', required: false }
+      - { label: 'Available for Supervision', name: 'available_for_supervision', widget: 'boolean', default: false, required: false }
+      - label: 'Supervisors'
+        name: 'supervisors'
+        widget: 'list'
+        required: false
+        fields:
+          - { label: 'Supervisor Name', name: 'name', widget: 'string' }
+          - { label: 'Supervisor Link', name: 'link', widget: 'string', required: false }
+      - {
+          label: 'Status of Research',
+          name: 'status_of_research',
+          widget: 'select',
+          options: ['ongoing', 'finished'],
+          default: 'ongoing',
+          required: false
+        }
+      - {
+          label: 'Research Interests',
+          name: 'research_interests',
+          widget: 'researchInterests',
+          required: false,
+          hint: 'Select or add your research interests',
+          max: 5
+        }
+      - {
+          label: 'Research Projects',
+          name: 'projects',
+          widget: 'relation',
+          collection: 'projects',
+          search_fields: ['title'],
+          value_field: 'title',
+          display_fields: ['title'],
+          multiple: true,
+          required: false
+        }
+      - {
+          label: 'Social_links',
+          name: 'social_links',
+          widget: 'markdown',
+          default: 'false',
+          hint: 'add a link to external websites or social profiles',
+          required: false
+        }
+  - name: 'projects'
+    label: 'Research Projects'
+    folder: 'projects'
+    slug: '{{title}}'
+    create: true
+    delete: true
+    preview_path: '/projects/{{slug}}'
+    identifier_field: 'title'
+    sortable_fields: ['title']
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'project.liquid' }
+      - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'project' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Start Date', name: 'start_date', widget: 'datetime', required: false, date_format: 'YYYY-MM', time_format: false }
+      - { label: 'End Date', name: 'end_date', widget: 'datetime', required: false, date_format: 'YYYY-MM', time_format: false }
+      - {
+          label: 'Project Kind',
+          name: 'project-kind',
+          widget: 'select',
+          options: ['post-doc', 'pre-doc', 'PhD', 'social outreach'],
+          required: false
+        }
+      - { label: 'Ongoing', name: 'ongoing', widget: 'boolean', required: false }
+      - { label: 'Abstract', name: 'abstract', widget: 'text', required: false }
+      - {
+          label: 'Research Interests',
+          name: 'research_interests',
+          widget: 'researchInterests',
+          required: false,
+          hint: 'Select or add your research interests',
+          max: 3
+        }
+      - { label: 'Main_mage', name: 'Main image', widget: 'image', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Describe the project in detail' }
+      - {
+          label: 'Gallery',
+          name: 'gallery',
+          widget: 'list',
+          max: 3,
+          required: false,
+          allow_add: true,
+          allow_remove: true,
+          field: { label: 'Image', name: 'image', widget: 'image', required: false }
+        }
+      - {
+          label: 'People Involved',
+          name: 'people',
+          widget: 'relation',
+          collection: 'people',
+          search_fields: ['person_name'],
+          value_field: 'person_name',
+          display_fields: ['person_name'],
+          multiple: true,
+          required: false
+        }
+      - label: 'Funding'
+        name: 'funding'
+        widget: 'list'
+        required: false
+        fields:
+          - { label: "Funding's name", name: 'name', widget: 'string' }
+          - { label: "Link to funding's website", name: 'link', widget: 'string', required: false }
+          - { label: 'thumbnail for funding body', name: 'image', widget: 'image', required: false }
 
-  - name: homepage
-    label: "Homepage"
+  - name: 'homepage'
+    label: 'Homepage'
     delete: false
     editor:
       preview: false
     files:
-      - label: "Homepage"
-        name: "homepage"
-        file: "index.html"  
+      - label: 'Homepage'
+        name: 'homepage'
+        file: 'index.html'
         fields:
-          - { label: "content", name: "content", widget: "list", 
-              fields: 
+          - {
+              label: 'event-highlight',
+              name: 'event-highlight',
+              widget: 'list',
+              fields:
                 [
-                  {label: "section title", name: "section_title", widget: "string"}, 
-                  {label: "section Description", name: "description", widget: "text"}
-                ] 
-          }
-  - name: accessibility
-    label: "Accessibility"
+                  { label: 'section title', name: 'section_title', widget: 'string', required: false },
+                  { label: 'section Description', name: 'description', widget: 'markdown' },
+                  { label: 'image', name: 'image', widget: 'image', required: false },
+                  {
+                    label: 'Date',
+                    name: 'date',
+                    widget: 'datetime',
+                    required: false,
+                    default: '2023-10-16',
+                    format: 'YYYY-MM-DD',
+                    date_format: 'DD/MM/YYYY',
+                    time_format: false,
+                    hint: 'Date of your event/performance'
+                  },
+                  { label: 'Time', name: 'time', widget: 'string', required: false, hint: 'E.g. 10:00 - 12:00' },
+                  { label: 'Location', name: 'location', widget: 'string', required: false }
+                ]
+            }
+  - name: 'events_2025'
+    label: 'events_2025'
+    label_singular: 'event'
+    folder: 'research-week/2025'
+    create: true
+    delete: true
+    slug: '{{title}}'
+    preview_path: '/research-week/{{slug}}'
+    summary: '{{date}} | {{title}} | {{author}}'
+    sortable_fields: ['date desc', 'title']
+    view_filters:
+      - label: '2025'
+        field: 'year'
+        pattern: '2025'
+      - label: '2024'
+        field: 'year'
+        pattern: '2024'
+      - label: '2023'
+        field: 'year'
+        pattern: '2023'
+      - label: '2022'
+        field: 'year'
+        pattern: '2022'
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'event.liquid' }
+      - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'event' }
+      - { label: 'Event Year', name: 'year', widget: 'hidden', default: 2024 }
+      # - Here starts the visible fields in the CMS
+      - {
+          label: 'Event Type',
+          name: 'Event type',
+          widget: 'select',
+          options: ['event', 'exhibition', 'film screening', 'performance'],
+          default: 'event',
+          hint: 'Choose "event" if your contributon is not part of the permanent exhibition, but rather a performance/screening/event.'
+        }
+      - {
+          label: 'Event Title',
+          name: 'title',
+          widget: 'string',
+          hint: 'Will be displayed large and in bold in the overview page. Keep it short for layout purposes. if your work does not have a titile, use your research title or you can describe what it is, ex. "video installation - untitled 2006" '
+        }
+      # - { label: 'Event Byline', name: 'byline', widget: 'string', hint: 'Will be displayed as a smaller subtitle.' }
+      - {
+          label: 'Project or event type',
+          name: 'type',
+          widget: 'string',
+          hint: 'We recommend to add what type of event it is (ex: performance, video installation, talk, movie screening…)'
+        }
+      - {
+          label: 'Researcher',
+          name: 'author',
+          widget: 'string',
+          hint: 'Your name. If you want to add collaborators etc, you can use the body text.'
+        }
+      - {
+          label: 'Main image',
+          name: 'main_image',
+          widget: 'image',
+          required: false,
+          hint: 'Please use a square image; otherwise it will be cropped in the grid.'
+        }
+      - {
+          label: 'Body text',
+          name: 'body',
+          widget: 'markdown',
+          hint: 'Describe your event/project exhibited. Add a registration link at the end if needed.'
+        }
+      - { label: 'Images', name: 'images', widget: 'image', label_singular: 'image', media_library: { config: { multiple: true } } }
+      - {
+          label: 'Date',
+          name: 'date',
+          widget: 'datetime',
+          required: false,
+          default: '2023-10-16',
+          format: 'YYYY-MM-DD',
+          date_format: 'DD/MM/YYYY',
+          time_format: false,
+          hint: 'Date of your event/performance'
+        }
+      - { label: 'Time', name: 'time', widget: 'string', required: false, hint: 'E.g. 10:00 - 12:00' }
+      - {
+          label: 'Location',
+          name: 'location',
+          widget: 'select',
+          options: ['Sint Lucas Antwerpen showroom', 'Chapel'],
+          default: 'Sint Lucas Antwerpen showroom'
+        }
+  - name: 'accessibility'
+    label: 'Accessibility'
     delete: false
     editor:
       preview: false
     files:
-      - label: "Accessibility"
-        name: "accessibility"
-        file: "access.html"  
+      - label: 'Accessibility'
+        name: 'accessibility'
+        file: 'access.html'
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          # - { label: "Content", name: "body", widget: "markdown" }
-          - { label: "content", name: "content", widget: "list", 
-              fields: 
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - {
+              label: 'content',
+              name: 'content',
+              widget: 'list',
+              fields:
                 [
-                  {label: "section title", name: "section_title", widget: "string"}, 
-                  {label: "section Description", name: "description", widget: "text"}
-                ] 
-          }
+                  { label: 'section title', name: 'section_title', widget: 'string' },
+                  { label: 'section Description', name: 'description', widget: 'text' },
+                  { label: 'thumbnail for funding body', name: 'image', widget: 'image', required: false }
+                ]
+            }
+  - name: 'Applying-phd'
+    label: 'Applying-phd'
+    delete: false
+    editor:
+      preview: false
+    files:
+      - label: 'Applying-phd'
+        name: 'Applying-phd'
+        file: 'applying-for-phd.html'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - {
+              label: 'content',
+              name: 'content',
+              widget: 'list',
+              fields:
+                [
+                  { label: 'section title', name: 'section_title', widget: 'string' },
+                  { label: 'section Description', name: 'description', widget: 'text' },
+                  { label: 'thumbnail for funding body', name: 'image', widget: 'image', required: false }
+                ]
+            }
+  - name: 'activity'
+    label: 'Activity'
+    folder: 'content/activities'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Start Date', name: 'startDate', widget: 'datetime' }
+      - { label: 'End Date', name: 'endDate', widget: 'datetime', required: false }
+      - { label: 'Location', name: 'location', widget: 'string', required: false }
+      - { label: 'Thumbnail', name: 'thumbnail', widget: 'image', required: false }
+      - { label: 'Description', name: 'body', widget: 'markdown' }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false }
 
+  - name: 'research-week-activity'
+    label: 'Research Week Activity'
+    folder: 'content/research-week-activities'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Start Date', name: 'startDate', widget: 'datetime' }
+      - { label: 'End Date', name: 'endDate', widget: 'datetime', required: false }
+      - { label: 'Location', name: 'location', widget: 'string', required: false }
+      - { label: 'Thumbnail', name: 'thumbnail', widget: 'image', required: false }
+      - { label: 'Description', name: 'body', widget: 'markdown' }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false }

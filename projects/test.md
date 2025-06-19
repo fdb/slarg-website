@@ -1,11 +1,13 @@
 ---
 layout: project.liquid
 tags: project
-title: test project
+title: log project
 start_date: 2025-02-27T21:06:07.454Z
 end_date: ""
 project-kind: PhD
 abstract: here comes an abstract
+research_interests:
+  - the log lady
 gallery:
   - https://ucarecdn.com/d067275d-00af-458c-92e4-a60aab25ef62/
   - https://ucarecdn.com/e335ea73-051d-44ba-ac90-6a6b7ee9d84a/

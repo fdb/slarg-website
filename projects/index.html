@@ -1,0 +1,60 @@
+---
+layout: page.liquid
+title: Research Projects
+---
+
+<h1 class="page-title">Research Projects</h1>
+
+<div class="filter-box" id="interest-filters">
+	<h3>Filter by Research Interest</h3>
+	{% assign all_interests = "" %} {% for project in collections.projects %} {% if project.data.research_interests %} {% for interest in
+	project.data.research_interests %} {% unless all_interests contains interest %} {% assign all_interests = all_interests | append: interest
+	| append: ',' %} {% endunless %} {% endfor %} {% endif %} {% endfor %} {% assign unique_interests = all_interests | split: ',' | uniq %}
+	{% for interest in unique_interests %} {% if interest != "" %}
+	<button onclick="toggleInterestFilter(this, '{{ interest }}')">{{ interest }}</button>
+	{% endif %} {% endfor %}
+</div>
+
+<div class="projects-grid">
+	{% assign sorted_projects = collections.projects | sort: "data.title" %} {% for project in sorted_projects %}
+	<a
+		class="project-card"
+		href="{{ project.url }}"
+		data-interests="{% if project.data.research_interests %}{{ project.data.research_interests | join: ',' }}{% endif %}"
+	>
+		{% if project.data.image %}
+		<img src="{{ project.data.image }}" alt="Image for {{ project.data.title }}" class="project-thumb" />
+		{% endif %}
+		<div class="project-info">
+			<h2 class="project-title">{{ project.data.title }}</h2>
+			{% if project.data.project-kind %}
+			<p class="project-kind">{{ project.data.project-kind }}</p>
+			{% endif %} {% if project.data.abstract %}
+			<p class="project-abstract">{{ project.data.abstract | truncate: 120 }}</p>
+			{% endif %} {% if project.data.research_interests %}
+			<div class="project-interests">
+				{% for interest in project.data.research_interests %}
+				<span class="interest-tag">{{ interest }}</span>
+				{% endfor %}
+			</div>
+			{% endif %}
+		</div>
+	</a>
+	{% endfor %}
+</div>
+
+<script>
+	function toggleInterestFilter(btn, interest) {
+		btn.classList.toggle('active');
+		const active = Array.from(document.querySelectorAll('#interest-filters button.active')).map((b) => b.textContent);
+		const projects = document.querySelectorAll('.project-card');
+		if (active.length === 0) {
+			projects.forEach((p) => (p.style.display = 'flex'));
+			return;
+		}
+		projects.forEach((project) => {
+			const interests = (project.getAttribute('data-interests') || '').split(',');
+			project.style.display = active.some((i) => interests.includes(i)) ? 'flex' : 'none';
+		});
+	}
+</script>
