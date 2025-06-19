@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Shayma Nader
 bio: Shayma Nader is an artist, curator and researcher from Palestine. Her

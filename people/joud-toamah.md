@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Joud Toamah
 bio: Joud Toamah  is a graphic designer and artist researcher from Syria

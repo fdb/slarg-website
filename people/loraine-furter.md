@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 researcher_name: Loraine Furter
 bio: Loraine Furter is a graphic designer and a teacher, specialized in hybrid
   publishing and in love with subversive anti-hegemonic practices. She

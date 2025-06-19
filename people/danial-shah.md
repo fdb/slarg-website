@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Danial Shah
 bio: 'Danial Shah is a Pakistani documentary filmmaker and photographer. Danial

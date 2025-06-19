@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Hoda Siahtiri
 bio: Hoda Siahtiri is an audio visual performance artist and researcher based in

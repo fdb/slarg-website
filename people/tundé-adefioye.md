@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Tundé Adefioye
 bio: "Tundé Adefioye is a Nigerian-American based in Belgium. Tunde helped

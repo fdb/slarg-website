@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Mona Hedayati
 bio: 'Mona Hedayati is an Iranian-Canadian artist-researcher and a joint PhD

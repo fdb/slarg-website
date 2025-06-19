@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: "Cèlia Tort Pujol "
 bio: Cèlia Tort Pujol (Catalunya, 1995) is an oboist, performer and researcher

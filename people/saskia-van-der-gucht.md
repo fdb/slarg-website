@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Saskia Van der Gucht
 bio: Saskia Van der Gucht (she/her) is a visual artist, artistic researcher and

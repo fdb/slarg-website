@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Dimitri van den Wittenboer
 bio: Dimitri van den Wittenboer is a community artist and researchers based in

@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Sam Vanbelle
 bio: Sam Vanbelle is a Belgian illustrator and lecturer in the Applied Masters

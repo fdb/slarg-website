@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Karen Vermeren
 bio: Karen Vermeren (°1982, Belgium) is a visual artist, postdoctoral researcher

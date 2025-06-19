@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Biyi Zhu
 bio: Biyi is a visual artist, filmmaker, researcher, and performer based in

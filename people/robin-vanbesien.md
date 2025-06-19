@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Robin Vanbesien
 bio: "Robin Vanbesien is an artist, filmmaker, researcher, and educator, based

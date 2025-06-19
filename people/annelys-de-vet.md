@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Annelys de Vet
 bio: Annelys de Vet is a designer, researcher, and educator with a practice in

@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Bianca Baldi
 bio: 'Bianca Baldi is a South African artist, based in Brussels. In her work

@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Frederik De Bleser
 bio: Dr. Frederik De Bleser is a postdoctoral researcher and lecturer at Sint

@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Việt Vũ (Phạm Quang Trung)
 bio: >-

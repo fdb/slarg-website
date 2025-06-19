@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Joachim Ben Yakoub
 bio: Joachim Ben Yakoub is a cultural worker, sometimes operating as writer,

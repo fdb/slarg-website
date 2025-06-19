@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Myrthe Bokelmann
 bio: Myrthe Bokelmann (they/she, 1998) is a freelance dance maker and dance

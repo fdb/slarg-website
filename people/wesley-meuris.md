@@ -1,5 +1,5 @@
 ---
-layout: researcher.liquid
+layout: people.liquid
 tags: researcher
 researcher_name: Wesley Meuris
 bio: Wesley Meuris is visual artist mainly working with installations,
