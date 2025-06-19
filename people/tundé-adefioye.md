@@ -1,7 +1,9 @@
 ---
 layout: people.liquid
 tags: researcher
+person_name: Tundé Adefioye
 researcher_name: Tundé Adefioye
+researcher_flag: "false"
 bio: "Tundé Adefioye is a Nigerian-American based in Belgium. Tunde helped
   founding the youth poetry platform Urban Woorden now Trill, works as a
   dramaturg (*Malcolm X,* *(Not) My Paradise),* and assisted with the research
@@ -14,11 +16,11 @@ bio: "Tundé Adefioye is a Nigerian-American based in Belgium. Tunde helped
   activates and facilitates different ways of gathering and collective care.
   Together with Imane Benyecif, they conducted a one-year research project
   \"Towards Braver Spaces\" (2023-2024) at Sint Lucas Antwerpen (KdG)."
+headshot: https://ucarecdn.com/66d698c4-5c8d-409d-a3d8-211904f18a90/
 image_researcher:
   - https://ucarecdn.com/d83be6ab-91d8-45ab-9cb5-93bc75fe54a5/
-email: tunde.adefioye@kdg.be
-researcher_flag: "false"
 staff_flag: "false"
+email: tunde.adefioye@kdg.be
 available_for_supervision: "false"
 status_of_research: ongoing
 social_links: https://www.instagram.com/braverspaces_summercamp/
