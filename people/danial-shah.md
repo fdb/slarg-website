@@ -1,7 +1,7 @@
 ---
-layout: people.liquid
-tags: people
-person_name: Danial Shah
+layout: researcher.liquid
+tags: researcher
+researcher_name: Danial Shah
 bio: 'Danial Shah is a Pakistani documentary filmmaker and photographer. Danial
   brings a decade of photojournalism experience and contributed to notable
   publications like The New York Times. His short films have graced festivals
@@ -13,14 +13,16 @@ bio: 'Danial Shah is a Pakistani documentary filmmaker and photographer. Danial
   studios in Balochistan, Pakistan." His first feature film Make it Look Real is
   set to premiere at International Documentary Film Festival Amsterdam (IDFA) in
   November 2024.'
-headshot: https://ucarecdn.com/951443c4-8e31-4763-9203-c3ab5003d552/
-role:
-  - Researcher
-  - Staff
-email: "shah.danial@kdg.be "
-available_for_supervision: false
+image_researcher:
+  - https://ucarecdn.com/c0ef8db3-6b7e-4391-9b1b-a690a3203362/
+email: shah.danial@kdg.be
+researcher_flag: "true"
+staff_flag: "false"
+available_for_supervision: true
 status_of_research: ongoing
-research_interests:
-  - film
-  - potato
+social_links: |-
+  www.danialshah.com
+
+  www.instagram.com/danialshah_
+time: 2021 - 2025
 ---
