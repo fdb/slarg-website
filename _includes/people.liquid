@@ -37,7 +37,13 @@ layout: base
     {{ bio }}
   </div>
 
- 
+  {% if social_links %}
+    <div class="person-social-links">
+      <h3>Links & Social</h3>
+      {{ social_links | markdownify }}
+    </div>
+  {% endif %}
+
     {% if projects and projects.size > 0 and collections.projects %}
       <div class="person-projects">
       <h2>Projects</h2>

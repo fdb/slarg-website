@@ -19,13 +19,17 @@
 	color: inherit;
 }
 
+.people-grid .person-image {
+	border-radius: 0;
+	overflow: hidden;
+}
 .people-grid .person-image img {
+	border-radius: 0;
 	width: 100%;
 	height: 100%;
 	object-fit: cover;
-	border-radius: 3px;
+	display: block;
 }
-
 .people-grid .placeholder-image {
 	width: 100%;
 	height: 100%;
