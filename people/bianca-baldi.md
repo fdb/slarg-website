@@ -25,4 +25,3 @@ research_interests:
   - tah
 projects: []
 ---
-
