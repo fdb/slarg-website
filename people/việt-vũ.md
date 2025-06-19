@@ -1,7 +1,9 @@
 ---
 layout: people.liquid
 tags: researcher
+person_name: Việt Vũ (Phạm Quang Trung)
 researcher_name: Việt Vũ (Phạm Quang Trung)
+researcher_flag: true
 bio: >-
   Việt Vũ (Phạm Quang Trung) is a filmmaker, audio-visual artist and reseacher
   in the arts. He has so far completed a series of audio-visual works in various
@@ -12,11 +14,11 @@ bio: >-
 
 
   Viet obtained a Master Degree in Documentary Film Directing at Doc Nomads in 2021. Since September 2022, he is doing a PhD in the Arts at Sint Lucas Antwerpen (KdG) / ARIA (University of Antwerp), entitled "Queering the censorship: A (self-)investigation through the first-person perspective of an experimental filmmaker in Vietnam."
+headshot: https://ucarecdn.com/b31d9bc2-de3b-4ecf-91b4-7e033cca7708/
 image_researcher:
   - https://ucarecdn.com/a0c1aad3-89ec-433c-9cf8-700ecfaa8954/
-email: "vietvu.pham@kdg.be "
-researcher_flag: true
 staff_flag: true
+email: "vietvu.pham@kdg.be "
 available_for_supervision: true
 status_of_research: ongoing
 social_links: |-
