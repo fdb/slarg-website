@@ -3,7 +3,7 @@ layout: page
 title: SLARG
 features:
   - title: Subscribe to the news letter
-    description: 'subscribe here: '
+    description: "subscribe here: "
 content:
   - section title: Research week
     description: >-
@@ -32,49 +32,33 @@ event-highlight:
       strong social commitment.
 ---
 
-<p>
-
-	<!-- SLARG (Sint Lucas Antwerpen Research Group) carries out the academic artistic research of Sint Lucas Antwerpen School of Arts KdG,
-	fostering artistic research that combines creative innovation with a strong social commitment. -->
-</p>
-
-{% for section in event-highlight %}
-<section class="homepage-section">
-	{% if section.section_title %}
-	<h2 class="big-title">{{ section.section_title }}</h2>
-	{% endif %}
-
-  <!-- {% if section.date %}
-  {% assign parts = section.date | split: "-" %}
-  {% assign year = parts[0] %}
-  {% assign month = parts[1] | plus: 0 | prepend: "0" | slice: -2 %}
-  {% assign day = parts[2] | plus: 0 | prepend: "0" | slice: -2 %}
-  {% assign iso_date = year | append: "-" | append: month | append: "-" | append: day %} -->
-  <!-- <p>{{ iso_date | date: "%A %-d %B %Y" }}</p> -->
-{% endif %}
-
-  {% if section.time %}
-	<p>{{section.time}}</p>
-	{% endif %}
-
-  {% if section.location %}
-	<p>{{section.location}}</p>
-	{% endif %}
-
-	<div class="description">{{ section.description}}</div>
-
-	{% if section.image %}
-	<div class="image">
-		<img src="{{ section.image }}" alt="{{ section.section_title }}" />
-	</div>
-	{% endif %}
+<!-- <section id="content-sections">
+    {% for section in content %}
+        <div class="highlight-event">
+            <h2 class="big-title">{{ section.section_title }}</h2>
+            <p>{{ section.description }}</p>
+        </div>
+    {% endfor %}
 </section>
-{% endfor %}
-<!-- 
+
+<h2 class="big-title">Archive of past events</h2>
+
+<h2 class="big-title">Upcoming</h2>
+<a href="research-week/2024/"><p class="intro-text">
+  <img src="/static/img/slarg-2024.svg" alt=""><br>
+  This year, on October 24 to November 3d 2024, the Sint Lucas Antwerpen Research Group presents an exhibition for its annual research week, with a performance night<br>
+  <img src="/static/img/slarg-2024-research-week-visual-website.svg" alt="">
+
+</p></a>
+-->
+<p>
+	SLARG (Sint Lucas Antwerpen Research Group) carries out the academic artistic research of Sint Lucas Antwerpen School of Arts KdG,
+	fostering artistic research that combines creative innovation with a strong social commitment.
+</p>
 <h2 class="big-title">Past events</h2>
 
 <div class="sites-grid">
-	<a class="site-thumb" href="/research-week/2024">
+	<a class="site-thumb" href="/2024/">
 		<img src="/static/img/slarg-2024-research-week-visual-exhibition.png" alt="" />
 		<span>Research Week 2024</span>
 	</a>
@@ -90,4 +74,4 @@ event-highlight:
 		<img src="/static/img/slarg-2021-thumb.jpg" alt="" />
 		<span>Research Week 2021</span>
 	</a>
-</div> -->
+</div>
