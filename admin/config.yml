@@ -20,6 +20,7 @@ widgets:
 collections:
   - name: 'events'
     label: 'Events'
+    hide: true
     label_singular: 'Event'
     folder: 'events'
     create: true
@@ -81,6 +82,7 @@ collections:
         }
   - name: 'events_2024'
     label: 'events_2024'
+    hide: true
     label_singular: 'event'
     folder: 'research-week/2024'
     create: true
@@ -170,7 +172,7 @@ collections:
           default: 'Sint Lucas Antwerpen showroom'
         }
   - name: 'researchers'
-    label: 'Researchers'
+    label: 'People'
     folder: 'researchers'
     hide: false
     slug: '{{researcher_name}}'
@@ -226,7 +228,7 @@ collections:
           hint: 'add a link to external websites or social profiles'
         }
   - name: 'people'
-    label: 'People'
+    label: 'People-new'
     folder: 'people'
     slug: '{{person_name}}'
     preview_path: '/people/{{slug}}'
@@ -244,8 +246,21 @@ collections:
           widget: 'string',
           hint: 'Will be displayed large and in bold. Keep it short for layout purposes.'
         }
+      - {
+          label: 'Researcher_name',
+          name: 'researcher_name',
+          widget: 'string',
+          hint: 'Will be displayed large and in bold. Keep it short for layout purposes.'
+        }
       - { label: 'Bio', name: 'bio', widget: 'markdown', hint: 'Short bio' }
       - { label: 'Headshot', name: 'headshot', widget: 'image', media_library: { config: { multiple: false } } }
+      - {
+          label: 'Image Researcher',
+          name: 'image_researcher',
+          widget: 'image',
+          label_singular: 'image',
+          media_library: { config: { multiple: true } }
+        }
       - {
           label: 'Role',
           name: 'role',
@@ -254,8 +269,15 @@ collections:
           options: ['Researcher', 'Staff', 'PhD Student', 'Post-Doc', 'Supervisor'],
           default: ['Researcher']
         }
-      - { label: 'Email', name: 'email', widget: 'string', required: false }
-      - { label: 'Available for Supervision', name: 'available_for_supervision', widget: 'boolean', default: false, required: false }
+      - { label: 'Staff_flag', name: 'staff_flag', widget: 'boolean', default: 'false', hint: 'check this box if you are a staff member' }
+
+      - { label: 'Email', name: 'email', widget: 'string', hint: 'email', required: false }
+      - { label: 'Available for Supervision', 
+          name: 'available_for_supervision', 
+          widget: 'boolean', 
+          default: false, 
+          required: false 
+        }
       - label: "Supervisors"
         name: "supervisors"
         widget: "list"
@@ -271,6 +293,7 @@ collections:
           default: 'ongoing',
           required: false
         }
+
       - {
           label: 'Research Interests',
           name: 'research_interests',
@@ -288,6 +311,13 @@ collections:
           display_fields: ['title'],
           multiple: true,
           required: false
+        }
+      - {
+          label: 'Social_links',
+          name: 'social_links',
+          widget: 'markdown',
+          default: 'false',
+          hint: 'add a link to external websites or social profiles'
         }
   - name: 'projects'
     label: 'Research Projects'
