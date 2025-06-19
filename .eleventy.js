@@ -1,4 +1,6 @@
 const { DateTime } = require('luxon');
+const markdownIt = require('markdown-it');
+const md = new markdownIt();
 
 function groupEventsByWeekday(allEvents) {
 	let groupedByWeekday = {};
@@ -148,5 +150,10 @@ module.exports = function (eleventyConfig, collections) {
 		const dt = DateTime.fromISO(dateStr);
 		if (!dt.isValid) return dateStr;
 		return dt.toFormat("cccc d 'of' LLLL yyyy");
+	});
+
+	eleventyConfig.addFilter('markdownify', (value) => {
+		if (!value) return '';
+		return md.render(value);
 	});
 };
