@@ -18,5 +18,7 @@ staff_flag: "false"
 email: "hoda.siahtiri@kdg.be "
 available_for_supervision: "false"
 status_of_research: ongoing
+research_interests:
+  - visual performance
 social_links: https://www.instagram.com/siahtiri.hoda/?hl=en
 ---
