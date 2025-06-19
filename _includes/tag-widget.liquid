@@ -1,0 +1,185 @@
+{% assign allTags = site.data.global-tags.research_interests %}
+
+<div class="tag-widget" data-person-id="{{ person_name | slugify }}">
+  <div class="selected-tags">
+    {% for tag in research_interests %}
+      {% if tag != "" %}
+        <span class="tag" data-tag="{{ tag }}">
+          {{ tag }}
+          <button class="remove-tag" data-tag="{{ tag }}">×</button>
+        </span>
+      {% endif %}
+    {% endfor %}
+  </div>
+  
+  <div class="tag-input-container">
+    <input 
+      type="text" 
+      class="tag-input" 
+      placeholder="Add research interest..."
+      list="available-tags"
+    >
+    <datalist id="available-tags">
+      {% for tag in allTags %}
+        {% if tag != "" %}
+          <option value="{{ tag }}">
+        {% endif %}
+      {% endfor %}
+    </datalist>
+    <button class="add-tag">Add</button>
+  </div>
+</div>
+
+<style>
+.tag-widget {
+  margin: 1rem 0;
+}
+
+.selected-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.tag {
+  display: inline-flex;
+  align-items: center;
+  background: #f0f0f0;
+  padding: 0.25rem 0.5rem;
+  border-radius: 1rem;
+  font-size: 0.9rem;
+}
+
+.remove-tag {
+  background: none;
+  border: none;
+  color: #666;
+  cursor: pointer;
+  margin-left: 0.25rem;
+  padding: 0 0.25rem;
+}
+
+.remove-tag:hover {
+  color: #333;
+}
+
+.tag-input-container {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.tag-input {
+  flex: 1;
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 0.25rem;
+}
+
+.add-tag {
+  padding: 0.5rem 1rem;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+.add-tag:hover {
+  background: #0056b3;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const widget = document.querySelector('.tag-widget');
+  if (!widget) return;
+
+  const personId = widget.dataset.personId;
+  const tagInput = widget.querySelector('.tag-input');
+  const addButton = widget.querySelector('.add-tag');
+  const selectedTags = widget.querySelector('.selected-tags');
+
+  // Function to get current tags
+  function getCurrentTags() {
+    return Array.from(selectedTags.querySelectorAll('.tag')).map(tag => tag.dataset.tag);
+  }
+
+  // Function to update person's interests
+  async function updatePersonInterests(tags) {
+    try {
+      const response = await fetch('/.netlify/functions/update-person-interests', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ personId, interests: tags }),
+      });
+
+      if (!response.ok) {
+        throw new Error('Failed to update interests');
+      }
+    } catch (error) {
+      console.error('Error updating interests:', error);
+    }
+  }
+
+  // Function to add a tag
+  async function addTag(tag) {
+    if (!tag.trim()) return;
+
+    // Add to UI
+    const tagElement = document.createElement('span');
+    tagElement.className = 'tag';
+    tagElement.dataset.tag = tag;
+    tagElement.innerHTML = `
+      ${tag}
+      <button class="remove-tag" data-tag="${tag}">×</button>
+    `;
+    selectedTags.appendChild(tagElement);
+
+    // Update global tags
+    try {
+      const response = await fetch('/.netlify/functions/update-tags', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ tag }),
+      });
+
+      if (!response.ok) {
+        throw new Error('Failed to add tag');
+      }
+
+      // Update person's interests
+      await updatePersonInterests(getCurrentTags());
+    } catch (error) {
+      console.error('Error adding tag:', error);
+      tagElement.remove();
+    }
+  }
+
+  // Event listeners
+  addButton.addEventListener('click', () => {
+    addTag(tagInput.value);
+    tagInput.value = '';
+  });
+
+  tagInput.addEventListener('keypress', (e) => {
+    if (e.key === 'Enter') {
+      addTag(tagInput.value);
+      tagInput.value = '';
+    }
+  });
+
+  selectedTags.addEventListener('click', async (e) => {
+    if (e.target.classList.contains('remove-tag')) {
+      const tag = e.target.dataset.tag;
+      e.target.closest('.tag').remove();
+      // Update person's interests after removal
+      await updatePersonInterests(getCurrentTags());
+    }
+  });
+});
+</script> 

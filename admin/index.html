@@ -1,19 +1,27 @@
 <!DOCTYPE html>
 <html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="robots" content="noindex" />
+		<title>SLARG Admin</title>
+		<link rel="stylesheet" href="/static/css/research-interests.css" />
+		<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/netlify-cms@2.10.192/dist/netlify-cms.css" /> -->
+		<link href="/admin/config.yml" type="text/yaml" rel="cms-config-url" />
+	</head>
+	<body>
+		<script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+		<script>
+			CMS.init();
 
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="robots" content="noindex" />
-    <title>SLARG Admin</title>
-</head>
+			CMS.registerWidget('researchInterests', window.ResearchInterestsControl);
 
-<body>
-    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <script>
-        CMS.registerPreviewStyle('/admin/preview.css');
-    </script>
-</body>
-
+			window.addEventListener('load', function () {
+				const script = document.createElement('script');
+				script.src = '/static/widgets/researchInterests.js';
+				document.body.appendChild(script);
+			});
+		</script>
+	</body>
 </html>

@@ -1,0 +1,146 @@
+.research-interests-widget {
+	border: 2px solid rgb(223, 223, 227);
+	border-radius: 0px 5px 5px;
+	padding: 20px;
+	background-color: #f5f5f5;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+.widget-title {
+	font-size: 1.2em;
+	margin: 0 0 20px 0;
+	color: #333;
+}
+
+.section-label {
+	font-size: 0.9em;
+	color: #666;
+	margin-bottom: 10px;
+	font-weight: 500;
+}
+
+.all-interests-grid,
+.selected-interests-grid {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px;
+	margin-bottom: 20px;
+}
+
+.interest-item {
+	padding: 6px 14px;
+	border: none;
+	border-radius: 50px;
+	font-size: 0.95em;
+	color: #fff;
+	cursor: pointer;
+	transition: all 0.15s ease;
+	display: inline-flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: #76b947;
+	width: auto;
+	text-align: left;
+	font-weight: 500;
+	min-height: 32px;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.interest-item span {
+	margin-right: 8px;
+}
+
+.interest-item:hover {
+	opacity: 0.92;
+	transform: translateY(-1px);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.interest-item:active {
+	transform: translateY(0);
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.interest-item.selected {
+	background-color: #76b947;
+}
+
+.interest-item .remove-icon {
+	margin-left: auto;
+	font-size: 14px;
+	line-height: 1;
+	color: rgba(255, 255, 255, 0.8);
+	padding: 0 0 0 8px;
+	cursor: pointer;
+	flex-shrink: 0;
+}
+
+.interest-item .remove-icon:hover {
+	color: #fff;
+}
+
+.interest-item.available {
+	background-color: #f0f0f0;
+	color: #333;
+	border: 1px solid black;
+}
+
+.custom-interest-container {
+	display: flex;
+	gap: 8px;
+	margin-top: 10px;
+	max-width: 300px;
+}
+
+.custom-interest-input {
+	flex: 1;
+	padding: 8px 16px;
+	border: 1px solid #ddd;
+	border-radius: 50px;
+	font-size: 0.95em;
+	outline: none;
+	transition: all 0.2s ease;
+}
+
+.custom-interest-input:focus {
+	border-color: #76b947;
+	box-shadow: 0 0 0 2px rgba(118, 185, 71, 0.1);
+}
+
+.custom-interest-input::placeholder {
+	color: #999;
+}
+
+.add-interest-button {
+	padding: 8px 16px;
+	background-color: #76b947;
+	color: #fff;
+	border: none;
+	border-radius: 50px;
+	font-size: 0.95em;
+	cursor: pointer;
+	transition: all 0.15s ease;
+	font-weight: 500;
+}
+
+.add-interest-button:hover {
+	opacity: 0.92;
+	transform: translateY(-1px);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.add-interest-button:active {
+	transform: translateY(0);
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+/* Preview mode styles */
+.research-interests-widget.preview-mode .interest-item {
+	cursor: default;
+}
+
+.research-interests-widget.preview-mode .interest-item:hover {
+	opacity: 1;
+	transform: none;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}

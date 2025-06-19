@@ -6,9 +6,11 @@
 		"start": "concurrently \"npm run watch\" \"npm run serve\"",
 		"watch": "eleventy --watch",
 		"serve": "serve _site",
-		"build": "eleventy",
 		"clean": "rm -rf _site",
-		"format": "prettier --write '**/*.{md,js,css,scss,html,yml,json}'"
+		"format": "prettier --write '**/*.{md,js,css,scss,html,yml,json}'",
+		"dev": "netlify dev",
+		"collect-tags": "node netlify/functions/collect-all-tags.js",
+		"build": "npm run collect-tags && eleventy"
 	},
 	"keywords": [],
 	"author": "",
@@ -16,7 +18,13 @@
 	"devDependencies": {
 		"@11ty/eleventy": "1.0.2",
 		"concurrently": "7.3.0",
+		"netlify-cli": "^20.0.2",
 		"prettier": "2.7.1",
 		"serve": "14.0.1"
+	},
+	"dependencies": {
+		"gray-matter": "^4.0.3",
+		"js-yaml": "^4.1.0",
+		"node-fetch": "^2.7.0"
 	}
 }

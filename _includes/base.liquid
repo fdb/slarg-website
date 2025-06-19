@@ -35,10 +35,16 @@
       <nav class="menu">
         <button id="menu-toggle" aria-label="Toggle navigation">Menu <img src="/static/img/menu.svg" /></button>
         <div id="menu-links">
-          <a href="/">Home</a>
-          <a href="/research-week/2024">Research week 2024</a>
           <a href="/about">About</a>
-          <a href="/researchers">Researchers</a>
+          <a href="/calendar-activites">Events</a>
+          <a href="/projects">Research projects</a>
+          <a href="/people">People</a>
+          <a href="/publications.html">Output & publications</a>
+          <a href="/grounds.html">Grounds</a>
+          <a href="/applying-for-phd">Applying for a PHD</a>
+          <a href="/research-weeks">Research weeks</a>
+          <a href="/access.html">Accessibility</a>
+          
         </div> 
       </nav>
       <main>
@@ -56,6 +62,8 @@
     </div>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <script src="/static/scripts/menu.js"></script>
+    {% comment %} <script src="/netlify/functions/collect-all-tags.js"></script>
+    <script src="/netlify/functions/update-tags-via-git.js"></script> {% endcomment %}
   </body>
 
 </html>

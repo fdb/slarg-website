@@ -1,0 +1,22 @@
+{% assign events_by_month = site.events | group_by_exp: "event", "event.date | date: '%Y-%m'" %}
+
+<div class="timeline">
+  {% for month in events_by_month %}
+    {% assign month_name = month.name | date: "%B %Y" %}
+    
+    <div class="month-block">
+      <h2>{{ month_name }}</h2>
+      <div class="event-list">
+        {% for event in month.items %}
+          <div class="event-block">
+            <h3>{{ event.title }}</h3>
+            <p><strong>By:</strong> {{ event.author }}</p>
+            <p><strong>Location:</strong> {{ event.location }}</p>
+            <p><strong>Date:</strong> {{ event.date | date: "%B %d, %Y" }}</p>
+            <div class="event-body">{{ event.body | truncatewords: 20 }}</div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>

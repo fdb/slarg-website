@@ -1,12 +1,73 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
 body {
-    font: 1rem/1.5 'Inter', sans-serif;
-    color: #1f2937;
+	font: 1rem/1.5 'Inter', sans-serif;
+	color: #1f2937;
 }
 
 img {
-    max-width: 100%;
-    display: block;
-    margin: 4rem auto;
+	max-width: 100%;
+	display: block;
+	margin: 4rem auto;
+}
+
+.research-interests-widget {
+	margin: 1rem 0;
+	border: 2px solid rgb(223, 223, 227);
+	border-radius: 0px 5px 5px;
+	padding: 1rem;
+}
+
+.selected-interests {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5rem;
+	margin-bottom: 1rem;
+}
+
+.interest-tag {
+	display: inline-flex;
+	align-items: center;
+	background: #f0f0f0;
+	padding: 0.25rem 0.5rem;
+	border-radius: 1rem;
+	font-size: 0.9rem;
+}
+
+.remove-interest {
+	background: none;
+	border: none;
+	color: #666;
+	cursor: pointer;
+	margin-left: 0.25rem;
+	padding: 0 0.25rem;
+}
+
+.remove-interest:hover {
+	color: #333;
+}
+
+.interest-input-container {
+	display: flex;
+	gap: 0.5rem;
+}
+
+.interest-input {
+	flex: 1;
+	padding: 0.5rem;
+	border: 1px solid #ddd;
+	border-radius: 0.25rem;
+}
+
+.add-interest {
+	padding: 0.5rem 1rem;
+	background: #007bff;
+	color: white;
+	border: none;
+	border-radius: 0.25rem;
+	cursor: pointer;
+}
+
+.add-interest:hover {
+	background: #0056b3;
 }

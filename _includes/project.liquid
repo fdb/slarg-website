@@ -1,0 +1,93 @@
+---
+layout: base.liquid
+---
+
+<article class="project">
+  <h2 class="big-title">RESEARCH PROJECT</h2>
+  <h1>{{ title }}</h1>
+
+  {% if image %}
+    <img src="{{ image | url }}" width=""  height="" alt="Image for {{ title }}" />
+  {% endif %}
+
+  <div class="project-date">
+
+  <span class="date"> 
+
+  {% if start_date %}
+  {{ start_date | monthYear }}
+  {% endif %}
+
+  {% if end_date %}
+   &ndash; {{ end_date | monthYear }}
+  {% endif %}
+
+  </span>
+
+  {% if ongoing %}
+  <span class="status">ongoing</span>
+  {% endif %}
+
+  <ul class="info-project">
+
+  {% if project-kind %}
+  <li><strong>Project kind:</strong> {{ project-kind }}</li>
+  {% endif %} 
+
+
+  {% if abstract %}
+    <li><strong>Abstract:</strong> {{ abstract }}</li>
+  {% endif %}
+
+  {% if people %}
+    <li><strong>People involved:</strong> {{ people | join: ', ' }}</li>
+  {% endif %}
+
+  {% if project_stage %}
+  <li><strong>Stage:</strong> {{ project_stage }}</li>
+{% endif %}
+  </ul>
+
+  {% if gallery %}
+  <div class="gallery">
+    {% for image in gallery %}
+      <img src="{{ image | url }}" alt="Gallery image {{ forloop.index }}" />
+    {% endfor %}
+  </div>
+{% endif %}
+
+
+  <div class="content">
+    {{ content }}
+  </div>
+
+
+{% if funding %}
+<div class="funding">
+  <h3>Funding</h3>
+  <ul>
+    {% for f in funding %}
+      <li>
+        {% if f.link %}
+          <a href="{{ f.link }}" target="_blank" rel="noopener">
+            {% if f.image %}
+              <img src="{{ f.image | url }}" alt="Funding image for {{ f.name }}" style="max-height: 60px; margin-top: 0.5em;" />
+          
+            {% endif %}
+            {{ f.name }}
+          </a>
+        {% else %}
+          {% if f.image %}
+            <img src="{{ f.image | url }}" alt="Funding image for {{ f.name }}" style="max-height: 60px; margin-top: 0.5em;" />
+           
+          {% endif %}
+          {{ f.name }}
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+
+</article>

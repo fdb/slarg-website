@@ -1,0 +1,17 @@
+---
+layout: page.liquid
+---
+
+<article>
+  <h1>{{ title }}</h1>
+  <p><strong>Date:</strong> {{ startDate | date: "%B %d, %Y" }}</p>
+  {% if endDate %}
+    <p><strong>Until:</strong> {{ endDate | date: "%B %d, %Y" }}</p>
+  {% endif %}
+  {% if location %}
+    <p><strong>Location:</strong> {{ location }}</p>
+  {% endif %}
+  <div>
+    {{ body }}
+  </div>
+</article>
