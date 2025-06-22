@@ -8,7 +8,6 @@ const activitiesDir = path.join(__dirname, '../../content/activities');
 const outputFile = path.join(__dirname, '../../_data/global-tags.json');
 
 function getAllMarkdownFiles(dir) {
-	console.log('getting the stuff');
 	return fs.readdirSync(dir).filter((file) => file.endsWith('.md'));
 }
 
@@ -45,7 +44,7 @@ function main() {
 	const sortedTags = Array.from(allTags).sort();
 
 	fs.writeFileSync(outputFile, JSON.stringify(sortedTags, null, 2));
-	console.log(`✅ Successfully wrote ${sortedTags.length} tags to global-tags.json`);
+	console.log(`Successfully wrote ${sortedTags.length} tags to global-tags.json`);
 }
 
 main();
