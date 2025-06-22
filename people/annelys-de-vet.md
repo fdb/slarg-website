@@ -19,8 +19,7 @@ bio: Annelys de Vet is a designer, researcher, and educator with a practice in
   in November 2024.
 staff_flag: "false"
 research_interests:
-  - art
-  - ecco
+  - social
   - subjective mapping
 social_links: |-
   [www.subjectiveeditions.org](www.subjectiveeditions.org)
