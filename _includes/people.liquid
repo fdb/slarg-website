@@ -9,7 +9,7 @@ layout: base
       {% if headshot %}
         <img
           src="{{ headshot }}-/scale_crop/800x1000/smart/"
-          alt="{{ page.data.person_name }}"
+          alt="{{ person_name }}"
           width="800"
           height="100">
       {% else %}
@@ -21,6 +21,9 @@ layout: base
       {% if role %}
         <p class="person-role">{{ role | join: ", " }}</p>
       {% endif %}
+       {% if email %}
+         <p class="person-email">{{ email }}</p>
+       {% endif %}
       {% if research_interests %}
         <div class="person-interests">
           {% for interest in research_interests %}
@@ -37,7 +40,8 @@ layout: base
     {{ bio }}
   </div>
 
-  {% if social_links %}
+  {% assign social_links_trimmed = social_links | strip %}
+  {% if social_links_trimmed != 'false' and social_links_trimmed.size > 0 %}
     <div class="person-social-links">
       <h3>Links & Social</h3>
       {{ social_links | markdownify }}

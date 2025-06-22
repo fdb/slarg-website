@@ -163,14 +163,12 @@
 }
 
 .person-bio {
-	/* background: #f8f8f8; */
 	border-radius: 10px;
 	padding: 1.2rem 1.2rem 1rem 1.2rem;
 	margin-bottom: 1.2rem;
 	font-size: 1.1rem;
 	line-height: 1.7;
 	color: #222;
-	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
 }
 
 .person-projects {
