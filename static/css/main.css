@@ -736,6 +736,7 @@ border-radius: 8px;
 }
 
 .activities-calendar h2 {
+	font-family: 'Marsha';
 	font-size: 1.75rem;
 	margin-top: 2.5rem;
 	margin-bottom: 0.5rem;
@@ -789,12 +790,15 @@ border-radius: 8px;
 
 .event-info {
 	flex: 1;
+	font-family: 'Authenticsans';
 }
 
 .event-info h3 {
 	margin: 0 0 0.25rem;
 	font-size: 1.1rem;
 	color: #007d4f;
+	border-top: 0;
+	font-family: 'Marsha';
 }
 
 .event-time {
