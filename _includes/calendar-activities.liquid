@@ -1,7 +1,7 @@
 <div class="activities-calendar">
   {% for group in collections.calendar_events %}
     <h2>{{ group.month | append: '-01' | monthYear }}</h2>
-    <hr>
+    <!--<hr>-->
     <ul>
       {% for event in group.events %}
         <a href="{{ event.url }}" class="event-card">
