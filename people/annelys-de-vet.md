@@ -23,7 +23,7 @@ research_interests:
   - social
   - subjective mapping
 social_links: |-
-  [www.subjectiveeditions.org](www.subjectiveeditions.org)
+  [www.subjectiveeditions.org](https://www.subjectiveeditions.org/)
 
   [www.disarmingdesign.com](www.disarmingdesign.com)
 
