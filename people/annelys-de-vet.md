@@ -46,4 +46,6 @@ role:
 email: annelys.devet@kdg.be
 available_for_supervision: 'false'
 status_of_research: ongoing
+projects:
+  - log project
 ---
