@@ -93,8 +93,6 @@
 	align-items: flex-start;
 	gap: 2rem;
 	margin-bottom: 1.5rem;
-	border-bottom: 1.5px solid #eaeaea;
-	padding-bottom: 1.2rem;
 }
 
 .person-container .person-image {
@@ -102,8 +100,6 @@
 	max-width: 260px;
 	aspect-ratio: 4/5;
 	overflow: hidden;
-	border-radius: 12px;
-	box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
 	background: #f7f7f7;
 }
 
@@ -111,7 +107,6 @@
 	width: 100%;
 	height: 100%;
 	object-fit: cover;
-	border-radius: 12px;
 }
 
 .person-container .placeholder-image {
@@ -135,13 +130,13 @@
 .person-container .person-name {
 	font-size: 2.2rem;
 	font-weight: 700;
-	margin: 0 0 0.5rem 0;
+	margin: 0 0 1rem 0;
 	color: var(--text-accent, #222);
 }
 
-.person-container .person-role {
+.person-container .person-role, .person-container .person-email {
 	font-size: 1.2rem;
-	margin: 0.5rem 0 1.5rem 0;
+	margin: 0rem 0 1rem 0;
 	color: var(--text-light, #666);
 	font-weight: 500;
 }
@@ -150,7 +145,7 @@
 	display: flex;
 	flex-wrap: wrap;
 	gap: 0.5rem;
-	margin-bottom: 0.5rem;
+	margin-top: 1rem;
 }
 
 .person-container .interest-tag {
@@ -163,8 +158,6 @@
 }
 
 .person-bio {
-	border-radius: 10px;
-	padding: 1.2rem 1.2rem 1rem 1.2rem;
 	margin-bottom: 1.2rem;
 	font-size: 1.1rem;
 	line-height: 1.7;

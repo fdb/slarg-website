@@ -449,17 +449,36 @@ article .partner-logos img {
 	color: var(--text-accent);
 }
 
-.highlight-event {
-	font-size: 2rem;
-	line-height: 2.4rem;
-	font-weight: bold;
-	font-family: 'Marsha', sans-serif;
-	text-transform: uppercase;
-	text-align: left;
+.homepage-upcoming {
+	font-size: 2.4rem;
 	letter-spacing: 2px;
-	color: cornsilk;
+	text-align: right;
+	margin-bottom: 0.8rem;
+
+	text-transform: uppercase;
+	font-family: 'Marsha';
+}
+.highlight-event {
 	padding: 20px;
 	background-color: var(--turquoise);
+	margin-bottom: 1.3rem;
+}
+.highlight-event, .highlight-event p {
+	color: var(--bg-color);
+	font-size: 1.5rem;
+	line-height: 1.3;
+	font-family: 'Authenticsans';
+}
+.highlight-event h2 {
+	font-weight: normal;
+	text-transform: uppercase;
+	font-family: 'Marsha';
+	letter-spacing: 2px;
+	font-size: 1.8rem;
+	margin-bottom: 0.8rem;
+}
+.highlight-event img {
+	margin-bottom: 0.8rem;
 }
 
 footer {
@@ -509,10 +528,9 @@ article .partner-logos img {
 main {
 	margin-top: 0rem;
 }
-main,
-footer {
+main {
 	padding: 2rem;
-	padding-top: 4rem;
+	padding-top: 1rem;
 	margin-left: 13rem;
 }
 
