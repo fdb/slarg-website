@@ -8,4 +8,4 @@ thumbnail: https://ucarecdn.com/4127277b-2372-41dd-9923-054a855847da/
 tags:
   - research
 ---
-book launch
+book launch **test**
