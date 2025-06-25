@@ -1,6 +1,6 @@
 ---
 researcher_name: Annelys de Vet
-researcher_flag: "false"
+researcher_flag: 'false'
 layout: people.liquid
 bio: Annelys de Vet is a designer, researcher, and educator with a practice in
   long-term, participative design projects engaged in social and political
@@ -17,17 +17,17 @@ bio: Annelys de Vet is a designer, researcher, and educator with a practice in
   Lucas Antwerpen (KdG) / ARIA (University of Antwerp), where she will defend
   her PhD dissertation "Disarming Design, politics of Participatory Practices"
   in November 2024.
-staff_flag: "false"
+staff_flag: 'false'
 research_interests:
   - heyooo
   - social
   - subjective mapping
 social_links: |-
-  www.subjectiveeditions.org
+  https://www.subjectiveeditions.org
 
-  www.disarmingdesign.com
+  https://www.disarmingdesign.com
 
-  [www.bureaudevet.be](www.bureaudevet.be)
+  [www.bureaudevet.be](https://www.bureaudevet.be)
 
   IG: [@devetann](https://www.instagram.com/devetann/)
 image_researcher:
@@ -38,6 +38,6 @@ headshot: https://ucarecdn.com/74932bb7-6817-44de-a5c8-fd359dc5e00a/
 role:
   - Staff
 email: annelys.devet@kdg.be
-available_for_supervision: "false"
+available_for_supervision: 'false'
 status_of_research: ongoing
 ---

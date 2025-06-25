@@ -37,7 +37,7 @@ layout: base
   <br>
       
   <div class="person-bio">
-    {{ bio }}
+    {{ bio | markdownify }}
   </div>
 
   {% assign social_links_trimmed = social_links | strip %}
