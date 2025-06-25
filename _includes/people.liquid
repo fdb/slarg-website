@@ -40,11 +40,16 @@ layout: base
     {{ bio | markdownify }}
   </div>
 
-  {% assign social_links_trimmed = social_links | strip %}
-  {% if social_links_trimmed != 'false' and social_links_trimmed.size > 0 %}
+  {% if social_links and social_links.size > 0 %}
     <div class="person-social-links">
       <h3>Links & Social</h3>
-      {{ social_links | markdownify }}
+      <div class="social-links-container">
+        {% for link in social_links %}
+          <a href="{{ link.url }}" class="social-link-tag" target="_blank" rel="noopener noreferrer">
+            {{ link.name }}
+          </a>
+        {% endfor %}
+      </div>
     </div>
   {% endif %}
 

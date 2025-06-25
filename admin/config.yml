@@ -221,13 +221,14 @@ collections:
           hint: 'tick this box if you are a post doc available for supervision'
         }
       - { label: 'Status_of_research', name: 'status_of_research', widget: 'select', options: ['ongoing', 'finished'] }
-      - {
-          label: 'Social_links',
-          name: 'social_links',
-          widget: 'markdown',
-          default: 'false',
-          hint: 'add a link to external websites or social profiles'
-        }
+      - label: 'Social Links'
+        name: 'social_links'
+        widget: 'list'
+        required: false
+        hint: 'Add links to external websites or social profiles'
+        fields:
+          - { label: 'Link Name', name: 'name', widget: 'string', hint: 'e.g., Website, Instagram, Twitter' }
+          - { label: 'URL', name: 'url', widget: 'string', hint: 'Full URL including https://' }
   - name: 'people'
     label: 'People-new'
     folder: 'people'
@@ -401,98 +402,6 @@ collections:
                   { label: 'Location', name: 'location', widget: 'string', required: false }
                 ]
             }
-  - name: 'events_2025'
-    label: 'events_2025'
-    label_singular: 'event'
-    folder: 'research-week/2025'
-    create: true
-    delete: true
-    slug: '{{title}}'
-    preview_path: '/research-week/{{slug}}'
-    summary: '{{date}} | {{title}} | {{author}}'
-    sortable_fields: ['date desc', 'title']
-    view_filters:
-      - label: '2025'
-        field: 'year'
-        pattern: '2025'
-      - label: '2024'
-        field: 'year'
-        pattern: '2024'
-      - label: '2023'
-        field: 'year'
-        pattern: '2023'
-      - label: '2022'
-        field: 'year'
-        pattern: '2022'
-    view_groups:
-      - label: Year
-        field: date
-        pattern: \d{4}
-    fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'event.liquid' }
-      - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'event' }
-      - { label: 'Event Year', name: 'year', widget: 'hidden', default: 2024 }
-      # - Here starts the visible fields in the CMS
-      - {
-          label: 'Event Type',
-          name: 'Event type',
-          widget: 'select',
-          options: ['event', 'exhibition', 'film screening', 'performance'],
-          default: 'event',
-          hint: 'Choose "event" if your contributon is not part of the permanent exhibition, but rather a performance/screening/event.'
-        }
-      - {
-          label: 'Event Title',
-          name: 'title',
-          widget: 'string',
-          hint: 'Will be displayed large and in bold in the overview page. Keep it short for layout purposes. if your work does not have a titile, use your research title or you can describe what it is, ex. "video installation - untitled 2006" '
-        }
-      # - { label: 'Event Byline', name: 'byline', widget: 'string', hint: 'Will be displayed as a smaller subtitle.' }
-      - {
-          label: 'Project or event type',
-          name: 'type',
-          widget: 'string',
-          hint: 'We recommend to add what type of event it is (ex: performance, video installation, talk, movie screening…)'
-        }
-      - {
-          label: 'Researcher',
-          name: 'author',
-          widget: 'string',
-          hint: 'Your name. If you want to add collaborators etc, you can use the body text.'
-        }
-      - {
-          label: 'Main image',
-          name: 'main_image',
-          widget: 'image',
-          required: false,
-          hint: 'Please use a square image; otherwise it will be cropped in the grid.'
-        }
-      - {
-          label: 'Body text',
-          name: 'body',
-          widget: 'markdown',
-          hint: 'Describe your event/project exhibited. Add a registration link at the end if needed.'
-        }
-      - { label: 'Images', name: 'images', widget: 'image', label_singular: 'image', media_library: { config: { multiple: true } } }
-      - {
-          label: 'Date',
-          name: 'date',
-          widget: 'datetime',
-          required: false,
-          default: '2023-10-16',
-          format: 'YYYY-MM-DD',
-          date_format: 'DD/MM/YYYY',
-          time_format: false,
-          hint: 'Date of your event/performance'
-        }
-      - { label: 'Time', name: 'time', widget: 'string', required: false, hint: 'E.g. 10:00 - 12:00' }
-      - {
-          label: 'Location',
-          name: 'location',
-          widget: 'select',
-          options: ['Sint Lucas Antwerpen showroom', 'Chapel'],
-          default: 'Sint Lucas Antwerpen showroom'
-        }
   - name: 'accessibility'
     label: 'Accessibility'
     delete: false
@@ -550,6 +459,14 @@ collections:
       - { label: 'Thumbnail', name: 'thumbnail', widget: 'image', required: false }
       - { label: 'Description', name: 'body', widget: 'markdown' }
       - { label: 'Tags', name: 'tags', widget: 'list', required: false }
+      - {
+          label: 'Research Interests',
+          name: 'research_interests',
+          widget: 'researchInterests',
+          required: false,
+          hint: 'Select or add your research interests',
+          max: 5
+        }
 
   - name: 'research-week-activity'
     label: 'Research Week Activity'
@@ -564,3 +481,11 @@ collections:
       - { label: 'Thumbnail', name: 'thumbnail', widget: 'image', required: false }
       - { label: 'Description', name: 'body', widget: 'markdown' }
       - { label: 'Tags', name: 'tags', widget: 'list', required: false }
+      - {
+          label: 'Research Interests',
+          name: 'research_interests',
+          widget: 'researchInterests',
+          required: false,
+          hint: 'Select or add your research interests',
+          max: 5
+        }

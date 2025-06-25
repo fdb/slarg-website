@@ -2,7 +2,8 @@
 researcher_name: Annelys de Vet
 researcher_flag: 'false'
 layout: people.liquid
-bio: Annelys de Vet is a designer, researcher, and educator with a practice in
+bio: >-
+  Annelys de Vet is a designer, researcher, and educator with a practice in
   long-term, participative design projects engaged in social and political
   struggles. Annelys initiated the publishing initiative 'Subjective Editions,'
   mapping regions from the inside out by the inhabitants themselves, including
@@ -17,19 +18,24 @@ bio: Annelys de Vet is a designer, researcher, and educator with a practice in
   Lucas Antwerpen (KdG) / ARIA (University of Antwerp), where she will defend
   her PhD dissertation "Disarming Design, politics of Participatory Practices"
   in November 2024.
+
+
+
+
+  <https://www.bureaudevet.be/>
 staff_flag: 'false'
 research_interests:
-  - heyooo
   - social
   - subjective mapping
-social_links: |-
-  https://www.subjectiveeditions.org
-
-  https://www.disarmingdesign.com
-
-  [www.bureaudevet.be](https://www.bureaudevet.be)
-
-  IG: [@devetann](https://www.instagram.com/devetann/)
+social_links:
+  - name: Subjective Editions
+    url: https://www.subjectiveeditions.org
+  - name: Disarming Design
+    url: https://www.disarmingdesign.com
+  - name: Bureau de Vet
+    url: https://www.bureaudevet.be
+  - name: Instagram
+    url: https://www.instagram.com/devetann/
 image_researcher:
   - https://ucarecdn.com/ca0059fa-b44b-4562-bc62-50ceb7f5fc6f/
 tags: researcher
