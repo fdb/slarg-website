@@ -2,11 +2,6 @@
 layout: page
 title: SLARG
 event-highlight:
-  - date: ""
-    description: SLARG (Sint Lucas Antwerpen Research Group) carries out the
-      academic artistic research of Sint Lucas Antwerpen School of Arts KdG,
-      fostering artistic research that combines creative innovation with a
-      strong social commitment.
   - date: 2023-10-23
     section_title: Research seminar | Danial Shah
     description: >-
@@ -86,37 +81,25 @@ event-highlight:
 
 ---
 
+<p class="homepage-short-presentation" style="margin-left: -2rem;">
+	carries out the academic artistic research of Sint Lucas Antwerpen School of Arts KdG, fostering artistic research that combines creative innovation with a strong social commitment.<br>
+  ⤴ <!-- ⤻ -->
+</p>
+
 <section id="content-sections">
+  {% if event-highlight %}
+    <p class="homepage-upcoming">UPCOMING / ONGOING</p>
     {% for section in event-highlight %}
         <div class="highlight-event">
-            <h2 class="big-title">{{ section.section_title }}</h2>
-            <p>{{ section.description }}</p>
-            <p>{{ section.date }}</p>
-            <p>{{ section.time }}</p>
-            <p>{{ section.location }}</p>
+            <h2>{{ section.section_title }}</h2>
+            <img src="{{ section.image }}" alt="">
+            <p class="description">{{ section.description | raw }}</p>
+            <p class="info">{% if section.date %}{{ section.date | formatDateTime }}{% endif %}{% if section.time %}{{ section.time | escape }}, {% endif %} {% if section.location %}{{ section.location }}{% endif %}</p>
         </div>
     {% endfor %}
+    {% endif %}
 </section>
 
-
-
-<h2 class="big-title">Past events</h2>
-
-<div class="sites-grid">
-	<a class="site-thumb" href="/2024/">
-		<img src="/static/img/slarg-2024-research-week-visual-exhibition.png" alt="" />
-		<span>Research Week 2024</span>
-	</a>
-	<a class="site-thumb" href="/2023/">
-		<img src="/static/img/slarg-2023-thumb.png" alt="" />
-		<span>Research Week 2023</span>
-	</a>
-	<a class="site-thumb" href="/2022/">
-		<img src="/static/img/slarg-2022-thumb.jpg" alt="" />
-		<span>Research Week 2022</span>
-	</a>
-	<a class="site-thumb" href="/2021/">
-		<img src="/static/img/slarg-2021-thumb.jpg" alt="" />
-		<span>Research Week 2021</span>
-	</a>
-</div>
+<p class="homepage-short-presentation">
+	<a href="https://kdg.us11.list-manage.com/subscribe?u=f2f4dfed688882b52d74c63fb&id=023a040e28" target="_blank">Subscribe to our newsletter!</a>
+</p>
