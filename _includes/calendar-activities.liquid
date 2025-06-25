@@ -1,7 +1,9 @@
+<h1 class="page-title">Activities</h1>
+
 <div class="activities-calendar">
   {% for group in collections.calendar_events %}
     <h2>{{ group.month | append: '-01' | monthYear }}</h2>
-    <!--<hr>-->
+
     <ul>
       {% for event in group.events %}
         <a href="{{ event.url }}" class="event-card">
@@ -17,5 +19,20 @@
         </a>
       {% endfor %}
     </ul>
+
+
+    {{ event.tag }}
+
+    {% if event.tags %}
+      <span class="activity-tags">
+        {% for tag in tags %}
+          <span class="activity-tag">{{ event.tag }}</span>
+        {% endfor %}
+      </span>
+    {% endif %}
+
+
   {% endfor %}
 </div>
+
+
