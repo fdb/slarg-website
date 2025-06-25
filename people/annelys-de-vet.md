@@ -23,13 +23,13 @@ research_interests:
   - social
   - subjective mapping
 social_links: |-
-  [www.subjectiveeditions.org](www.subjectiveeditions.org)
+  www.subjectiveeditions.org
 
-  [www.disarmingdesign.com](www.disarmingdesign.com)
+  www.disarmingdesign.com
 
   [www.bureaudevet.be](www.bureaudevet.be)
 
-  IG: @devetanne
+  IG: [@devetann](https://www.instagram.com/devetann/)
 image_researcher:
   - https://ucarecdn.com/ca0059fa-b44b-4562-bc62-50ceb7f5fc6f/
 tags: researcher
