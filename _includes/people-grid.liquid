@@ -39,20 +39,8 @@
           {% endif %}
         </div>
         <div class="person-overlay">
-          <h2 class="person-name">{{ person.data.person_name }}</h2>
-          {% if person.data.role %}
-            <p class="person-role">{{ person.data.role | join: ", " }}</p>
-          {% endif %}
-          {% if person.data.research_interests %}
-            <div class="person-interests">
-              {% for interest in person.data.research_interests limit: 3 %}
-                <span class="interest-tag">{{ interest }}</span>
-              {% endfor %}
-              {% if person.data.research_interests.size > 3 %}
-                <span class="more-interests">+{{ person.data.research_interests.size | minus: 3 }}</span>
-              {% endif %}
-            </div>
-          {% endif %}
+          <h3 class="person-name">{{ person.data.person_name }}</h3>
+         
         </div>
       </a>
     {% endfor %}

@@ -9,7 +9,7 @@ layout: base
       {% if headshot %}
         <img
           src="{{ headshot }}-/scale_crop/800x1000/smart/"
-          alt="{{ page.data.person_name }}"
+          alt="{{ person_name }}"
           width="800"
           height="100">
       {% else %}
@@ -21,6 +21,9 @@ layout: base
       {% if role %}
         <p class="person-role">{{ role | join: ", " }}</p>
       {% endif %}
+       {% if email %}
+         <p class="person-email">{{ email }}</p>
+       {% endif %}
       {% if research_interests %}
         <div class="person-interests">
           {% for interest in research_interests %}
@@ -34,24 +37,39 @@ layout: base
   <br>
       
   <div class="person-bio">
-    {{ bio }}
+    {{ bio | markdownify }}
   </div>
 
-  {% if social_links %}
+  {% if social_links and social_links.size > 0 %}
     <div class="person-social-links">
       <h3>Links & Social</h3>
-      {{ social_links | markdownify }}
+      <div class="social-links-container">
+        {% for link in social_links %}
+          <a href="{{ link.url }}" class="social-link-tag" target="_blank" rel="noopener noreferrer">
+            {{ link.name }}
+          </a>
+        {% endfor %}
+      </div>
     </div>
   {% endif %}
 
     {% if projects and projects.size > 0 and collections.projects %}
       <div class="person-projects">
-      <h2>Projects</h2>
+      <h3>Projects</h3>
       <ul>
         {% for projectEntry in collections.projects %}
           {% if projects contains projectEntry.data.title %}
             <li>
-              <a href="{{ projectEntry.url }}">{{ projectEntry.data.title }}</a>
+              <a href="{{ projectEntry.url }}">
+                {% if projectEntry.data.image %}
+                  <div class="project-image">
+                    <img src="{{ projectEntry.data.image }}-/scale_crop/120x120/smart/" alt="{{ projectEntry.data.title }}" width="120" height="120">
+                  </div>
+                {% endif %}
+                <div class="project-info">
+                  <span class="project-title">{{ projectEntry.data.title }}</span>
+                </div>
+              </a>
             </li>
           {% endif %}
         {% endfor %}

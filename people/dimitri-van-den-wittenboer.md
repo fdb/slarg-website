@@ -3,11 +3,11 @@ layout: people.liquid
 tags: researcher
 person_name: Dimitri van den Wittenboer
 researcher_name: Dimitri van den Wittenboer
-researcher_flag: "false"
+researcher_flag: 'false'
 bio: Dimitri van den Wittenboer is a community artist and researchers based in
   Brussels. in 2024 he started his PhD research in the arts at the Antwerp
   Research Institute for the Arts (ARIA) - Sint Lucas Antwerpen & University of
-  Antwerp. His research “Empowered Care” roots in the co-initiation and
+  Antwerp. His research "Empowered Care" roots in the co-initiation and
   co-maintenance of housing projects for and with people who are in financial
   and legal precarity (the homeless, sans-papiers, asylum seekers). Dimitri
   explores how care can be extended from the private nuclear family towards a
@@ -20,5 +20,7 @@ staff_flag: false
 email: Dimitrivandenwittenboer@gmail.com
 available_for_supervision: false
 status_of_research: ongoing
-social_links: Dimitrivandenwittenboer.com
+social_links:
+  - name: Website
+    url: https://Dimitrivandenwittenboer.com
 ---

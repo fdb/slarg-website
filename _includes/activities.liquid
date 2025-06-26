@@ -1,5 +1,7 @@
 {% assign events_by_month = site.events | group_by_exp: "event", "event.date | date: '%Y-%m'" %}
 
+<h1 class="page-title">Activities</h1>
+
 <div class="timeline">
   {% for month in events_by_month %}
     {% assign month_name = month.name | date: "%B %Y" %}
