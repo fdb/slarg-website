@@ -1,6 +1,6 @@
 ---
 researcher_name: Wesley Meuris
-researcher_flag: "false"
+researcher_flag: 'false'
 layout: people.liquid
 tags: researcher
 bio: Wesley Meuris is visual artist mainly working with installations,
@@ -16,11 +16,13 @@ bio: Wesley Meuris is visual artist mainly working with installations,
 headshot: https://ucarecdn.com/a974001e-ab82-4030-b496-7a4b92b5dda5/
 role:
   - Post-Doc
-staff_flag: "false"
+staff_flag: 'false'
 email: wesley.meuris@kdg.be
-available_for_supervision: "false"
+available_for_supervision: 'false'
 status_of_research: finished
-social_links: www.wesleymeuris.be
+social_links:
+  - name: Website
+    url: https://www.wesleymeuris.be
 image_researcher:
   - https://ucarecdn.com/0fa596af-d45c-43bc-88c4-9bfb77e0f4e3/
 person_name: Wesley Meuris

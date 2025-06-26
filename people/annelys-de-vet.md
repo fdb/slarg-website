@@ -18,11 +18,6 @@ bio: >-
   Lucas Antwerpen (KdG) / ARIA (University of Antwerp), where she will defend
   her PhD dissertation "Disarming Design, politics of Participatory Practices"
   in November 2024.
-
-
-
-
-  <https://www.bureaudevet.be/>
 staff_flag: 'false'
 research_interests:
   - social

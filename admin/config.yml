@@ -248,8 +248,6 @@ collections:
           widget: 'string',
           hint: 'Will be displayed large and in bold. Keep it short for layout purposes.'
         }
-      - { label: 'Bio', name: 'bio', widget: 'markdown', hint: 'Short bio' }
-      - { label: 'Headshot', name: 'headshot', widget: 'image', media_library: { config: { multiple: false } } }
       - {
           label: 'Role',
           name: 'role',
@@ -259,34 +257,27 @@ collections:
           default: ['Researcher'],
           required: false
         }
-      - { label: 'Staff_flag', name: 'staff_flag', widget: 'boolean', default: 'false', hint: 'check this box if you are a staff member' }
-      - { label: 'Email', name: 'email', widget: 'string', hint: 'email', required: false }
-      - { label: 'Available for Supervision', name: 'available_for_supervision', widget: 'boolean', default: false, required: false }
-      - label: 'Supervisors'
-        name: 'supervisors'
-        widget: 'list'
-        required: false
-        fields:
-          - { label: 'Supervisor Name', name: 'name', widget: 'string' }
-          - { label: 'Supervisor Link', name: 'link', widget: 'string', required: false }
-      - {
-          label: 'Status of Research',
-          name: 'status_of_research',
-          widget: 'select',
-          options: ['ongoing', 'finished'],
-          default: 'ongoing',
-          required: false
-        }
+      - { label: 'Email', name: 'email', widget: 'string', required: false }
       - {
           label: 'Research Interests',
           name: 'research_interests',
-          widget: 'researchInterests',
+          widget: 'list',
           required: false,
           hint: 'Select or add your research interests',
           max: 5
         }
+      - { label: 'Headshot', name: 'headshot', widget: 'image', required: false }
+      - { label: 'Bio', name: 'bio', widget: 'markdown' }
+      - label: 'Social Links'
+        name: 'social_links'
+        widget: 'list'
+        required: false
+        hint: 'Add links to external websites or social profiles'
+        fields:
+          - { label: 'Link Name', name: 'name', widget: 'string', hint: 'e.g., Website, Instagram, Twitter' }
+          - { label: 'URL', name: 'url', widget: 'string', hint: 'Full URL including https://' }
       - {
-          label: 'Research Projects',
+          label: 'Projects',
           name: 'projects',
           widget: 'relation',
           collection: 'projects',
@@ -294,14 +285,6 @@ collections:
           value_field: 'title',
           display_fields: ['title'],
           multiple: true,
-          required: false
-        }
-      - {
-          label: 'Social_links',
-          name: 'social_links',
-          widget: 'markdown',
-          default: 'false',
-          hint: 'add a link to external websites or social profiles',
           required: false
         }
   - name: 'projects'

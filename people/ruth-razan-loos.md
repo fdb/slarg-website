@@ -3,9 +3,9 @@ layout: people.liquid
 tags: researcher
 person_name: Ruth Razan Loos
 researcher_name: Ruth Razan Loos
-researcher_flag: "false"
+researcher_flag: 'false'
 bio: >-
-  Ruth Razan Loos holds a master’s of Visual Arts, a master’s in Art History and
+  Ruth Razan Loos holds a master's of Visual Arts, a master's in Art History and
   a PhD in the arts. She is a lecturer and post-doctoral researcher at Sint
   Lucas Antwerpen (KdG), where she also supervises several PhDs in the arts. As
   a research policy maker, she supports SLARG and develops its social outreach
@@ -22,9 +22,9 @@ bio: >-
 headshot: https://ucarecdn.com/3b157601-791d-4194-a711-3c828949b264/
 image_researcher:
   - https://ucarecdn.com/35ec83ac-5f39-4eb6-be8a-5ed6a07cd490/
-staff_flag: "false"
+staff_flag: 'false'
 email: ruth.loos@kdg.be
-available_for_supervision: "false"
+available_for_supervision: 'false'
 status_of_research: finished
-social_links: \-
+social_links:
 ---
