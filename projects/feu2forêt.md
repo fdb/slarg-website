@@ -16,6 +16,4 @@ people:
 
 30 years ago today, Belgium cloaked itself in a Black Sunday. After youth set fire to several suburbs of the capital, a repressed racist discourse recaptured the country. The anger lingering at the root of these revolts has never really been answered. The questions raised then, are still red hot today. Together with various Brussels artists, the exhibition ‘FEU2FORÊST’ reimagines 30 years of revolt through various burning aesthetics. 1991 is a key year in the history of Brussels. The revolts of Forest are not only followed by Black Sunday. In the same year, the first recorded soul falls victim to police brutality (#JUSTICEPOURTOUS) and the sound of Brussels hip-hop breaks through to the general public, with the album Bruxelles Rap Convention. By working around the forgotten  smoldering fire of 1991, we hope to strengthen the visibility of the sparks that flew off various Brussels neighborhoods, to confront the challenges we apparently still face today.
 
-An exhibition cooked with love in the **Kitchen** by Naima M. and Joachim Ben Yakoub, in collaboration with **Code Rouge** and **Artistory**. 
-
-With the support of
+An exhibition cooked with love in the **Kitchen** by Naima M. and Joachim Ben Yakoub, in collaboration with **Code Rouge** and **Artistory**.
