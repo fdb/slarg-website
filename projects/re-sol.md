@@ -6,7 +6,7 @@ start_date: 2024-09-26T10:22:11.080Z
 end_date: 2026-08-26T10:22:11.086Z
 project-kind: post-doc
 ongoing: true
-Main image: https://ucarecdn.com/c76b7175-6d9d-4eea-a190-c8a3f302d890/
+main_image: https://ucarecdn.com/c76b7175-6d9d-4eea-a190-c8a3f302d890/
 people:
   - Joachim Ben Yakoub
   - Reem Shilleh

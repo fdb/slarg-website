@@ -6,7 +6,7 @@ start_date: 2024-09-26T10:12:26.513Z
 end_date: 2025-09-26T10:12:26.522Z
 project-kind: null
 abstract: ""
-Main image: https://ucarecdn.com/f358909a-7524-4827-9c8e-352617e68276/
+main_image: https://ucarecdn.com/f358909a-7524-4827-9c8e-352617e68276/
 people:
   - Sander Van de Vijver
 ---
