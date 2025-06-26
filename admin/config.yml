@@ -267,7 +267,7 @@ collections:
           hint: 'Select or add your research interests',
           max: 3
         }
-      - { label: 'Main_mage', name: 'Main image', widget: 'image', required: false }
+      - { label: 'Main_mage', name: 'main_image', widget: 'image', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Describe the project in detail' }
       - {
           label: 'Gallery',

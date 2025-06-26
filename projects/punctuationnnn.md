@@ -19,7 +19,7 @@ project-kind: PhD
 image: https://ucarecdn.com/4e8c358b-5512-429d-a90c-be2688f8d0bf/
 people:
   - Loraine Furter
-image: https://ucarecdn.com/02a2ac83-93b4-40d1-b22d-7c4c09d25e38/
+main_image: https://ucarecdn.com/02a2ac83-93b4-40d1-b22d-7c4c09d25e38/
 ongoing: true
 ---
 A research in progress about publishing practices (artists books, activists pamphlets, party flyers and ephemeras) with an intersectional feminist approach. 
