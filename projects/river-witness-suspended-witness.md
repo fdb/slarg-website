@@ -8,6 +8,7 @@ project-kind: pre-doc
 ongoing: true
 research_interests:
   - Design
+  - Sound
   - Video
   - publishing
   - social
