@@ -9,7 +9,7 @@ ongoing: true
 abstract: Blabla
 research_interests:
   - the log lady
-Main image: https://ucarecdn.com/6fb7c1d9-acb9-4020-8abc-bbce92af06e2/
+main_image: https://ucarecdn.com/6fb7c1d9-acb9-4020-8abc-bbce92af06e2/
 people:
   - Annelys de Vet
 ---
