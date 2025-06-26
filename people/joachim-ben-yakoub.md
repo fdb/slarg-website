@@ -24,6 +24,6 @@ status_of_research: ongoing
 available_for_supervision: "false"
 projects:
   - First Waves
-  - RE:SOL
   - "Feu2Forêt "
+  - Re:Sol
 ---
