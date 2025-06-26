@@ -10,7 +10,7 @@ Main image: https://ucarecdn.com/f358909a-7524-4827-9c8e-352617e68276/
 people:
   - Sander Van de Vijver
 ---
-Pockets of Control / Protection Spells is a one year research project conducted by [Sander Van de Vijver](https://slarg.be/people/sander-van-de-vijver/).
+Pockets of Control / Protection Spells is a one year research project initiated and conducted by Sander Van de Vijver.
 
 In it, he is looking into combining programmatic approaches with classical drawing methodologies in a digital context. He is specifically interested in 3D modelling, texturing and shading, and in game design paradigms, interpreted from an illustrator’s perspective.
 
