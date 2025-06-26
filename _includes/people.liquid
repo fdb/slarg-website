@@ -55,12 +55,21 @@ layout: base
 
     {% if projects and projects.size > 0 and collections.projects %}
       <div class="person-projects">
-      <h2>Projects</h2>
+      <h3>Projects</h3>
       <ul>
         {% for projectEntry in collections.projects %}
           {% if projects contains projectEntry.data.title %}
             <li>
-              <a href="{{ projectEntry.url }}">{{ projectEntry.data.title }}</a>
+              <a href="{{ projectEntry.url }}">
+                {% if projectEntry.data.image %}
+                  <div class="project-image">
+                    <img src="{{ projectEntry.data.image }}-/scale_crop/120x120/smart/" alt="{{ projectEntry.data.title }}" width="120" height="120">
+                  </div>
+                {% endif %}
+                <div class="project-info">
+                  <span class="project-title">{{ projectEntry.data.title }}</span>
+                </div>
+              </a>
             </li>
           {% endif %}
         {% endfor %}
