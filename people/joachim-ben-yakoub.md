@@ -7,6 +7,8 @@ tags: researcher
 role:
   - Researcher
   - Supervisor
+  - Post-Doc
+  - Staff
 email: joachim.benyakoub@kdg.be
 headshot: https://ucarecdn.com/84899bd6-9609-4c36-8fdf-c7ab775ba08e/
 bio: Joachim Ben Yakoub is an art worker, sometimes operating as writer,
