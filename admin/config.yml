@@ -124,7 +124,6 @@ collections:
           widget: 'string',
           hint: 'Will be displayed large and in bold in the overview page. Keep it short for layout purposes. if your work does not have a titile, use your research title or you can describe what it is, ex. "video installation - untitled 2006" '
         }
-      # - { label: 'Event Byline', name: 'byline', widget: 'string', hint: 'Will be displayed as a smaller subtitle.' }
       - {
           label: 'Project or event type',
           name: 'type',
