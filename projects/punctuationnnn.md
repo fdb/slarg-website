@@ -21,6 +21,10 @@ people:
 image: https://ucarecdn.com/02a2ac83-93b4-40d1-b22d-7c4c09d25e38/
 ongoing: true
 ---
-<https://speakingvolumes.space/>naninaninaiania **blabéa**
+A research in progress about publishing practices (artists books, activists pamphlets, party flyers and ephemeras) with an intersectional feminist approach. 
 
-**link**
+From (micro-)typography to editorial structures. From gossip to public speech. From ghostwriting to collective pamphlets.
+
+In this research I’m looking at objects, listening to stories, opening dusty boxes and I’m now busy documenting these treasures.
+
+<https://speakingvolumes.space/>
