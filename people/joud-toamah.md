@@ -3,7 +3,7 @@ researcher_name: Joud Toamah
 researcher_flag: "false"
 layout: people.liquid
 research_interests:
-  - Design
+  - DesignPublishing
 social_links:
   - name: Website
     url: https://joudtoamah.cargo.site/
