@@ -5,6 +5,7 @@ title: RE:SOL
 start_date: 2024-09-26T10:22:11.080Z
 end_date: 2026-08-26T10:22:11.086Z
 project-kind: post-doc
+ongoing: true
 people:
   - Joachim Ben Yakoub
 ---
