@@ -22,4 +22,6 @@ image_researcher:
 person_name: Joachim Ben Yakoub
 status_of_research: ongoing
 available_for_supervision: "false"
+projects:
+  - First Waves
 ---
