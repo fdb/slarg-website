@@ -22,8 +22,8 @@ title: Research Projects
 		href="{{ project.url }}"
 		data-interests="{% if project.data.research_interests %}{{ project.data.research_interests | join: ',' }}{% endif %}"
 	>
-		{% if project.data.image %}
-		<img src="{{ project.data.image }}" alt="Image for {{ project.data.title }}" class="project-thumb" />
+		{% if project.data.main_image %}
+		<img src="{{ project.data.main_image }}" alt="Image for {{ project.data.title }}" class="project-thumb" />
 		{% endif %}
 		<div class="project-info">
 			<h2 class="project-title">{{ project.data.title }}</h2>

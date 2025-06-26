@@ -15,7 +15,7 @@ gallery:
 people:
   - Danial Shah
   - Annelys de Vet
-image: https://ucarecdn.com/751e477c-6063-4b85-826c-05649bd5d349/
+main_image: https://ucarecdn.com/751e477c-6063-4b85-826c-05649bd5d349/
 ongoing: true
 funding:
   - name: vlaamse overheid

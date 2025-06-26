@@ -11,7 +11,7 @@ research_interests:
   - baguette
   - graphic design
   - storytelling
-Main image: https://ucarecdn.com/c777925b-53a7-4908-b998-02b043db0286/
+main_image: https://ucarecdn.com/c777925b-53a7-4908-b998-02b043db0286/
 people:
   - Garine Gokceyan
 ---
