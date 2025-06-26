@@ -16,7 +16,7 @@ research_interests:
   - publishing
 summary: a project that was part of the research
 project-kind: PhD
-Main image: https://ucarecdn.com/4e8c358b-5512-429d-a90c-be2688f8d0bf/
+image: https://ucarecdn.com/4e8c358b-5512-429d-a90c-be2688f8d0bf/
 people:
   - Loraine Furter
 image: https://ucarecdn.com/02a2ac83-93b4-40d1-b22d-7c4c09d25e38/
