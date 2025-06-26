@@ -29,5 +29,5 @@ role:
 status_of_research: ongoing
 available_for_supervision: "false"
 email: joud.toamah@kdg.be
-headshot: ""
+headshot: https://ucarecdn.com/62c8ed49-9ddc-4252-826a-140ce446d07e/
 ---
