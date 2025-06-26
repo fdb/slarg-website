@@ -29,4 +29,7 @@ Limited to 10 participants.\
 [L﻿ieven Menschaert](https://slarg.be/people/lieven-menschaert/) —  Hardware engineer\
 [F﻿rederik De Bleser](https://slarg.be/people/frederik-de-bleser/) — Software engineer
 
-[algorithmicgaze.com](https://algorithmicgaze.com/)
+[algorithmicgaze.com](https://algorithmicgaze.com/)\
+\
+**A﻿pplications open up on August 28**
+<!-- [S﻿ignup Now](https://forms.office.com/Pages/ResponsePage.aspx?id=f8Uf7ZeK50ed4ZMC39eGriKRksldWX1DvIHCoTH_JMdUMlRJOVlLUFAyQ0NERVRHUVFVNlNBV1BVMy4u) -->
