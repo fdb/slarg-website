@@ -7,6 +7,8 @@ end_date: 2021-11-26T11:28:39.362Z
 project-kind: post-doc
 abstract: ""
 Main image: https://ucarecdn.com/bcbeb30e-89ec-482a-8c85-e7c456222fb5/
+people:
+  - Joachim Ben Yakoub
 ---
 **FEU2FORÊT** brings together a number of artists to reimagine 30 years of revolt in Brussels through different burning aesthetics.
 
