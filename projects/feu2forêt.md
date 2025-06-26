@@ -1,7 +1,7 @@
 ---
 layout: project.liquid
 tags: project
-title: FEU2FORÊT
+title: "Feu2Forêt "
 start_date: 2019-09-26T10:28:39.357Z
 end_date: 2021-11-26T11:28:39.362Z
 project-kind: post-doc
