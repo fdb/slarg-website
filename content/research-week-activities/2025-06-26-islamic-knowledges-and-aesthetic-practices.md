@@ -1,7 +1,7 @@
 ---
 title: "Islamic knowledges and aesthetic practices "
-startDate: 2025-10-22T11:52:06.236Z
-endDate: 2025-10-22T11:50:56.631Z
+startDate: 2025-10-22T08:00:06.236Z
+endDate: 2025-10-22T12:00:56.631Z
 location: "Showroom Sint Lucas "
 ---
 curated by Ruth R Loos and Joud Toamah (Showroom)
