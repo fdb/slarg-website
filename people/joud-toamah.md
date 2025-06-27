@@ -7,12 +7,13 @@ social_links:
     url: https://joudtoamah.cargo.site/
 layout: people.liquid
 bio: >-
-  Joud Toamah is a graphic designer, artist and researcher from Syria, currently
-  based in Belgium. Her practice engages re-memberance, displacement and
-  gestures of repair within marginalized spaces, narratives, and environments.
-  Her current artistic research focuses on water cultures along the Euphrates
-  against the ongoing militarism and infrastructural violence in the watery
-  places that she loves in post-dictatorship Syria.
+  Joud Toamah is a multidisciplinary graphic designer, artist and researcher
+  from Syria, currently based in Belgium. Working across multiple media, video,
+  sound, and image-making, her practice engages displacement and re-memberance
+  across personal and collective memory. Her current artistic research centers
+  on water cultures, and on water as a site of witness and resistance amid
+  militarization and infrastructural violence during and in post-dictatorship
+  Syria along the watery places she loves on the Euphrates.
 
 
   She has participated in residencies at Frans Masereel Centrum, Futures Photography, and Morpho. Her work has been presented at Photoforumpasquart, FOMU – Museum of Photography, Beursschouwburg, Globe Aroma, and Constant.
