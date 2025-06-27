@@ -13,5 +13,6 @@ research_interests:
   - publishing
   - social
   - storytelling
+main_image: https://ucarecdn.com/29b66142-5a4c-4b27-b9f9-e07c715de7f9/-/crop/2854x1603/13,98/-/preview/
 ---
 Here
