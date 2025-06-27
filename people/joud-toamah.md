@@ -1,8 +1,7 @@
 ---
 researcher_name: Joud Toamah
 researcher_flag: "false"
-research_interests:
-  - Design
+research_interests: []
 social_links:
   - name: Website
     url: https://joudtoamah.cargo.site/
