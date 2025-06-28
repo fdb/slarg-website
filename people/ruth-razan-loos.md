@@ -3,6 +3,13 @@ researcher_name: Ruth Razan Loos
 researcher_flag: "false"
 social_links: null
 layout: people.liquid
+tags: researcher
+role:
+  - Staff
+  - Post-Doc
+  - Supervisor
+email: ruth.loos@kdg.be
+headshot: https://ucarecdn.com/3b157601-791d-4194-a711-3c828949b264/
 bio: >-
   Ruth Razan Loos holds master's degrees in visual arts and art history and a
   PhD in the arts. She supports SLARG in its social outreach approach. In
@@ -21,7 +28,4 @@ image_researcher:
 person_name: Ruth Razan Loos
 status_of_research: finished
 available_for_supervision: "false"
-tags: researcher
-email: ruth.loos@kdg.be
-headshot: https://ucarecdn.com/3b157601-791d-4194-a711-3c828949b264/
 ---
