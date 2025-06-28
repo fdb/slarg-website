@@ -4,7 +4,7 @@ researcher_flag: "false"
 social_links: null
 layout: people.liquid
 bio: >-
-  Ruth Razan Loos holds master's degrees in Visual Arts and Art History and a
+  Ruth Razan Loos holds master's degrees in visual arts and art history and a
   PhD in the arts. She supports SLARG in its social outreach approach. In
   collaboration with Stadscanvas (Fameus), a space for artistic newcomers in
   Antwerp, she initiates artistic events that value participatory practices,
