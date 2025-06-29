@@ -449,12 +449,14 @@ article .partner-logos img {
 	color: var(--text-accent);
 }
 
+.homepage-short-presentation {
+	margin-left: -2rem;
+}
 .homepage-upcoming {
 	font-size: 2.4rem;
 	letter-spacing: 2px;
 	text-align: right;
 	margin-bottom: 0.8rem;
-
 	text-transform: uppercase;
 	font-family: 'Marsha';
 }
@@ -629,9 +631,16 @@ border-radius: 8px;
 	}
 	main {
 		margin-left: 0;
-		margin-top: 100px;
+		margin-top: 58px;
+		padding: 1.3rem;
+	}
+	nav.open {
+		background-color: white;
 	}
 	footer {
+		margin-left: 0;
+	}
+	.homepage-short-presentation {
 		margin-left: 0;
 	}
 }
@@ -940,9 +949,9 @@ border-radius: 8px;
 
 .projects-grid .interest-tag {
 	background: #e6f7f2;
-	padding: 0.5rem 1.1rem;
+	padding: 0.3rem 0.8rem;
 	border-radius: 2rem;
-	font-size: 1rem;
+	font-size: 0.9rem;
 	color: #008f7a;
 	font-weight: 500;
 	margin-right: 0.3rem;
@@ -950,17 +959,19 @@ border-radius: 8px;
 	display: inline-block;
 }
 
+.interest-tag {
+		padding: 0.3rem 0.9rem;
+		font-size: 0.8rem;
+	}
+
 #interest-filters button {
-	background: #e6f7f2;
-	color: #008f7a;
-	border-radius: 2rem;
-	font-size: 1rem;
-	font-weight: 500;
+	padding: 10px;
+	cursor: pointer;
+	background: transparent;
+	border: 2px solid #00c589;
+	border-radius: 20px;
 	padding: 0.5rem 1.1rem;
 	margin: 0 0.3rem 0.3rem 0;
-	border: none;
-	cursor: pointer;
-	transition: background 0.15s, color 0.15s;
 }
 #interest-filters button.active {
 	background: #00c589;
