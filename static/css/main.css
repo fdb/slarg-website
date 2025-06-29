@@ -98,6 +98,9 @@ p {
 	line-height: 1.3;
 	margin-bottom: 1.3rem;
 }
+ul {
+	margin-bottom: 1rem;
+}
 li {
 	margin-left: 2.6rem;
 }
@@ -452,6 +455,13 @@ article .partner-logos img {
 .homepage-short-presentation {
 	margin-left: -2rem;
 }
+.homepage-newsletter {
+	margin-top: 2rem;
+	text-align: center;
+	border: 2px solid;
+	border-radius: 3rem;
+	padding: 1rem;
+}
 .homepage-upcoming {
 	font-size: 2.4rem;
 	letter-spacing: 2px;
@@ -481,7 +491,7 @@ article .partner-logos img {
 	margin-bottom: 0.8rem;
 }
 .highlight-event img {
-	margin-bottom: 0.8rem;
+	width: 50%;
 }
 
 footer {
