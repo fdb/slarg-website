@@ -9,6 +9,8 @@ abstract: ""
 research_interests:
   - Video
 main_image: https://ucarecdn.com/4649301c-11c5-4d59-95c3-69bf0b6540f2/
+people:
+  - Joud Toamah
 ---
 Merging dream like and imaginative like with prayers I learned for fear soothing on طاسة الرعبة before drinking water. My grandmother الله يرحمها showed me from the Barzakh how faith is passed continuously like a flowing river through generations while she was sleeping in my dream.
 
