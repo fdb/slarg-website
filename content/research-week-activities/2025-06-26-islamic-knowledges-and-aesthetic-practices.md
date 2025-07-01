@@ -25,6 +25,8 @@ by the **Kairo Girls’ School** (tbc)
 
 a collective of women, dedicated to upholding and preserving Indigenous & oral traditions of sharing sacred Islamic knowledge, storytelling, and practicing traditional crafts in service of healing. Their live devotional performances are guided by the concept of improvisistance - a marriage of improvisation and resistance, as coined by Dirar Kalash, as to remain truthfully present. The mediums of the voice, electronic synth, natural acoustics & sacred sounds are woven together, as they build a living archive of dhikr, and explore forms of remembrance. Ever evolving, extended to any who seek it. 
 
+
+
 curated by Ruth R Loos and Joud Toamah 
 
 i﻿mage: leaf inscribed with a Qur’anic verse from Surat al-Isra’ (“The Night Journey,” Q,17:80) - Turkey, 19th century, which reads: And say, “O my Lord, make me enter a rightful entrance and make me exit a rightful exit, and grant me from Your Own a power, favored (by You).”
