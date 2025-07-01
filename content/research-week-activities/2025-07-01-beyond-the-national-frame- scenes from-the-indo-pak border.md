@@ -1,5 +1,6 @@
 ---
-title: Beyond the National Frame: Scenes from the Indo-Pak Border
+title: Beyond the National Frame: Scenes from the Indo-Pak Border / Keynote
+  Natasha Raheja
 startDate: 2025-10-24T08:00:00.000Z
 endDate: 2025-10-24T09:30:35.466Z
 location: Museum of Photography (FOMU), entrance Cinema Lumière
