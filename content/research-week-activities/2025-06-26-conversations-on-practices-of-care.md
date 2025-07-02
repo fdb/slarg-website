@@ -9,7 +9,7 @@ research_interests:
   - ethics
   - socially engaged art
 ---
-rThis symposium will open a conversation about citizen-organized support structures for undocumented people and refugees in Brussels: people and collectives who support by extending care from their family and intimate circles to “strangers”, people who they don’t know, people from different countries, cultures, religions and often in higher precarity. It is a question of hospitality and care. 
+This symposium will open a conversation about citizen-organized support structures for undocumented people and refugees in Brussels: people and collectives who support by extending care from their family and intimate circles to “strangers”, people who they don’t know, people from different countries, cultures, religions and often in higher precarity. It is a question of hospitality and care. 
 
 What forms of citizen-organized mutual aid exist in Brussels?
 
