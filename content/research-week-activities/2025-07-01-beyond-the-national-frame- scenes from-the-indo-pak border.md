@@ -4,6 +4,7 @@ title: Beyond the National Frame: Scenes from the Indo-Pak Border / Keynote
 startDate: 2025-10-24T08:00:00.000Z
 endDate: 2025-10-24T09:30:35.466Z
 location: Museum of Photography (FOMU), entrance Cinema Lumière
+thumbnail: https://ucarecdn.com/de3c42f1-7a4b-450f-8a21-27d29535309e/
 tags:
   - Lecture
 research_interests:
