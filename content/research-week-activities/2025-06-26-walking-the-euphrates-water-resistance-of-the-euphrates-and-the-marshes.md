@@ -1,6 +1,6 @@
 ---
-title: "Walking the Euphrates: Water Witness and Resistance of the Euphrates
-  river and the Marshes"
+title: "Walking the Euphrates: Water Witness and Resistance of the River and the
+  Marshes"
 startDate: 2025-10-21T09:00:32.270Z
 endDate: 2025-10-21T11:00:10.435Z
 location: AdMa room, third floor, K.03.09
