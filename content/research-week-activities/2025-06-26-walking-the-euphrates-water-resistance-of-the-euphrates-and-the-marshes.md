@@ -4,7 +4,7 @@ title: "Walking the Euphrates: Water Witness and Resistance of the Euphrates
 startDate: 2025-10-21T09:00:32.270Z
 endDate: 2025-10-21T11:00:10.435Z
 location: AdMa room, third floor, K.03.09
-thumbnail: https://ucarecdn.com/b35ae2e9-a995-4afc-8d90-8cfcbcb78320/
+thumbnail: https://ucarecdn.com/705992c1-b389-43e5-a7de-f6807002745f/
 ---
 *Walking the Euphrates* is a shared dialogue between artist-researchers **Joud Toamah** and **Ameneh Solati**, exploring the Euphrates River in Syria and the marshes in Iraq as living, ecological, and geopolitical bodies of resistance. Through this collective ‘walk’ along the river, they trace entangled aquatic geographies, histories of struggle and care, and shared contexts of resistance, centering the waters as companions and ancestral presences. These 'walks' will take the form of hybrid ways to share research through artist talks, sound and video. 
 
