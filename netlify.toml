@@ -3,6 +3,9 @@ publish = "_site"
 command = "npm run build"
 functions = "netlify/functions"
 
+[build.environment]
+  TZ = "Europe/Brussels"
+
 [functions]
   directory = "netlify/functions"
 
@@ -19,4 +22,3 @@ functions = "netlify/functions"
   to = "/.netlify/functions/:splat"
   status = 200
 
-TZ= "Europe/Brussels"
