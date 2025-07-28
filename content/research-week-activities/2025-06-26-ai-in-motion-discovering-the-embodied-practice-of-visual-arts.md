@@ -1,6 +1,6 @@
 ---
 title: "AI in Motion: Discovering the Embodied Practice of Visual Arts "
-startDate: 2025-10-22T08:00:06.590Z
+startDate: 2025-10-22T09:00:06.590Z
 endDate: 2025-10-23T14:00:06.595Z
 location: Performative Space, third floor, K.03.10
 thumbnail: https://ucarecdn.com/8cb85dbe-1fc4-49fa-973b-c89a9aa34529/
