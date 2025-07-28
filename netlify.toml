@@ -18,3 +18,5 @@ functions = "netlify/functions"
   from = "/api/*"
   to = "/.netlify/functions/:splat"
   status = 200
+
+TZ=Europe/Brussels
