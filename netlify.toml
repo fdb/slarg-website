@@ -19,4 +19,4 @@ functions = "netlify/functions"
   to = "/.netlify/functions/:splat"
   status = 200
 
-TZ=Europe/Brussels
+TZ= "Europe/Brussels"
