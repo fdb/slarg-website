@@ -1,5 +1,5 @@
 ---
-title: A Care-full Debriefing
+title: A Care-full Debriefing with the Spring Pears
 startDate: 2025-10-20T12:00:12.082Z
 endDate: 2025-10-20T15:00:12.089Z
 location: Sint Lucas Antwerpen Library
