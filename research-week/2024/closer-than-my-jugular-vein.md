@@ -3,8 +3,8 @@ layout: event.liquid
 tags: event
 year: 2024
 section_website_2024: exhibition
-title: Closer than your jugular vein
-type: handwriting, lettering, drawing
+title: Closer than my jugular vein
+type: Arabic handwriting, lettering, and drawing within a spatial book practice
 author: Ruth Razan Loos
 main_image: https://ucarecdn.com/6eaa7eac-741a-4eea-b886-e893044611f3/
 images:
