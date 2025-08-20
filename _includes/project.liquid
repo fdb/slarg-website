@@ -6,10 +6,6 @@ layout: base.liquid
   <h2 class="big-title">RESEARCH PROJECT</h2>
   <h1>{{ title }}</h1>
 
-  {% if image %}
-    <img src="{{ image | url }}" width=""  height="" alt="Image for {{ title }}" />
-  {% endif %}
-
   <div class="project-date">
 
     <span class="date"> 
@@ -32,6 +28,10 @@ layout: base.liquid
   <li><strong>Project kind:</strong> {{ project-kind }}</li>
   {% endif %} 
 
+  {% if main_image %}
+  <img src="{{ main_image | url }}" width=""  height="" alt="{{ main_image_alt }}" />
+  <figcaption class="image-block__credits">{{ main_image_credits }}</figcaption>
+{% endif %}
 
   {% if abstract %}
     <li><strong>Abstract:</strong> {{ abstract }}</li>
@@ -46,6 +46,11 @@ layout: base.liquid
 {% endif %}
   </ul>
 
+  <div class="content">
+    {{ content | raw }}
+  </div>
+
+
   {% if gallery %}
   <div class="gallery">
     {% for image in gallery %}
@@ -58,9 +63,7 @@ layout: base.liquid
 {% endif %}
 
 
-  <div class="content">
-    {{ content | raw }}
-  </div>
+
 
 
 {% if funding %}
