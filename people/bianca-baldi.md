@@ -1,4 +1,10 @@
 ---
+tags:
+  - researcher
+person_name: Bianca Baldi
+role:
+  - PhD
+email: Bianca.baldi@kdg.be
 research_interests: []
 social_links:
   - name: Website
@@ -6,12 +12,6 @@ social_links:
   - name: Instagram
     url: https://www.instagram.com/bianca_baldi/
 layout: people.liquid
-tags:
-  - researcher
-person_name: Bianca Baldi
-role:
-  - PhD Student
-email: Bianca.baldi@kdg.be
 headshot: https://ucarecdn.com/00ab0026-08f3-43d5-b8a3-d37b1604b845/
 bio: 'Bianca Baldi is a South African artist, based in Brussels. In her work
   Bianca deals with the role of narrative as a means of knowledge production in
