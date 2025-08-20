@@ -3,7 +3,7 @@ layout: project.liquid
 tags: project
 title: testing again for gallery
 start_date: 2025-08-20T15:11:14.047Z
-end_date: 2025-08-20T16:01:44.458Z
+end_date: 2025-09-20T16:01:44.458Z
 project-kind: PhD
 ongoing: true
 research_interests:
