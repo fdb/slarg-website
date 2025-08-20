@@ -6,33 +6,29 @@
 
     <ul>
       {% for event in group.events %}
-        <a href="{{ event.url }}" class="event-card">
-          {% if event.data.thumbnail %}
-            <img src="{{ event.data.thumbnail }}" width="" height="" alt="{{ event.data.title }}" class="event-thumb">
-          {% endif %}
-          <div class="event-info">
-            <h3>{{ event.data.title }}</h3>
-            <p class="event-time">
-              {{ event.data.startDate | formatDateTime }}
-              </p>
-          </div>
-        </a>
+        {% if event.data.type == "overview-research-week" %}
+          <li class="event-overview">
+            <a href="{{ event.data.link }}" class="event-card overview-link">
+              <h3>{{ event.data.title }}</h3>
+              <p>View all Research Week activities</p>
+            </a>
+          </li>
+        {% else %}
+          <li>
+            <a href="{{ event.url }}" class="event-card">
+              {% if event.data.thumbnail %}
+                <img src="{{ event.data.thumbnail }}" width="" height="" alt="{{ event.data.title }}" class="event-thumb">
+              {% endif %}
+              <div class="event-info">
+                <h3>{{ event.data.title }}</h3>
+                <p class="event-time">
+                  {{ event.data.startDate | formatDateTime }}
+                </p>
+              </div>
+            </a>
+          </li>
+        {% endif %}
       {% endfor %}
     </ul>
-
-
-    {{ event.tag }}
-
-    {% if event.tags %}
-      <span class="activity-tags">
-        {% for tag in tags %}
-          <span class="activity-tag">{{ event.tag }}</span>
-        {% endfor %}
-      </span>
-    {% endif %}
-
-
   {% endfor %}
 </div>
-
-

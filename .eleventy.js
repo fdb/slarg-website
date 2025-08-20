@@ -102,27 +102,38 @@ module.exports = function (eleventyConfig, collections) {
 	});
 
 	eleventyConfig.addCollection('calendar_events', function (collectionApi) {
-		const allEvents = [
-			...collectionApi.getFilteredByGlob('./content/activities/*.md'),
-			...collectionApi.getFilteredByGlob('./content/research-week-activities/*.md')
-		];
+		const allActivities = collectionApi.getFilteredByGlob('./content/activities/*.md');
+		const allEvents = [];
 
-		const byMonth = {};
-
-		allEvents.forEach((event) => {
-			const date = new Date(event.data.startDate);
-			if (isNaN(date)) return; // skip invalid
-			const key = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
-			if (!byMonth[key]) byMonth[key] = [];
-			byMonth[key].push(event);
+		allActivities.forEach((activity) => {
+			const type = activity.data.type || 'activity';
+			if (type === 'activity') {
+				allEvents.push(activity);
+			  } else if (type === 'overview-research-week') {
+				
+				allEvents.push({
+				  data: {
+					title: activity.data.title,
+					startDate: activity.data.startDate, 
+					link: activity.data.link,
+					type: 'overview-research-week'
+				  }
+				});
+			  }
 		});
 
-		const result = Object.entries(byMonth).map(([month, events]) => ({
-			month,
-			events
-		}));
-
-		return result.sort((a, b) => a.month.localeCompare(b.month));
+		const byMonth = {};
+		allEvents.forEach((event) => {
+		  const date = new Date(event.data.startDate);
+		  if (isNaN(date)) return;
+		  const key = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
+		  if (!byMonth[key]) byMonth[key] = [];
+		  byMonth[key].push(event);
+		});
+	  
+		return Object.entries(byMonth)
+		  .map(([month, events]) => ({ month, events }))
+		  .sort((a, b) => a.month.localeCompare(b.month));
 	});
 
 	eleventyConfig.addFilter('formatDateTime', (value) => {
