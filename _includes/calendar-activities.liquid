@@ -8,7 +8,7 @@
       {% for event in group.events %}
         {% if event.data.type == "overview-research-week" %}
           <li class="event-overview">
-            <a href="{{ event.data.link }}" class="event-card overview-link">
+            <a href="{{ event.data.url }}" class="event-card overview-link">
               <h3>{{ event.data.title }}</h3>
               <p>View all Research Week activities</p>
             </a>

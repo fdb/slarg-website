@@ -90,7 +90,7 @@ collections:
     slug: '{{title}}'
     preview_path: '/research-week/{{slug}}'
     summary: '{{date}} | {{title}} | {{author}}'
-    sortable_fields: ['date', 'title']
+    sortable_fields: ['date','year', 'title']
     view_filters:
       - label: '2024'
         field: 'year'
@@ -171,7 +171,7 @@ collections:
           default: 'Sint Lucas Antwerpen showroom'
         }
   - name: 'people'
-    label: 'People-new'
+    label: 'People'
     folder: 'people'
     slug: '{{person_name}}'
     preview_path: '/people/{{slug}}'
@@ -228,7 +228,7 @@ collections:
     delete: true
     preview_path: '/projects/{{slug}}'
     identifier_field: 'title'
-    sortable_fields: ['title']
+    sortable_fields: ['title', 'year']
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'project.liquid' }
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'project' }
@@ -368,6 +368,7 @@ collections:
     label: 'Activity'
     folder: 'content/activities'
     create: true
+    ssortable_fields: ['date']
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - { label: 'Type', name: 'type', widget: 'select', options: ['activity', 'overview-research-week'], default: 'activity', hint: 'Choose "overview-research-week" to link to the Research Week overview page' }
@@ -392,6 +393,7 @@ collections:
     label: 'Research Week Activity'
     folder: 'content/research-week-activities'
     create: true
+    sortable_fields: ['startDate']
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }

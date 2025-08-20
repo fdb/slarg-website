@@ -1,1 +1,14 @@
-heyyyy
+---
+layout: base.liquid
+title: Research Week Activities
+---
+
+<h1>{{ title }}</h1>
+
+
+
+{% for grouped in collections.research_week_2025 %}
+  <h2 class="event-day">{{ grouped[0] }}</h2>
+  {% render "_eventGrid2" with grouped[1] as events %}
+{% endfor %}
+
