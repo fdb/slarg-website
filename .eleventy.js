@@ -6,7 +6,7 @@ function groupEventsByWeekday(allEvents) {
 	let groupedByWeekday = {};
 
 	allEvents.forEach((item) => {
-		let date = new Date(item.data.date);
+		let date = item.data.startDate ? new Date(item.data.startDate) : new Date(item.data.date);
 		let weekday = date.toLocaleDateString('en-US', { weekday: 'long' });
 		let d = date.toLocaleDateString('en-US', { weekday: 'long', month: 'short', day: 'numeric' });
 		let formattedDate = d; // `${weekday}, ${d}`;
@@ -41,13 +41,23 @@ module.exports = function (eleventyConfig, collections) {
 		return collectionApi.getFilteredByGlob('projects/*.md');
 	});
 
-	eleventyConfig.addCollection('pre_events_2023', function (collection) {
-		const allEvents = collection.getFilteredByTag('event').filter((event) => {
-			const date = new Date(event.data.date);
-			return date.getFullYear() === 2023 && date.getDate() < 16;
+
+
+	eleventyConfig.addCollection('research_week_2025', function (collection) {
+		const allEvents = collection.getFilteredByGlob('content/research-week-activities/*.md')
+		  .filter(event => {
+			const date = new Date(event.data.startDate);
+			return !isNaN(date) && date.getFullYear() === 2025;
+		  });
+	  
+		const grouped = groupEventsByWeekday(allEvents);
+	  
+		// Convert object to array.. not sure why but it works
+		return Object.entries(grouped).sort(([dateStrA], [dateStrB]) => {
+		  return new Date(dateStrA) - new Date(dateStrB);
 		});
-		return allEvents;
-	});
+	  });
+	  
 
 	eleventyConfig.addCollection('events_2024', function (collection) {
 		return collection.getAll().filter((item) => {
@@ -59,6 +69,14 @@ module.exports = function (eleventyConfig, collections) {
 		return collection.getAll().filter((item) => {
 			return item.data.section_website_2024 === 'exhibition' && item.data.year === 2024;
 		});
+	});
+
+	eleventyConfig.addCollection('pre_events_2023', function (collection) {
+		const allEvents = collection.getFilteredByTag('event').filter((event) => {
+			const date = new Date(event.data.date);
+			return date.getFullYear() === 2023 && date.getDate() < 16;
+		});
+		return allEvents;
 	});
 
 	eleventyConfig.addCollection('events_2023', function (collection) {
@@ -102,27 +120,38 @@ module.exports = function (eleventyConfig, collections) {
 	});
 
 	eleventyConfig.addCollection('calendar_events', function (collectionApi) {
-		const allEvents = [
-			...collectionApi.getFilteredByGlob('./content/activities/*.md'),
-			...collectionApi.getFilteredByGlob('./content/research-week-activities/*.md')
-		];
+		const allActivities = collectionApi.getFilteredByGlob('./content/activities/*.md');
+		const allEvents = [];
 
-		const byMonth = {};
-
-		allEvents.forEach((event) => {
-			const date = new Date(event.data.startDate);
-			if (isNaN(date)) return; // skip invalid
-			const key = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
-			if (!byMonth[key]) byMonth[key] = [];
-			byMonth[key].push(event);
+		allActivities.forEach((activity) => {
+			const type = activity.data.type || 'activity';
+			if (type === 'activity') {
+				allEvents.push(activity);
+			  } else if (type === 'overview-research-week') {
+				
+				allEvents.push({
+				  data: {
+					title: activity.data.title,
+					startDate: activity.data.startDate, 
+					link: activity.data.link,
+					type: 'overview-research-week'
+				  }
+				});
+			  }
 		});
 
-		const result = Object.entries(byMonth).map(([month, events]) => ({
-			month,
-			events
-		}));
-
-		return result.sort((a, b) => a.month.localeCompare(b.month));
+		const byMonth = {};
+		allEvents.forEach((event) => {
+		  const date = new Date(event.data.startDate);
+		  if (isNaN(date)) return;
+		  const key = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
+		  if (!byMonth[key]) byMonth[key] = [];
+		  byMonth[key].push(event);
+		});
+	  
+		return Object.entries(byMonth)
+		  .map(([month, events]) => ({ month, events }))
+		  .sort((a, b) => a.month.localeCompare(b.month));
 	});
 
 	eleventyConfig.addFilter('formatDateTime', (value) => {
@@ -133,7 +162,6 @@ module.exports = function (eleventyConfig, collections) {
 			dt = DateTime.fromJSDate(value);
 		} else {
 			dt = DateTime.fromISO(value);
-			// fallback for non-ISO strings
 			if (!dt.isValid) {
 				dt = DateTime.fromJSDate(new Date(value));
 			}
@@ -141,7 +169,6 @@ module.exports = function (eleventyConfig, collections) {
 
 		if (!dt.isValid) return value;
 
-		// Format like: 29 May 2025, 17:00
 		return dt.toFormat('dd LLLL yyyy, HH:mm');
 	});
 

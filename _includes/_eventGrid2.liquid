@@ -1,0 +1,31 @@
+<div class="events-grid">
+    {% for event in events %}
+    <div class="event">
+        {% if event.data.thumbnail %}
+        <a href="{{ event.url }}">
+            <img src="{{ event.data.thumbnail }}" alt="{{ event.data.title }}">
+        </a>
+    {% endif %}
+        <h2 class="event-title">
+            <a href="{{ event.url }}">{{ event.data.title }}</a>
+        </h2>
+        {% if event.data.description %}
+            <p class="event-description">{{ event.data.description }}</p>
+        {% endif %}
+        <div class="event-details">
+            {% if event.data.type %}
+                <span class="event-type">{{ event.data.type }}</span> |
+            {% endif %}
+            {% if event.data.startDate %}
+                <span class="event-date">{{ event.data.startDate | formatDateTime }}</span> |
+            {% endif %}
+            {% if event.data.location %}
+                <span class="event-location">{{ event.data.location }}</span>
+            {% endif %}
+        </div>
+        {% if event.data.link %}
+            <a href="{{ event.data.link }}" class="event-link">More info</a>
+        {% endif %}
+    </div>
+    {% endfor %}
+</div>

@@ -6,33 +6,51 @@ layout: base.liquid
   <h2 class="big-title">RESEARCH PROJECT</h2>
   <h1>{{ title }}</h1>
 
-  {% if image %}
-    <img src="{{ image | url }}" width=""  height="" alt="Image for {{ title }}" />
-  {% endif %}
-
   <div class="project-date">
 
-  <span class="date"> 
-
-  {% if start_date %}
-  {{ start_date | monthYear }}
-  {% endif %}
-
-  {% if end_date %}
-   &ndash; {{ end_date | monthYear }}
-  {% endif %}
-
+  <span class="date">
+    {% if start_date %}
+      {{ start_date | monthYear }}
+    {% endif %}
+  
+    {% assign today_ts = "now" | date: "%s" %}
+    
+    {% if end_date %}
+      {% assign end_ts = end_date | date: "%s" %}
+      {% if end_ts > today_ts or ongoing %}
+        &ndash; <span class="status">ongoing</span>
+      {% else %}
+        &ndash; {{ end_date | monthYear }}
+      {% endif %}
+    {% elsif ongoing %}
+      &ndash; <span class="status">ongoing</span>
+    {% endif %}
   </span>
+  
+  
 
-  {% if ongoing %}
-  <span class="status">ongoing</span>
-  {% endif %}
+  
+
+  
+  
+  
+  
+  
 
   <ul class="info-project">
 
   {% if project-kind %}
   <li><strong>Project kind:</strong> {{ project-kind }}</li>
   {% endif %} 
+
+  {% if main_image %}
+  <figure>
+    <img src="{{ main_image | url }}/-/format/jpeg/" width="" height="" alt="{{ main_image_alt }}" />
+    <figcaption class="image-block__credits">{{ main_image_credits }}</figcaption>
+  </figure>
+{% endif %}
+
+
 
 
   {% if abstract %}
@@ -48,18 +66,24 @@ layout: base.liquid
 {% endif %}
   </ul>
 
+  <div class="content">
+    {{ content | raw }}
+  </div>
+
+
   {% if gallery %}
   <div class="gallery">
     {% for image in gallery %}
-      <img src="{{ image | url }}" alt="Gallery image {{ forloop.index }}" />
+      <div class="image-block">
+        <img src="{{ image.src | url }}/-/format/jpeg/" alt="{{ image.alt}}" />
+        <figcaption class="image-block__credits">{{ image.caption }}</figcaption>
+      </div>
     {% endfor %}
   </div>
 {% endif %}
 
 
-  <div class="content">
-    {{ content | raw }}
-  </div>
+
 
 
 {% if funding %}

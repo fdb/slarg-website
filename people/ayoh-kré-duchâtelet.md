@@ -1,9 +1,8 @@
 ---
-layout: people.liquid
-tags: researcher
-person_name: Ayoh Kré Duchâtelet
 researcher_name: Ayoh Kré Duchâtelet
 researcher_flag: "false"
+social_links: ""
+layout: people.liquid
 bio: >-
   
   Ayoh Kré Duchâtelet is a Belgian-Ivorian artist and writer who lives and works in Brussels. He conducts documentary research on colonial and contemporary situations. His research gives form to heterogeneous fictional assemblages that combine text, image, video and sound. He is nourished by a variety of questions concerning the relationship between affect, image and imperialism, and the construction and circulation of imaginaries in the context of what V.Y. Mudimbe has called "The Invention of Africa" and Joseph Tonda has called "Afrodystopia".
@@ -13,12 +12,15 @@ bio: >-
 
 
   Ayoh is doing a PhD in the arts at Sint Lucas Antwerpen (KdG) / ARIA (University of Antwerp), entitled *Hearing room: Ghosts of the African Democratic Assembly.*
-headshot: https://ucarecdn.com/9e84a0d9-554b-4792-b98f-a66729603be0/
+staff_flag: false
 image_researcher:
   - https://ucarecdn.com/561a6eb6-f4a2-485a-948f-04722d500fc0/
-staff_flag: false
-email: ayoh.duchatelet@kdg.be
-available_for_supervision: false
+person_name: Ayoh Kré Duchâtelet
+role:
+  - PhD
 status_of_research: ongoing
-social_links: ""
+available_for_supervision: false
+tags: researcher
+email: ayoh.duchatelet@kdg.be
+headshot: https://ucarecdn.com/9e84a0d9-554b-4792-b98f-a66729603be0/
 ---

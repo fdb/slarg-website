@@ -1,10 +1,4 @@
 ---
-tags:
-  - researcher
-person_name: Annelys de Vet
-role:
-  - Staff
-email: annelys.devet@kdg.be
 research_interests:
   - social
   - subjective mapping
@@ -18,6 +12,14 @@ social_links:
   - name: Instagram
     url: https://www.instagram.com/devetann/
 layout: people.liquid
+tags:
+  - researcher
+person_name: Annelys de Vet
+role:
+  - Staff
+  - Supervisor
+  - Post-Doc
+email: annelys.devet@kdg.be
 headshot: https://ucarecdn.com/74932bb7-6817-44de-a5c8-fd359dc5e00a/
 bio: >-
   Annelys de Vet is a designer, researcher, and educator with a practice in

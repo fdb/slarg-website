@@ -4,7 +4,6 @@ title: Research Projects
 ---
 
 <h1 class="page-title">Research Projects</h1>
-
 <div class="filter-box" id="interest-filters">
 	<h3>Filter by Research Interest</h3>
 	{% assign all_interests = "" %} {% for project in collections.projects %} {% if project.data.research_interests %} {% for interest in
@@ -23,7 +22,7 @@ title: Research Projects
 		data-interests="{% if project.data.research_interests %}{{ project.data.research_interests | join: ',' }}{% endif %}"
 	>
 		{% if project.data.main_image %}
-		<img src="{{ project.data.main_image }}" alt="Image for {{ project.data.title }}" class="project-thumb" />
+		<img src="{{ project.data.main_image | url }}/-/format/jpeg/ }}" alt="Image for {{ project.data.main_image_credits }}" class="project-thumb" />
 		{% endif %}
 		<div class="project-info">
 			<h2 class="project-title">{{ project.data.title }}</h2>
