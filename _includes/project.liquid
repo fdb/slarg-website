@@ -8,19 +8,17 @@ layout: base.liquid
 
   <div class="project-date">
 
-    <span class="date"> 
-      {% if start_date %}
+  <span class="date">
+    {% if start_date %}
       {{ start_date | monthYear }}
-      {% endif %}
-
-      {% if end_date %}
+    {% endif %}
+  
+    {% if end_date %}
       &ndash; {{ end_date | monthYear }}
-      {% endif %}
-    </span>
-
-  {% if ongoing %}
-  <span class="status">ongoing</span>
-  {% endif %}
+    {% else if ongoing %}
+      &ndash; <span class="status">ongoing</span>
+    {% endif %}
+  </span>
 
   <ul class="info-project">
 
@@ -29,9 +27,14 @@ layout: base.liquid
   {% endif %} 
 
   {% if main_image %}
-  <img src="{{ main_image | url }}" width=""  height="" alt="{{ main_image_alt }}" />
-  <figcaption class="image-block__credits">{{ main_image_credits }}</figcaption>
+  <figure>
+    <img src="{{ main_image | url }}/-/format/jpeg/" width="" height="" alt="{{ main_image_alt }}" />
+    <figcaption class="image-block__credits">{{ main_image_credits }}</figcaption>
+  </figure>
 {% endif %}
+
+
+
 
   {% if abstract %}
     <li><strong>Abstract:</strong> {{ abstract }}</li>
