@@ -5,11 +5,6 @@ social_links:
   - name: Website
     url: https://Dimitrivandenwittenboer.com
 layout: people.liquid
-tags: researcher
-role:
-  - PhD Student
-email: Dimitrivandenwittenboer@gmail.com
-headshot: https://ucarecdn.com/062a5982-e26b-4d0f-8e1d-551b02dc22c4/
 bio: Dimitri van den Wittenboer is a community artist and researchers based in
   Brussels. in 2024 he started his PhD research in the arts at the Antwerp
   Research Institute for the Arts (ARIA) - Sint Lucas Antwerpen & University of
@@ -23,6 +18,11 @@ staff_flag: false
 image_researcher:
   - https://ucarecdn.com/c47f7e94-1e01-45ce-beee-59c4bba10c89/
 person_name: Dimitri van den Wittenboer
+role:
+  - PhD
 status_of_research: ongoing
 available_for_supervision: false
+tags: researcher
+email: Dimitrivandenwittenboer@gmail.com
+headshot: https://ucarecdn.com/062a5982-e26b-4d0f-8e1d-551b02dc22c4/
 ---
