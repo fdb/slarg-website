@@ -13,12 +13,29 @@ layout: base.liquid
       {{ start_date | monthYear }}
     {% endif %}
   
+    {% assign today_ts = "now" | date: "%s" %}
+    
     {% if end_date %}
-      &ndash; {{ end_date | monthYear }}
-    {% else if ongoing %}
+      {% assign end_ts = end_date | date: "%s" %}
+      {% if end_ts > today_ts or ongoing %}
+        &ndash; <span class="status">ongoing</span>
+      {% else %}
+        &ndash; {{ end_date | monthYear }}
+      {% endif %}
+    {% elsif ongoing %}
       &ndash; <span class="status">ongoing</span>
     {% endif %}
   </span>
+  
+  
+
+  
+
+  
+  
+  
+  
+  
 
   <ul class="info-project">
 
@@ -58,7 +75,7 @@ layout: base.liquid
   <div class="gallery">
     {% for image in gallery %}
       <div class="image-block">
-        <img src="{{ image.src | url }}" alt="{{ image.alt}}" />
+        <img src="{{ image.src | url }}/-/format/jpeg/" alt="{{ image.alt}}" />
         <figcaption class="image-block__credits">{{ image.caption }}</figcaption>
       </div>
     {% endfor %}

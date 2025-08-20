@@ -370,6 +370,8 @@ collections:
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
+      - { label: 'Type', name: 'type', widget: 'select', options: ['activity', 'overview-research-week'], default: 'activity', hint: 'Choose "overview-research-week" to link to the Research Week overview page' }
+      - { label: 'Link to Research Week', name: 'link', widget: 'string', required: false, hint: 'Optional URL for overview pages for research week' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Start Date', name: 'startDate', widget: 'datetime' }
       - { label: 'End Date', name: 'endDate', widget: 'datetime', required: false }
