@@ -2,6 +2,7 @@
 title: "Sea Through Skin / Exhibition Bianca Baldi "
 startDate: 2025-10-20T12:36:17.913Z
 endDate: 2025-10-25T12:36:17.919Z
+layout: activity.liquid
 location: "Kunsthal Extra City "
 tags:
   - Exhibition

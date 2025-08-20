@@ -2,6 +2,7 @@
 title: "Islamic knowledges and aesthetic practices "
 startDate: 2025-10-22T08:00:06.236Z
 endDate: 2025-10-22T12:00:56.631Z
+layout: activity.liquid
 location: "Showroom Sint Lucas "
 thumbnail: https://ucarecdn.com/668ff979-6e74-4632-9afd-27713bcba081/
 research_interests:

@@ -2,6 +2,8 @@
 title: "Mini Reading Club: Queer & Trans Zines as Research"
 startDate: 2025-10-23T08:00:34.628Z
 endDate: 2025-10-23T09:30:34.633Z
+layout: activity.liquid
+
 location: AdMa room, third floor, K.03.09
 research_interests:
   - illustration

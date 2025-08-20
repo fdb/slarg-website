@@ -2,6 +2,7 @@
 title: Kitchen Broadcast  Re-Distributing Solidarities
 startDate: 2025-10-21T12:00:14.871Z
 endDate: 2025-10-24T14:00:14.876Z
+layout: activity.liquid
 location: ""
 thumbnail: https://ucarecdn.com/299be170-e6d3-40cd-8588-b2a4040d3a19/
 ---

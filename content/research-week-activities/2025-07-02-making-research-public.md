@@ -2,6 +2,7 @@
 title: Making Research Public
 startDate: 2025-10-20T09:00:13.043Z
 endDate: 2025-10-20T11:00:13.060Z
+layout: activity.liquid
 location: AdMa Room, third floor, K.03.09
 tags: []
 ---

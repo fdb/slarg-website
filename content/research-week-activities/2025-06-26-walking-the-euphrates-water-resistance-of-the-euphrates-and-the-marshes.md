@@ -3,6 +3,7 @@ title: "Walking the Euphrates: Water Witness and Resistance of the River and the
   Marshes"
 startDate: 2025-10-21T09:00:32.270Z
 endDate: 2025-10-21T11:00:10.435Z
+layout: activity.liquid
 location: AdMa room, third floor, K.03.09
 thumbnail: https://ucarecdn.com/8a5ca619-1bb2-4d80-bb6d-3beca651a481/
 ---

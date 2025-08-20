@@ -3,6 +3,7 @@ title: Film Screening & Introduction – Make It Look Real by Danial Shah,
   introduced by Christopher Pinney
 startDate: 2025-10-24T10:30:31.397Z
 endDate: 2025-07-01T12:00:31.404Z
+layout: activity.liquid
 location: "Museum of photography (FOMU) - entrance Cinema Lumière "
 tags: []
 research_interests:
