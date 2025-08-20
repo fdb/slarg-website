@@ -676,6 +676,16 @@ border-radius: 8px;
 	border-radius: 3px;
 }
 
+.image-block{
+	display: flex;
+	flex-direction: column;
+}
+
+.image-block__credits{
+	font-size: 0.8rem;
+	font-style: italic;
+}
+
 .gallery {
 	display: flex;
 	gap: 1rem;

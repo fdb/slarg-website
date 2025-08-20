@@ -209,20 +209,6 @@ collections:
         }
       - { label: 'Headshot', name: 'headshot', widget: 'image', required: false }
       - { label: 'Bio', name: 'bio', widget: 'markdown' }
-      # - label: 'Social Links'
-      #   name: 'social_links'
-      #   widget: 'list'
-      #   required: false
-      #   hint: 'Add links to external websites or social profiles'
-      #   fields:
-      #     - label: 'Link Name'
-      #       name: 'name'
-      #       widget: 'string'
-      #       hint: 'e.g., Website, Instagram, Twitter'
-      #     - label: 'URL'
-      #       name: 'url'
-      #       widget: 'string'
-      #       hint: 'Full URL including https://'
       - {
           label: 'Projects',
           name: 'projects',
@@ -266,18 +252,20 @@ collections:
           hint: 'Select or add your research interests',
           max: 3
         }
-      - { label: 'Main_mage', name: 'main_image', widget: 'image', required: false }
+      - { label: 'Main_image', name: 'main_image', widget: 'image', required: false }
+      - { label: 'Main_image_credits', name: 'main_image_credits', widget: 'text', hint: 'ex. picture by Adam Berry', required: false }
+      - { label: 'Main_image_alt', name: 'main_image_alt', widget: 'text', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Describe the project in detail' }
-      - {
-          label: 'Gallery',
-          name: 'gallery',
-          widget: 'list',
-          max: 3,
-          required: false,
-          allow_add: true,
-          allow_remove: true,
-          field: { label: 'Image', name: 'image', widget: 'image', required: false }
-        }
+      -   label: 'Gallery'
+          name: 'gallery'
+          label_singular: "Image"
+          widget: 'list'
+          max: 3
+          required: false
+          fields: 
+            - { label: Image, name: src, widget: image }
+            - { label: Alt Text, name: alt, widget: string }
+            - { label: Caption / Credits, name: caption, widget: string} 
       - {
           label: 'People Involved',
           name: 'people',

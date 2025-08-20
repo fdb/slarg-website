@@ -12,17 +12,15 @@ layout: base.liquid
 
   <div class="project-date">
 
-  <span class="date"> 
+    <span class="date"> 
+      {% if start_date %}
+      {{ start_date | monthYear }}
+      {% endif %}
 
-  {% if start_date %}
-  {{ start_date | monthYear }}
-  {% endif %}
-
-  {% if end_date %}
-   &ndash; {{ end_date | monthYear }}
-  {% endif %}
-
-  </span>
+      {% if end_date %}
+      &ndash; {{ end_date | monthYear }}
+      {% endif %}
+    </span>
 
   {% if ongoing %}
   <span class="status">ongoing</span>
@@ -51,7 +49,10 @@ layout: base.liquid
   {% if gallery %}
   <div class="gallery">
     {% for image in gallery %}
-      <img src="{{ image | url }}" alt="Gallery image {{ forloop.index }}" />
+      <div class="image-block">
+        <img src="{{ image.src | url }}" alt="{{ image.alt}}" />
+        <figcaption class="image-block__credits">{{ image.caption }}</figcaption>
+      </div>
     {% endfor %}
   </div>
 {% endif %}
