@@ -9,7 +9,7 @@ role:
   - Post-Doc
   - Supervisor
 email: ruth.loos@kdg.be
-headshot: https://ucarecdn.com/200c039d-e757-4ad4-a17c-67367a4df90e/
+headshot: https://ucarecdn.com/7b2b73b1-f870-476e-9357-5d16d4847f9c/
 bio: >-
   Ruth Razan Loos holds master's degrees in visual arts and art history and a
   PhD in the arts. She supports SLARG in its social outreach approach. In
