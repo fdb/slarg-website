@@ -20,28 +20,35 @@ role:
   - Supervisor
   - Post-Doc
 email: annelys.devet@kdg.be
-headshot: https://ucarecdn.com/74932bb7-6817-44de-a5c8-fd359dc5e00a/
+headshot: https://ucarecdn.com/aa782ca8-a1d1-42f8-b889-6c7a4c434ece/
 bio: >-
-  Annelys de Vet is a designer, researcher, and educator with a practice in
-  long-term, participative design projects engaged in social and political
-  struggles. Annelys initiated the publishing initiative 'Subjective Editions,'
-  mapping regions from the inside out by the inhabitants themselves, including
-  'Subjective Atlas of Brussels' (2018), and 'Subjective Atlas of Palestine'
-  (2007). She co-founded 'Disarming Design from Palestine,' a thought-provoking
-  design platform developing artisanal products from Palestine. She headed the
-  temporary master's program 'Disarming Design' (2020–2022), focusing on design
-  practices in situations of oppression, which was part of the Sandberg
-  Instituut Amsterdam, where she was the course director of the MA in Design
-  from 2009 to 2019. Annelys tutors Socio-Political Practices in the master's
-  program at Sint Lucas Antwerpen (KdG). She is doing a PhD in the arts at Sint
-  Lucas Antwerpen (KdG) / ARIA (University of Antwerp), where she will defend
-  her PhD dissertation "Disarming Design, politics of Participatory Practices"
-  in November 2024.
+  
 
+  > Annelys de Vet is a designer, researcher, and educator whose practice focuses on long-term, participatory design projects that engage with urgent social and political issues. Currently, she is a postdoctoral researcher at ARIA (University of Antwerp), after having completed her doctoral research *Disarming Design: Politics of Participatory Practices* at Sint Lucas Antwerpen / ARIA in 2024.
 
+  >
 
+  >  
 
-  anyway
+  >
+
+  > De Vet is the founder of *Subjective Editions*, a publishing initiative that collaboratively maps regions through the lived experiences and perspectives of local communities. She is the co-founder of *Disarming Design from Palestine;* a platform that develops thought-provoking products from Palestine. 
+
+  >
+
+  >  
+
+  >
+
+  > Previously De Vet led the temporary master’s program Disarming Design at the Sandberg Instituut in Amsterdam—an experimental curriculum exploring design practices within contexts of oppression. At this moment she teaches in the Master’s Context: Socio-Political program at Sint Lucas Antwerpen. 
+
+  >
+
+  >  
+
+  >
+
+  > She welcomes PhD in the arts projects that critically explore the role of design within socio-political contexts. Her interests include participatory artistic practices, community-driven projects, and pedagogical projects that challenge dominant narratives and foster collective imaginaries. She is particularly drawn to research that investigates design as a tool for social engagement, emancipation, and situated knowledge production.
 projects:
   - log project
 ---
