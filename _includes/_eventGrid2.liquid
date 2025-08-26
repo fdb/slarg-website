@@ -1,9 +1,16 @@
+<!--this is the template for activities in research week -->
+
+{% assign images = "/static/img/research-week-colors-square-1.png,/static/img/research-week-colors-square-2.png,/static/img/research-week-colors-square-3.png,/static/img/research-week-colors-square-4.png" | split: "," %}
+
 <div class="events-grid">
     {% for event in events %}
     <div class="event">
         {% if event.data.thumbnail %}
         <a href="{{ event.url }}">
             <img src="{{ event.data.thumbnail }}" alt="{{ event.data.title }}">
+            {% else if %} 
+                {% assign index = forloop.index0 | modulo: images.size %}
+                <img src="{{ images[index] }}" alt="Thumbnail for {{ title }}" class="activity-thumb">
         </a>
     {% endif %}
         <h2 class="event-title">
