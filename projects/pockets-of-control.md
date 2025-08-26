@@ -13,6 +13,10 @@ research_interests:
 main_image: https://ucarecdn.com/f358909a-7524-4827-9c8e-352617e68276/
 people:
   - Sander Van de Vijver
+external_collaborators:
+  - name: suzanna leoli
+    url: sunny.systems/research-project
+    email: suz@test.be
 ---
 Pockets of Control / Protection Spells is a one year research project initiated and conducted by Sander Van de Vijver.
 
