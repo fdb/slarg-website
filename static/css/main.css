@@ -782,7 +782,9 @@ border-radius: 8px;
 	font-family: sans-serif;
 	color: #00b96f;
 }
-
+.activities-calendar ul li{
+	list-style: none;
+}
 .activities-calendar h2 {
 	font-family: 'Marsha';
 	font-size: 1.75rem;
