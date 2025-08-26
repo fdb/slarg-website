@@ -4,6 +4,9 @@
 	margin: 0 auto;
 	padding: 0 2rem 2rem 2rem;
 }
+.person-image{
+	height: 100%;
+}
 
 .people-grid {
 	display: grid;

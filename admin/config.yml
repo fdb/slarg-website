@@ -239,7 +239,7 @@ collections:
           label: 'Project Kind',
           name: 'project-kind',
           widget: 'select',
-          options: ['post-doc', 'pre-doc', 'PhD', 'social outreach'],
+          options: ['2 year project (post-doc)', '1 year project (pre-doc)', 'PhD', 'social outreach'],
           required: false
         }
       - { label: 'Ongoing', name: 'ongoing', widget: 'boolean', required: false }
@@ -277,6 +277,14 @@ collections:
           multiple: true,
           required: false
         }
+      - label: 'External Collaborators'
+        name: 'external_collaborators'
+        widget: 'list'
+        summary: '{{fields.name}}'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', required: false }
+          - { label: 'Email', name: 'email', widget: 'string', required: false }
       - label: 'Funding'
         name: 'funding'
         widget: 'list'

@@ -6,54 +6,166 @@ title: Research Projects
 <h1 class="page-title">Research Projects</h1>
 <div class="filter-box" id="interest-filters">
 	<h3>Filter by Research Interest</h3>
-	{% assign all_interests = "" %} {% for project in collections.projects %} {% if project.data.research_interests %} {% for interest in
-	project.data.research_interests %} {% unless all_interests contains interest %} {% assign all_interests = all_interests | append: interest
-	| append: ',' %} {% endunless %} {% endfor %} {% endif %} {% endfor %} {% assign unique_interests = all_interests | split: ',' | uniq %}
+	{% assign all_interests = "" %} 
+	{% for project in collections.projects %} 
+		{% if project.data.research_interests %} 
+			{% for interest in project.data.research_interests %} 
+			{% unless all_interests contains interest %} 
+			{% assign all_interests = all_interests | append: interest | append: ',' %} 
+			{% endunless %} 
+			{% endfor %} 
+		{% endif %} 
+	{% endfor %} 
+	{% assign unique_interests = all_interests | split: ',' | uniq %}
 	{% for interest in unique_interests %} {% if interest != "" %}
 	<button onclick="toggleInterestFilter(this, '{{ interest }}')">{{ interest }}</button>
 	{% endif %} {% endfor %}
 </div>
 
-<div class="projects-grid">
-	{% assign sorted_projects = collections.projects | sort: "data.title" %} {% for project in sorted_projects %}
-	<a
-		class="project-card"
-		href="{{ project.url }}"
-		data-interests="{% if project.data.research_interests %}{{ project.data.research_interests | join: ',' }}{% endif %}"
-	>
-		{% if project.data.main_image %}
-		<img src="{{ project.data.main_image | url }}/-/format/jpeg/ }}" alt="Image for {{ project.data.main_image_credits }}" class="project-thumb" />
-		{% endif %}
-		<div class="project-info">
-			<h2 class="project-title">{{ project.data.title }}</h2>
-			{% if project.data.project-kind %}
-			<p class="project-kind">{{ project.data.project-kind }}</p>
-			{% endif %} {% if project.data.abstract %}
-			<p class="project-abstract">{{ project.data.abstract | truncate: 120 }}</p>
-			{% endif %} {% if project.data.research_interests %}
-			<div class="project-interests">
-				{% for interest in project.data.research_interests %}
-				<span class="interest-tag">{{ interest }}</span>
-				{% endfor %}
-			</div>
-			{% endif %}
-		</div>
-	</a>
-	{% endfor %}
+
+<div class="filter-box" id="kind-filters">
+  <h3>Filter by Project Kind</h3>
+  {% assign all_kinds = "" %}
+  {% for project in collections.projects %}
+    {% if project.data.project-kind %}
+      {% unless all_kinds contains project.data["project-kind"] %}
+        {% assign all_kinds = all_kinds | append: project.data["project-kind"] | append: ',' %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+  {% assign unique_kinds = all_kinds | split: ',' | uniq %}
+  {% for kind in unique_kinds %}
+    {% if kind != "" %}
+      <button onclick="toggleKindFilter(this, '{{ kind }}')">{{ kind }}</button>
+    {% endif %}
+  {% endfor %}
 </div>
+
+
+
+{% assign sorted_projects = collections.projects | sort: "data.title" %}
+
+{% assign has_ongoing = false %}
+{% for project in sorted_projects %}
+  {% if project.data.ongoing %}
+    {% assign has_ongoing = true %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% assign has_finished = false %}
+{% for project in sorted_projects %}
+  {% unless project.data.ongoing %}
+    {% assign has_finished = true %}
+    {% break %}
+  {% endunless %}
+{% endfor %}
+
+{% if has_ongoing %}
+<br>
+<br>
+  <h2>Ongoing Projects</h2>
+  <div class="projects-grid">
+  {% for project in sorted_projects %}
+    {% if project.data.ongoing %}
+      <!-- render card -->
+    <a
+      class="project-card"
+      href="{{ project.url }}"
+      data-interests="{% if project.data.research_interests %}{{ project.data.research_interests | join: ',' }}{% endif %}"
+      data-kind="{{ project.data['project-kind'] }}"
+    >
+      {% if project.data.main_image %}
+        <img src="{{ project.data.main_image | url }}/-/format/jpeg/" alt="Image for {{ project.data.main_image_credits }}" class="project-thumb" />
+      {% endif %}
+      <div class="project-info">
+        <h2 class="project-title">{{ project.data.title }}</h2>
+        {% if project.data.project-kind %}
+          <p class="project-kind">{{ project.data.project-kind }}</p>
+        {% endif %}
+        {% if project.data.abstract %}
+          <p class="project-abstract">{{ project.data.abstract | truncate: 120 }}</p>
+        {% endif %}
+        {% if project.data.research_interests %}
+          <div class="project-interests">
+            {% for interest in project.data.research_interests %}
+        <span class="interest-tag">{{ interest }}</span>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+    </a>
+    {% endif %}
+  {% endfor %}
+{% endif %}
+  </div>
+{% if has_finished %}
+
+  <h2>Completed Projects</h2>
+  <div class="projects-grid">
+  {% for project in sorted_projects %}
+    {% unless project.data.ongoing %}
+      <!-- render card -->
+      <a
+        class="project-card"
+        href="{{ project.url }}"
+        data-interests="{% if project.data.research_interests %}{{ project.data.research_interests | join: ',' }}{% endif %}"
+        data-kind="{{ project.data['project-kind'] }}"
+      >
+        {% if project.data.main_image %}
+          <img src="{{ project.data.main_image | url }}/-/format/jpeg/" alt="Image for {{ project.data.main_image_credits }}" class="project-thumb" />
+        {% endif %}
+        <div class="project-info">
+          <h2 class="project-title">{{ project.data.title }}</h2>
+          {% if project.data.project-kind %}
+            <p class="project-kind">{{ project.data.project-kind }}</p>
+          {% endif %}
+          {% if project.data.abstract %}
+            <p class="project-abstract">{{ project.data.abstract | truncate: 120 }}</p>
+          {% endif %}
+          {% if project.data.research_interests %}
+            <div class="project-interests">
+              {% for interest in project.data.research_interests %}
+                <span class="interest-tag">{{ interest }}</span>
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
+      </a>
+    {% endunless %}
+  {% endfor %}
+	{% endif %}
+
+</div>
+
 
 <script>
 	function toggleInterestFilter(btn, interest) {
 		btn.classList.toggle('active');
-		const active = Array.from(document.querySelectorAll('#interest-filters button.active')).map((b) => b.textContent);
+		filterProjects();
+
+	}
+
+
+	function toggleKindFilter(btn, kind) {
+		btn.classList.toggle('active');
+		filterProjects();
+	}
+
+		function filterProjects() {
+		const activeInterests = Array.from(document.querySelectorAll('#interest-filters button.active')).map(b => b.textContent);
+		const activeKinds = Array.from(document.querySelectorAll('#kind-filters button.active')).map(b => b.textContent);
+
 		const projects = document.querySelectorAll('.project-card');
-		if (active.length === 0) {
-			projects.forEach((p) => (p.style.display = 'flex'));
-			return;
-		}
-		projects.forEach((project) => {
-			const interests = (project.getAttribute('data-interests') || '').split(',');
-			project.style.display = active.some((i) => interests.includes(i)) ? 'flex' : 'none';
+
+		projects.forEach(project => {
+			const projectInterests = (project.getAttribute('data-interests') || '').split(',');
+			const projectKind = project.getAttribute('data-kind') || '';
+
+			const matchesInterest = activeInterests.length === 0 || activeInterests.some(i => projectInterests.includes(i));
+			const matchesKind = activeKinds.length === 0 || activeKinds.includes(projectKind);
+
+			project.style.display = (matchesInterest && matchesKind) ? 'flex' : 'none';
 		});
 	}
 </script>

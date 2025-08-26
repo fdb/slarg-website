@@ -987,7 +987,7 @@ border-radius: 8px;
 		font-size: 0.8rem;
 	}
 
-#interest-filters button {
+#interest-filters button, #kind-filters button {
 	padding: 10px;
 	cursor: pointer;
 	background: transparent;
@@ -996,11 +996,18 @@ border-radius: 8px;
 	padding: 0.5rem 1.1rem;
 	margin: 0 0.3rem 0.3rem 0;
 }
-#interest-filters button.active {
+#interest-filters button.active, #kind-filters button.active  {
 	background: #00c589;
 	color: #fff;
 }
-#interest-filters button:focus {
+#interest-filters button:focus, #kind-filters button:focus {
 	outline: none;
 	box-shadow: 0 0 0 2px #00c58933;
+}
+
+.people-link a{
+	text-decoration: underline;
+}
+.people-link a:hover{
+	color: #008f7a;
 }
