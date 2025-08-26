@@ -4,7 +4,7 @@ tags: project
 title: In the zone of the Science Fictional
 start_date: 2022-09-01T14:09:50.239Z
 end_date: 2024-08-01T14:09:50.243Z
-project-kind: post-doc
+project-kind: 2 year project (post-doc)
 research_interests:
   - fiction
   - future thinking
