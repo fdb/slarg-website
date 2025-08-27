@@ -33,8 +33,6 @@ tags: researcher
 email: joud.toamah@kdg.be
 headshot: https://ucarecdn.com/04154d4f-37c9-4106-a1ef-1631b6c260c3/
 projects:
-  - A River Flows Through Dreams صلاة حلم
-  - River Witness, Suspended Witness
-  - Euphrates Platform
-  - within the ruined courtyard
+  - The Talisman of the Fluid Word
+  - Courtyard of Memory
 ---
