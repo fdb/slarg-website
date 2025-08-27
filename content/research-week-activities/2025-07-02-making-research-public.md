@@ -1,15 +1,22 @@
 ---
 title: Making Research Public
+layout: activity.liquid
 startDate: 2025-10-20T09:00:13.043Z
 endDate: 2025-10-20T11:00:13.060Z
-layout: activity.liquid
 location: AdMa Room, third floor, K.03.09
 tags: []
 ---
-M﻿aking your artistic research process public is what is expected from researchers, but it is not always an easy task. It is less straightforward than sharing your artistic outcomes, it asks for a careful deliberation about what medium is best fitted, and it poses multiple questions about translation and accessibility.
+<!--StartFragment-->
 
-I﻿n this session some researchers in the arts with share with you the tools they use to share their artistic research process; you will learn about their advantages and challenges and there will be ample time to ask questions. We will dive into several ways of sharing: making zines, books, websites, using the SAR research catalogue, or writing academic papers and attending conferences. The options are plenty, the challenge is to find what fits best with your research process. Come, share and learn!
+Making your artistic research process public is often expected of researchers, yet it is not always straightforward. Unlike presenting finished artistic outcomes, opening up your process requires careful reflection on the most suitable medium, as well as attention to questions of translation and accessibility.
 
-*"Hybrid publishing ecosystems are empowering research tools to learn, love, think and share." (Loraine Furter, PhD SLARG)*
+In this session, seven researchers in the arts will introduce the tools and strategies they use to make their research process visible. You will hear about the opportunities and difficulties they encounter, and there will be ample time for discussion. Together we will explore a wide range of formats: from zines, books, and websites, to the SAR Research Catalogue, academic articles, and conferences. The possibilities are many: the challenge lies in finding the approach that resonates most with your own practice. Come to exchange, reflect, and learn!
 
-T﻿his session is open to all researchers in the arts!
+*“Hybrid publishing ecosystems are empowering research tools to learn, love, think and share.”*\
+—Loraine Furter, PhD SLARG
+
+**With contributions from:** Frederik De Bleser, Loraine Furter, Mona Hedayati, Eva Moulaert, Sander Van de Vijver, Kobe Van Kouwenberghe, and Pierre-Antoine Vettorello.
+
+This session is open to all researchers in the arts.
+
+<!--EndFragment-->
