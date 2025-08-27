@@ -1,7 +1,7 @@
 ---
 layout: project.liquid
 tags: project
-title: River Witness, Suspended Witness
+title: The Talisman of the Fluid Word
 start_date: 2024-09-26T12:37:37.650Z
 end_date: 2025-06-26T12:37:37.657Z
 project-kind: 1 year project (pre-doc)
