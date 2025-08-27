@@ -12,7 +12,9 @@ research_interests:
 
 Join us for a full day exploration of faith, perception, and artistic expression in Islamic arts, guided by scholars and artists whose work bridges historical knowledge and contemporary practice. This session is curated by SLARG researchers **Ruth R. Loos** and **Joud Toamah**, who bring together perspectives on how religion, art, and cultural memory intersect.
 
-**Wendy M.K. Shaw**, a leading scholar of Islamic art history, presents the keynote. Shaw has made significant contributions to the discourse on the relationship between religion, perception, and artistic creation. Her book, *What is 'Islamic' Art?: Between Religion and Perception*, offers a groundbreaking approach by examining Islamic arts through the lens of historical Islam’s discursive sphere—including the Qur’an, Hadith, Sufism, ancient philosophy, and poetry. By prioritising the experience of reception over the context of production, Shaw challenges prevailing narratives in Islamic art while advocating for a decolonising model for global art history practices.
+#### *K﻿eynote Wendy M.K. Shaw*
+
+**Shaw**, a leading scholar of Islamic art history, has made significant contributions to the discourse on the relationship between religion, perception, and artistic creation. Her book, *What is 'Islamic' Art?: Between Religion and Perception*, offers a groundbreaking approach by examining Islamic arts through the lens of historical Islam’s discursive sphere—including the Qur’an, Hadith, Sufism, ancient philosophy, and poetry. By prioritising the experience of reception over the context of production, Shaw challenges prevailing narratives in Islamic art while advocating for a decolonising model for global art history practices.
 
 ### *Live Perso-Arabic Calligraphy*
 
@@ -21,8 +23,6 @@ Experience the elegance and precision of Islamic calligraphy with **Tamim SahibZ
 ### *Devotional Performance*
 
 Witness a living archive of sacred sound and practice with the **Kairo Girls’ School**, a collective of women dedicated to preserving Indigenous and oral traditions of Islamic knowledge, storytelling, and traditional crafts. Their performances are guided by the principle of *improvisistance*—a concept coined by Dirar Kalash, blending improvisation and resistance to remain truthfully present. Through voice, electronic synth, natural acoustics, and sacred sounds, they build a dynamic practice of *dhikr* and remembrance, extending their invitation to all who seek it.
-
-
 
 *Image: Leaf inscribed with a Qur’anic verse from Surat al-Isra’ (“The Night Journey,” Q.17:80), Turkey, 19th century. The inscription reads: “And say, ‘O my Lord, make me enter a rightful entrance and make me exit a rightful exit, and grant me from Your Own a power, favoured \[by You].’”*
 
