@@ -20,7 +20,7 @@ Experience the elegance and precision of Islamic calligraphy with **Tamim SahibZ
 
 ### *Devotional Performance*
 
-Witness a living archive of sacred sound and practice with the **Kairo Girls’ School** (tbc), a collective of women dedicated to preserving Indigenous and oral traditions of Islamic knowledge, storytelling, and traditional crafts. Their performances are guided by the principle of *improvisistance*—a concept coined by Dirar Kalash, blending improvisation and resistance to remain truthfully present. Through voice, electronic synth, natural acoustics, and sacred sounds, they build a dynamic practice of *dhikr* and remembrance, extending their invitation to all who seek it.
+Witness a living archive of sacred sound and practice with the **Kairo Girls’ School**, a collective of women dedicated to preserving Indigenous and oral traditions of Islamic knowledge, storytelling, and traditional crafts. Their performances are guided by the principle of *improvisistance*—a concept coined by Dirar Kalash, blending improvisation and resistance to remain truthfully present. Through voice, electronic synth, natural acoustics, and sacred sounds, they build a dynamic practice of *dhikr* and remembrance, extending their invitation to all who seek it.
 
 
 
