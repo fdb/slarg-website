@@ -4,7 +4,7 @@ layout: activity.liquid
 startDate: 2025-10-21T09:00:32.270Z
 endDate: 2025-10-21T11:00:10.435Z
 location: AdMa room, third floor, K.03.09
-thumbnail: https://ucarecdn.com/8a5ca619-1bb2-4d80-bb6d-3beca651a481/
+thumbnail: https://ucarecdn.com/2be109fe-d81d-4d6d-9eb2-5992085bf08a/
 ---
 <!--StartFragment-->
 
