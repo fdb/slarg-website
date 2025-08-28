@@ -1,8 +1,8 @@
 ---
-title: "Sea Through Skin / Exhibition Bianca Baldi "
+title: Sea Through Skin / Bianca Baldi / Exhibition Tour
 layout: activity.liquid
-startDate: 2025-10-23T11:00:00.000Z
-endDate: 2025-10-25T16:00:17.919Z
+startDate: 2025-10-23T11:30:00.000Z
+endDate: 2025-10-25T12:30:17.919Z
 location: Kunsthal Extra City - Chapel, Provinciestraat 112, 2018 Antwerpen
 thumbnail: https://ucarecdn.com/0dc1e18e-2d6e-44d3-a47f-071c3cdb9403/
 tags:
@@ -10,11 +10,9 @@ tags:
 ---
 <!--StartFragment-->
 
-**Sea Through Skin — Bianca Baldi**\
-13.09.25 — 25.01.26\
-Extra City Kunsthal, Antwerp
+As part of SLARG’s research week, PhD researcher Bianca Baldi will lead a tour of her solo exhibition *Sea Through Skin* at Kunsthal Extra City. We warmly invite you to join.
 
-During SLARG’s research week, PhD researcher Bianca Baldi presents her solo exhibition *Sea Through Skin* at Kunsthal Extra City. The exhibition takes as its starting point the phenomenon of racial passing, tracing how proximity to whiteness and colonial histories of visibility shape the way we see—and are seen. Through film, textiles, glass, photography, and installation, Baldi reflects on identity as something fluid rather than fixed, drawing on personal histories, collective memory, and the ocean as a metaphor of depth and resistance.
+The exhibition takes as its starting point the phenomenon of racial passing, tracing how proximity to whiteness and colonial histories of visibility shape the way we see—and are seen. Through film, textiles, glass, photography, and installation, Baldi reflects on identity as something fluid rather than fixed, drawing on personal histories, collective memory, and the ocean as a metaphor of depth and resistance.
 
 Curated by Joachim Naudts and Darly Benneker, this exhibition marks the culmination of Baldi’s doctoral project *Play-White: Racial Passing and Embodied Images* at Sint Lucas Antwerpen and ARIA (University of Antwerp).
 
