@@ -4,6 +4,7 @@ layout: activity.liquid
 startDate: 2025-10-20T09:00:13.043Z
 endDate: 2025-10-20T11:00:13.060Z
 location: AdMa Room, third floor, K.03.09
+thumbnail: https://ucarecdn.com/d3e70632-4a38-4fbc-8a81-060ddc6107d8/
 tags: []
 ---
 <!--StartFragment-->
@@ -15,8 +16,12 @@ In this session, seven researchers in the arts will introduce the tools and stra
 *“Hybrid publishing ecosystems are empowering research tools to learn, love, think and share.”*\
 —Loraine Furter, PhD SLARG
 
-**With contributions from:** Frederik De Bleser, Loraine Furter, Mona Hedayati, Eva Moulaert, Sander Van de Vijver, Kobe Van Kouwenberghe, and Pierre-Antoine Vettorello.
+**With contributions from:** Frederik De Bleser (SLARG), Loraine Furter (SLARG), Mona Hedayati (SLARG), Eva Moulaert (LUCA School of Arts Ghent), Sander Van de Vijver (SLARG), Kobe Van Cauwenberghe (Conservatorium van Antwerpen), and Pierre-Antoine Vettorello (SLARG).
 
 This session is open to all researchers in the arts.
+
+I﻿mage: **©**Felix Godefroy
+
+*The Yarn*, edited by Pierre Antoine-Vettorello 
 
 <!--EndFragment-->
