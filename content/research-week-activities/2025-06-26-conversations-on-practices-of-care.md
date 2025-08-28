@@ -18,7 +18,7 @@ This symposium opens a conversation on citizen-organised support structures for 
 * What motivates people to offer support?
 * What challenges and ethical questions arise in this work?
 
-The symposium is initiated by community artist and researcher Dimitri van den Wittenboer, whose doctoral project *Empowered Care* explores housing initiatives created with people facing acute legal and financial insecurity. His practice investigates how care can be woven into daily life by sharing living space, and how ethics, solidarity, and vulnerability are negotiated in such settings.
+The symposium is initiated by community artist and researcher **Dimitri van den Wittenboer**, whose doctoral project *Empowered Care* explores housing initiatives created with people facing acute legal and financial insecurity. His practice investigates how care can be woven into daily life by sharing living space, and how ethics, solidarity, and vulnerability are negotiated in such settings.
 
 Community practice, as Dimitri frames it, is a field where activism, social work, and art converge and cross-pollinate. Questions of ethics lie at the core of this work. They are especially pressing in the context of widening global inequality, (forced) migration, and state violence.
 
