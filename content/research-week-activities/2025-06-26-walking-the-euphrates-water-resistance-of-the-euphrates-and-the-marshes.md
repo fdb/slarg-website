@@ -8,7 +8,7 @@ thumbnail: https://ucarecdn.com/b0e2a233-87b7-4da3-aa8b-7116199ce521/
 ---
 <!--StartFragment-->
 
-*Walking the Euphrates*is a shared dialogue between SLARG researcher **Joud Toamah** and invited guest **Ameneh Solati**. Together, they explore the Euphrates in Syria and the marshes in Iraq as living, ecological, and geopolitical entities of witness and resistance. Through this collective “walk” along the river, they trace entangled aquatic geographies, histories of struggle against marginalization, tyranny and catastrophe as well as deep relationality, acts of care and repair, and contexts of resistance. At the heart of their dialogue is water itself, centered as companion and ancestral presence.
+*Walking the Euphrates* is a shared dialogue between SLARG researcher **Joud Toamah** and invited guest **Ameneh Solati**. Together, they explore the Euphrates in Syria and the marshes in Iraq as living, ecological, and geopolitical entities of witness and resistance. Through this collective “walk” along the river, they trace entangled aquatic geographies, histories of struggle against marginalization, tyranny and catastrophe as well as deep relationality, acts of care and repair, and contexts of resistance. At the heart of their dialogue is water itself, centered as companion and ancestral presence.
 
 Joud Toamah is an artist-researcher whose practice engages with water cultures and the Euphrates in Syria as a site of witness. She currently develops the research project River Witness, from which this session emerges.
 
