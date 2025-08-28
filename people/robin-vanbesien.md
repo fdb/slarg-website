@@ -1,26 +1,6 @@
 ---
-layout: people.liquid
-tags: researcher
-person_name: Robin Vanbesien
 researcher_name: Robin Vanbesien
-researcher_flag: 'false'
-bio: 'Robin Vanbesien is an artist, filmmaker, researcher, and educator, based
-  in Brussels. He obtained his PhD in the arts from Sint Lucas Antwerpen (KdG) /
-  ARIA (University of Antwerp) with his research project "Ciné Place-Making."
-  His first feature "hold on to her" (2024) premiered at Berlinale Forum
-  Expanded 2024. In 2017, Vanbesien published "Solidarity Poiesis: I Will Come
-  and Steal You" with b_books Berlin. He co-founded The Post Film Collective
-  (2020-2024), which explored cinema as a form of speculative rehearsal and
-  communal assembly. Robin tutors Socio-Political Practices in the master''s
-  program at Sint Lucas Antwerpen (KdG). Since 2022, he co-convenes the "Ciné
-  Place-Making" study circles in Brussels.'
-headshot: https://ucarecdn.com/12a98e03-a9c0-4b6c-a91e-af3a332afdf8/
-image_researcher:
-  - https://ucarecdn.com/2d1961ed-b19a-4b53-9f7f-340e538df08f/
-staff_flag: 'false'
-email: robin.vanbesien@kdg.be
-available_for_supervision: 'false'
-status_of_research: finished
+researcher_flag: "false"
 social_links:
   - name: Website
     url: https://robinvanbesien.net/
@@ -28,4 +8,33 @@ social_links:
     url: http://holdontoher.be/
   - name: La Loge
     url: https://www.la-loge.be/en/archives/holding-rehearsals-by-robin-vanbesien
+layout: people.liquid
+tags: researcher
+role:
+  - Supervisor
+  - Post-Doc
+email: robin.vanbesien@kdg.be
+headshot: https://ucarecdn.com/66a199e7-1ca1-48f8-824b-30b9312e66f6/
+bio: >-
+  Robin Vanbesien is a visual artist, filmmaker, researcher, and educator
+  exploring embodied knowledge and collective imagination in social and
+  political struggles. He collaborates with situated initiatives of collective
+  self-organization, exploring cinema as a space for social gathering, militant
+  engagement, speculative rehearsal, and communal assembly. In 2024, he
+  finalised a PhD in the arts with Ciné Place-Making. At Sint Lucas Antwerp, he
+  co-coordinates and coaches the Masterproject in a Socio-Political Context. He
+  (co-)convened the study circles Ciné Place-Making (2022) and Cinema as
+  Assembly (2025). His book Solidarity Poiesis: I Will Come and Steal You was
+  published by b_books (Berlin, 2017). His first feature film, hold on to her,
+  premiered at Berlinale Forum Expanded in 2024. He is supervising PhD in the
+  arts projects.
+
+
+  He is interested in supervising PhD in the arts projects related to moving image, collective praxis, the poetics of solidarity, care, mourning and healing, abolitionist practices, documentary ethics
+staff_flag: "false"
+image_researcher:
+  - https://ucarecdn.com/2d1961ed-b19a-4b53-9f7f-340e538df08f/
+person_name: Robin Vanbesien
+status_of_research: finished
+available_for_supervision: "false"
 ---
