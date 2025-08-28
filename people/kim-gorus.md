@@ -17,5 +17,5 @@ bio: >-
   magazine of SLA. 
 
 
-  She is interested in supervising PhD in the arts projects connecting to literature, (visual) narration, fiction, historiography, artist’s writings and editorial practices.
+  She is interested in supervising PhD in the arts projects connecting to literature, (visual) narration, fiction / speculation, historiography, artist’s writings and editorial practices.
 ---
