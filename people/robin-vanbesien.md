@@ -31,6 +31,9 @@ bio: >-
 
 
   He is interested in supervising PhD in the arts projects related to moving image, collective praxis, the poetics of solidarity, care, mourning and healing, abolitionist practices, documentary ethics
+
+
+  Photo credit: Sanja Bistričić Srića
 staff_flag: "false"
 image_researcher:
   - https://ucarecdn.com/2d1961ed-b19a-4b53-9f7f-340e538df08f/
