@@ -1,5 +1,5 @@
 ---
-title: Sea Through Skin / Bianca Baldi / Exhibition Tour
+title: Sea Through Skin | Bianca Baldi | Exhibition Tour
 layout: activity.liquid
 startDate: 2025-10-23T11:30:00.000Z
 endDate: 2025-10-25T12:30:17.919Z
