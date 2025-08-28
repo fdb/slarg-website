@@ -1,6 +1,5 @@
 ---
-title: Film Screening & Introduction – Make It Look Real by Danial Shah,
-  introduced by Christopher Pinney
+title: Make It Look Real | Danial Shah | Film Screening | Intro Christopher Pinney
 layout: activity.liquid
 startDate: 2025-10-24T10:30:31.397Z
 endDate: 2025-07-01T12:00:31.404Z
