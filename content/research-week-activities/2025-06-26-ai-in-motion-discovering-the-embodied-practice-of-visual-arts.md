@@ -1,11 +1,11 @@
 ---
 title: "AI in Motion: Discovering the Embodied Practice of Visual Arts "
+layout: activity.liquid
 startDate: 2025-10-22T08:00:06.590Z
 endDate: 2025-10-23T14:00:06.595Z
 location: Performative Space, third floor, K.03.10
-thumbnail: https://ucarecdn.com/8cb85dbe-1fc4-49fa-973b-c89a9aa34529/
+thumbnail: https://ucarecdn.com/9f632526-f3a8-4a8f-a3d0-f5d61b61cf52/
 tags: []
-layout: activity.liquid
 research_interests:
   - artificial intelligence
   - experimental
@@ -32,5 +32,8 @@ Limited to 10 participants.\
 
 [algorithmicgaze.com](https://algorithmicgaze.com/)\
 \
-**A﻿pplications open up on August 28**
-<!-- [S﻿ignup Now](https://forms.office.com/Pages/ResponsePage.aspx?id=f8Uf7ZeK50ed4ZMC39eGriKRksldWX1DvIHCoTH_JMdUMlRJOVlLUFAyQ0NERVRHUVFVNlNBV1BVMy4u) -->
+**A﻿pplications open up on August 28.**
+
+<!-- \[S﻿ignup Now](https://forms.office.com/Pages/ResponsePage.aspx?id=f8Uf7ZeK50ed4ZMC39eGriKRksldWX1DvIHCoTH_JMdUMlRJOVlLUFAyQ0NERVRHUVFVNlNBV1BVMy4u) -->
+
+S﻿ubscribe via frederik.debleser@kdg.be
