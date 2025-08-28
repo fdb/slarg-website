@@ -4,6 +4,8 @@ tags: people
 person_name: Kim Gorus
 role:
   - Supervisor
+  - Staff
+  - Post-Doc
 email: Kim.Gorus@kdg.be
 bio: >-
   Kim Gorus (°1982, Brussels) is a teacher and senior researcher at Sint Lucas
