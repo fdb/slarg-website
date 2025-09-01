@@ -26,7 +26,9 @@ image_researcher:
   - https://ucarecdn.com/ee9d72db-39e1-47ec-b9fa-c05ca606b290/
 tags: researcher
 person_name: Karen Vermeren
-role: null
+role:
+  - Staff
+  - Post-Doc
 status_of_research: ongoing
 available_for_supervision: "false"
 email: karen.vermeren@kdg.be
