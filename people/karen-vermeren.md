@@ -2,16 +2,12 @@
 researcher_name: Karen Vermeren
 researcher_flag: "false"
 layout: people.liquid
-research_interests:
-  - She is interested in supervising PhD in the arts projects related to geology
-  - ecology
-  - landscape
-  - care and raw materials
-  - at the intersection of drawing and painting.
+research_interests: []
 social_links:
   - name: Website
     url: https://www.karenvermeren.be
-bio: Karen Vermeren (°1982, Belgium) is a visual artist, postdoctoral researcher
+bio: >-
+  Karen Vermeren (°1982, Belgium) is a visual artist, postdoctoral researcher
   and lecturer at Sint Lucas Antwerpen (KdG). She obtained her Master's of Art
   at LUCA School of Arts, Ghent (2005), followed by a PhD in Arts at Sint Lucas
   Antwerp (KdG) & ARIA (University of Antwerp) (2018). She participated in
@@ -22,6 +18,9 @@ bio: Karen Vermeren (°1982, Belgium) is a visual artist, postdoctoral researche
   work in Belgium and abroad (including MAS Antwerp, Beursschouwburg Brussels,
   Lieux-communs Namur, Studio PRÁM Prague, European Triennial Mons, Espace des
   Femmes Paris).
+
+
+  She is interested in supervising PhD in the arts projects related to geology, ecology, landscape, care and raw materials, at the intersection of drawing and painting.
 staff_flag: "false"
 image_researcher:
   - https://ucarecdn.com/ee9d72db-39e1-47ec-b9fa-c05ca606b290/
