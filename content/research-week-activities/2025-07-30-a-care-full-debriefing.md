@@ -24,6 +24,8 @@ The session, *A Care-full Debriefing*, draws its name from our shared interest i
 
 We welcome collectives and individuals interested in collaborative, care-focused art practices and self-organised publishing. Join us to explore our process, exchange insights, and engage in a conversation about the challenges and highlights of collective making.
 
-Copies of the printed publication will be available for exchange with other publications.
+Copies of the printed publication will be available for exchange with other publications.\
+\
+Let us know via **[springpears@tutamail.com](mailto:springpears@tutamail.com)** if you care to join us, so we can estimate the amount of space and chairs we need.
 
 <!--EndFragment-->
