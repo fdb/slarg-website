@@ -12,11 +12,13 @@ research_interests:
 ---
 <!--StartFragment-->
 
-**The Spring Pears** are a geographically dispersed collective that emerged from the Advanced Master year 2023–24 at Sint Lucas Antwerpen. Over six months in 2025, we conducted an experimental artistic research project, exchanging our work through post packages. Each round responded to the previously received package, guided by six themes that run through our individual practices.
+**The Spring Pears** are a geographically dispersed collective that emerged from the Advanced Master year 2023–24 at Sint Lucas Antwerpen, consisting of An-Marie Breem, Yi Zhang, Katy Drake, Anthe Hermans, Saskia Van der Gucht and Kristí Fekete.\
+\
+Over six months in 2025, we conducted an experimental artistic research project, exchanging our work through post packages. Each round responded to the previously received package, guided by six themes that run through our individual practices. 
 
-This fall, we will come together for a four-day residency to transform these ongoing exchanges into a printed publication. The project reflects not only our artistic processes but also our playful and thoughtful engagement with priorities, stamps, and tracking, highlighting the tangible outcomes of this collaborative experiment.
+This fall, we will come together for a four-day residency to transform these ongoing exchanges into a printed publication. The project reflects not only our artistic processes but also our inability to systematically choose between priority stamps or tracking, and the tangible outcomes of this collaborative experiment.
 
-On Monday  20 October, we invite you to share in the culmination of this project. This event will present the completed publication, the artworks created, and our experiences and methodologies from our first collective endeavour.
+On Monday 20 October, we invite you to share in the culmination of this project. This event will present the completed publication, the artworks created, and our experiences and methodologies from our first collective endeavour.
 
 The session, *A Care-full Debriefing*, draws its name from our shared interest in the ethics of care: a commitment to valuing relationships over results and recognising the work that care itself requires.
 
