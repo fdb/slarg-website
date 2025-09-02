@@ -4,7 +4,7 @@ layout: activity.liquid
 startDate: 2025-10-20T15:00:00.000Z
 endDate: 2025-10-20T17:00:39.692Z
 location: AdMa Room, third floor, K.03.09
-thumbnail: https://ucarecdn.com/c367a819-d039-4d87-98ed-4b6d186c4c48/
+thumbnail: ""
 research_interests:
   - care
   - ethics
