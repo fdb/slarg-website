@@ -12,4 +12,4 @@ In this  informal session, researcher and illustrator Sam vanbelle invites you t
 
 Zines are often self-published in small editions and intentionally exist outside the mainstream. They make space for raw, unpolished stories and intimate visual worlds that are harder to find elsewhere. Together, we’ll read excerpts in which personal sketches and experiences are translated into something public—how does that shift happen, and what does it allow for?
 
-Participants are welcome to bring their own zines to share or discuss. The space is open for close exchange.
+Participants are welcome to bring their own zines to share or discuss. The space is open for close exchange. Register by sending an email to sam.vanbelle@kdg.be
