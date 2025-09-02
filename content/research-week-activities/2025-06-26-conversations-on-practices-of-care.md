@@ -8,6 +8,7 @@ thumbnail: https://ucarecdn.com/c367a819-d039-4d87-98ed-4b6d186c4c48/
 research_interests:
   - care
   - ethics
+  - mutual aid
   - socially engaged art
 ---
 <!--StartFragment-->
