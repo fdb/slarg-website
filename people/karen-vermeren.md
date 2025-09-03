@@ -20,7 +20,7 @@ bio: >-
   Femmes Paris).
 
 
-  She is interested in supervising PhD in the arts projects related to geology, ecology, landscape, care and raw materials, at the intersection of drawing and painting.
+  She is interested in supervising PhD in the arts projects related to geology, ecology, landscape, care and raw materials, the intersection of drawing and painting.
 staff_flag: "false"
 image_researcher:
   - https://ucarecdn.com/ee9d72db-39e1-47ec-b9fa-c05ca606b290/
