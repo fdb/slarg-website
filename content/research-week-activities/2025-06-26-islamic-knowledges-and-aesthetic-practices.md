@@ -24,7 +24,7 @@ Witness a living archive of sacred sound and practice with the **Kairo Girls’ 
 
 ### *Screening of* *Four Acts of Recovery*
 
-**Shahana Rajani**, based in Karachi (PK), is an interdisciplinary artist exploring themes of development, militarization, and ecological disruption in Pakistan through visual representation, landscapes, and infrastructure. Her practice is rooted in community-based collaborative research, engaging with histories of dissent and representations that sustain ecological resistance. She co-founded Karachi LaJamia with Zahra Malkani, an experimental project investigating radical educational practices emerging from struggles over land and water.
+**Shahana Rajani** is an interdisciplinary artist exploring themes of development, militarization, and ecological disruption in Pakistan through visual representation, landscapes, and infrastructure. Her practice is rooted in community-based collaborative research, engaging with histories of dissent and representations that sustain ecological resistance. 
 
 Join us for the screening of *Four Acts of Recovery*, a video installation that follows a family of fisherfolk displaced from their ancestral home of Mul Creek in the fabled Indus Delta, following unprecedented environmental collapse caused by dams and large water infrastructures. Unlike the colonial approach of drawing maps to fix and control, the community practice of painting landscapes is a sacred ritual for seeking reconnection. It draws on the ancient tradition of drawing talismans in Islamic culture, offering protection and breathing life into a world under threat. 
 
