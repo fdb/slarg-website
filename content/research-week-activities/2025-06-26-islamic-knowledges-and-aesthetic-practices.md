@@ -8,11 +8,9 @@ thumbnail: https://ucarecdn.com/668ff979-6e74-4632-9afd-27713bcba081/
 research_interests:
   - Islamic
 ---
-
-
 Join us for a full day exploration of faith, perception, and artistic expression in Islamic arts, guided by scholars and artists whose work bridges historical knowledge and contemporary practice. This session is curated by SLARG researchers **Ruth R. Loos** and **Joud Toamah**, who bring together perspectives on how religion, art, and cultural memory intersect.
 
-#### *K﻿eynote Wendy M.K. Shaw*
+### *K﻿eynote Wendy M.K. Shaw*
 
 **Shaw**, a leading scholar of Islamic art history, has made significant contributions to the discourse on the relationship between religion, perception, and artistic creation. Her book, *What is 'Islamic' Art?: Between Religion and Perception*, offers a groundbreaking approach by examining Islamic arts through the lens of historical Islam’s discursive sphere—including the Qur’an, Hadith, Sufism, ancient philosophy, and poetry. By prioritising the experience of reception over the context of production, Shaw challenges prevailing narratives in Islamic art while advocating for a decolonising model for global art history practices.
 
@@ -30,6 +28,4 @@ Witness a living archive of sacred sound and practice with the **Kairo Girls’ 
 
 Join us for the screening of *Four Acts of Recovery*, a video installation that follows a family of fisherfolk displaced from their ancestral home of Mul Creek in the fabled Indus Delta, following unprecedented environmental collapse caused by dams and large water infrastructures. Unlike the colonial approach of drawing maps to fix and control, the community practice of painting landscapes is a sacred ritual for seeking reconnection. It draws on the ancient tradition of drawing talismans in Islamic culture, offering protection and breathing life into a world under threat. 
 
-
-
-*Image: Leaf inscribed with a Qur’anic verse from Surat al-Isra’ (“The Night Journey,” Q.17:80), Turkey, 19th century. The inscription reads: “And say, ‘O my Lord, make me enter a rightful entrance and make me exit a rightful exit, and grant me from Your Own a power, favoured \[by You].’”*
+***Image**: Leaf inscribed with a Qur’anic verse from Surat al-Isra’ (“The Night Journey,” Q.17:80), Turkey, 19th century. The inscription reads: “And say, ‘O my Lord, make me enter a rightful entrance and make me exit a rightful exit, and grant me from Your Own a power, favoured \[by You].’”*
