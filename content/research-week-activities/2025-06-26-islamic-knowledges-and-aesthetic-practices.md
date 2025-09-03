@@ -24,7 +24,7 @@ Experience the elegance and precision of Islamic calligraphy with **Tamim SahibZ
 
 Witness a living archive of sacred sound and practice with the **Kairo Girls’ School**, a collective of women dedicated to preserving Indigenous and oral traditions of Islamic knowledge, storytelling, and traditional crafts. Their performances are guided by the principle of *improvisistance*—a concept coined by Dirar Kalash, blending improvisation and resistance to remain truthfully present. Through voice, electronic synth, natural acoustics, and sacred sounds, they build a dynamic practice of *dhikr* and remembrance, extending their invitation to all who seek it.
 
-### *Four Acts of Recovery*
+### Screening of *Four Acts of Recovery*  
 
 **Shahana Rajani**, based in Karachi (PK), is an interdisciplinary artist exploring themes of development, militarization, and ecological disruption in Pakistan through visual representation, landscapes, and infrastructure. Her practice is rooted in community-based collaborative research, engaging with histories of dissent and representations that sustain ecological resistance. She co-founded Karachi LaJamia with Zahra Malkani, an experimental project investigating radical educational practices emerging from struggles over land and water.
 
