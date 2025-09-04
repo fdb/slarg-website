@@ -4,6 +4,7 @@ layout: activity.liquid
 startDate: 2025-10-25T20:30:35.071Z
 endDate: 2025-10-25T09:30:35.083Z
 location: Adma Room - Sint Lucas Antwerpen
+thumbnail: https://ucarecdn.com/85b0ed0e-621c-4b72-b499-63f4ac5f9f14/
 tags: []
 research_interests:
   - Censorship
