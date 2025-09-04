@@ -10,9 +10,13 @@ research_interests:
   - Ethnography
   - Film
 ---
+
+
 <!--StartFragment-->
 
-A﻿s part of his PhD trajectory, **Viet Phu Pham** will give a lecture on film censorship in Vietnam, drawing on an auto-ethnographic approach. Viet will relate the Vietnamese context to global perspectives, reflecting on how cinema is silenced across different histories and contemporary debates. 
+A﻿s part of his PhD trajectory, **Viet u Pham** will give a lecture on film censorship in Vietnam, in a comparative approach to Southeast Asian and Asian perspective. The lecture will also give an overview of film censorship in Vietnam since the colonial time until the market-oriented governance right now. 4 Vietnamese independent cinema will be analysed as case study of how inpdendent cinema is trying to recode socio-cultural and national identity and encounter censorship.
+
+<!--EndFragment-->
 
 E﻿verybody is welcome - also most fitting for (film) students. 
 
