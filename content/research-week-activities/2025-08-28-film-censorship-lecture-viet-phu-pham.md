@@ -21,6 +21,6 @@ Through selected case studies, the lecture will show that film censorship in Vie
 
 <!--EndFragment-->
 
-E﻿verybody is welcome - also most fitting for (film) students. 
+Everyone is welcome, particularly those interested in film, media studies, Southeast Asian studies, cultural studies, and visual arts.
 
 <!--EndFragment-->
