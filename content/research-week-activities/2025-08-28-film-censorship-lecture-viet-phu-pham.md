@@ -1,5 +1,6 @@
 ---
-title: Film Censorship | Lecture Viet Vu Pham
+title: "Film Censorship in Vietnam: A conflict of Sociocultural and National
+  Identity Recoding | Lecture Viet Vu Pham"
 layout: activity.liquid
 startDate: 2025-10-25T20:30:35.071Z
 endDate: 2025-10-25T09:30:35.083Z
