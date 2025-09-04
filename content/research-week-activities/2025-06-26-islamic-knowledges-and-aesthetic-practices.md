@@ -8,13 +8,15 @@ thumbnail: https://ucarecdn.com/668ff979-6e74-4632-9afd-27713bcba081/
 research_interests:
   - Islamic
 ---
-Join us for a full day exploration of faith, perception, and artistic expression in Islamic arts, guided by scholars and artists whose work bridges historical, knowledge and contemporary practice. This session is curated by SLARG researchers **Ruth R. Loos** and **Joud Toamah**, who bring together perspectives on how religion, art, and cultural memory intersect.
+Join us for a full day exploration of artistic expressions rooted in Islamic knowledges. This session is curated by SLARG researchers **Ruth R. Loos** and **Joud Toamah**.
 
 Open for all, we look forward to welcoming you.
 
-### *K﻿eynote Wendy M.K. Shaw*
+### *Lecture-performance by Wendy M.K. Shaw*
 
-**Shaw**, a leading scholar of Islamic art history, has made significant contributions to the discourse on the relationship between religion, perception, and artistic creation. Her book, *What is 'Islamic' Art?: Between Religion and Perception*, offers a groundbreaking approach by examining Islamic arts through the lens of historical Islam’s discursive sphere—including the Qur’an, Hadith, Sufism, ancient philosophy, and poetry. By prioritising the experience of reception over the context of production, Shaw challenges prevailing narratives in Islamic art while advocating for a decolonising model for global art history practices.
+**Murmurations and Migrations: Learning from the Avian Wisdom of Farid al-Din Attar.** Birds are bird-brained. This does not mean they are stupid! No, they think Other-wise, much as humans from other times and other places. This lecture-performance uses the philosophy embedded in the Persian epic poem *The Conference of the Birds* (1177 CE) by Farid al-Din Attar as a means of rethinking the dialectics of belonging and migration in the contemporary world towards a framework of collective action, mutual engagement, and transcendance. 
+
+Wendy Miriam Kural Shaw (PhD 1999, University of California, Los Angeles) describes herself as gleefully deinstitutionalized and imaginatively undisciplined. She served as professor in departments of Near Eastern Languages and Cultures, Media Studies, and Art History in the United States, Turkey, Switzerland and Germany. Her initial interest in the transcultural recycling of art and its institutions under paradigms of Westernization and secularization in modern Turkey developed into an examination of Islamic discourses of perception as a source for decolonized expression. Liberated from the disciplinary mandate of universities since the end of her position as Professor of Islamic Art at the Free University Berlin in 2021, she continues to explore the interface between culture and religion. She is author of *Possessors and Possessed: Museums, Archaeology, and the Visualization of History in the Late Ottoman Empire* (University of California Press, 2003), *Ottoman Painting: Reflections of Western Art from the Ottoman Empire to the Turkish Republic* (IB Tauris, 2011). *What is “Islamic” Art: Between Religion and Perception* (Cambridge University Press, 2019, Honorable Mention for the 2020 Albert Hourani Book Award of the Middle East Studies Association and the 2021 Iran Book Award), and *Loving Writing: Techniques for the University and Beyond* (Routledge, 2021). She currently writes and illustrates short and long footnoted fiction and verse.
 
 ### *Live Perso-Arabic Calligraphy*
 
