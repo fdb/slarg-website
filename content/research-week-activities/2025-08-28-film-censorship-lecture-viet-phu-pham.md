@@ -13,7 +13,11 @@ research_interests:
 ---
 <!--StartFragment-->
 
-A﻿s part of his PhD trajectory, **Viet Vu Pham** will give a lecture on film censorship in Vietnam, in a comparative approach to Southeast Asian and Asian perspective. The lecture will also give an overview of film censorship in Vietnam since the colonial time until the market-oriented governance right now. 4 Vietnamese independent cinema will be analysed as case study of how inpdendent cinema is trying to recode socio-cultural and national identity and encounter censorship.  
+As part of his PhD research, **Viet Vu Pham** will deliver a lecture on film censorship in Vietnam, placing it within a comparative Southeast Asian and broader Asian context. The talk will trace the development of Vietnamese film censorship from its beginnings under French colonial rule, through the socialist period, to its current form in a market-oriented environment. While the country’s film industry has evolved with market reforms and digital technology, censorship continues to play a central role in shaping how Vietnam’s image and values are presented both domestically and internationally.
+
+Independent cinema, created outside both the state propaganda system and the mainstream commercial industry, has emerged as a distinctive space for artistic expression. In this lecture, Viet Vu Pham will explore how such works engage with the deeply rooted cultural codes that have long defined national identity—particularly the symbolic role of the human body in Vietnamese tradition. By challenging established norms of morality and representation, these films open new possibilities for reimagining social and cultural narratives.
+
+Through selected case studies, the lecture will show that film censorship in Vietnam extends beyond the removal of “sensitive” content. It is a process that shapes which stories are told, how they are told, and which visions of the nation are made visible. In this way, the sexual body becomes a key site of negotiation, where questions of identity, history, and culture intersect, revealing the complex relationship between cinema, society, and national self-definition.
 
 <!--EndFragment-->
 
