@@ -11,6 +11,11 @@ research_interests:
   - Censorship
   - Ethnography
   - Film
+  - Vietnam independent cinem
+  - film censorship
+  - film censorship in Vietna
+  - film studies
+  - sexuality in cinema
 ---
 <!--StartFragment-->
 
