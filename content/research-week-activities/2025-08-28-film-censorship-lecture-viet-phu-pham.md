@@ -2,8 +2,8 @@
 title: "Film Censorship in Vietnam: A conflict of Sociocultural and National
   Identity Recoding | Lecture Viet Vu Pham"
 layout: activity.liquid
-startDate: 2025-10-25T20:30:35.071Z
-endDate: 2025-10-25T09:30:35.083Z
+startDate: 2025-10-25T08:30:35.071Z
+endDate: 2025-10-25T10:00:35.083Z
 location: Adma Room - Sint Lucas Antwerpen
 thumbnail: https://ucarecdn.com/05445d7c-dbaa-4ef1-997f-784f2281ba23/-/crop/747x562/0,0/-/preview/
 tags: []
