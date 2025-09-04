@@ -1,5 +1,6 @@
 ---
-title: "The Body as Screen: Censorship and Independent Cinema in Vietnam | Lecture"
+title: "The Body on Screen: Independent Cinema and Film Censorship in Vietnam |
+  Lecture"
 layout: activity.liquid
 startDate: 2025-10-25T08:30:35.071Z
 endDate: 2025-10-25T10:00:35.083Z
