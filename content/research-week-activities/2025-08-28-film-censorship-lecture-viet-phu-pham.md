@@ -12,7 +12,7 @@ research_interests:
 ---
 <!--StartFragment-->
 
-A﻿s part of his PhD trajectory, **Viet u  ham** will give a lecture on film censorship in Vietnam, in a comparative approach to Southeast Asian and Asian perspective. The lecture will also give an overview of film censorship in Vietnam since the colonial time until the market-oriented governance right now. 4 Vietnamese independent cinema will be analysed as case study of how inpdendent cinema is trying to recode socio-cultural and national identity and encounter censorship.  
+A﻿s part of his PhD trajectory, **Viet Vu Pham** will give a lecture on film censorship in Vietnam, in a comparative approach to Southeast Asian and Asian perspective. The lecture will also give an overview of film censorship in Vietnam since the colonial time until the market-oriented governance right now. 4 Vietnamese independent cinema will be analysed as case study of how inpdendent cinema is trying to recode socio-cultural and national identity and encounter censorship.  
 
 <!--EndFragment-->
 
