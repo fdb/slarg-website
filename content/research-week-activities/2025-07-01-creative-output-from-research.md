@@ -12,4 +12,4 @@ This internal session, part of Research Week, is specifically intended for MA st
 
 Organised by tutors/researchers: Helen Mauli Dowling, Saddie Choua, Kim Gorus and Wesley Meuris 
 
-Only open to Master in an Autonoumous Context students.
+Only open to MA students.
