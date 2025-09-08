@@ -1,6 +1,6 @@
 ---
-title: Islamic knowledges and Aesthetic Practices | Ruth R. Loos & Joud Toamah |
-  Day programme
+title: Islamic knowledges and Aesthetic Practices | Ruth Razan Loos & Joud
+  Toamah | Day programme
 layout: activity.liquid
 startDate: 2025-10-22T08:00:06.236Z
 endDate: 2025-10-22T14:00:56.631Z
@@ -9,7 +9,7 @@ thumbnail: https://ucarecdn.com/668ff979-6e74-4632-9afd-27713bcba081/
 research_interests:
   - Islamic
 ---
-As part of SLARG’s Research Week, this day programme brings together artistic practices, scholarship, and community-based engagement informed by Islamic knowledges. Ruth R. Loos and Joud Toamah, SLARG researchers, have collaborated to design a programme that highlights intersections of migration, belonging, care, and ecological and cultural resilience through multiple creative formats. Open to all.
+As part of SLARG’s Research Week, this day programme brings together artistic practices, scholarship, and community-based engagement informed by Islamic knowledges. Ruth Razan Loos and Joud Toamah, SLARG researchers, have collaborated to design a programme that highlights intersections of migration, belonging, care, and ecological and cultural resilience through multiple creative formats. Open to all.
 
 - - -
 
