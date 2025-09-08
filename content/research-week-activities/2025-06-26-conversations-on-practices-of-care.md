@@ -1,5 +1,5 @@
 ---
-title: Caring for "strangers”? How (not)? | Dimitri van den Witteboer | Symposium
+title: Caring for "strangers”? How (not)? | Dimitri van den Wittenboer | Symposium
 layout: activity.liquid
 startDate: 2025-10-20T15:00:00.000Z
 endDate: 2025-10-20T17:00:39.692Z
