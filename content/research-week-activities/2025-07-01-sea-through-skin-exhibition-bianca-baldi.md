@@ -2,7 +2,7 @@
 title: Sea Through Skin | Bianca Baldi | Exhibition Tour
 layout: activity.liquid
 startDate: 2025-10-23T11:30:00.000Z
-endDate: 2025-10-25T12:30:17.919Z
+endDate: 2025-10-23T12:30:17.919Z
 location: Kunsthal Extra City - Chapel, Provinciestraat 112, 2018 Antwerpen
 thumbnail: https://ucarecdn.com/0dc1e18e-2d6e-44d3-a47f-071c3cdb9403/
 tags:
