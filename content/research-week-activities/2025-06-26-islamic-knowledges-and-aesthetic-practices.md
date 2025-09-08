@@ -12,7 +12,7 @@ Join us for a full day exploration of artistic expressions rooted in Islamic kno
 
 Open for all, we look forward to welcoming you.
 
-### *Lecture-performance* 
+### *Lecture-performance*
 
 **Murmurations and Migrations: Learning from the Avian Wisdom of Farid al-Din Attar.** Birds are bird-brained. This does not mean they are stupid! No, they think Other-wise, much as humans from other times and other places. This lecture-performance uses the philosophy embedded in the Persian epic poem *The Conference of the Birds* (1177 CE) by Farid al-Din Attar as a means of rethinking the dialectics of belonging and migration in the contemporary world towards a framework of collective action, mutual engagement, and transcendance. 
 
@@ -31,5 +31,7 @@ Witness a living archive of sacred sound and practice with the **Kairo Girls’ 
 Join us for the screening of *Four Acts of Recovery*, a video installation that follows a family of fisherfolk displaced from their ancestral home of Mul Creek in the fabled Indus Delta, following unprecedented environmental collapse caused by dams and large water infrastructures. Unlike the colonial approach of drawing maps to fix and control, the community practice of painting landscapes is a sacred ritual for seeking reconnection. It draws on the ancient tradition of drawing talismans in Islamic culture, offering protection and breathing life into a world under threat. 
 
 **Shahana Rajani** is an interdisciplinary artist exploring themes of development, militarization, and ecological disruption in Pakistan through visual representation, landscapes, and infrastructure. Her practice is rooted in community-based collaborative research, engaging with histories of dissent and representations that sustain ecological resistance. 
+
+##### *T﻿able with books/zines for view during the day*
 
 **\*Image**: Leaf inscribed with a Qur’anic verse from Surat al-Isra’ (“The Night Journey,” Q.17:80), Turkey, 19th century. The inscription reads: “And say, ‘O my Lord, make me enter a rightful entrance and make me exit a rightful exit, and grant me from Your Own a power, favoured \[by You].’”*
