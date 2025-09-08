@@ -32,6 +32,6 @@ Join us for the screening of *Four Acts of Recovery*, a video installation that 
 
 **Shahana Rajani** is an interdisciplinary artist exploring themes of development, militarization, and ecological disruption in Pakistan through visual representation, landscapes, and infrastructure. Her practice is rooted in community-based collaborative research, engaging with histories of dissent and representations that sustain ecological resistance. 
 
-##### *T﻿able with books/zines for view during the day*
+### *T﻿able with books & zines for view during the day*
 
 **\*Image**: Leaf inscribed with a Qur’anic verse from Surat al-Isra’ (“The Night Journey,” Q.17:80), Turkey, 19th century. The inscription reads: “And say, ‘O my Lord, make me enter a rightful entrance and make me exit a rightful exit, and grant me from Your Own a power, favoured \[by You].’”*
