@@ -13,19 +13,20 @@ research_interests:
 ---
 <!--StartFragment-->
 
-This symposium opens a conversation on citizen-organised support structures for undocumented people and refugees in Brussels. We turn our attention to the individuals and collectives who extend care beyond their own families and intimate circles to “strangers”: people they have never met, who often arrive from other countries, cultures, and religions, and who live under conditions of heightened precarity. At stake are questions of hospitality and care. 
+This symposium, initiated by **Dimitri van den Wittenboer**, a SLARG PhD researcher, explores citizen-organised support structures for undocumented people and refugees in Brussels. It focuses on individuals and collectives who extend care beyond their families and intimate circles to “strangers”: people they may never have met, arriving from different countries, cultures, and religions, often living under heightened precarity. At stake are fundamental questions of hospitality, solidarity, and care. 
+
+Dimitri’s doctoral project, *Empowered Care*, investigates housing initiatives co-created with people facing acute legal and financial insecurity. His practice examines how care can be embedded in daily life through shared living spaces, and how ethics, vulnerability, and solidarity are negotiated in such settings.
+
+Community practice, as Dimitri frames it, is a space where activism, social work, and art intersect. Ethical questions are central, particularly in a context of growing global inequality, forced migration, and state violence.
+
+The symposium asks:
 
 * What forms of citizen-led mutual aid exist in Brussels?
 * What motivates people to offer support?
-* What challenges and ethical questions arise in this work?
+* What challenges and ethical dilemmas arise in this work?
+* How might we live—together—in an unfair world?
+* Can we move beyond charity toward mutuality, allyship, and shared struggle?
 
-The symposium is initiated by community artist and researcher **Dimitri van den Wittenboer**, whose doctoral project *Empowered Care* explores housing initiatives created with people facing acute legal and financial insecurity. His practice investigates how care can be woven into daily life by sharing living space, and how ethics, solidarity, and vulnerability are negotiated in such settings.
-
-Community practice, as Dimitri frames it, is a field where activism, social work, and art converge and cross-pollinate. Questions of ethics lie at the core of this work. They are especially pressing in the context of widening global inequality, (forced) migration, and state violence.
-
-How might we live—together—in an unfair world?\
-Can we move beyond charity towards forms of mutuality, allyship, and shared struggle?
-
-This symposium invites those who share these questions, or who wish to inform their own practice with mutual aid and care ethics. We will begin with moderated prompts and then open into a communal discussion.
+Participants will engage with these questions through moderated prompts, followed by a communal discussion designed to connect experiences, practices, and reflections. The symposium is open to those who share these concerns or wish to inform their own work in mutual aid, care ethics, and collective solidarity.
 
 <!--EndFragment-->
