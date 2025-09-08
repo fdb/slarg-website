@@ -1,5 +1,5 @@
 ---
-title: Making Research Public
+title: "Making Research Public | Seven researchers "
 layout: activity.liquid
 startDate: 2025-10-20T09:00:13.043Z
 endDate: 2025-10-20T11:00:13.060Z
