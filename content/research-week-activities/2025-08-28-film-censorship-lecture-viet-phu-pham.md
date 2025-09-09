@@ -1,5 +1,5 @@
 ---
-title: "The Body on Screen: Independent Cinema and Film Censorship in Vietnam |
+title: "The body on screen: independent cinema and film censorship in Vietnam |
   Viet Vu Pham | Lecture"
 layout: activity.liquid
 startDate: 2025-10-22T15:00:35.071Z
