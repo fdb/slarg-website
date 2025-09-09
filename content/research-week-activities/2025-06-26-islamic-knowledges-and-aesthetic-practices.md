@@ -9,7 +9,7 @@ thumbnail: https://ucarecdn.com/668ff979-6e74-4632-9afd-27713bcba081/
 research_interests:
   - Islamic
 ---
-As part of SLARG’s Research Week, this day programme brings together artistic practices, scholarship, and community-based engagement rooted in Islamic knowledges. Ruth and Joud, SLARG researchers, have collaborated to design a programme that highlights intersections of migration, belonging, care, ecological and cultural resilience through multiple creative formats that connect with the sacred. Open to all.
+As part of SLARG’s Research Week, this day programme brings together artistic practices, scholarship, and community-based engagement rooted in Islamic knowledges. Ruth and Joud, SLARG researchers, have collaborated to design a programme that highlights intersections of migration, belonging, care, ecological and cultural resilience through multiple creative formats that connect with the sacred. Open to all, with lunch.
 
 - - -
 
