@@ -4,7 +4,8 @@ title: Beyond the national frame: scenes from the Indo-Pak border | Natasha
 layout: activity.liquid
 startDate: 2025-10-24T08:00:00.000Z
 endDate: 2025-10-24T09:30:35.466Z
-location: FOMU - Fotomuseum Antwerp, Waalsekaai 47, entrance via Cinema Lumière
+location: FOMU - Fotomuseum Antwerpen, Waalsekaai 47, Antwerpen, entrance via
+  Cinema Lumière
 thumbnail: https://ucarecdn.com/b7227016-abbc-4bc2-893d-76fa88e13cbe/
 tags:
   - Lecture
