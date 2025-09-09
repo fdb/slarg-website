@@ -4,7 +4,7 @@ title: "Walking the Euphrates: Water Witness of the River and the Marshes | Joud
 layout: activity.liquid
 startDate: 2025-10-21T09:00:32.270Z
 endDate: 2025-10-21T11:00:10.435Z
-location: Sint Lucas Antwerpen, AdMa room, K.03.09
+location: Sint Lucas Antwerpen, AdMa Room, K.03.09
 thumbnail: https://ucarecdn.com/b0e2a233-87b7-4da3-aa8b-7116199ce521/
 ---
 <!--StartFragment-->
