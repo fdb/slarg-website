@@ -9,4 +9,5 @@ tags: []
 ---
 T﻿o be announced.
 
-**Becoming, belonging and vanishing**: an exploration of photo studios in Quetta, Pakistan
+**Becoming, belonging and vanishing**: an (autobiographical)
+exploration of photo studios in Balochistan, Pakistan
