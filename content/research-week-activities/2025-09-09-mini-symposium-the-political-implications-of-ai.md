@@ -10,16 +10,16 @@ research_interests:
   - Symposium
   - future thinking
 ---
-This mini-symposium will be structured around short presentations (20 minutes each) followed by an extended discussion with the audience. Contributions will come from **Olya Kudina**, **Nicolas Malevé and Freya van den Boom (tbc).**
+This mini-symposium will be structured around short presentations (20 minutes each) followed by an extended discussion with the audience. Contributions will come from **Olya Kudina**, **Nicolas Malevé** and **…** (tbc).
 
 Together we will ask:
 
 * How do AI systems redistribute agency, visibility, and power?
-* What kinds of ethical and political futures are designed by algorithmic technologies?
+* How do AI systems impact our ethical and political futures?
 
-For **artists, researchers, students, and others working at the intersection of art, politics, and technology**, this symposium provides a space to critically reflect on how AI entangles with human and non-human forms of understanding, and to explore how creative practices can respond to or resist its impact.
+For **artists, researchers, students, and others working at the intersection of art, politics, and technology**, this symposium provides a space to critically reflect on how AI entangles with politics and power, and to explore how creative practices can respond to or resist its impact.
 
-Join us in thinking through AI not only as a technical tool, but as a political and cultural force that reshapes our ways of seeing, knowing, and imagining.
+Join us in thinking through AI not only as a technical tool, but as a political and cultural force that reshapes our ways of seeing, knowing, imagining and relating to each other. 
 
 *The image was generated with AI: an algorithmic imagination of togetherness, inviting us to reflect on its political and ethical implications.*
 
