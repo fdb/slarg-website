@@ -14,6 +14,6 @@ The exhibition takes as its starting point the phenomenon of racial passing, tra
 
 Curated by Joachim Naudts and Darly Benneker, this exhibition marks the culmination of Baldi’s doctoral project *Play-White: Racial Passing and Embodied Images* at Sint Lucas Antwerpen and ARIA (UA).
 
-👉 [More information on the Extra City website](https://extracitykunsthal.be/en/exhibitions/sea-through-skin)
+👉 [More information on Extra City website](https://extracitykunsthal.be/en/exhibitions/sea-through-skin)
 
 **R﻿egister** for the tour via bianca.baldi@kdg.be
