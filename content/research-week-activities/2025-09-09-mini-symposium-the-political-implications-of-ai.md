@@ -15,11 +15,12 @@ This mini-symposium will be structured around short presentations (20 minutes ea
 Together we will ask:
 
 * How do AI systems redistribute agency, visibility, and power?
-* In what ways do AI-driven image production and generative models invite us to rethink creativity, perception, and authorship?
 * What kinds of ethical and political futures are designed by algorithmic technologies?
 
-For **artistic researchers, students, and others working at the intersection of art, politics, and technology**, this symposium provides a space to critically reflect on how AI entangles with human and non-human forms of understanding, and to explore how creative practices can respond to or resist its influence.
+For **artists, researchers, students, and others working at the intersection of art, politics, and technology**, this symposium provides a space to critically reflect on how AI entangles with human and non-human forms of understanding, and to explore how creative practices can respond to or resist its impact.
 
 Join us in thinking through AI not only as a technical tool, but as a political and cultural force that reshapes our ways of seeing, knowing, and imagining.
 
 *The image was generated with AI: an algorithmic imagination of togetherness, inviting us to reflect on its political and ethical implications.*
+
+**R﻿egister** via petra.vanbrabandt@kdg.be
