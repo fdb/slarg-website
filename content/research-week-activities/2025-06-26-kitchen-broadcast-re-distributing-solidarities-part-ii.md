@@ -4,7 +4,7 @@ title: "Kitchen Broadcast:  Re-Distributing Solidarities | Reem Shilleh &
 layout: activity.liquid
 startDate: 2025-10-21T12:00:14.871Z
 endDate: 2025-10-24T14:00:14.876Z
-location: Sint Lucas Antwerpen, AdMa, K.03.09
+location: Sint Lucas Antwerpen, AdMa Room, K.03.09
 thumbnail: https://ucarecdn.com/bd80862d-6d56-4ae6-bcf8-2018ef565856/
 ---
 <!--StartFragment-->
