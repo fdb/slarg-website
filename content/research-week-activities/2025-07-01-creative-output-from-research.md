@@ -17,4 +17,4 @@ Organised by tutors/researchers: Helen Mauli Dowling, Saddie Choua, Kim Gorus an
 
 
 
-image: *drama, Chandra, 2025* - Helen Dowling at winona Brussels
+Image: *drama, Chandra, 2025* - Helen Dowling at winona Brussels
