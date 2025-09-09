@@ -32,8 +32,6 @@ This programme brings together artistic practices, scholarship, and community-ba
 * **Screening**\
   **Shahana Rajani** presents *Four Acts of Recovery*, a video installation following a displaced fisherfolk family from Mul Creek in the Indus Delta. Combining environmental, cultural, and mystical Islamic perspectives, the work highlights sacred landscape practices and community rituals that reconnect people to their threatened environments. Shahana is an interdisciplinary artist and researcher exploring ecological and social practices in Pakistan through visual representation, landscapes, and infrastructure, often working in community-based collaborative contexts.
 
-**Throughout the day** atable with books and zines will be available for viewing.
-
-
+**Throughout the day** a table with books and zines will be available for viewing.
 
 **Image:** Leaf inscribed with a Qur’anic verse from Surat al-Isra’ (“The Night Journey,” Q.17:80), Turkey, 19th century. The inscription reads: “And say, ‘O my Lord, make me enter a rightful entrance and make me exit a rightful exit, and grant me from Your Own a power, favoured \[by You].’”
