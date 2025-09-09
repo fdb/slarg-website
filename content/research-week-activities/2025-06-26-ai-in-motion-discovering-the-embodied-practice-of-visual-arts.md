@@ -14,6 +14,8 @@ research_interests:
   - workshop
 ---
 
+<small>Image: Cèlia Tort Pujol and Myrthe Bokelmann performing "Assume callibration pose".</small>
+
 Often overlooked in visual arts practice is the fundamental role that movement and physicality play in the creative process. As artists, you already possess a rich physical vocabulary that forms the foundation of your creative expression: the precise gestures of sketching, the hand-eye coordination during digital design, or the planning of interactions in an art installation. This two-day workshop invites you to bring awareness to the embodied aspects of your artistic work and explore how technology can reveal new dimensions of your practice that might otherwise remain invisible.
 
 By collecting movement data and building your own AI models — no coding needed — you'll create systems that reflect your artistic gestures back to you in unexpected forms. These tools challenge your habitual patterns and open new creative pathways, inviting you to question assumptions about your creative process and discover alternative possibilities hiding within your established practice. You will be guided in recognizing these physical patterns, discovering how your body shapes your creative choices in ways you might not have considered.

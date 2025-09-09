@@ -104,6 +104,10 @@ ul {
 li {
 	margin-left: 2.6rem;
 }
+small {
+	font-size: 0.8rem;
+	color: #666;
+}
 
 nav {
 	margin: 2rem;
