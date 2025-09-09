@@ -10,7 +10,7 @@ research_interests:
   - Symposium
   - future thinking
 ---
-This mini-symposium will be structured around short presentations (20 minutes each) followed by an extended discussion with the audience. Contributions will come from **Olya Kudina**, **Nicolas Malevé**, **Freya van den Boom**, and **Joanna Zylinska** (tbc).
+This mini-symposium will be structured around short presentations (20 minutes each) followed by an extended discussion with the audience. Contributions will come from **Olya Kudina**, **Nicolas Malevé and Freya van den Boom (tbc).**
 
 Together we will ask:
 
