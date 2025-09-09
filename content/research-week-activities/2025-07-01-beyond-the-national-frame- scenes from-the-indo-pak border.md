@@ -1,5 +1,5 @@
 ---
-title: Beyond the National Frame: Scenes from the Indo-Pak Border | Natasha
+title: Beyond the national frame: scenes from the Indo-Pak border | Natasha
   Raheja | Keynote lecture
 layout: activity.liquid
 startDate: 2025-10-24T08:00:00.000Z
@@ -26,3 +26,5 @@ Through montage, glitch, and split-screen techniques, Raheja explores how visual
 Natasha Raheja is Assistant Professor of Anthropology and Performing & Media Arts at Cornell University. She holds a PhD in Anthropology from NYU and degrees in Biology and Asian Languages and Literature (Urdu focus) from UT Austin. Her films and writings engage migration, belonging, and majority–minority politics in South Asia. She is the director of *Cast in India*, a portrait of the Bengali metal workers who manufacture New York City manhole covers, and her forthcoming book *Selective Welcome: Pakistani Hindus in India* will be published by the University of Chicago Press.
 
 **R﻿egister** via tom.viaene@kdg.be
+
+I﻿mage: Still from *A Gregarious Species* (2023, 9 min)
