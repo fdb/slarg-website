@@ -3,7 +3,7 @@ title: "Visions of becoming and belonging | Danial Shah | Exhibition opening "
 layout: activity.liquid
 startDate: 2025-10-23T17:00:57.192Z
 endDate: 2025-10-23T20:00:57.200Z
-location: FOMU - Museum of Photography, Waalsekaai 47, Antwerp
+location: FOMU - Museum of Photography, Waalsekaai 47, Antwerpen
 thumbnail: https://ucarecdn.com/fa19ef54-7026-46ef-8ac8-9c1a9fa8d9ce/
 research_interests:
   - Exhibition
