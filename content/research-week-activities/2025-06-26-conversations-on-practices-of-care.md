@@ -3,7 +3,7 @@ title: Caring for "strangers”? How (not)? | Dimitri van den Wittenboer | Sympo
 layout: activity.liquid
 startDate: 2025-10-20T15:00:00.000Z
 endDate: 2025-10-20T17:00:39.692Z
-location: AdMa Room, third floor, K.03.09
+location: Sint Lucas Antwerpen, AdMa Room, third floor, K.03.09
 thumbnail: https://ucarecdn.com/c967166d-3a36-43b1-8a69-761d961a2f83/
 research_interests:
   - care
@@ -11,7 +11,7 @@ research_interests:
   - mutual aid
   - socially engaged art
 ---
-**Dimitri van den Wittenboer**, SLARG PhD researcher, hosts a symposium exploring citizen-organised support structures for undocumented people and refugees in Brussels. The event focuses on individuals and collectives who extend care beyond their families and intimate circles to “strangers”—people they may never have met, arriving from different countries, cultures, and religions, often living under heightened precarity. At stake are fundamental questions of hospitality, solidarity, and care.
+**Dimitri van den Wittenboer**, SLARG/ARIA PhD researcher, hosts a symposium exploring citizen-organised support structures for undocumented people and refugees in Brussels. The event focuses on individuals and collectives who extend care beyond their families and intimate circles to “strangers”—people they may never have met, arriving from different countries, cultures, and religions, often living under heightened precarity. At stake are fundamental questions of hospitality, solidarity, and care.
 
 Dimitri’s doctoral project, *Empowered Care*, investigates housing initiatives co-created with people facing acute legal and financial insecurity. His practice examines how care can be embedded in daily life through shared living spaces, and how ethics, vulnerability, and solidarity are negotiated in such settings.
 
