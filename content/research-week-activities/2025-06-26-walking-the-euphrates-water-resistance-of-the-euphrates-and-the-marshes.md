@@ -4,7 +4,7 @@ title: "Walking the Euphrates: Water Witness of the River and the Marshes | Joud
 layout: activity.liquid
 startDate: 2025-10-21T09:00:32.270Z
 endDate: 2025-10-21T11:00:10.435Z
-location: AdMa room, third floor, K.03.09
+location: Sint Lucas Antwerpen, AdMa room, K.03.09
 thumbnail: https://ucarecdn.com/b0e2a233-87b7-4da3-aa8b-7116199ce521/
 ---
 <!--StartFragment-->
@@ -17,6 +17,6 @@ Ameneh Solati is a research-based artist and architect whose work investigates s
 
 This session weaves conversation, sound, and video into shared reflections on the poetics and politics of the Euphrates and the marshes, tracing currents of memory, struggle and relation.
 
-Open for all, we look forward to welcome you. 
+Open for all, we look forward to welcoming you. 
 
 <!--EndFragment-->
