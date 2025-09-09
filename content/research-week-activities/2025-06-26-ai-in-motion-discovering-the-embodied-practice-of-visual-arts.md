@@ -1,9 +1,10 @@
 ---
-title: "AI in Motion: Discovering the Embodied Practice of Visual Arts "
+title: "AI in Motion: Discovering the Embodied Practice of Visual Arts | Two-day
+  workshop"
 layout: activity.liquid
 startDate: 2025-10-22T08:00:06.590Z
 endDate: 2025-10-23T14:00:06.595Z
-location: Performative Space, third floor, K.03.10
+location: Sint Lucas Antwerpen, Performative Space, K.03.10
 thumbnail: https://ucarecdn.com/9f632526-f3a8-4a8f-a3d0-f5d61b61cf52/
 tags: []
 research_interests:
