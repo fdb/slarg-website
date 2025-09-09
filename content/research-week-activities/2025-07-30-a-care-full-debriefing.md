@@ -3,7 +3,7 @@ title: A Care-full Debriefing with the Spring Pears | Sharing session
 layout: activity.liquid
 startDate: 2025-10-20T12:00:12.082Z
 endDate: 2025-10-20T15:00:12.089Z
-location: Sint Lucas Antwerpen Library
+location: Sint Lucas Antwerpen, Library
 thumbnail: https://ucarecdn.com/79e14677-db09-4d3b-a967-c4f1bc170d85/
 research_interests:
   - care
