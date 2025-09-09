@@ -25,8 +25,4 @@ Through selected case studies, the lecture will show that film censorship in Vie
 
 Everyone is welcome, particularly those interested in film, media studies, Southeast Asian studies, cultural studies, and visual arts.
 
-<!--StartFragment-->
-
-Image: Still from “Bi, Don’t Be Afraid” (2010). Courtesy: Filmmaker Phan Đăng Di.
-
-<!--EndFragment-->
+**S﻿ubscribe** via vietvu.pham@kdg.be
