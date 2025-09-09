@@ -4,7 +4,7 @@ title: "The Body on Screen: Independent Cinema and Film Censorship in Vietnam |
 layout: activity.liquid
 startDate: 2025-10-22T15:00:35.071Z
 endDate: 2025-10-22T16:00:35.083Z
-location: Adma Room - Sint Lucas Antwerpen
+location: Sint Lucas Antwerpen, AdMa Room, K.03.09
 thumbnail: https://ucarecdn.com/05445d7c-dbaa-4ef1-997f-784f2281ba23/-/crop/747x562/0,0/-/preview/
 tags: []
 research_interests:
