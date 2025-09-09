@@ -1,5 +1,5 @@
 ---
-title: Creative Output from Research
+title: Creative output from research
 layout: activity.liquid
 startDate: 2025-10-20T12:00:00.000Z
 endDate: 2025-10-20T15:00:52.407Z
