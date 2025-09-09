@@ -4,7 +4,7 @@ layout: activity.liquid
 startDate: 2025-10-20T12:00:00.000Z
 endDate: 2025-10-20T15:00:52.407Z
 location: Sint Lucas Antwerpen
-thumbnail: https://ucarecdn.com/21ba4763-ef8a-4b1e-977b-af8dbf7e4a0e/
+thumbnail: https://ucarecdn.com/53a3168d-c8b3-484c-9648-ae8ccf3478da/
 research_interests:
   - Practice-based research
   - workshop
