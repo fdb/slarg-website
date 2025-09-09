@@ -3,8 +3,8 @@ title: Creative Output from Research
 layout: activity.liquid
 startDate: 2025-10-20T12:00:00.000Z
 endDate: 2025-10-20T15:00:52.407Z
-location: Sint Lucas Antwerpen
-thumbnail: https://ucarecdn.com/53a3168d-c8b3-484c-9648-ae8ccf3478da/
+location: Sint Lucas Antwerpen, AdMa room, K.03.09
+thumbnail: https://ucarecdn.com/5141f8aa-eceb-4ee2-9c3d-34e791a0040e/
 research_interests:
   - Practice-based research
   - workshop
@@ -13,4 +13,8 @@ Practice-based research is conducted across diverse creative disciplines, includ
 
 This closed session is intended for MA students from the Sint Lucas Antwerpen *Autonomous Context* and aims to foster critical reflection on research through artistic practice.
 
-Organised by tutors and SLARG researchers: Helen Mauli Dowling, Saddie Choua, Kim Gorus and Wesley Meuris.
+Organised by tutors/researchers: Helen Mauli Dowling, Saddie Choua, Kim Gorus and Wesley Meuris.
+
+
+
+image: *drama, Chandra, 2025* - Helen Dowling at winona Brussels
