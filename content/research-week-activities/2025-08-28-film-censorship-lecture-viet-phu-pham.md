@@ -24,3 +24,9 @@ Independent cinema, created outside both the state propaganda system and the mai
 Through selected case studies, the lecture will show that film censorship in Vietnam extends beyond the removal of “sensitive” content. It is a process that shapes which stories are told, how they are told, and which visions of the nation are made visible. In this way, the sexual body becomes a key site of negotiation, where questions of identity, history, and culture intersect, revealing the complex relationship between cinema, society, and national self-definition.
 
 Everyone is welcome, particularly those interested in film, media studies, Southeast Asian studies, cultural studies, and visual arts.
+
+<!--StartFragment-->
+
+Image: Still from “Bi, Don’t Be Afraid” (2010). Courtesy: Filmmaker Phan Đăng Di.
+
+<!--EndFragment-->
