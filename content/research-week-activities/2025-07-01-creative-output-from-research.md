@@ -3,7 +3,7 @@ title: Creative output from research | Closed session
 layout: activity.liquid
 startDate: 2025-10-20T12:00:00.000Z
 endDate: 2025-10-20T15:00:52.407Z
-location: Sint Lucas Antwerpen, AdMa room, K.03.09
+location: Sint Lucas Antwerpen, AdMa Room, K.03.09
 thumbnail: https://ucarecdn.com/5141f8aa-eceb-4ee2-9c3d-34e791a0040e/
 research_interests:
   - Practice-based research
