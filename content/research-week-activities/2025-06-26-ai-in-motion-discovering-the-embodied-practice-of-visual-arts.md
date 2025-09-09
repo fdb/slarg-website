@@ -1,11 +1,11 @@
 ---
-title: 'AI in Motion: Discovering the Embodied Practice of Visual Arts | Two-day
-  workshop'
+title: "AI in Motion: Discovering the Embodied Practice of Visual Arts | Two-day
+  workshop"
 layout: activity.liquid
 startDate: 2025-10-22T08:00:06.590Z
 endDate: 2025-10-23T14:00:06.595Z
 location: Sint Lucas Antwerpen, Performative Space, K.03.10
-thumbnail: https://ucarecdn.com/9f632526-f3a8-4a8f-a3d0-f5d61b61cf52/
+thumbnail: https://ucarecdn.com/3eebaed2-0f5c-4a48-adbe-b2a94787b5d8/
 tags: []
 research_interests:
   - artificial intelligence
