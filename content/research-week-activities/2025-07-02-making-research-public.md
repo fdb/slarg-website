@@ -1,9 +1,9 @@
 ---
-title: "Making Research Public | Seven researchers "
+title: Making Research Public | Sharing session
 layout: activity.liquid
 startDate: 2025-10-20T09:00:13.043Z
 endDate: 2025-10-20T11:00:13.060Z
-location: AdMa Room, third floor, K.03.09
+location: AdMa Room, K.03.09
 thumbnail: https://ucarecdn.com/d3e70632-4a38-4fbc-8a81-060ddc6107d8/
 tags: []
 ---
