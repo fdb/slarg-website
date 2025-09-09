@@ -16,7 +16,7 @@ In this session, several researchers in the arts will introduce the tools and st
 *“Hybrid publishing ecosystems are empowering research tools to learn, love, think and share.”*\
 —Loraine Furter, PhD SLARG
 
-**With contributions from:** Frederik De Bleser (SLARG), Loraine Furter (SLARG/ARIA), Eva Moulaert (LUCA School of Arts Ghent), Sander Van de Vijver (SLARG), Kobe Van Cauwenberghe (Royal Conservatory Antwerp), and Pierre-Antoine Vettorello (SLARG/ARIA). 
+**With contributions from:** Frederik De Bleser (SLARG), Loraine Furter (SLARG/ARIA), Eva Moulaert (LUCA School of Arts Gent), Sander Van de Vijver (SLARG), Kobe Van Cauwenberghe (Royal Conservatory Antwerpen), and Pierre-Antoine Vettorello (SLARG/ARIA). 
 
 M﻿oderated by Petra Van Brabandt (SLARG/ARIA).
 
