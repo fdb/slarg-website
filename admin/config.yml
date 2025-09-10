@@ -400,7 +400,7 @@ collections:
 
   - name: 'research-week-activity'
     label: 'Research Week Activity'
-    folder: 'content/research-week-activities'
+    folder: 'research-week/2025'
     create: true
     sortable_fields: ['startDate']
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'

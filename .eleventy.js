@@ -44,7 +44,7 @@ module.exports = function (eleventyConfig, collections) {
 
 
 	eleventyConfig.addCollection('research_week_2025', function (collection) {
-		const researchWeekActivities = collection.getFilteredByGlob('content/research-week-activities/*.md')
+		const researchWeekActivities = collection.getFilteredByGlob('research-week/2025/*.md')
 		  .filter(event => {
 			const date = new Date(event.data.startDate);
 			return !isNaN(date) && date.getFullYear() === 2025;
