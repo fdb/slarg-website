@@ -21,6 +21,27 @@ function groupEventsByWeekday(allEvents) {
 	return groupedByWeekday;
 }
 
+function groupEventsByDayAndHour(allEvents) {
+	let groupedByDayAndHour = {};
+
+	allEvents.forEach((item) => {
+		let date = item.data.startDate ? new Date(item.data.startDate) : new Date(item.data.date);
+		let weekday = date.toLocaleDateString('en-US', { weekday: 'long' });
+		let d = date.toLocaleDateString('en-US', { weekday: 'long', month: 'short', day: 'numeric' });
+		let hour = date.getHours();
+		let formattedDate = d;
+		let hourKey = `${formattedDate} - ${hour}:00`;
+
+		if (!groupedByDayAndHour[hourKey]) {
+			groupedByDayAndHour[hourKey] = [];
+		}
+
+		groupedByDayAndHour[hourKey].push(item);
+	});
+
+	return groupedByDayAndHour;
+}
+
 module.exports = function (eleventyConfig, collections) {
 	eleventyConfig.addPassthroughCopy('static');
 	eleventyConfig.addPassthroughCopy('admin');
@@ -47,18 +68,21 @@ module.exports = function (eleventyConfig, collections) {
 		const researchWeekActivities = collection.getFilteredByGlob('research-week/2025/*.md')
 		  .filter(event => {
 			const date = new Date(event.data.startDate);
-			return !isNaN(date) && date.getFullYear() === 2025;
+			return !isNaN(date) && date.getFullYear() === 2025 && event.data.type !== 'overview-research-week';
 		  });
 		
-		const overviewActivities = collection.getFilteredByGlob('content/activities/*.md')
-		  .filter(event => {
-			const date = new Date(event.data.startDate);
-			return !isNaN(date) && date.getFullYear() === 2025 && event.data.type === 'overview-research-week';
-		  });
-		
-		const allEvents = [...researchWeekActivities, ...overviewActivities];
+		const allEvents = researchWeekActivities;
 	  
 		const grouped = groupEventsByWeekday(allEvents);
+		
+		// Sort events within each day by hour
+		Object.keys(grouped).forEach(day => {
+			grouped[day].sort((a, b) => {
+				const dateA = new Date(a.data.startDate);
+				const dateB = new Date(b.data.startDate);
+				return dateA.getHours() - dateB.getHours();
+			});
+		});
 	  
 		// Convert object to array.. not sure why but it works
 		return Object.entries(grouped).sort(([dateStrA], [dateStrB]) => {
