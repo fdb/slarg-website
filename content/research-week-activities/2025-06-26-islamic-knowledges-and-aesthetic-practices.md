@@ -1,29 +1,37 @@
 ---
-title: "Islamic knowledges and Aesthetic Practices "
+title: Islamic knowledges and Aesthetic Practices | Ruth Razan Loos & Joud
+  Toamah | Day programme
 layout: activity.liquid
 startDate: 2025-10-22T08:00:06.236Z
 endDate: 2025-10-22T14:00:56.631Z
-location: "Showroom Sint Lucas "
+location: Sint Lucas Antwerpen, Showroom
 thumbnail: https://ucarecdn.com/668ff979-6e74-4632-9afd-27713bcba081/
 research_interests:
   - Islamic
 ---
 <!--StartFragment-->
 
-Join us for a full day exploration of faith, perception, and artistic expression in Islamic arts, guided by scholars and artists whose work bridges historical knowledge and contemporary practice. This session is curated by SLARG researchers **Ruth R. Loos** and **Joud Toamah**, who bring together perspectives on how religion, art, and cultural memory intersect.
-
-#### *K﻿eynote Wendy M.K. Shaw*
-
-**Shaw**, a leading scholar of Islamic art history, has made significant contributions to the discourse on the relationship between religion, perception, and artistic creation. Her book, *What is 'Islamic' Art?: Between Religion and Perception*, offers a groundbreaking approach by examining Islamic arts through the lens of historical Islam’s discursive sphere—including the Qur’an, Hadith, Sufism, ancient philosophy, and poetry. By prioritising the experience of reception over the context of production, Shaw challenges prevailing narratives in Islamic art while advocating for a decolonising model for global art history practices.
-
-### *Live Perso-Arabic Calligraphy*
-
-Experience the elegance and precision of Islamic calligraphy with **Tamim SahibZada**, master calligrapher, miniaturist, and book illuminator. Tamim refined his craft under masters such as Taheri (Kabul) and Mohammad Amin (Peshawar) and was among the first lecturers and student mentors at the Turquoise Mountain Institute. There, he developed the curriculum for miniature art, book illustration, colour design, tapestry, and geometric and Islamic design. His live demonstrations bring these centuries-old traditions vividly into the present.
-
-### *Devotional Performance*
-
-Witness a living archive of sacred sound and practice with the **Kairo Girls’ School**, a collective of women dedicated to preserving Indigenous and oral traditions of Islamic knowledge, storytelling, and traditional crafts. Their performances are guided by the principle of *improvisistance*—a concept coined by Dirar Kalash, blending improvisation and resistance to remain truthfully present. Through voice, electronic synth, natural acoustics, and sacred sounds, they build a dynamic practice of *dhikr* and remembrance, extending their invitation to all who seek it.
-
-*Image: Leaf inscribed with a Qur’anic verse from Surat al-Isra’ (“The Night Journey,” Q.17:80), Turkey, 19th century. The inscription reads: “And say, ‘O my Lord, make me enter a rightful entrance and make me exit a rightful exit, and grant me from Your Own a power, favoured \[by You].’”*
+This programme brings together artistic practices, scholarship, and community-based engagement rooted in Islamic knowledges. SLARG researchers, Ruth Razan Loos and Joud Toamah, curated a programme at the intersection of migration, belonging, care, ecological and cultural resilience, and the sacred. Open to all, with lunch.
 
 <!--EndFragment-->
+
+- - -
+
+### **Programme**
+
+* **Lecture-Performance**\
+  **Murmurations and Migrations: Learning from the Avian Wisdom of Farid al-Din Attar**\
+  Through the lens of Farid al-Din Attar’s 12th-century Persian epic poem *The Conference of the Birds*, this lecture-performance - led by **Wendy Miriam Kural Shaw** - rethinks migration, belonging, and collective action in the contemporary world. Using poetic and philosophical frameworks, participants are invited to consider the dialectics of engagement, care, and transcendence in both human and nonhuman communities. 
+
+  Shaw served as professor in departments of Near Eastern Languages and Cultures, Media Studies, and Art History in the United States, Turkey, Switzerland and Germany. She examines Islamic discourses of perception as a source for decolonized expression. Liberated from the disciplinary mandate of universities she continues to explore the interface between culture and religion. 
+* **Conversation** with Wendy, led by Joud & Ruth
+* **Live Perso-Arabic Calligraphy**\
+  Experience the precision and beauty of Islamic calligraphy with **Tamim SahibZada**, master calligrapher, miniaturist, and book illuminator. Tamim refined his calligraphy skills under the guidance of master calligraphers such as Master Taheri (Kabul) and Master Mohammad Amin (Peshawar). He was one of the first lecturers and student mentors at the Turquoise Mountain Institute (Afghanistan) where he developed the student curriculum for miniature art, book illustration, colour design, tapestry design, geometric and Islamic design among others.
+* **Devotional Performance**\
+  The **Kairo Girls’ School** is a women-led collective preserving Indigenous and oral Islamic traditions of sharing sacred Islamic knowledge, storytelling, and practicing traditional crafts in service of healing. They offer a live performance guided by *improvisistance*—a practice combining improvisation and resistance to remain truthfully present. Using voice, electronics, and natural acoustics, they engage audiences in a living archive of *dhikr* and explore forms of remembrance.
+* **Screening**\
+  **Shahana Rajani** presents *Four Acts of Recovery*, a video installation following a displaced fisherfolk family from Mul Creek in the Indus Delta. Combining environmental, cultural, and mystical Islamic perspectives, the work highlights sacred landscape practices and community rituals that reconnect people to their threatened environments. Shahana is an interdisciplinary artist and researcher exploring ecological and social practices in Pakistan through visual representation, landscapes, and infrastructure, often working in community-based collaborative contexts.
+
+**Throughout the day** a table with books and zines will be available for viewing.
+
+**Image:** Leaf inscribed with a Qur’anic verse from Surat al-Isra’ (“The Night Journey,” Q.17:80), Turkey, 19th century. The inscription reads: “And say, ‘O my Lord, make me enter a rightful entrance and make me exit a rightful exit, and grant me from Your Own a power, favoured \[by You].’”

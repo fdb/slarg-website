@@ -104,6 +104,10 @@ ul {
 li {
 	margin-left: 2.6rem;
 }
+small {
+	font-size: 0.8rem;
+	color: #666;
+}
 
 nav {
 	margin: 2rem;
@@ -455,12 +459,20 @@ article .partner-logos img {
 .homepage-short-presentation {
 	margin-left: -2rem;
 }
-.homepage-newsletter {
+.homepage-newsletter,
+.cta {
+	display: inline-block;
 	margin-top: 2rem;
 	text-align: center;
 	border: 2px solid;
 	border-radius: 3rem;
 	padding: 1rem;
+	transition: 200ms;
+	transform: scale(1);
+}
+.homepage-newsletter:active,
+.cta:active {
+	transform: scale(0.95);
 }
 .homepage-upcoming {
 	font-size: 2.4rem;
@@ -475,7 +487,8 @@ article .partner-logos img {
 	background-color: var(--turquoise);
 	margin-bottom: 1.3rem;
 }
-.highlight-event, .highlight-event p {
+.highlight-event,
+.highlight-event p {
 	color: var(--bg-color);
 	font-size: 1.2rem;
 	line-height: 1.3;
@@ -676,12 +689,12 @@ border-radius: 8px;
 	border-radius: 3px;
 }
 
-.image-block{
+.image-block {
 	display: flex;
 	flex-direction: column;
 }
 
-.image-block__credits{
+.image-block__credits {
 	font-size: 0.8rem;
 	font-style: italic;
 }
@@ -782,7 +795,7 @@ border-radius: 8px;
 	font-family: sans-serif;
 	color: #00b96f;
 }
-.activities-calendar ul li{
+.activities-calendar ul li {
 	list-style: none;
 }
 .activities-calendar h2 {
@@ -983,11 +996,12 @@ border-radius: 8px;
 }
 
 .interest-tag {
-		padding: 0.3rem 0.9rem;
-		font-size: 0.8rem;
-	}
+	padding: 0.3rem 0.9rem;
+	font-size: 0.8rem;
+}
 
-#interest-filters button, #kind-filters button {
+#interest-filters button,
+#kind-filters button {
 	padding: 10px;
 	cursor: pointer;
 	background: transparent;
@@ -996,18 +1010,20 @@ border-radius: 8px;
 	padding: 0.5rem 1.1rem;
 	margin: 0 0.3rem 0.3rem 0;
 }
-#interest-filters button.active, #kind-filters button.active  {
+#interest-filters button.active,
+#kind-filters button.active {
 	background: #00c589;
 	color: #fff;
 }
-#interest-filters button:focus, #kind-filters button:focus {
+#interest-filters button:focus,
+#kind-filters button:focus {
 	outline: none;
 	box-shadow: 0 0 0 2px #00c58933;
 }
 
-.people-link a{
+.people-link a {
 	text-decoration: underline;
 }
-.people-link a:hover{
+.people-link a:hover {
 	color: #008f7a;
 }
