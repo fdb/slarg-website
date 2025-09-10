@@ -17,7 +17,9 @@
             <a href="{{ event.url }}">{{ event.data.title }}</a>
         </h2>
         {% if event.data.description %}
-            <p class="event-description">{{ event.data.description }}</p>
+            <p class="event-description">{{ event.data.description | markdownify | strip_html | truncate: 150 }}</p>
+        {% elsif event.data.body %}
+            <p class="event-description">{{ event.data.body | markdownify | strip_html | truncate: 150 }}</p>
         {% endif %}
         <div class="event-details">
             {% if event.data.type %}

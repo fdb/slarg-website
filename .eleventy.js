@@ -44,11 +44,19 @@ module.exports = function (eleventyConfig, collections) {
 
 
 	eleventyConfig.addCollection('research_week_2025', function (collection) {
-		const allEvents = collection.getFilteredByGlob('content/research-week-activities/*.md')
+		const researchWeekActivities = collection.getFilteredByGlob('content/research-week-activities/*.md')
 		  .filter(event => {
 			const date = new Date(event.data.startDate);
 			return !isNaN(date) && date.getFullYear() === 2025;
 		  });
+		
+		const overviewActivities = collection.getFilteredByGlob('content/activities/*.md')
+		  .filter(event => {
+			const date = new Date(event.data.startDate);
+			return !isNaN(date) && date.getFullYear() === 2025 && event.data.type === 'overview-research-week';
+		  });
+		
+		const allEvents = [...researchWeekActivities, ...overviewActivities];
 	  
 		const grouped = groupEventsByWeekday(allEvents);
 	  
@@ -134,7 +142,8 @@ module.exports = function (eleventyConfig, collections) {
 					title: activity.data.title,
 					startDate: activity.data.startDate, 
 					link: activity.data.link,
-					type: 'overview-research-week'
+					type: 'overview-research-week',
+					description: activity.data.description
 				  }
 				});
 			  }
