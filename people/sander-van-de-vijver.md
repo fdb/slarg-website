@@ -7,11 +7,15 @@ role:
 email: sander.vandevyver@kdg.be
 headshot: https://ucarecdn.com/99491634-1580-450a-b4a9-4631b8489a45/
 bio: >-
-  Sander Van de Vijver is an illustrator, digital designer and educator based in
-  Antwerp, Belgium. In 2024-2025 he conducted the research project ‘[Pockets of
-  Control](https://sunny.systems/research-project)’ focusing on procedural
-  systems and their narrative capacities. He is a teacher in the illustration
-  department and the applied master program of Sint Lucas Antwerp.
+  Sander (Antwerp, 1988) is an illustrator, graphic designer and creative coder
+  teaching at Sint Lucas Antwerp in the illustration department and the Master
+  in an Applied Context. In 2024-2025 he conducted a [research
+  project](https://sunny.systems/research-project) on procedural generation and
+  the hybrid space between singular (drawing) and systematic (programming)
+  approaches to figurative creation and narration.
+
+
+  In 2025-2056 he is part of a research project on A.I., where his focus is on local agency, self-hosting, adapting, open-source and sustainability, and the economics and politics entangled in it all.
 
 
   Website: [https://sunny.systems](https://sunny.systems)
