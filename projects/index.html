@@ -17,9 +17,11 @@ title: Research Projects
 		{% endif %} 
 	{% endfor %} 
 	{% assign unique_interests = all_interests | split: ',' | uniq %}
-	{% for interest in unique_interests %} {% if interest != "" %}
-	<button onclick="toggleInterestFilter(this, '{{ interest }}')">{{ interest }}</button>
-	{% endif %} {% endfor %}
+	{% for interest in unique_interests %} 
+    {% if interest != "" %}
+	    <button class="interest-btn" data-interest="{{ interest }}">{{ interest }}</button>
+	  {% endif %} 
+  {% endfor %}
 </div>
 
 
@@ -36,7 +38,7 @@ title: Research Projects
   {% assign unique_kinds = all_kinds | split: ',' | uniq %}
   {% for kind in unique_kinds %}
     {% if kind != "" %}
-      <button onclick="toggleKindFilter(this, '{{ kind }}')">{{ kind }}</button>
+      <button class="kind-btn" data-kind="{{ kind }}">{{ kind }}</button>
     {% endif %}
   {% endfor %}
 </div>
@@ -140,32 +142,52 @@ title: Research Projects
 
 
 <script>
-	function toggleInterestFilter(btn, interest) {
-		btn.classList.toggle('active');
-		filterProjects();
+document.addEventListener("DOMContentLoaded", () => {
+ 
+  document.querySelectorAll(".interest-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      btn.classList.toggle("active");
+      filterProjects();
+    });
+  });
+  document.querySelectorAll(".kind-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      btn.classList.toggle("active");
+      filterProjects();
+    });
+  });
 
-	}
+  function normalize(str) {
+    return (str || "").trim().toLowerCase();
+  }
 
+  function filterProjects() {
+    const activeInterests = Array.from(document.querySelectorAll(".interest-btn.active"))
+      .map(b => normalize(b.dataset.interest));
 
-	function toggleKindFilter(btn, kind) {
-		btn.classList.toggle('active');
-		filterProjects();
-	}
+    const activeKinds = Array.from(document.querySelectorAll(".kind-btn.active"))
+      .map(b => normalize(b.dataset.kind));
 
-		function filterProjects() {
-		const activeInterests = Array.from(document.querySelectorAll('#interest-filters button.active')).map(b => b.textContent);
-		const activeKinds = Array.from(document.querySelectorAll('#kind-filters button.active')).map(b => b.textContent);
+    const projects = document.querySelectorAll(".project-card");
 
-		const projects = document.querySelectorAll('.project-card');
+    projects.forEach(project => {
+      const projectInterests = (project.getAttribute("data-interests") || "")
+        .split(",")
+        .map(normalize);
 
-		projects.forEach(project => {
-			const projectInterests = (project.getAttribute('data-interests') || '').split(',');
-			const projectKind = project.getAttribute('data-kind') || '';
+      const projectKind = normalize(project.getAttribute("data-kind"));
 
-			const matchesInterest = activeInterests.length === 0 || activeInterests.some(i => projectInterests.includes(i));
-			const matchesKind = activeKinds.length === 0 || activeKinds.includes(projectKind);
+      const matchesInterest =
+        activeInterests.length === 0 ||
+        activeInterests.some(i => projectInterests.includes(i));
 
-			project.style.display = (matchesInterest && matchesKind) ? 'flex' : 'none';
-		});
-	}
+      const matchesKind =
+        activeKinds.length === 0 || activeKinds.includes(projectKind);
+
+      project.style.display = matchesInterest && matchesKind ? "flex" : "none";
+    });
+  }
+});
 </script>
+
+
