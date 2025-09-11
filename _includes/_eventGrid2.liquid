@@ -7,7 +7,7 @@
     <div class="event">
         {% if event.data.thumbnail %}
         <a href="{{ event.url }}">
-            <img src="{{ event.data.thumbnail }}" alt="{{ event.data.title }}">
+            <img src="{{ event.data.thumbnail | append: '/-/format/jpeg/' }}" alt="{{ event.data.title }}">
             {% else if %} 
                 {% assign index = forloop.index0 | modulo: images.size %}
                 <img src="{{ images[index] }}" alt="Thumbnail for {{ title }}" class="activity-thumb">

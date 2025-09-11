@@ -15,4 +15,4 @@ Participants are welcome to bring their own zines to share or discuss. The space
 
 
 
-I﻿mage: drawing by Sam Vanbelle
+Image: drawing by Sam Vanbelle
