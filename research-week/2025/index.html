@@ -12,10 +12,10 @@ title: Research Week 2025
   </div>
 </div> -->
 
-{% assign overview = collections.all | where: "data.type", "overview-research-week" | first %}
+<!-- {% assign overview = collections.all | where: "data.type", "overview-research-week" | first %}
 {% if overview %}
   <p>{{ overview.data.description }}</p>
-{% endif %}
+{% endif %} -->
 
 {% for grouped in collections.research_week_2025 %}
   <h2 class="event-day">{{ grouped[0] }}</h2>
