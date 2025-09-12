@@ -16,10 +16,10 @@ research_interests:
   - publishing
 summary: a project that was part of the research
 project-kind: PhD
-image: https://ucarecdn.com/4e8c358b-5512-429d-a90c-be2688f8d0bf/
+main_image: https://ucarecdn.com/b8638aec-9561-48e3-a926-3a7a05a6dc9b/
 people:
   - Loraine Furter
-main_image: https://ucarecdn.com/02a2ac83-93b4-40d1-b22d-7c4c09d25e38/
+image: https://ucarecdn.com/4e8c358b-5512-429d-a90c-be2688f8d0bf/
 ongoing: true
 ---
 A research in progress about publishing practices (artists books, activists pamphlets, party flyers and ephemeras) with an intersectional feminist approach. 
