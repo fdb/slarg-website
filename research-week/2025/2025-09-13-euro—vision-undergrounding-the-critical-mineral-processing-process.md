@@ -11,7 +11,7 @@ research_interests:
   - graphic design
   - minerals
 ---
-For the reserach week slarg invites you invites  to the book presentation  "EURO—VISION: Undergrounding the Critical Mineral " by  the artist duo FRAUD
+For the research week, slarg invites you to the book presentation  "EURO—VISION: Undergrounding the Critical Mineral " by  the artist duo FRAUD
 
  Lecture and book launch by the artist duo FRAUD
 
