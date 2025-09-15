@@ -18,7 +18,7 @@ bio: >-
   multiple canons, stories, languages, scripts, and solidarity. She teaches on
   the socio-political aspects of our multilingual world and how artists and
   designers navigate multiscript realities; and is preparing a course on Islamic
-  Knowledges and Aesthetic Practices.
+  Knowledges and Aesthetic Practices with colleague-researcher Joud Toamah.
 
 
   S﻿he is interested in supervising PhD in the arts projects related to the Arabic script intertwined with Islam / the role of art in Islamic ways of knowing / sustainability and social justice from the Islamic perspective.
