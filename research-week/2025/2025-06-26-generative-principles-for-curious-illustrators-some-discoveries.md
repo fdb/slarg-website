@@ -19,4 +19,4 @@ It will be a love letter to roadside discoveries like double scattering, lo-fi p
 
 The talk combines broad conceptual ideas with anecdotal insights, inviting the potentially curious image maker to consider the role of the systematic in their gestural practice.
 
-RSVP via [this self-hosted decoupled RSVP system](https://rsvp.sunny.systems/good-system-talk) ;)!
+RSVP via [this self-hosted decoupled RSVP system](https://rsvp.sunny.systems/good-system-talk)!
