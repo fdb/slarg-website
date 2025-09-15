@@ -1,6 +1,6 @@
 ---
-title: The Only Good System is a Bespoke Single-Use Image Generation System |
-  Sander Van de Vyver | Sharing session
+title: The Only Good System is a Single-Use Image Generation System | Sander Van
+  de Vyver | Sharing session
 layout: activity.liquid
 startDate: 2025-10-21T15:00:58.891Z
 endDate: 2025-10-21T16:30:15.919Z
@@ -18,3 +18,5 @@ The talk is accessible for a general audience and explores a curious illustrator
 It will be a love letter to roadside discoveries like double scattering, lo-fi proceduralism, decoupled systems and pixel shaders.
 
 The talk combines broad conceptual ideas with anecdotal insights, inviting the potentially curious image maker to consider the role of the systematic in their gestural practice.
+
+RSVP via [this self-hosted decoupled RSVP system](https://rsvp.sunny.systems/good-system-talk) ;)!
