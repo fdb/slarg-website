@@ -14,7 +14,7 @@ research_interests:
 \
 In 2025, we conducted an experimental artistic research project, exchanging our work through post packages. Each round was a response to the previously received message, shaped by six themes present in our individual practices.
 
-This fall, we will come together for a four-day residency to transform these ongoing exchanges into a printed publication. The project reflects not only our artistic processes but also our inability to choose between priority stamps or tracking, and the tangible outcomes of this collaborative experiment.
+This fall, we will come together for a four-day residency to transform these ongoing exchanges into a printed publication. The project reflects not only our artistic processes but also our dwellings between priority stamps and tracking, and the tangible outcomes of this collaborative experiment.  
 
 In this session, we will present the completed publication, the artworks created, and the experiences and methodologies from our first collective endeavour.
 
