@@ -7,6 +7,9 @@ end_date: 2025-06-17T16:02:27.416Z
 project-kind: PhD
 abstract: ""
 research_interests:
+  - Bio-sensing
+  - Digital humanities
+  - Human-machine listening
   - care
   - generative design
   - visual performance
