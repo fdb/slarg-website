@@ -12,6 +12,7 @@ layout: people.liquid
 role:
   - Supervisor
   - Post-Doc
+  - Staff
 bio: Dr. Frederik De Bleser is a postdoctoral researcher and lecturer at Sint
   Lucas Antwerpen (KdG). His research concentrates on the democratization of
   technology for the arts, with a particular emphasis on the development of
