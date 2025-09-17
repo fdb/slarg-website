@@ -4,6 +4,7 @@ tags: people
 person_name: Lieven Menschaert
 role:
   - Researcher
+  - Staff
 email: ""
 research_interests: []
 bio: Lieven Menschaert (º1975) is a researcher and lecturer at Sint Lucas
