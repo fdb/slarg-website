@@ -2,6 +2,11 @@
 researcher_name: Karen Vermeren
 researcher_flag: "false"
 layout: people.liquid
+tags: researcher
+person_name: Karen Vermeren
+role:
+  - Post-Doc
+  - Supervisor
 research_interests: []
 social_links:
   - name: Website
@@ -24,11 +29,6 @@ bio: >-
 staff_flag: "false"
 image_researcher:
   - https://ucarecdn.com/ee9d72db-39e1-47ec-b9fa-c05ca606b290/
-tags: researcher
-person_name: Karen Vermeren
-role:
-  - Staff
-  - Post-Doc
 status_of_research: ongoing
 available_for_supervision: "false"
 email: karen.vermeren@kdg.be
