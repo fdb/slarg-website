@@ -1,6 +1,15 @@
 ---
+layout: people.liquid
+tags:
+  - researcher
+person_name: Annelys de Vet
+role:
+  - Staff
+  - Supervisor
+  - Post-Doc
+email: annelys.devet@kdg.be
 research_interests:
-  - social
+  - social design
   - subjective mapping
 social_links:
   - name: Subjective Editions
@@ -11,15 +20,6 @@ social_links:
     url: https://www.bureaudevet.be
   - name: Instagram
     url: https://www.instagram.com/devetann/
-layout: people.liquid
-tags:
-  - researcher
-person_name: Annelys de Vet
-role:
-  - Staff
-  - Supervisor
-  - Post-Doc
-email: annelys.devet@kdg.be
 headshot: https://ucarecdn.com/aa782ca8-a1d1-42f8-b889-6c7a4c434ece/
 bio: >-
   
