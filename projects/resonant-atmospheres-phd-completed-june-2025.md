@@ -14,7 +14,7 @@ main_image: https://ucarecdn.com/b1a89a59-35e9-4851-bdd4-2942586bdfa1/
 people:
   - Frederik De Bleser
 ---
-Mona Hedayati’s doctoral research project, Resonant Atmospheres, explored how biosensing technologies—often used in “affective computing” to measure and interpret emotions—can be reimagined in artistic contexts. Instead of treating biosensors as tools of surveillance or recognition, she repurposed them to shape live, time-based artistic events where sound, images, and bodily data combined to create shared affective environments.
+[Mona Hedayati](https://slarg.be/people/mona-hedayati/)’s doctoral research project, *Resonant Atmospheres*, explored how biosensing technologies—often used in “affective computing” to measure and interpret emotions—can be reimagined in artistic contexts. Instead of treating biosensors as tools of surveillance or recognition, she repurposed them to shape live, time-based artistic events where sound, images, and bodily data combined to create shared affective environments.
 
 Her work examined how the intensity of migration and exile might be felt and communicated through these atmospheres. By transforming biosensor data into soundscapes and visuals, and by inviting audiences to participate in their unfolding, Hedayati created situations where communication did not rely on clear narratives but on the experience of affect itself.
 
