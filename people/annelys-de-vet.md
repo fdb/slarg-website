@@ -6,6 +6,7 @@ person_name: Annelys de Vet
 role:
   - Supervisor
   - Post-Doc
+  - Staff
 email: annelys.devet@kdg.be
 research_interests:
   - social design
