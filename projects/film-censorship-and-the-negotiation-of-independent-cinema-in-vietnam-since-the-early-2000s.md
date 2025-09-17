@@ -3,7 +3,7 @@ layout: project.liquid
 tags: project
 title: Film Censorship and the Negotiation of Independent Cinema in Vietnam
   since the Early 2000s
-start_date: 2025-09-17T15:32:51.983Z
+start_date: 2022-09-17T15:32:51.983Z
 end_date: ""
 project-kind: PhD
 ongoing: true
