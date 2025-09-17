@@ -7,6 +7,7 @@ person_name: Karen Vermeren
 role:
   - Post-Doc
   - Supervisor
+  - Staff
 research_interests: []
 social_links:
   - name: Website
