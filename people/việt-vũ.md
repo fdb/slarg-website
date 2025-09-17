@@ -9,6 +9,8 @@ social_links:
   - name: Facebook
     url: https://www.facebook.com/pham.viet.vu19/
 layout: people.liquid
+role:
+  - PhD
 bio: >-
   Việt Vũ (Phạm Quang Trung) is a filmmaker, audio-visual artist and reseacher
   in the arts. He has so far completed a series of audio-visual works in various
