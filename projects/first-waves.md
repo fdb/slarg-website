@@ -11,6 +11,7 @@ abstract: ""
 main_image: https://ucarecdn.com/2356a752-4f79-4fa3-9fcc-dff23465b343/
 people:
   - Joachim Ben Yakoub
+  - Reem Shilleh
 ---
 **The Archives of the Tout-monde. In search of refuges for subversive aesthetic experiences** is a collaborative open platform that proposes to share the often-silenced stories of the struggles for dignity of the Maghrebi and Black diasporas in Belgium. Rendering visible the early waves that reveal and erode persistent racialized and colonial structures. By collaborating with the witnesses and protagonists of these first waves, the platform gathers memories, recorded testimonies and archival materials washed ashore, spanning from the colonial era to the dawn of the new millennium. This effort aspires to initiate a transformative ebb and flow of memorial restitution, repairing and honoring memories shaped by the waves of antiracist struggles that precede us. These constitutive waves, overflowing the shores of time, from eternity to eternity, continue to move the undercurrent of the present, sedimenting the enduring impact of historical contempt and eroding different pathways towards a shared dignified horizon.
 
