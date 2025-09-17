@@ -4,7 +4,6 @@ tags:
   - researcher
 person_name: Annelys de Vet
 role:
-  - Staff
   - Supervisor
   - Post-Doc
 email: annelys.devet@kdg.be
