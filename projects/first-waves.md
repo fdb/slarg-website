@@ -1,8 +1,7 @@
 ---
 layout: project.liquid
 tags: project
-title: The Archives of the Tout-monde. In search of refuges for subversive
-  aesthetic experiences
+title: The Archives of the Tout-monde.
 start_date: 2021-01-26T10:54:11.236Z
 end_date: 2024-09-26T09:54:11.241Z
 project-kind: social outreach
@@ -13,6 +12,6 @@ people:
   - Joachim Ben Yakoub
   - Reem Shilleh
 ---
-One of the offsprings of the 'The Archives of the Tout-monde'  research is First Waves, a collaborative open platform that proposes to share the often-silenced stories of the struggles for dignity of the Maghrebi and Black diasporas in Belgium. Rendering visible the early waves that reveal and erode persistent racialized and colonial structures. By collaborating with the witnesses and protagonists of these first waves, the platform gathers memories, recorded testimonies and archival materials washed ashore, spanning from the colonial era to the dawn of the new millennium. This effort aspires to initiate a transformative ebb and flow of memorial restitution, repairing and honoring memories shaped by the waves of antiracist struggles that precede us. These constitutive waves, overflowing the shores of time, from eternity to eternity, continue to move the undercurrent of the present, sedimenting the enduring impact of historical contempt and eroding different pathways towards a shared dignified horizon.
+One of the offsprings of the research 'The Archives of the Tout-monde. In search of refuges for subversive aesthetic experiences'  is First Waves, a collaborative open platform that proposes to share the often-silenced stories of the struggles for dignity of the Maghrebi and Black diasporas in Belgium. Rendering visible the early waves that reveal and erode persistent racialized and colonial structures. By collaborating with the witnesses and protagonists of these first waves, the platform gathers memories, recorded testimonies and archival materials washed ashore, spanning from the colonial era to the dawn of the new millennium. This effort aspires to initiate a transformative ebb and flow of memorial restitution, repairing and honoring memories shaped by the waves of antiracist struggles that precede us. These constitutive waves, overflowing the shores of time, from eternity to eternity, continue to move the undercurrent of the present, sedimenting the enduring impact of historical contempt and eroding different pathways towards a shared dignified horizon. 
 
 <https://firstwaves.be/>
