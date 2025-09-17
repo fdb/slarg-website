@@ -5,7 +5,7 @@ title: The Archives of the Tout-monde. In search of refuges for subversive
   aesthetic experiences
 start_date: 2021-01-26T10:54:11.236Z
 end_date: 2024-09-26T09:54:11.241Z
-project-kind: social outreach
+project-kind: 2 year project (post-doc)
 ongoing: false
 abstract: ""
 main_image: https://ucarecdn.com/2356a752-4f79-4fa3-9fcc-dff23465b343/
