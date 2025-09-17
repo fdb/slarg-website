@@ -5,12 +5,8 @@ social_links:
   - name: Website
     url: https://www.wesleymeuris.be
 layout: people.liquid
-tags: researcher
 role:
   - Supervisor
-  - Staff
-email: wesley.meuris@kdg.be
-headshot: https://ucarecdn.com/a974001e-ab82-4030-b496-7a4b92b5dda5/
 bio: >-
   As a visual artist, I primarily work with installations, sculptures, and
   drawings. Over the past decade, my research has focused on various forms of
@@ -33,4 +29,7 @@ image_researcher:
 person_name: Wesley Meuris
 status_of_research: finished
 available_for_supervision: "false"
+tags: researcher
+email: wesley.meuris@kdg.be
+headshot: https://ucarecdn.com/a974001e-ab82-4030-b496-7a4b92b5dda5/
 ---
