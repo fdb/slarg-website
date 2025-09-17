@@ -4,6 +4,7 @@ tags: people
 person_name: Sander Van de Vijver
 role:
   - Researcher
+  - Staff
 email: sander.vandevyver@kdg.be
 headshot: https://ucarecdn.com/99491634-1580-450a-b4a9-4631b8489a45/
 bio: >-
