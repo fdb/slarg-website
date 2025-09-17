@@ -31,6 +31,6 @@ tags: researcher
 email: "vietvu.pham@kdg.be "
 headshot: https://ucarecdn.com/b9f00ad0-6764-4e6a-b2c5-bde5309cb58c/
 projects:
-  - Film Censorship and the Negotiation of Independent Cinema in Vietnam since
-    the Early 2000s
+  - "Queering the censorship: A (self-)investigation of an experimental
+    filmmaker in Vietnam"
 ---
