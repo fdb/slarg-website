@@ -11,6 +11,8 @@ research_interests:
   - Listening practices
   - Ritual and grief
 main_image: https://ucarecdn.com/9efaec3e-e8de-4fcd-a726-c2de3cd29389/
+people:
+  - Joachim Ben Yakoub
 ---
 <!--StartFragment-->
 
