@@ -7,6 +7,7 @@ role:
   - Staff
 email: ann.laenen@kdg.be
 research_interests: []
+headshot: https://ucarecdn.com/4f26d2df-d710-48f7-8f36-cce95a3c1914/
 bio: >-
   Ann Laenen is the Dean of Sint Lucas Antwerpen. She studied Arts and Theatre
   Science and obtained her PhD in arts education. Trained as a musician, her
