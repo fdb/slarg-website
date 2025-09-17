@@ -7,6 +7,7 @@ social_links:
 layout: people.liquid
 role:
   - Supervisor
+  - Staff
 bio: >-
   As a visual artist, I primarily work with installations, sculptures, and
   drawings. Over the past decade, my research has focused on various forms of
