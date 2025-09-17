@@ -9,13 +9,9 @@ social_links:
   - name: Algorithmic Gaze
     url: https://algorithmicgaze.com/
 layout: people.liquid
-tags: researcher
 role:
   - Supervisor
   - Post-Doc
-  - Staff
-email: frederik.debleser@kdg.be
-headshot: https://ucarecdn.com/5376e29e-537c-4f91-aa56-928f1153b3b9/
 bio: Dr. Frederik De Bleser is a postdoctoral researcher and lecturer at Sint
   Lucas Antwerpen (KdG). His research concentrates on the democratization of
   technology for the arts, with a particular emphasis on the development of
@@ -30,4 +26,7 @@ image_researcher:
 person_name: Frederik De Bleser
 status_of_research: finished
 available_for_supervision: false
+tags: researcher
+email: frederik.debleser@kdg.be
+headshot: https://ucarecdn.com/5376e29e-537c-4f91-aa56-928f1153b3b9/
 ---
