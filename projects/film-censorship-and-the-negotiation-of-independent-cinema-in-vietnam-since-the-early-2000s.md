@@ -7,11 +7,11 @@ start_date: 2022-09-17T15:32:51.983Z
 end_date: ""
 project-kind: PhD
 ongoing: true
-abstract: This project explores how independent filmmakers in Vietnam since the
-  early 2000s have navigated state censorship, situating their practices within
-  a historical continuum from the colonial era to the present and linking them
-  to wider negotiations between cinema, power, and cultural politics in
-  authoritarian contexts today.
+abstract: This artistic research investigates how Vietnamese radical
+  audio-visual artists navigate and transform censorship through an arts-based
+  film practice that combines archival experimentation, historical inquiry, and
+  auto-ethnography to reimagine cinema as a methodology of resistance and
+  survival in authoritarian societies.
 research_interests:
   - film censorship
   - film censorship in Vietna
