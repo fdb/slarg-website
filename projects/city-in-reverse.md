@@ -7,6 +7,14 @@ end_date: ""
 project-kind: 2 year project (post-doc)
 ongoing: true
 abstract: ""
+research_interests:
+  - artists' books
+  - care
+  - drawing
+  - geology
+  - landscape
+  - painting
+  - raw material
 main_image: https://ucarecdn.com/1e50d293-c26b-4731-9672-2ee1f731b877/
 main_image_credits: © Karen Vermeren, 66x 92cm, aluminium powder, encyclopaedia
   photo collage, silkscreen on stone paper
