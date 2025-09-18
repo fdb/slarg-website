@@ -4,7 +4,7 @@ layout: activity.liquid
 startDate: 2025-10-20T12:00:12.082Z
 endDate: 2025-10-20T15:00:12.089Z
 location: Sint Lucas Antwerpen, Library
-thumbnail: https://ucarecdn.com/79e14677-db09-4d3b-a967-c4f1bc170d85/
+thumbnail: https://ucarecdn.com/0923374a-8ce0-44b3-a63a-05f90ca9ce77/
 research_interests:
   - care
   - ethics
@@ -14,7 +14,7 @@ research_interests:
 \
 In 2025, we conducted an experimental artistic research project, exchanging our work through post packages. Each round was a response to the previously received message, shaped by six themes present in our individual practices.
 
-This fall, we will come together for a four-day residency to transform these ongoing exchanges into a printed publication. The project reflects not only our artistic processes but also our inability to choose between priority stamps or tracking, and the tangible outcomes of this collaborative experiment.
+This fall, we will come together for a four-day residency to transform these ongoing exchanges into a printed publication. The project reflects not only our artistic processes but also our dwellings between priority stamps and tracking, and the tangible outcomes of this collaborative experiment.  
 
 In this session, we will present the completed publication, the artworks created, and the experiences and methodologies from our first collective endeavour.
 

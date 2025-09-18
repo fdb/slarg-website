@@ -3,7 +3,7 @@ layout: people.liquid
 tags: people
 person_name: Irma Földényi
 role:
-  - Researcher
+  - PhD
 email: irma.foldenyi@kdg.be
 headshot: https://ucarecdn.com/662aa5ac-cfc3-4e61-8b74-5e86fe077ed1/
 bio: >-

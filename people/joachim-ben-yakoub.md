@@ -5,7 +5,6 @@ social_links: null
 layout: people.liquid
 tags: researcher
 role:
-  - Researcher
   - Supervisor
   - Post-Doc
   - Staff
@@ -29,7 +28,6 @@ person_name: Joachim Ben Yakoub
 status_of_research: ongoing
 available_for_supervision: "false"
 projects:
-  - First Waves
-  - "Feu2Forêt "
   - Re:Sol
+  - "Archives of the Tout-Monde "
 ---

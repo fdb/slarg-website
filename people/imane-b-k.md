@@ -3,7 +3,6 @@ layout: people.liquid
 tags: people
 person_name: "Imane B. K. "
 role:
-  - Researcher
   - Staff
 email: imane.benyecif@kdg.be
 research_interests: []

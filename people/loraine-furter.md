@@ -1,6 +1,7 @@
 ---
 researcher_name: Loraine Furter
 researcher_flag: true
+layout: people.liquid
 email: loraine.furter@kdg.be
 research_interests:
   - graphic design
@@ -11,7 +12,6 @@ social_links: |-
   <https://www.lorainefurter.net/>
 
   <https://www.instagram.com/lorainefurter/>
-layout: people.liquid
 headshot: https://ucarecdn.com/64c0d154-f2d1-4e99-a7b2-141eceb1f22e/
 bio: Loraine Furter is a graphic designer and a teacher, specialized in hybrid
   publishing and in love with subversive anti-hegemonic practices. She
@@ -29,6 +29,7 @@ time: September 2019-September 2025
 person_name: Loraine Furter
 role:
   - PhD
+  - Staff
 headshot_image: https://www.lorainefurter.net/user/pages/01.home/02._works/02._2022-agrafes-bouts-ficelle/messy-reliures-edition-02.jpg
 status_of_research: ongoing
 available_for_supervision: false

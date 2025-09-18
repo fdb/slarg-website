@@ -27,10 +27,13 @@ image_researcher:
 tags: researcher
 person_name: Karen Vermeren
 role:
-  - Staff
   - Post-Doc
+  - Supervisor
+  - Staff
 status_of_research: ongoing
 available_for_supervision: "false"
 email: karen.vermeren@kdg.be
 headshot: https://ucarecdn.com/5c62e51e-7d0c-4d6e-8d06-41d37584d538/
+projects:
+  - "City in Reverse: Reflecting Aluminum"
 ---

@@ -9,12 +9,10 @@ social_links:
   - name: La Loge
     url: https://www.la-loge.be/en/archives/holding-rehearsals-by-robin-vanbesien
 layout: people.liquid
-tags: researcher
 role:
   - Supervisor
   - Post-Doc
-email: robin.vanbesien@kdg.be
-headshot: https://ucarecdn.com/66a199e7-1ca1-48f8-824b-30b9312e66f6/
+  - Staff
 bio: >-
   Robin Vanbesien is a visual artist, filmmaker, researcher, and educator
   exploring embodied knowledge and collective imagination in social and
@@ -40,4 +38,7 @@ image_researcher:
 person_name: Robin Vanbesien
 status_of_research: finished
 available_for_supervision: "false"
+tags: researcher
+email: robin.vanbesien@kdg.be
+headshot: https://ucarecdn.com/66a199e7-1ca1-48f8-824b-30b9312e66f6/
 ---

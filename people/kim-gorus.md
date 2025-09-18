@@ -5,7 +5,6 @@ person_name: Kim Gorus
 role:
   - Supervisor
   - Staff
-  - Post-Doc
 email: Kim.Gorus@kdg.be
 headshot: https://ucarecdn.com/62bee7dd-bfcd-4e2d-9058-2d9089d30154/
 bio: >-

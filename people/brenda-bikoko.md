@@ -4,6 +4,7 @@ tags: people
 person_name: Brenda Bikoko
 role:
   - Researcher
+  - Staff
 email: brenda.bikoko@kdg.be
 research_interests:
   - Colonial_photography_re-approriation_strategies

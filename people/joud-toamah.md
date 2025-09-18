@@ -16,7 +16,7 @@ bio: >-
   Syria, along the watery places she loves by the Euphrates.
 
 
-  She is currently coordinating the Advanced Master of Art and Design Research (AdMa) and co-lecturing a course on Islamic Ways of Knowing and Aesthetic Practices with Ruth Loos.
+  She is currently coordinating the Advanced Master of Art and Design Research (AdMa) and co-lecturing a course on Islamic Ways of Knowing and Aesthetic Practices with colleague-researcher Ruth Loos.
 
 
   Joud has participated in residencies at Frans Masereel Centrum, Futures Photography, and Morpho. Her work has been presented at Photoforumpasquart, FOMU – Museum of Photography, Beursschouwburg, Globe Aroma, and Constant.

@@ -470,6 +470,10 @@ article .partner-logos img {
 	transition: 200ms;
 	transform: scale(1);
 }
+.homepage-newsletter a,
+.cta a {
+	text-decoration: none;
+}
 .homepage-newsletter:active,
 .cta:active {
 	transform: scale(0.95);
@@ -486,6 +490,9 @@ article .partner-logos img {
 	padding: 20px;
 	background-color: var(--turquoise);
 	margin-bottom: 1.3rem;
+}
+.highlight-event a {
+	border-bottom: 2px solid aquamarine;
 }
 .highlight-event,
 .highlight-event p {

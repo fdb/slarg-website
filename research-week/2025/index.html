@@ -1,14 +1,21 @@
 ---
 layout: base.liquid
-title: Research Week Activities
+title: Research Week 2025
 ---
 
-<h1>{{ title }}</h1>
+<link rel="stylesheet" href="/static/css/2024.css">
 
-{% assign overview = collections.all | where: "data.type", "overview-research-week" | first %}
+<h2 class="big-title">Research week 2025</h2>
+<!-- <div class="hero">
+  <div class="container">
+    <p class="hero-text">This year, SLARG Research Week will feature both a Research Exhibition and a Performance Night. <a href="2025/about">Read more</a></p>
+  </div>
+</div> -->
+
+<!-- {% assign overview = collections.all | where: "data.type", "overview-research-week" | first %}
 {% if overview %}
   <p>{{ overview.data.description }}</p>
-{% endif %}
+{% endif %} -->
 
 {% for grouped in collections.research_week_2025 %}
   <h2 class="event-day">{{ grouped[0] }}</h2>

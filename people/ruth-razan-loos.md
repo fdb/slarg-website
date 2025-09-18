@@ -3,13 +3,9 @@ researcher_name: Ruth Razan Loos
 researcher_flag: "false"
 social_links: null
 layout: people.liquid
-tags: researcher
 role:
   - Staff
-  - Post-Doc
   - Supervisor
-email: ruth.loos@kdg.be
-headshot: https://ucarecdn.com/7b2b73b1-f870-476e-9357-5d16d4847f9c/
 bio: >-
   Ruth Razan Loos holds master's degrees in visual arts and art history and a
   PhD in the arts. She supports SLARG in its social outreach approach. In
@@ -18,7 +14,7 @@ bio: >-
   multiple canons, stories, languages, scripts, and solidarity. She teaches on
   the socio-political aspects of our multilingual world and how artists and
   designers navigate multiscript realities; and is preparing a course on Islamic
-  Knowledges and Aesthetic Practices.
+  Knowledges and Aesthetic Practices with colleague-researcher Joud Toamah.
 
 
   S﻿he is interested in supervising PhD in the arts projects related to the Arabic script intertwined with Islam / the role of art in Islamic ways of knowing / sustainability and social justice from the Islamic perspective.
@@ -28,4 +24,7 @@ image_researcher:
 person_name: Ruth Razan Loos
 status_of_research: finished
 available_for_supervision: "false"
+tags: researcher
+email: ruth.loos@kdg.be
+headshot: https://ucarecdn.com/7b2b73b1-f870-476e-9357-5d16d4847f9c/
 ---
