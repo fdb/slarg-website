@@ -195,7 +195,7 @@ collections:
           name: 'role',
           widget: 'select',
           multiple: true,
-          options: ['Researcher', 'Staff', 'PhD', 'Post-Doc', 'Supervisor'],
+          options: ['Researcher', 'Staff', 'PhD', 'Post-Doc', 'Supervisor', 'Former researcher'],
           default: ['Researcher'],
           required: false
         }
