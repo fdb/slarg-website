@@ -16,8 +16,8 @@ research_interests:
   - painting
   - raw material
 main_image: https://ucarecdn.com/1e50d293-c26b-4731-9672-2ee1f731b877/
-main_image_credits: © Karen Vermeren, 66x 92cm, aluminium powder, encyclopaedia
-  photo collage, silkscreen on stone paper
+main_image_credits: © Karen Vermeren, 66x 92cm, aluminum powder, acrylic,
+  encyclopaedia photo collage, silkscreen on stone paper
 people:
   - Karen Vermeren
 ---
