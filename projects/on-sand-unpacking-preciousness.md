@@ -5,15 +5,14 @@ title: "On sand: unpacking preciousness"
 start_date: 2023-09-18T15:38:33.279Z
 end_date: 2024-08-18T15:38:33.286Z
 project-kind: 1 year project (pre-doc)
-abstract: >-
-  
-  This one year research project questions what the role of packaging could be, in understanding our capitalocenic interdependence with living and non-living beings. In a 2022 UN report on sand and sustainability, sand is reported to become scarce as it is the second most used resource, after water, on earth. It is present in every building and road and in all the screens of devices we use daily. As abundant as it seems, it is predicted to become scarce due to overconsumption by industrial use. In my artistic practice, the metonymy of packaging and preciousness, jewellery boxes being a well-known example, becomes a means to question how the finitude and thus the value of this raw material and the consequences of its extraction are underestimated. Through re-making and repairing industrial sand packaging by hand and crafting new ways of packaging, I search for slow and gentle ways to visualise a sense of care for materials and the relationships they shape between people and objects.
+abstract: ""
 main_image: https://ucarecdn.com/ecc32fe3-6669-48e0-b7c2-d48d62c6ecc1/
 people:
   - Saskia Van der Gucht
 ---
+This one year research project questions what the role of packaging could be, in understanding our capitalocenic interdependence with living and non-living beings. In a 2022 UN report on sand and sustainability, sand is reported to become scarce as it is the second most used resource, after water, on earth. It is present in every building and road and in all the screens of devices we use daily. As abundant as it seems, it is predicted to become scarce due to overconsumption by industrial use. In my artistic practice, the metonymy of packaging and preciousness, jewellery boxes being a well-known example, becomes a means to question how the finitude and thus the value of this raw material and the consequences of its extraction are underestimated. Through re-making and repairing industrial sand packaging by hand and crafting new ways of packaging, I search for slow and gentle ways to visualise a sense of care for materials and the relationships they shape between people and objects.\
 \
-research questions
+my research questions were:
 
 • How can the metonymy of packaging and preciousness be made into images and objects, by visualising this ecological interdependence of people and materials, to further shift public discourse to a notion of radical care?
 
