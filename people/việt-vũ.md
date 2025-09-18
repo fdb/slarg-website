@@ -1,13 +1,6 @@
 ---
 researcher_name: Việt Vũ (Phạm Quang Trung)
 researcher_flag: true
-social_links:
-  - name: Website
-    url: https://midfieldfocus.com/
-  - name: Instagram
-    url: https://www.instagram.com/vietvuph/
-  - name: Facebook
-    url: https://www.facebook.com/pham.viet.vu19/
 layout: people.liquid
 bio: >-
   Việt Vũ (Phạm Quang Trung) is a filmmaker, audio-visual artist and reseacher
@@ -19,6 +12,11 @@ bio: >-
 
 
   Viet obtained a Master Degree in Documentary Film Directing at Doc Nomads in 2021. Since September 2022, he is doing a PhD in the Arts at Sint Lucas Antwerpen (KdG) / ARIA (University of Antwerp), entitled "Film Censorship and the Negotiation of Independent Cinema in Vietnam since the Early 2000s."
+social_links:
+  - name: Website
+    url: https://midfieldfocus.com/
+  - name: Instagram
+    url: https://www.instagram.com/vietvu30s/
 staff_flag: true
 image_researcher:
   - https://ucarecdn.com/a0c1aad3-89ec-433c-9cf8-700ecfaa8954/
