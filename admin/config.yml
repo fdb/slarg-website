@@ -180,6 +180,7 @@ collections:
     filter: { field: 'layout', value: 'people.liquid' }
     identifier_field: 'person_name'
     sortable_fields: ['person_name', 'role']
+  
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'people.liquid' }
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'people' }
@@ -209,6 +210,21 @@ collections:
         }
       - { label: 'Headshot', name: 'headshot', widget: 'image', required: false }
       - { label: 'Bio', name: 'bio', widget: 'markdown' }
+
+      - label: 'Social Links' 
+        name: 'social_links'
+        widget: 'list'
+        required: false
+        hint: 'Add links to external websites or social profiles'
+        fields:
+          - label: 'Link Name'
+            name: 'name'
+            widget: 'string'
+            hint: 'e.g., Website, Instagram, Twitter'
+          - label: 'URL'
+            name: 'url'
+            widget: 'string'
+            hint: 'Full URL including https://'
       - {
           label: 'Projects',
           name: 'projects',
