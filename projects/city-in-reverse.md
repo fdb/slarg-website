@@ -2,7 +2,7 @@
 layout: project.liquid
 tags: project
 title: "City in Reverse: Reflecting Aluminum"
-start_date: 2023-09-17T14:28:10.120Z
+start_date: ""
 end_date: ""
 project-kind: 2 year project (post-doc)
 ongoing: true
