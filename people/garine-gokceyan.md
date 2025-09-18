@@ -25,7 +25,7 @@ status_of_research: ongoing
 available_for_supervision: false
 tags: researcher
 email: garine.gokceyan@kdg.be
-headshot: https://ucarecdn.com/00155ae8-f0c0-4d09-8836-67f484dad45e/
+headshot: https://ucarecdn.com/d21ac0b8-0eba-4630-86fb-663d2d72f84b/
 projects:
   - "Exploring the diasporic life of Armenian script: A Multiscript Laboratory"
 ---
