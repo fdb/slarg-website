@@ -23,6 +23,8 @@ gallery:
   - src: https://ucarecdn.com/093e4a0e-27aa-4965-ace2-73e4c4e57d2c/
     caption: Gallery, Sint Lucas School of Arts, November 2024
     alt: Exhibition 'Disarming Design, politics of participatory practices'
+people:
+  - Annelys de Vet
 ---
 In our current political and economic landscape, sustaining an emancipatory design practice—one that aligns with progressive political beliefs and social values—poses significant challenges. My practice-based research explores how political agency can be strengthened amidst these conditions by engaging in participatory design processes. 
 
