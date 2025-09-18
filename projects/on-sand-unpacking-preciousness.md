@@ -20,8 +20,7 @@ my research questions were:
 
 • What part can sand play here as an exemplification for material finitude?
 
-\
-And to make these work-able I started with:
+and to make these work-able I started with:
 
 • How do we pack sand?
 
