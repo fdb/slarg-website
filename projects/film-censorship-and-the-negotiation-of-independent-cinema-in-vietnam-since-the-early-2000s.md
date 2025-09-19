@@ -1,7 +1,7 @@
 ---
 layout: project.liquid
 tags: project
-title: "Queering the censorship: A (self-)investigation of an experimental
+title: "Queering the censorship: (Self-)investigations of an experimental
   filmmaker in Vietnam"
 start_date: 2022-09-17T15:32:51.983Z
 end_date: ""
