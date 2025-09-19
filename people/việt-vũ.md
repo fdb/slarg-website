@@ -12,7 +12,7 @@ bio: >-
   In 2018, his debut fiction short Ant-Man won the Most Promising Filmmaker from Southeast Asia Award at the 2nd SeaShorts Film Festival in Malaysia. Following this recognition, he directed the docufiction The Eternal Springtime, which premiered at International Film Festival Rotterdam (IFFR) 2021 and qualified for an Oscars nomination after receiving the Best Documentary Award at the 66th International Cork Film Festival and Best Director at the Baku International Film Festival. In the same year, his experimental film My Own Room received the prestigious Wildcard Award from the Vlaams Audiovisueel Fonds (VAF, Belgium).
 
 
-  Viet earned a Master’s degree in Documentary Film Directing from DocNomads in 2021 and was also selected as a Berlinale Talents alumnus the same year. Since September 2022, he is doing a PhD in the Arts at Sint Lucas Antwerpen (KdG) / ARIA (University of Antwerp), entitled "Queering the Censorship: (Self-)Investigations of an Experimental Filmmaker in Vietnam."
+  Viet earned a Master’s degree in Documentary Film Directing from DocNomads in 2021 and was also selected as a Berlinale Talents alumnus the same year. Since September 2022, he  has been doing a PhD in the Arts at Sint Lucas Antwerpen (KdG) / ARIA (University of Antwerp), entitled "Queering the Censorship: (Self-)Investigations of an Experimental Filmmaker in Vietnam."
 social_links:
   - name: Website
     url: https://midfieldfocus.com/
