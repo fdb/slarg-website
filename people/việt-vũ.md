@@ -3,12 +3,13 @@ researcher_name: Việt Vũ (Phạm Quang Trung)
 researcher_flag: true
 layout: people.liquid
 bio: >-
-  Việt Vũ (Phạm Quang Trung) is a filmmaker, audio-visual artist and reseacher
-  in the arts. He has so far completed a series of audio-visual works in various
-  socio-political zones, including Vietnam, Portugal, Hungary and Belgium. 
+  Việt Vũ (Phạm Quang Trung) is a researcher in the Arts and a filmmaker.
 
 
-  His works, focusing on accenting repressed voices of queer and neglected communities in a globalizing world, have been shown at various European and Asian film festivals - including Locarno, Rotterdam, Tampere, etc. After  winning "The Most Promising Filmmaker from South East Asia" Award at the 2nd SeaShorts Film Festival in Malaysia in 2018 for the debut fiction short "Ant-Man", Viet made his docufiction "The Eternal Springtime", which became eligible for the Oscars nomination thanks to winning "Best Documentary Award" at 66th International Cork Film Festival and "Best Director" at Baku International Film Festival. In the same year, his experimental "My Own Room" was granted the prestiged Wildcard Award from Vlaams Audiovisueel Fonds (VAF, Belgium). 
+  He has completed a series of films and audio-visual projects across Vietnam, Portugal, Hungary, and Belgium. Working in experimental cinema, docufiction, and alternative narratives, his films uncover forgotten stories within shifting socio-political contexts, foregrounding queer themes and underrepresented communities. His practice often embraces first-person intimacy, fragments, found footage, and disrupted forms of representation. His works have been presented at major European and Asian film festivals, including Locarno, Rotterdam, and Tampere.
+
+
+  In 2018, his debut fiction short Ant-Man won the Most Promising Filmmaker from Southeast Asia Award at the 2nd SeaShorts Film Festival in Malaysia. Following this recognition, he directed the docufiction The Eternal Springtime, which premiered at International Film Festival Rotterdam (IFFR) 2021 and qualified for an Oscars nomination after receiving the Best Documentary Award at the 66th International Cork Film Festival and Best Director at the Baku International Film Festival. In the same year, his experimental film My Own Room received the prestigious Wildcard Award from the Vlaams Audiovisueel Fonds (VAF, Belgium).
 
 
   Viet earned a Master’s degree in Documentary Film Directing from DocNomads in 2021 and was also selected as a Berlinale Talents alumnus the same year. Since September 2022, he is doing a PhD in the Arts at Sint Lucas Antwerpen (KdG) / ARIA (University of Antwerp), entitled "Queering the Censorship: (Self-)Investigations of an Experimental Filmmaker in Vietnam."
