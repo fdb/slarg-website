@@ -29,6 +29,6 @@ tags: researcher
 email: "vietvu.pham@kdg.be "
 headshot: https://ucarecdn.com/b9f00ad0-6764-4e6a-b2c5-bde5309cb58c/
 projects:
-  - "Queering the censorship: A (self-)investigation of an experimental
-    filmmaker in Vietnam"
+  - "Queering the censorship: (Self-)investigations of an experimental filmmaker
+    in Vietnam"
 ---
