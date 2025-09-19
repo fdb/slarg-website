@@ -3,7 +3,7 @@ researcher_name: Việt Vũ (Phạm Quang Trung)
 researcher_flag: true
 layout: people.liquid
 bio: >-
-  Việt Vũ (Phạm Quang Trung) is a researcher in the Arts and a filmmaker.
+  Việt Vũ (Phạm Quang Trung) is a filmmaker and researcher in the Arts. 
 
 
   He has completed a series of films and audio-visual projects across Vietnam, Portugal, Hungary, and Belgium. Working in experimental cinema, docufiction, and alternative narratives, his films uncover forgotten stories within shifting socio-political contexts, foregrounding queer themes and underrepresented communities. His practice often embraces first-person intimacy, fragments, found footage, and disrupted forms of representation. His works have been presented at major European and Asian film festivals, including Locarno, Rotterdam, and Tampere.
