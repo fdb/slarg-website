@@ -1,7 +1,8 @@
 ---
 layout: project.liquid
 tags: project
-title: "Exploring the diasporic life of Armenian script: A Multiscript Laboratory"
+title: "Exploring the Diasporic Life of Armenian Script: A Multiscript Design
+  Laboratory"
 start_date: 2023-09-17T15:18:06.477Z
 end_date: 2027-09-17T15:18:06.489Z
 project-kind: PhD
