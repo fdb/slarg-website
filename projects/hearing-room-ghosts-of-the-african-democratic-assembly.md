@@ -19,4 +19,4 @@ people:
 ---
 What narrative forms can we use to explore the relationship between anti-colonial struggle and resistance accounts from different historical and geographical contexts? How can we highlight the image of a movement (social, political, revolutionary, and/or redemptive) from these struggles? On what concepts can we base our consideration of this movement? How can we incorporate an image that problematizes the idea of this movement into the narrative? What role do literature and art play in the formation of a political movement?
 
-The research project Hearing room: Ghosts of the African Democratic Assembly, explores these archives' modes of fabulation in artistic installations and fictional writing.
+The research project Hearing room: Ghosts of the African Democratic Assembly, explores these questions through artistic installations and fictional writing.
