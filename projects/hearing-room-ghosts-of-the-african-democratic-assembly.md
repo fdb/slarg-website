@@ -15,7 +15,7 @@ main_image_credits: Le tribunal de Grand-Bassam_Afrique Occidentale
   française_carte postale_4FI-1219_Archives nationales du
   Sénégal_Dakar_photo_juillet 2023_ayoh kré Duchâtelet
 people:
-  - Joachim Ben Yakoub
+  - Ayoh Kré Duchâtelet
 ---
 What narrative forms can we use to explore the relationship between anti-colonial struggle and resistance accounts from different historical and geographical contexts? How can we highlight the image of a movement (social, political, revolutionary, and/or redemptive) from these struggles? On what concepts can we base our consideration of this movement? How can we incorporate an image that problematizes the idea of this movement into the narrative? What role do literature and art play in the formation of a political movement?
 
