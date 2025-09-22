@@ -15,6 +15,8 @@ abstract: >
   rooted in the context of extractive ecologies.
 main_image: https://ucarecdn.com/b42a4f8d-fe21-40f3-a12c-eb80d316dc75/
 main_image_credits: photo and object by Irma Földényi
+people:
+  - Irma Földényi
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
