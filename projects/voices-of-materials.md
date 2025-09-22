@@ -12,7 +12,7 @@ abstract: >
   decade-long design practice, which explores the sourcing and valuing of
   materials, and my role as a jeweller in contemporary environmental discourse.
   Using an eco-critical lens, I explore materiality beyond the human timescale,
-  rooted in the context of the Anthropocene and extractive ecologies.
+  rooted in the context of extractive ecologies.
 main_image: https://ucarecdn.com/9ddc0f1a-e867-460b-a241-2a258a0e376b/
 main_image_credits: photo and object by Irma Földényi
 ---
