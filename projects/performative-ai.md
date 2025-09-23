@@ -26,4 +26,4 @@ Our research project aims to bring AI into the artist's practice by developing o
 In the project we aim to capture the intricacies of a performance through motion tracking and other techniques, then build new generative models to provide realtime feedback to performers.
 
 
-https://algorithmicgaze.com/projects/performative-ai/
+[More info on the website of The Algorithmic Gaze](https://algorithmicgaze.com/projects/performative-ai/)
