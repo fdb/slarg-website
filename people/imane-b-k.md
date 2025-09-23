@@ -4,6 +4,7 @@ tags: people
 person_name: "Imane B. K. "
 role:
   - Staff
+  - Former researcher
 email: imane.benyecif@kdg.be
 research_interests: []
 headshot: https://ucarecdn.com/ffc22850-ecf1-4591-b90d-1fea94b1d68a/
