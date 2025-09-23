@@ -10,7 +10,7 @@ research_interests:
   - Symposium
   - future thinking
 ---
-This mini-symposium will be structured around short presentations (20 minutes each) followed by an extended discussion with the audience. Contributions will come from **Olya Kudina**, **Nicolas Malevé** and **…** (tbc).
+This mini-symposium will be structured around short presentations (20 minutes each) followed by an extended discussion with the audience. Contributions will come from **Olya Kudina**, **Nicolas Malevé, Yasmine Erden, Freya van den Boom and Imane Benyecif Khoutoul**.
 
 Together we will ask:
 
@@ -24,3 +24,20 @@ Join us in thinking through AI not only as a technical tool, but as a political 
 *The image was generated with AI: an algorithmic imagination of togetherness, inviting us to reflect on its political and ethical implications.*
 
 **R﻿egister** via petra.vanbrabandt@kdg.be
+
+W﻿ho is who?
+
+**Olya Kudina**\
+Assistant Professor in Ethics/Philosophy of Technology at TU Delft. Her research explores how AI and digital technologies shape moral values and democratic life, drawing on pragmatism and phenomenology. She co-directs the AI DeMoS Lab and works on responsible AI design, NLP/ASR ethics, and digital phenotyping in mental health.
+
+**Nicolas Malevé**\
+Brussels- and Barcelona-based artist, programmer, and data activist. His work examines algorithms, archives, and visual culture through art and critical computation. He collaborates with Constant, a Brussels-based collective for art and media culture, and researches datasets and computer vision.
+
+**Yasmine J. Erden**\
+Associate Professor of Philosophy at the University of Twente. She researches ethics and epistemology of AI and neurotechnologies, with interests in identity, memory, and the philosophy of mind. Her work spans neuroprosthetics, AI in health, and responsible innovation.
+
+**Freya van den Boom**\
+Researcher in law, ethics, and governance of AI at the University of Antwerp. She focuses on liability, transparency, human rights, and speculative legal futures for humans and non-humans alike. Her background combines law, sociology, and interdisciplinary policy practice.
+
+**Imane Benyecif Khoutoul**\
+Researcher with the SLARG group and project developer at Constant, a Brussels-based collective working on art and media culture. She explores AI and visual culture through critical and creative practices, including contributions to *The Algorithmic Gaze*.
