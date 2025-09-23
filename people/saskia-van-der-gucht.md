@@ -6,6 +6,7 @@ tags: researcher
 person_name: Saskia Van der Gucht
 role:
   - Staff
+  - Former researcher
 email: saskia.vandergucht@kdg.be
 headshot: https://ucarecdn.com/aaec12ea-2615-44e0-ab3a-7968af14f250/
 bio: Saskia Van der Gucht (she/her) is a visual artist, artistic researcher and
