@@ -17,4 +17,4 @@ Through photography and film, Shah explores the world of photo studios in his ho
 
 Shah’s work highlights how people use these studios to project themselves into imagined realities and to construct themselves amidst changing personal dreams and social dramas. 
 
-👉 More information on **[FOMU's website](https://fomu.be/en/exhibitions/danial-shah-visions-of-becoming-and-belonging)**
+👉 More information on **[FOMU's website](https://fomu.be/en/exhibitions/danial-shah-belonging-becoming-and-vanishing)**
