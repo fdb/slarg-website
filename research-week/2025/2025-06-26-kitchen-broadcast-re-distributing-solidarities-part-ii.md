@@ -1,5 +1,6 @@
 ---
 title: "Kitchen Broadcast:  Re-Distributing Solidarities"
+layout: activity.liquid
 startDate: 2025-10-21T12:00:14.871Z
 endDate: 2025-10-24T14:00:14.876Z
 location: ""

@@ -1,5 +1,6 @@
 ---
 title: "Mini Reading Club: Queer & Trans Zines as Research"
+layout: activity.liquid
 startDate: 2025-10-23T08:00:34.628Z
 endDate: 2025-10-23T09:30:34.633Z
 location: Sint Lucas Antwerpen, AdMa Room, K.03.09

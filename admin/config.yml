@@ -421,6 +421,7 @@ collections:
     sortable_fields: ['startDate']
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
+      - { label: 'Event Year', name: 'year', widget: 'hidden', default: 2025 }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'activity.liquid' }
       - { label: 'Start Date', name: 'startDate', widget: 'datetime' }
