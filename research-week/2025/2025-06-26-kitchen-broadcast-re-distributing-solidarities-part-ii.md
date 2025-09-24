@@ -2,8 +2,8 @@
 title: "Kitchen Broadcast:  Re-Distributing Solidarities"
 layout: activity.liquid
 startDate: 2025-10-21T12:00:14.871Z
-endDate: 2025-10-24T14:00:14.876Z
-location: ""
+endDate: 2025-10-21T14:00:14.876Z
+location: Sint Lucas Antwerpen, AdMa Room, K.03.09
 thumbnail: https://ucarecdn.com/299be170-e6d3-40cd-8588-b2a4040d3a19/
 tags: []
 research_interests:
