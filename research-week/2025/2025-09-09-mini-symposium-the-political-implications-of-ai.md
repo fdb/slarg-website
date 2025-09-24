@@ -10,7 +10,7 @@ research_interests:
   - Symposium
   - future thinking
 ---
-This mini-symposium will be structured around short presentations (20 minutes each) followed by an extended discussion with the audience. Contributions will come from **Olya Kudina**, **Nicolas Malevé, Yasmine Erden, Freya van den Boom. Moderated by Imane Benyecif Khoutoul**.
+This mini-symposium will be structured around short presentations (20 minutes each) followed by an extended discussion with the audience. Contributions will come from **Olya Kudina**, **Nicolas Malevé, Yasmine Erden, Freya van den Boom. Moderated by Imane B. K.**
 
 Together we will ask:
 
