@@ -10,6 +10,7 @@ abstract: ""
 research_interests:
   - materiality
   - photography
+  - racial passing
 main_image: https://ucarecdn.com/544e57ab-8ec9-46a3-a377-47bab6e7401a/
 main_image_credits: Sea Through Skin (Exhibition view Extra City September 2025
   - January 2026) © We Document Art
