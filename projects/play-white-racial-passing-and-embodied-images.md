@@ -15,6 +15,8 @@ main_image: https://ucarecdn.com/544e57ab-8ec9-46a3-a377-47bab6e7401a/
 main_image_credits: Sea Through Skin (Exhibition view Extra City September 2025
   - January 2026) © We Document Art
 main_image_alt: ""
+people:
+  - Bianca Baldi
 ---
 This practice-led PhD project began as a deeply personal enquiry, sparked by the discovery that my
 mother was reclassified as white under apartheid in 1984, just a year before I was born. This intimate
