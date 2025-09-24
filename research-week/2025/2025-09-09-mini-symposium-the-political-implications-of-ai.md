@@ -10,7 +10,7 @@ research_interests:
   - Symposium
   - future thinking
 ---
-This mini-symposium will be structured around short presentations (20 minutes each) followed by an extended discussion with the audience. Contributions will come from **Olya Kudina**, **Nicolas Malevé, Yasmine Erden, Freya van den Boom and Imane Benyecif Khoutoul**.
+This mini-symposium will be structured around short presentations (20 minutes each) followed by an extended discussion with the audience. Contributions will come from **Olya Kudina**, **Nicolas Malevé, Yasmine Erden, Freya van den Boom. Moderated by Imane Benyecif Khoutoul**.
 
 Together we will ask:
 
@@ -37,7 +37,7 @@ Brussels- and Barcelona-based artist, programmer, and data activist. His work ex
 Associate Professor of Philosophy at the University of Twente. She researches ethics and epistemology of AI and neurotechnologies, with interests in identity, memory, and the philosophy of mind. Her work spans neuroprosthetics, AI in health, and responsible innovation.
 
 **Freya van den Boom**\
-Researcher in law, ethics, and governance of AI at the University of Antwerp. She focuses on liability, transparency, human rights, and speculative legal futures for humans and non-humans alike. Her background combines law, sociology, and interdisciplinary policy practice.
+Researcher in law, ethics, and governance of AI at the University of Antwerp and tutor in Digital Cultures (MA) at Sint Lucas Antwerpen. She focuses on liability, transparency, human rights, and speculative legal futures for humans and non-humans alike. Her background combines law, sociology, ethics, and interdisciplinary policy practice.
 
 **Imane Benyecif Khoutoul**\
-Researcher with the SLARG group and project developer at Constant, a Brussels-based collective working on art and media culture. She explores AI and visual culture through critical and creative practices, including contributions to *The Algorithmic Gaze*.
+Tutor in the Digital MA program at Sint Lucas Antwerpen and project developer at Constant, a Brussels-based collective working on art and media culture. She explores digital visual culture through critical and creative practices.
