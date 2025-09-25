@@ -23,6 +23,6 @@ Invited guests will share their experiences, alongside moderated prompts and ref
 * What motivates people to offer support?
 * What challenges and ethical dilemmas arise in this work?
 * How might we live—together—in an unfair world?
-* How can we move beyond charity toward mutuality, allyship, and shared struggle?
+* Can we move beyond charity toward mutuality, allyship, and shared struggle?
 
 The session is designed as a communal discussion, connecting experiences, practices, and reflections. It is open to anyone interested in mutual aid, care ethics, and collective solidarity.
