@@ -2,10 +2,15 @@
 researcher_name: Karen Vermeren
 researcher_flag: "false"
 layout: people.liquid
+tags: researcher
+person_name: Karen Vermeren
+role:
+  - Post-Doc
+  - Supervisor
+  - Staff
+email: karen.vermeren@kdg.be
 research_interests: []
-social_links:
-  - name: Website
-    url: https://www.karenvermeren.be
+headshot: https://ucarecdn.com/5c62e51e-7d0c-4d6e-8d06-41d37584d538/
 bio: >-
   Karen Vermeren (°1982, Belgium) is a visual artist, postdoctoral researcher
   and lecturer at Sint Lucas Antwerpen (KdG). She obtained her Master's of Art
@@ -20,20 +25,15 @@ bio: >-
   Femmes Paris).
 
 
-  She is interested in supervising PhD in the arts projects related to geology, ecology, landscape, care and raw materials, the intersection of drawing and painting.
+  She is interested in supervising PhD in the arts projects related to geology, ecology, (urban) landscape, mining, care and raw materials, the intersection of drawing and painting.
+social_links:
+  - name: Website
+    url: https://www.karenvermeren.be
 staff_flag: "false"
 image_researcher:
   - https://ucarecdn.com/ee9d72db-39e1-47ec-b9fa-c05ca606b290/
-tags: researcher
-person_name: Karen Vermeren
-role:
-  - Post-Doc
-  - Supervisor
-  - Staff
 status_of_research: ongoing
 available_for_supervision: "false"
-email: karen.vermeren@kdg.be
-headshot: https://ucarecdn.com/5c62e51e-7d0c-4d6e-8d06-41d37584d538/
 projects:
   - "City in Reverse: Reflecting Aluminum"
 ---
