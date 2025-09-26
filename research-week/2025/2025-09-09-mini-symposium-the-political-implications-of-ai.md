@@ -10,7 +10,7 @@ research_interests:
   - Symposium
   - future thinking
 ---
-This mini-symposium will be structured around short presentations (20 minutes each) followed by an extended discussion with the audience. Contributions will come from **Olya Kudina**, **Nicolas Malevé, Yasmine Erden, Freya van den Boom. Moderated by Imane B. K.**
+This mini-symposium will be structured around short presentations (20 minutes each) followed by an extended discussion with the audience. Contributions will come from **Olya Kudina**, **Nicolas Malevé, Yj Erden, Freya van den Boom. Moderated by Imane B. K.**
 
 Together we will ask:
 
@@ -33,7 +33,7 @@ Assistant Professor in Ethics/Philosophy of Technology at TU Delft. Her research
 **Nicolas Malevé**\
 Brussels- and Barcelona-based artist, programmer, and data activist. His work examines algorithms, archives, and visual culture through art and critical computation. He collaborates with Constant, a Brussels-based collective for art and media culture, and researches datasets and computer vision.
 
-**Yasmine J. Erden**\
+**Yj Erden**\
 Associate Professor of Philosophy at the University of Twente. She researches ethics and epistemology of AI and neurotechnologies, with interests in identity, memory, and the philosophy of mind. Her work spans neuroprosthetics, AI in health, and responsible innovation.
 
 **Freya van den Boom**\
