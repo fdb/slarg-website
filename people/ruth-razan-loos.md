@@ -21,7 +21,7 @@ bio: >-
 
   She is part of the editorial board of Grounds, SLA's in-house research magazine, and is a member of the ARIA (Antwerp Research Institute for the Arts) Steering Committee.
 
-  She is supervisor of SLARG PhD researchers Danial Shah, Sammy Baloji and Garine Gokceyan, working alongside supervisors from the Visual and Digital Cultures Research Centre at the University of Antwerp.
+  She is supervisor of SLARG PhD researchers Danial Shah, Sammy Baloji and Garine Gokceyan, alongside supervisors from the Visual and Digital Cultures Research Centre at the University of Antwerp.
 
   For the upcoming call PhD fellowships (Autumn 2025): She is interested in supervising PhD in the arts projects related to the Arabic script intertwined with Islam / the role of art in Islamic ways of knowing / sustainability and social justice from the Islamic perspective.
 social_links: null
