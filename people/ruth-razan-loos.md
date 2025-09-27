@@ -1,30 +1,33 @@
 ---
 researcher_name: Ruth Razan Loos
 researcher_flag: "false"
-social_links: null
 layout: people.liquid
+tags: researcher
+person_name: Ruth Razan Loos
 role:
   - Staff
   - Supervisor
+email: ruth.loos@kdg.be
+headshot: https://ucarecdn.com/7b2b73b1-f870-476e-9357-5d16d4847f9c/
 bio: >-
-  Ruth Razan Loos holds master's degrees in visual arts and art history and a
-  PhD in the arts. She supports SLARG in its social outreach approach. In
+  Ruth Razan Loos holds Master's degrees in Visual Arts and Art History, as well
+  as a PhD in the Arts. She supports SLARG in its social outreach approach. In
   collaboration with Stadscanvas (Fameus), a space for artistic newcomers in
-  Antwerp, she initiates artistic events that value participatory practices,
-  multiple canons, stories, languages, scripts, and solidarity. She teaches on
-  the socio-political aspects of our multilingual world and how artists and
-  designers navigate multiscript realities; and is preparing a course on Islamic
-  Knowledges and Aesthetic Practices with colleague-researcher Joud Toamah.
+  Antwerp, she initiates and organises events that value participatory
+  practices, multiple artistic canons, storytelling, languages, scripts and
+  solidarity. 
 
+  At Sint Lucas Antwerp, she teaches the courses: 'A Multilingual / Multiscript World: Socio-Political and Artistic' and 'Islamic Knowledges and Aesthetic Practices', the latter with colleague-researcher Joud Toamah.
 
-  S﻿he is interested in supervising PhD in the arts projects related to the Arabic script intertwined with Islam / the role of art in Islamic ways of knowing / sustainability and social justice from the Islamic perspective.
+  She is part of the editorial board of Grounds, SLA's in-house research magazine, and is a member of the ARIA (Antwerp Research Institute for the Arts) Steering Committee.
+
+  She supervises SLARG PhD researchers Danial Shah, Sammy Baloji and Garine Gokceyan, working alongside supervisors from the Visual and Digital Cultures Research Centre at the University of Antwerp.
+
+  For the upcoming call PhD fellowships (Autumn 2025): She is interested in supervising PhD in the arts projects related to the Arabic script intertwined with Islam / the role of art in Islamic ways of knowing / sustainability and social justice from the Islamic perspective.
+social_links: null
 staff_flag: "false"
 image_researcher:
   - https://ucarecdn.com/35ec83ac-5f39-4eb6-be8a-5ed6a07cd490/
-person_name: Ruth Razan Loos
 status_of_research: finished
 available_for_supervision: "false"
-tags: researcher
-email: ruth.loos@kdg.be
-headshot: https://ucarecdn.com/7b2b73b1-f870-476e-9357-5d16d4847f9c/
 ---
