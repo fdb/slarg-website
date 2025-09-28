@@ -19,4 +19,6 @@ bio: >-
 
 
   I have collaborated with my colleagues and students, to create coaching sessions, workshops, and re-learning opportunities at the masters in fine arts with a digital context.
+projects:
+  - Towards braver spaces
 ---
