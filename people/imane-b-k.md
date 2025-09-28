@@ -19,6 +19,9 @@ bio: >-
 
 
   I have collaborated with my colleagues and students at Sint Lucas Antwerp and other educational spaces, to create coaching sessions, workshops, and re-learning opportunities at the masters in fine arts with a digital context.
+social_links:
+  - name: About time
+    url: https://awkward.dance/time/
 projects:
   - Towards braver spaces
 ---
