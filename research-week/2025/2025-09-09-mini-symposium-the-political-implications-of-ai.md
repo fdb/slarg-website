@@ -39,5 +39,5 @@ Associate Professor of Philosophy at the University of Twente. She researches et
 **Freya van den Boom**\
 Researcher in law, ethics, and governance of AI at the University of Antwerp and tutor in Digital Cultures (MA) at Sint Lucas Antwerpen. She focuses on liability, transparency, human rights, and speculative legal futures for humans and non-humans alike. Her background combines law, sociology, ethics, and interdisciplinary policy practice.
 
-**Imane Benyecif Khoutoul**\
-Tutor in the Digital MA program at Sint Lucas Antwerpen and project developer at Constant, a Brussels-based collective working on art and media culture. She explores digital visual culture through critical and creative practices.
+**Imane B. Khoutoul**\
+Tutor in the Digital Masters program at Sint Lucas Antwerpen and artistic researcher at Constant, a Brussels-based collective working on art and media culture. She explores digital culture through critical and creative practices.
