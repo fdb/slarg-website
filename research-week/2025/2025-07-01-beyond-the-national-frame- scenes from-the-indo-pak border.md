@@ -12,7 +12,7 @@ tags:
 research_interests:
   - film
 ---
-In conjunction with the exhibition opening and PhD defense of SLARG researcherDanial Shah, we are pleased to welcome **Natasha Raheja** (Cornell University) for a talk and screening. 
+In conjunction with the exhibition opening and PhD defense of SLARG and ViDi researcher Danial Shah, we are pleased to welcome **Natasha Raheja** (Cornell University) for a talk and screening. 
 
 In this talk, Raheja presents her use of formal filmic techniques to advance a visual argument about mobility and borders in South Asia. While borders are often made visible through familiar representations—maps, fences, walls, passports, and news coverage—her work asks what happens when the narrative is shuffled. By splicing, juxtaposing, and recombining images of borders, Raheja disrupts figurative absorption and shows how the India–Pakistan border is not only a site of division but also a continuous space of encounter.
 
