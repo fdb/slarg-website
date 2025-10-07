@@ -18,7 +18,9 @@ SLARG invites you to the launch of *EURO—VISION: Undergrounding the Critical M
 
 B﻿ook presentation hosted by Joachim Ben Yakoub (slarg), with Livia Kahn as discussant. 
 
-\-﻿---------------------------------------------------------------------------------------
+\--------------------------------------------------------------------------
+
+
 
 Mining today reaches far beyond drills and quarries: it plays out in financial markets, legal frameworks, trade policies, and the very metrics that decide what counts as “critical.” From lithium and copper to the seabed and child labour, *EURO—VISION* examines how extraction is defined, legitimised, and contested in our time.
 
@@ -26,7 +28,7 @@ Bringing together artists, scholars, economists, activists, and journalists, the
 
 Published in K. Verlag’s *Processing Process* series, *EURO—VISION* combines visual essays, interviews, and commissioned texts to open new perspectives on the entanglements of geology, economy, and power.
 
-\-﻿---------------------------------------------------------------------------------------
+\--------------------------------------------------------------------------
 
 **FRAUD** (Audrey Samson and Francisco Gallardo)is a duo which develop modes of art-led enquiry that examine the extractive gaze of the management of raw materials. Through their practice, FRAUD cultivate critical spatial literacy and cosmology building.  FRAUD’s current investigations can be explored through the EURO⁠—VISION platform.
 
