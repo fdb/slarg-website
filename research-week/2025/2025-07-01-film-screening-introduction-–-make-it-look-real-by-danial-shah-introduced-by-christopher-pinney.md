@@ -16,3 +16,5 @@ On the occasion of **Danial Shah**’s PhD defense, we are proud to present a sp
 The screening will be introduced by **Christopher Pinney**, professor of anthropology and visual culture at University College London. Pinney is a leading scholar of South Asian visual culture and the author of influential works such as *Camera Indica* and *Photos of the Gods*. His 15-minute introduction will situate Shah’s film in relation to broader questions around photography, fabrication, and self-representation.
 
 *Make It Look Real* will be shown just prior to Shah’s public PhD defense, and all are welcome to attend both events. This moment marks the culmination of his research and a rare opportunity to experience a film deeply rooted in visual ethnography and collaborative storytelling.
+
+F﻿ree entrance. No registration needed.
