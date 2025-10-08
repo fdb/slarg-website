@@ -14,6 +14,6 @@ Zines are often self-published in small editions and intentionally exist outside
 
 Participants are welcome to bring their own zines to share or discuss. The space is open for close exchange.
 
-
+RSVP by sending an email to sam.vanbelle@kdg.be
 
 Image: drawing by Sam Vanbelle
