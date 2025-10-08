@@ -16,11 +16,9 @@ research_interests:
 
 SLARG invites you to the launch of *EURO—VISION: Undergrounding the Critical Mineral* by the artist duo FRAUD.
 
-B﻿ook presentation hosted by Joachim Ben Yakoub (slarg), with Livia Kahn as discussant. 
+B﻿ook presentation hosted by Joachim Ben Yakoub (SLARG), with Livia Kahn as discussant. 
 
 \--------------------------------------------------------------------------
-
-
 
 Mining today reaches far beyond drills and quarries: it plays out in financial markets, legal frameworks, trade policies, and the very metrics that decide what counts as “critical.” From lithium and copper to the seabed and child labour, *EURO—VISION* examines how extraction is defined, legitimised, and contested in our time.
 
@@ -30,14 +28,10 @@ Published in K. Verlag’s *Processing Process* series, *EURO—VISION* combines
 
 \--------------------------------------------------------------------------
 
-**FRAUD** (Audrey Samson and Francisco Gallardo)is a duo which develop modes of art-led enquiry that examine the extractive gaze of the management of raw materials. Through their practice, FRAUD cultivate critical spatial literacy and cosmology building.  FRAUD’s current investigations can be explored through the EURO⁠—VISION platform.
+**FRAUD** (Audrey Samson and Francisco Gallardo) is a duo which develop modes of art-led enquiry that examine the extractive gaze of the management of raw materials. Through their practice, FRAUD cultivate critical spatial literacy and cosmology building.  FRAUD’s current investigations can be explored through the EURO⁠—VISION platform.
 
 **Livia Cahn** is doing research in collaborative contexts and currently a PhD in Environmental Humanties at the Rachel Carson Centre (Ludwig Maximilian University, Munich) on the drilling and storing of geological samples for mineral prospection.
 
 <!--EndFragment-->
-
-
-
-
 
 <!--EndFragment-->
