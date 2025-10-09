@@ -11,7 +11,13 @@ research_interests:
 ---
 <!--StartFragment-->
 
-This programme brings together artistic practices, scholarship, and community-based engagement rooted in Islamic knowledges. SLARG researchers, Ruth Razan Loos and Joud Toamah, curated a programme at the intersection of migration, belonging, care, ecological and cultural resilience, and the sacred. Open to all, with lunch.
+This programme brings together artistic practices, scholarship, and community-based engagement rooted in Islamic knowledges. SLARG researchers, Ruth Razan Loos and Joud Toamah, curated a programme at the intersection of migration, belonging, care, ecological and cultural resilience, and the sacred. 
+
+Open to all - we invite you to attend the full program, however you are also welcome to attend individual sessions.
+
+With lunch and an afternoon snack.
+
+
 
 <!--EndFragment-->
 
