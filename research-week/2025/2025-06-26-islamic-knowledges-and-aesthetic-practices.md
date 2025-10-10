@@ -27,9 +27,7 @@ With lunch and an afternoon snack.
   **Murmurations and Migrations: Learning from the Avian Wisdom of Farid al-Din Attar**\
       Through the lens of Farid al-Din Attar’s 12th-century Persian epic poem *The Conference of the Birds*, this lecture-performance - led by **Wendy Miriam Kural Shaw** - rethinks migration, belonging, and collective action in the contemporary world. Using poetic and philosophical frameworks, participants are invited to consider the dialectics of engagement, care, and transcendence in both human and nonhuman communities. 
 
-  ```
   Shaw served as professor in departments of Near Eastern Languages and Cultures, Media Studies, and Art History in the United States, Turkey, Switzerland and Germany. She examines Islamic discourses of perception as a source for decolonized expression. Liberated from the disciplinary mandate of universities she continues to explore the interface between culture and religion. 
-  ```
 
 * **Conversation** with Wendy, led by Joud & Ruth
 * **11:40 Live Perso-Arabic Calligraphy**\
