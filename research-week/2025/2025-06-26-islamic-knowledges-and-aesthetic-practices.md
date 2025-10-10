@@ -36,7 +36,10 @@ With lunch and an afternoon snack.
   The **Kairo Girls’ School** is a women-led collective preserving Indigenous and oral Islamic traditions of sharing sacred Islamic knowledge, storytelling, and practicing traditional crafts in service of healing. They offer a live performance guided by *improvisistance*—a practice combining improvisation and resistance to remain truthfully present. Using voice, electronics, and natural acoustics, they engage audiences in a living archive of *dhikr* and explore forms of remembrance.
 * **14:20** **Screening**\
   **Shahana Rajani** presents *Four Acts of Recovery*, a video installation following a displaced fisherfolk family from Mul Creek in the Indus Delta. Combining environmental, cultural, and mystical Islamic perspectives, the work highlights sacred landscape practices and community rituals that reconnect people to their threatened environments. Shahana is an interdisciplinary artist and researcher exploring ecological and social practices in Pakistan through visual representation, landscapes, and infrastructure, often working in community-based collaborative contexts.
-* Gratefully concluding with a mindfully prepared snack.
+* Gratefully concluding with a mindfully prepared snack by **Luisa**.\
+  As cooks, exploring how food is deeply intertwined within our relationships, our cultures, our identities and our politics, is their bread and butter. When hosting dinners, Hafsa and Latifa underline the importance of what it means to be one with the dinner table and those you’re sharing it with, while paying close attention to each ingredient that’s intentionally brought to the table. “Eating for research purposes” is a quintessential part of their practice. 
+
+  <!--EndFragment-->
 
 **Throughout the day** a table with books and zines will be available for viewing.
 
