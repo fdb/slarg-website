@@ -3,7 +3,7 @@ title: Islamic knowledges and Aesthetic Practices | Ruth Razan Loos & Joud
   Toamah | Day programme
 layout: activity.liquid
 startDate: 2025-10-22T08:00:06.236Z
-endDate: 2025-10-22T14:00:56.631Z
+endDate: 2025-10-22T13:30:56.631Z
 location: Sint Lucas Antwerpen, Showroom
 thumbnail: https://ucarecdn.com/668ff979-6e74-4632-9afd-27713bcba081/
 research_interests:
@@ -28,7 +28,6 @@ With lunch and an afternoon snack.
       Through the lens of Farid al-Din Attar’s 12th-century Persian epic poem *The Conference of the Birds*, this lecture-performance - led by **Wendy Miriam Kural Shaw** - rethinks migration, belonging, and collective action in the contemporary world. Using poetic and philosophical frameworks, participants are invited to consider the dialectics of engagement, care, and transcendence in both human and nonhuman communities. 
 
   Shaw served as professor in departments of Near Eastern Languages and Cultures, Media Studies, and Art History in the United States, Turkey, Switzerland and Germany. She examines Islamic discourses of perception as a source for decolonized expression. Liberated from the disciplinary mandate of universities she continues to explore the interface between culture and religion. 
-
 * **Conversation** with Wendy, led by Joud & Ruth
 * **11:40 Live Perso-Arabic Calligraphy**\
   Experience the precision and beauty of Islamic calligraphy with **Tamim SahibZada**, master calligrapher, miniaturist, and book illuminator. Tamim refined his calligraphy skills under the guidance of master calligraphers such as Master Taheri (Kabul) and Master Mohammad Amin (Peshawar). He was one of the first lecturers and student mentors at the Turquoise Mountain Institute (Afghanistan) where he developed the student curriculum for miniature art, book illustration, colour design, tapestry design, geometric and Islamic design among others.
