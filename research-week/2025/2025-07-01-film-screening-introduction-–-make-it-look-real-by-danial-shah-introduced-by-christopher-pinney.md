@@ -17,4 +17,4 @@ The screening will be introduced by **Christopher Pinney**, professor of anthrop
 
 *Make It Look Real* will be shown just prior to Shah’s public PhD defense, and all are welcome to attend both events. This moment marks the culmination of his research and a rare opportunity to experience a film deeply rooted in visual ethnography and collaborative storytelling.
 
-F﻿ree entrance. No registration needed.
+F﻿ree entrance. [Register here](https://docs.google.com/forms/d/e/1FAIpQLSftG2LyoAQKRDMEF9BIFFOTlGPg6oUWzgilmHJVFqwN2Hpxqg/viewform?usp=header).
