@@ -20,7 +20,7 @@ research_interests:
   - photography
   - vanishing
 ---
-**"Becoming, Belonging and Vanishing: an (autobiographical) exploration of photo studios in Balochistan, Pakistan"**by Danial Shah\
+**Becoming, Belonging and Vanishing: an (autobiographical) exploration of photo studios in Balochistan, Pakistan**by Danial Shah\
 Supervisors: Paolo Favero (University of Antwerp), Ruth Loos (Sint Lucas Antwerpen, KdG)
 
 **ABSTRACT**
