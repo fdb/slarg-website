@@ -491,7 +491,7 @@ article .partner-logos img {
 	background-color: var(--turquoise);
 	margin-bottom: 1.3rem;
 }
-.highlight-event a {
+.highlight-event a:not(:has(img)) {
 	border-bottom: 2px solid aquamarine;
 }
 .highlight-event,
