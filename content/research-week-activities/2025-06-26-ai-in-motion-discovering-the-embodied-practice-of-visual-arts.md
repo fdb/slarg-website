@@ -38,10 +38,7 @@ Limited to 10 participants.
 
 [algorithmicgaze.com](https://algorithmicgaze.com/)
 
-## Applications are open now!
-
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfvk38sWzw2GthBX5aUf1Aybn_9OmuHp7Cy3JtXJKslDxk0hw/viewform?usp=dialog" class="cta">Signup Now</a></p>
-<br>
+## This workshop is full.
 
 Issues with the registration?\
 Contact frederik.debleser@kdg.be
