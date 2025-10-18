@@ -31,7 +31,7 @@ W﻿ho is who?
 Assistant Professor in Ethics/Philosophy of Technology at TU Delft. Her research explores how AI and digital technologies shape moral values and democratic life, drawing on pragmatism and phenomenology. She co-directs the AI DeMoS Lab and works on responsible AI design, NLP/ASR ethics, and digital phenotyping in mental health.
 
 **Nicolas Malevé**\
-Brussels- and Barcelona-based artist, programmer, and data activist. His work examines algorithms, archives, and visual culture through art and critical computation. He collaborates with Constant, a Brussels-based collective for art and media culture, and researches datasets and computer vision.
+Postdoctoral researcher at the SciencesPo School of Law and Medialab, Paris. Initially trained as a visual artist, he investigates the socio-technical networks of machine learning and their artistic and epistemic implications. 
 
 **Yj Erden**\
 Associate Professor of Philosophy at the University of Twente. She researches ethics and epistemology of AI and neurotechnologies, with interests in identity, memory, and the philosophy of mind. Her work spans neuroprosthetics, AI in health, and responsible innovation.
