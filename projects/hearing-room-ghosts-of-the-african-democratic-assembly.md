@@ -1,7 +1,7 @@
 ---
 layout: project.liquid
 tags: project
-title: "Hearing room: Ghosts of the African Democratic Assembly"
+title: "Hearing room: Ghosts of an African Democratic Assembly"
 start_date: 2025-09-20T09:08:30.230Z
 end_date: 2025-09-20T09:08:30.240Z
 project-kind: PhD
@@ -17,6 +17,8 @@ main_image_credits: Le tribunal de Grand-Bassam_Afrique Occidentale
 people:
   - Ayoh Kré Duchâtelet
 ---
-What narrative forms can we use to explore the relationship between anti-colonial struggle and resistance accounts from different historical and geographical contexts? How can we highlight the image of a movement (social, political, revolutionary, and/or redemptive) from these struggles? On what concepts can we base our consideration of this movement? How can we incorporate an image that problematizes the idea of this movement into the narrative? What role do literature and art play in the formation of a political movement?
+How narratives of anti-colonial struggles, forms of fugitivity and resistance from the Carribean, Americas, African former colonised countries reflect each other in ways that span historical and geographical distances? What do they have in common? How can we conceptualize specific and peculiar experiences of resistance as part of broader social, political, revolutionary, and/or redemptive movements, taking into account their inner complexities? On the basis of which concepts can we consider the dynamic that makes them circulate, disperse and converge as a movement?   
 
-The research project Hearing room: Ghosts of the African Democratic Assembly, explores these questions through artistic installations and fictional writing.
+Afro-diasporic and Black radical thoughts, critical, postcolonial, and decolonial theories have provided conceptual tools with which to reflect on these questions. Among them was and still is «Blackness» as a notion to think about what grounds their communality, whether conceived as based on a collective consciousness and/or postmemory of the experience of slavery, colonization, displacement and racism; a transnational space of exchange, circulation, and belonging that connects cultures from across the Atlantic; an historic stigma constituted within the modernity and by the racist white gaze; or emerging from a shared precolonial civilizational root matrix; or as an ontological totality born of the collective negrophobic unconscious,... Perspectives on «blackness» are multiple and they often diverge within the discourse.  
+
+Considering these divergences and dissensus as constituve of a fertile ground, my research project attempts to reveal the multiplicity and ambivalency of forces that move through and structure imaginations of Blackness. By starting from a very specific historical situation of anti-colonial resistance in the old french west african colonies, I’ve tried to explore other stories of resistance to make them collide into narrative and speculative fictions.
