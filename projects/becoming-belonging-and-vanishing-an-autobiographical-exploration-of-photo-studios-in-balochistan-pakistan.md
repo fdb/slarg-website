@@ -6,7 +6,7 @@ title: "Becoming, Belonging and Vanishing: an (autobiographical) exploration of
 start_date: 2021-09-18T10:18:05.461Z
 end_date: 2025-10-18T10:18:05.468Z
 project-kind: PhD
-ongoing: true
+ongoing: false
 research_interests:
   - becoming
   - belonging
