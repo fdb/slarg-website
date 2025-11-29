@@ -2,9 +2,8 @@
 layout: base
 ---
 <article>
-  <h1 class="page-title">{{ page.title }}</h1>
-  {% if page.thumbnail %}
-    <img src="{{ page.thumbnail }}" alt="{{ page.title }} thumbnail">
+  {% if thumbnail %}
+    <img class="img-thumbnail-centered" src="{{ thumbnail }}" alt="{{ title }}">
   {% endif %}
-  {{ page.body }}
+  {{ body | markdownify }}
 </article>

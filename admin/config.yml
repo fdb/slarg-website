@@ -429,3 +429,19 @@ collections:
           hint: 'Select or add your research interests',
           max: 5
         }
+  - name: 'publications'
+    label: 'Publications'
+    folder: 'publications'
+    create: true
+    delete: true
+    slug: '{{title | slugify}}'
+    preview_path: '/publications/{{slug}}'
+    sortable_fields: ['publication_date', 'title']
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'publication.liquid' }
+      - { label: 'Title', name: 'title', widget: 'string', required: true }
+      - { label: 'Author', name: 'author', widget: 'string', required: true }
+      - { label: 'Publication Date', name: 'publication_date', widget: 'datetime', format: 'YYYY-MM-DD', date_format: 'DD/MM/YYYY', time_format: false, required: true }
+      - { label: 'Publication File', name: 'publication_file', widget: 'file', required: true, hint: 'Upload PDF or EPUB file' }
+      - { label: 'Thumbnail Image', name: 'thumbnail', widget: 'image', required: false, hint: 'Upload a cover image for the publication' }
+      - { label: 'Description', name: 'description', widget: 'markdown', required: false, hint: 'Brief description or abstract of the publication' }

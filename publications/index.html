@@ -1,0 +1,28 @@
+---
+layout: page
+title: Off the shelves
+---
+
+<h1 class="page-title">Publications</h1>
+
+<div class="publication-grid">
+  {% assign sorted_publications = collections.publications | sort: "publication_date", "last" %}
+  {% for publication in sorted_publications %}
+    <div class="publication-item">
+      <a href="{{ publication.url }}">
+        {% if publication.data.thumbnail %}
+          <img src="{{ publication.data.thumbnail }}" alt="{{ publication.data.title }} thumbnail">
+        {% else %}
+          <!-- Placeholder if no thumbnail is provided -->
+          <img src="/static/img/placeholder.png" alt="Placeholder Image">
+        {% endif %}
+        <h2>{{ publication.data.title }}</h2>
+        <p class="author">{{ publication.data.author }}</p>
+        <p class="date">{{ publication.data.publication_date | date: "%B %d, %Y" }}</p>
+      </a>
+      {% if publication.data.publication_file %}
+        <a href="{{ publication.data.publication_file }}" download class="button download-button">Download</a>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>

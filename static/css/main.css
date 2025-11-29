@@ -1034,3 +1034,16 @@ border-radius: 8px;
 .people-link a:hover {
 	color: #008f7a;
 }
+
+.img-thumbnail-centered{
+	max-width: 50%;
+  margin: auto;
+  display: flex;
+  padding: 2rem;
+}
+
+article p a {
+	text-decoration: underline;
+  text-decoration-thickness: 0.1rem;
+  cursor: pointer;
+}

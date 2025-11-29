@@ -1,0 +1,25 @@
+---
+layout: base
+---
+
+<article class="publication-detail">
+  {% if thumbnail %}
+    <img src="{{ thumbnail }}" alt="{{ title }} thumbnail" class="publication-thumbnail">
+  {% endif %}
+
+  <h1 class="publication-title">{{ title }}</h1>
+  <p class="publication-author">By {{ author }}</p>
+  <p class="publication-date">Published: {{ publication_date | date: "%B %d, %Y" }}</p>
+
+  {% if description %}
+    <div class="publication-description">
+      {{ description | markdownify }}
+    </div>
+  {% endif %}
+
+  {% if publication_file %}
+    <a href="{{ publication_file }}" download class="button publication-download-button">
+      Download Publication
+    </a>
+  {% endif %}
+</article>
