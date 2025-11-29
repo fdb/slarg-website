@@ -10,13 +10,20 @@ role:
 email: "hoda.siahtiri@kdg.be "
 research_interests:
   - visual performance
-bio: Hoda Siahtiri is an audio visual performance artist and researcher based in
-  Brussels. Hoda's work focuses on around grief, memory and ancestral vocal
-  heritage. She is doing a PhD in the arts entitled "Singing The Silences" at
-  Sint Lucas Antwerpen (KdG) / ARIA (University of Antwerp). In this research,
-  she comes to voice through singing nearby her lineage of Bakhtiari women in
-  the west of Iran. Hoda's creations and ceremonies were shown and shared in
-  different festivals and cultural venues in Belgium and Europe.
+bio: >-
+  <!--StartFragment-->
+
+
+  **Hoda Siahtiri** is a Brussels-based audiovisual performance artist and researcher whose work centers on grief, memory and ancestral vocal heritage. She completed her PhD in the arts, *Singing The Silences*, at Sint Lucas Antwerpen (KdG) and ARIA at the University of Antwerp in June 2025.
+
+
+  In her research, Hoda comes to voice by singing in proximity to the lineage of Bakhtiari women from western Iran, exploring how embodied vocal practices can hold and transmit intergenerational memory.
+
+
+  Her performances, creations and ceremonial works have been presented at various festivals and cultural venues across Belgium and Europe.
+
+
+  <!--EndFragment-->
 social_links:
   - name: Instagram
     url: https://www.instagram.com/siahtiri.hoda/?hl=en

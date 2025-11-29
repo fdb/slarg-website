@@ -12,17 +12,20 @@ research_interests:
   - photography
   - mixed-media
 headshot: https://ucarecdn.com/5ddb470d-4913-4136-9204-530fa81f1cb3/
-bio: 'Danial Shah is a Pakistani documentary filmmaker and photographer. Danial
-  brings a decade of photojournalism experience and contributed to notable
-  publications like The New York Times. His short films have graced festivals
-  like Budapest International Film Festival and Vancouver International Film
-  Festival. He holds a joint-masters degree in Documentary Film Direction from
-  DocNomads in Hungary, Belgium and Portugal. Danial is doing a PhD in the arts
-  at Sint Lucas Antwerpen (KdG) / ARIA (University of Antwerp), entitled
-  "Visions of becoming and belonging: an (autobiographical) exploration of photo
-  studios in Balochistan, Pakistan." His first feature film Make it Look Real is
-  set to premiere at International Documentary Film Festival Amsterdam (IDFA) in
-  November 2024.'
+bio: >-
+  <!--StartFragment-->
+
+
+  **Danial Shah** is a Pakistani documentary filmmaker and photographer whose work spans a decade of photojournalism and independent storytelling. His photographs have appeared in international publications including The New York Times, and his short films have screened at festivals such as the Budapest International Film Festival and the Vancouver International Film Festival. He holds a joint master’s degree in Documentary Film Direction from the DocNomads programme in Hungary, Belgium and Portugal.
+
+
+  Danial completed his PhD in the arts at Sint Lucas Antwerpen (KdG) and ARIA at the University of Antwerp in October 2025. His doctoral project, *Visions of Becoming and Belonging: An (Autobiographical) Exploration of Photo Studios in Balochistan, Pakistan*, examines the social, cultural and affective worlds of studio photography through a deeply personal lens.
+
+
+  His first feature film, *Make it Look Real*, premiered at the International Documentary Film Festival Amsterdam (IDFA) in November 2024.
+
+
+  <!--EndFragment-->
 social_links:
   - name: Website
     url: https://www.danialshah.com
