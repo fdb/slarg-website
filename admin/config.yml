@@ -377,17 +377,8 @@ collections:
         file: 'applying-for-phd.html'
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
-          - {
-              label: 'content',
-              name: 'content',
-              widget: 'list',
-              fields:
-                [
-                  { label: 'section title', name: 'section_title', widget: 'string' },
-                  { label: 'section Description', name: 'description', widget: 'text' },
-                  { label: 'thumbnail for funding body', name: 'image', widget: 'image', required: false }
-                ]
-            }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: 'Thumbnail Image', name: 'thumbnail', widget: 'image', required: false }
   - name: 'activity'
     label: 'Activity'
     folder: 'content/activities'

@@ -38,7 +38,7 @@
               height="800">
           {% else %}
              {% assign index = forloop.index0 | modulo: images.size %}
-             <img src="{{ images[index] }}" alt="Thumbnail for {{ title }}" width="600"
+             <img src="{{ images[index] }}src="-/preview/600x600/"" alt="Thumbnail for {{ title }}" width="600"
               height="800" class="profile">
           {% endif %}
         </div>
