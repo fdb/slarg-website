@@ -186,6 +186,7 @@ main {
 
 article {
 	max-width: 80ch;
+	padding-top: 8vh;
 }
 
 article > h1 {

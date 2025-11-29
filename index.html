@@ -30,14 +30,34 @@ event-highlight:
 <section id="content-sections">
   {% if event-highlight %}
     <p class="homepage-upcoming">UPCOMING / ONGOING</p>
+
     {% for section in event-highlight %}
-        <div class="highlight-event">
+    <div class="highlight-event">
+          <div>
+                    <a style="display: block; display: flex; justify-content: center;" class="highlight-event" href="https://slarg.be/research-week/2025/">
+
+          <img src="{{ section.image }}" alt="">
+           </a>
+          </div>
+
+          <div>
             <h2>{{ section.section_title }}</h2>
-            <a href="https://slarg.be/research-week/2025/"><img src="{{ section.image }}" alt=""></a>
-            <p class="description">{{ section.description | markdownify }}</p>
-            <p class="info">{% if section.date %}{{ section.date | formatDateTime }}{% endif %}{% if section.time %}{{ section.time | escape }}, {% endif %} {% if section.location %}{{ section.location }}{% endif %}</p>
-        </div>
+            <div class="description">{{ section.description | markdownify }}</div>
+              <p class="info">
+                {% if section.date %}
+                {{ section.date | formatDateTime }}
+                {% endif %}
+                
+                {% if section.time %}{{ section.time | escape }}, 
+                {% endif %} 
+                {% if section.location %}{{ section.location }}
+                {% endif %}
+              </p>
+            </div>
+            </div>
     {% endfor %}
+
+     
     {% endif %}
 </section>
 
