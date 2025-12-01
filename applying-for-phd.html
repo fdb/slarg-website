@@ -22,5 +22,3 @@ The due date for applications is 1 March 2026.  Please indicate on the applicati
 Applications submitted by the 1st of March 2026 are expected to have two supervisors (Sint Lucas Antwerpen and University of Antwerp). **You can find potential SLARG-supervisors on this website, by going to People and filtering on Supervisors. Check first if your research interests are compatible with theirs!**  
 
 Please go to [Sint Lucas Antwerpen website](https://www.sintlucasantwerpen.be/en/research/#Doing-a-PhD?) for the Application Form and all formal requirements. Also check out [ARIA website](https://www.uantwerpen.be/en/research-groups/aria/phd/) and carefully read the [ARIA PhD Roadmap](https://medialibrary.uantwerpen.be/files/11388/fe76ceaa-6644-4d86-86e1-2e7818a9a60d.pdf).
-
-test
