@@ -20,6 +20,8 @@ people:
   - Myrthe Bokelmann
 external_collaborators:
   - name: Imane B.k.
+Supervisors:
+  - "Imane B. K. "
 ---
 The applications of artificial intelligence are everywhere: just think of image recognition, recommendation algorithms, voice and face recognition algorithms, ... In the arts, AI also leads to interesting results, however often by using powerful hardware or existing datasets, and thus beyond the reach or control of most artists.
 
