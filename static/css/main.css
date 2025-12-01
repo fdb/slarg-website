@@ -492,9 +492,9 @@ article .partner-logos img {
 	background-color: var(--turquoise);
 	margin-bottom: 1.3rem;
 }
-.highlight-event a:not(:has(img)) {
+/* .highlight-event a:not(:has(img)) {
 	border-bottom: 2px solid aquamarine;
-}
+} */
 .highlight-event,
 .highlight-event p {
 	color: var(--bg-color);
@@ -513,6 +513,8 @@ article .partner-logos img {
 }
 .highlight-event img {
 	width: 50%;
+	display: block;
+	margin: 1rem auto;
 }
 
 footer {
