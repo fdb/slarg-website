@@ -8,6 +8,8 @@ project-kind: 2 year project (post-doc)
 research_interests:
   - ai
   - performance
+Supervisors:
+  - "Imane B. K. "
 main_image: https://ucarecdn.com/dae1e88d-c82b-4abd-9f20-6b9435dd32b2/
 main_image_credits: Photo by Tina Kult
 main_image_alt: Visitor watching the "I'm Sorry I Made You Feel This Way"
@@ -18,9 +20,8 @@ people:
   - Frederik De Bleser
   - "Cèlia Tort Pujol "
   - Myrthe Bokelmann
-external_collaborators:
-  - name: Imane B.k.
-Supervisors:
+external_collaborators: []
+supervisors:
   - "Imane B. K. "
 ---
 The applications of artificial intelligence are everywhere: just think of image recognition, recommendation algorithms, voice and face recognition algorithms, ... In the arts, AI also leads to interesting results, however often by using powerful hardware or existing datasets, and thus beyond the reach or control of most artists.
