@@ -283,7 +283,7 @@ collections:
             - { label: Alt Text, name: alt, widget: string }
             - { label: Caption / Credits, name: caption, widget: string} 
       - {
-          label: 'People Involved',
+          label: 'Researchers',
           name: 'people',
           widget: 'relation',
           collection: 'people',
@@ -293,7 +293,7 @@ collections:
           multiple: true,
           required: false
         }
-      - label: 'External Collaborators'
+      - label: 'External researchers'
         name: 'external_collaborators'
         widget: 'list'
         summary: '{{fields.name}}'
@@ -404,6 +404,25 @@ collections:
           hint: 'Select or add your research interests',
           max: 5
         }
+      - {
+          label: 'Researchers',
+          name: 'people',
+          widget: 'relation',
+          collection: 'people',
+          search_fields: ['person_name'],
+          value_field: 'person_name',
+          display_fields: ['person_name'],
+          multiple: true,
+          required: false
+        }
+      - label: 'External researchers'
+        name: 'external_collaborators'
+        widget: 'list'
+        summary: '{{fields.name}}'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', required: false }
+          - { label: 'Email', name: 'email', widget: 'string', required: false }
 
   - name: 'research-week-activity'
     label: 'Research Week Activity'
@@ -429,7 +448,28 @@ collections:
           hint: 'Select or add your research interests',
           max: 5
         }
+      - {
+          label: 'Researchers',
+          name: 'people',
+          widget: 'relation',
+          collection: 'people',
+          search_fields: ['person_name'],
+          value_field: 'person_name',
+          display_fields: ['person_name'],
+          multiple: true,
+          required: false
+        }
+      - label: 'External researchers'
+        name: 'external_collaborators'
+        widget: 'list'
+        summary: '{{fields.name}}'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', required: false }
+          - { label: 'Email', name: 'email', widget: 'string', required: false }
   - name: 'publications'
+
+
     label: 'Publications'
     folder: 'publications'
     create: true
@@ -440,8 +480,27 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'publication.liquid' }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
+      - {
+          label: 'Researchers',
+          name: 'people',
+          widget: 'relation',
+          collection: 'people',
+          search_fields: ['person_name'],
+          value_field: 'person_name',
+          display_fields: ['person_name'],
+          multiple: true,
+          required: false
+        }
+      - label: 'External researchers'
+        name: 'external_collaborators'
+        widget: 'list'
+        summary: '{{fields.name}}'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', required: false }
+          - { label: 'Email', name: 'email', widget: 'string', required: false }
       - { label: 'Author', name: 'author', widget: 'string', required: true }
       - { label: 'Publication Date', name: 'publication_date', widget: 'datetime', format: 'YYYY-MM-DD', date_format: 'DD/MM/YYYY', time_format: false, required: true }
-      - { label: 'Publication File', name: 'publication_file', widget: 'file', required: true, hint: 'Upload PDF or EPUB file', media_library: { config: { mimetypes: ['application/pdf', 'application/epub+zip'] } } }
+      - { label: 'Publication URL', name: 'publication_file', widget: 'string', required: true, hint: 'Paste the URL to your PDF or EPUB file' }
       - { label: 'Thumbnail Image', name: 'thumbnail', widget: 'image', required: false, hint: 'Upload a cover image for the publication' }
       - { label: 'Description', name: 'description', widget: 'markdown', required: false, hint: 'Brief description or abstract of the publication' }

@@ -7,7 +7,7 @@ title: Off the shelves
 
 <div class="publication-grid">
   {% assign sorted_publications = collections.publications | sort: "publication_date", "last" %}
-  {% for publication in sorted_publications %}
+  {% for publication in collections.publications %}
     <div class="publication-item">
       <a href="{{ publication.url }}">
         {% if publication.data.thumbnail %}
@@ -20,9 +20,6 @@ title: Off the shelves
         <p class="author">{{ publication.data.author }}</p>
         <p class="date">{{ publication.data.publication_date | date: "%B %d, %Y" }}</p>
       </a>
-      {% if publication.data.publication_file %}
-        <a href="{{ publication.data.publication_file }}" download class="button download-button">Download</a>
-      {% endif %}
     </div>
   {% endfor %}
 </div>

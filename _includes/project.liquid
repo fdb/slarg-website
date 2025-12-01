@@ -43,32 +43,16 @@ layout: base.liquid
   <li><strong>Project kind:</strong> {{ project-kind }}</li>
   {% endif %} 
 
-  {% if main_image %}
-  <figure>
-    <img src="{{ main_image | url }}/-/format/auto/" width="" height="" alt="{{ main_image_alt }}" />
-    <figcaption class="image-block__credits">{{ main_image_credits }}</figcaption>
-  </figure>
-{% endif %}
-
-
-
-
-  {% if abstract %}
-    <li><strong>Abstract:</strong> {{ abstract }}</li>
-  {% endif %}
-
-
- 
     
     {% if people or external_collaborators %}
-     <li class="people-link"><strong>People involved:</strong> 
+     <li class="people-link"><strong>Researcher(s):</strong> 
     {% if people %}
     {% for person_name in people %}
       {% assign person = collections.people | where: "data.person_name", person_name | first %}
       {% if person %}
         <a href="{{ person.url }}">{{ person_name }}</a>
       {% else %}
-        {{ person_name }}
+        {{ person_name }},
       {% endif %}
       {% unless forloop.last %}, {% endunless %}
     {% endfor %}
@@ -84,7 +68,7 @@ layout: base.liquid
           {{ collaborator.name }}
         </a>
       {% else %}
-        {{ collaborator.name }}
+        , {{ collaborator.name }}
       {% endif %}
       {% unless forloop.last %}, {% endunless %}
     {% endfor %}
@@ -92,6 +76,14 @@ layout: base.liquid
 {% endif %}
 
   </li>
+{% endif %}
+
+
+  {% if main_image %}
+  <figure>
+    <img src="{{ main_image | url }}/-/format/auto/" width="" height="" alt="{{ main_image_alt }}" />
+    <figcaption class="image-block__credits">{{ main_image_credits }}</figcaption>
+  </figure>
 {% endif %}
 
 

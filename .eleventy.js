@@ -216,4 +216,9 @@ module.exports = function (eleventyConfig, collections) {
 		if (!value) return '';
 		return md.render(value);
 	});
+
+	eleventyConfig.addCollection("publications", function (collectionApi) {
+  		return collectionApi.getFilteredByGlob("./publications/*.md");
+	});
+
 };
