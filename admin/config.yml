@@ -301,6 +301,25 @@ collections:
           - { label: 'Name', name: 'name', widget: 'string' }
           - { label: 'URL', name: 'url', widget: 'string', required: false }
           - { label: 'Email', name: 'email', widget: 'string', required: false }
+      - {
+          label: 'Supervisors',
+          name: 'supervisors',
+          widget: 'relation',
+          collection: 'people',
+          search_fields: ['person_name'],
+          value_field: 'person_name',
+          display_fields: ['person_name'],
+          multiple: true,
+          required: false
+        }
+      - label: 'External supervisors'
+        name: 'external_supervisors'
+        widget: 'list'
+        summary: '{{fields.name}}'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', required: false }
+          - { label: 'Email', name: 'email', widget: 'string', required: false }
       - label: 'Funding'
         name: 'funding'
         widget: 'list'
