@@ -27,8 +27,10 @@ description: >-
   This anthology of texts forms part of a wider research endeavour focused on exploring the intersections between colonial hegemonies and the Western fashion system and redefine fashion in the present context. The study involves an examination of the modes of canonization of designers, places and hierarchies within the Western fashion environment. The research delves into the dynamics of colonisation and their impact on the fashion industry between the Global North and South. It also considers how these dynamics are established, propagated, and the ideologies they disseminate.
 
 
+  <https://theyarn.cargo.site/>
 
 
+  <https://www.pierreantoinev.com/the-yarn>
 
 
   *CONTRIBUTORS/ CONTRIBUTEURS.ICES*
