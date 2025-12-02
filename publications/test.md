@@ -6,7 +6,7 @@ people:
 author: Sandra Niessen, Audrey Bartis, Seija Mistiaen, Celina Szymanowski, Sarah
   Bartmann, Veronica Pesantes, Ivoire Boza-Nguyen, Afez Chirazi, Douglas Dos
   Santos, Maryse SimplonSonia Tagba-Millet, Pierre-Antoine Vettorello
-publication_date: 2025-12-01
+publication_date: 2023-12-01
 publication_file: https://theyarn.cargo.site/
 thumbnail: https://freight.cargo.site/w/750/i/P1508309675594081715371953458453/YARN_Felix_A5_Simu_02_DEF.jpg
 description: >-
