@@ -19,7 +19,10 @@ description: >-
   typographic creation today
 
 
-  [read the Multi scripts article online](https://www.forum-online.be/nummers/winter-2022/multi-scripts-blended-type-family-stories)\
+  [Read the Multi Scripts article online](https://www.forum-online.be/nummers/winter-2022/multi-scripts-blended-type-family-stories)\
 
-  [read the PDF of the article](https://www.design-research.be/multiscriptes/2022-Forum-plus-multiscripts_GarinaGokceyan_NaimaBenayed_EmilieAurat_LisaHuang_LoraineFurter.pdf)
+  [Read the PDF of the article](https://www.design-research.be/multiscriptes/2022-Forum-plus-multiscripts_GarinaGokceyan_NaimaBenayed_EmilieAurat_LisaHuang_LoraineFurter.pdf)
+
+
+  [More on the project](https://www.design-research.be/multiscriptes/)
 ---
