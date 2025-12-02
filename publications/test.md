@@ -1,6 +1,6 @@
 ---
 layout: publication.liquid
-title: The Yarn
+title: "The Yarn #1 On Colonial Violence in Fashion Schools"
 people:
   - Pierre-Antoine Vettorello
 author: Sandra Niessen, Audrey Bartis, Seija Mistiaen, Celina Szymanowski, Sarah
