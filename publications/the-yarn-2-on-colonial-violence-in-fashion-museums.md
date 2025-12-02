@@ -28,6 +28,10 @@ description: >-
   Mushaandja, Nyanchama Okemwa, and Michaëlle Sergile.
 
 
+  <https://theyarn.cargo.site/>
+
+
+  <https://www.pierreantoinev.com/the-yarn>
 
 
   **CONTENTS**
