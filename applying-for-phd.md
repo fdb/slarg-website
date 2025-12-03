@@ -3,8 +3,9 @@ layout: phd-page-layout
 title: Call for PhD Applications NOW OPEN!
 thumbnail: https://ucarecdn.com/9a9a686f-6274-4715-a7ae-34714ec2b02e/
 ---
-**Do you want to join SLARG and do a PhD in the arts at Sint Lucas Antwerpen (KdG)/ARIA (University of Antwerp)?** \
-\
+**Do you want to join SLARG and do a PhD in the arts at Sint Lucas Antwerpen (KdG)/ARIA (University of Antwerp)?** 
+
+test\
 The successful candidate receives a 50% assistant postion at Sint Lucas Antwerpen and is admitted to the doctoral program of ARIA (University of Antwerp). The research duration is four years, starting with a 2-year contract that is once renewable upon positive evaluation. 
 
 For the 2025 call, there are four fellowships available. One of these is reserved for a pilot collaboration with Jan van Eyck Academie, Maastricht, The Netherlands.
