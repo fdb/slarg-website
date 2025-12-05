@@ -9,43 +9,39 @@ event-highlight:
 ---
 
 <p class="homepage-short-presentation">
-	carries out the academic artistic research of Sint Lucas Antwerpen School of Arts KdG, fostering artistic research that combines creative innovation with a strong social commitment.<br>
-  ⤴ <!-- ⤻ -->
+	carries out the academic artistic research of Sint Lucas Antwerpen School of Arts KdG, fostering artistic research that combines creative innovation with a strong social commitment <a href="about">more ⤻</a><!-- <br>
+  ⤴ ⤻ -->
 </p>
 
 <section id="content-sections">
   {% if event-highlight %}
-    <p class="homepage-upcoming">UPCOMING / ONGOING</p>
 
-    {% for section in event-highlight %}
-    <div class="highlight-event">
-          <div>
+  <h2>UPCOMING / ONGOING</h2>
 
-          <img src="{{ section.image }}" alt="">
-     
-          </div>
-
-          <div>
-            <h2>{{ section.section_title }}</h2>
-            <div class="description">{{ section.description | markdownify }}</div>
-              <p class="info">
-                {% if section.date %}
-                {{ section.date | formatDateTime }}
-                {% endif %}
-                
-                {% if section.time %}{{ section.time | escape }}, 
-                {% endif %} 
-                {% if section.location %}{{ section.location }}
-                {% endif %}
-              </p>
-            </div>
-            </div>
-    {% endfor %}
+    <div class="highlight-events">
+      {% for section in event-highlight %}
+      <div class="highlight-event">
+        <img src="{{ section.image }}" alt="">
+        <h2>{{ section.section_title }}</h2>
+        <div class="description">{{ section.description | markdownify }}
+          <p class="info">
+            {% if section.date %}
+            {{ section.date | formatDateTime }}
+            {% endif %}
+            
+            {% if section.time %}{{ section.time | escape }}, 
+            {% endif %} 
+            {% if section.location %}{{ section.location }}
+            {% endif %}
+          </p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
 
      
     {% endif %}
+    <a href="https://kdg.us11.list-manage.com/subscribe?u=f2f4dfed688882b52d74c63fb&id=023a040e28" target="_blank"><button class="homepage-newsletter">Subscribe to our newsletter!</button></a>
 </section>
 
-<a href="https://kdg.us11.list-manage.com/subscribe?u=f2f4dfed688882b52d74c63fb&id=023a040e28" target="_blank"><p class="homepage-newsletter">
-	Subscribe to our newsletter!
-</p></a>
+

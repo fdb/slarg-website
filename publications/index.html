@@ -3,7 +3,7 @@ layout: page
 title: Off the shelves
 ---
 
-<h1 class="page-title">Publications</h1>
+<h1 class="page-title">Off the shelves <img src="/static/img/SLARG-website-exclamation-heart.png" alt="" style="height: 33px; margin-left: -5px;" /></h1>
 
 <div class="publication-grid">
   {% assign sorted_publications = collections.publications | sort: "publication_date", "last" %}
@@ -17,8 +17,8 @@ title: Off the shelves
           <img src="/static/img/placeholder.png" alt="Placeholder Image">
         {% endif %}
         <h2>{{ publication.data.title }}</h2>
-        <p class="author">{{ publication.data.author }}</p>
-        <p class="date">{{ publication.data.publication_date | date: "%B %d, %Y" }}</p>
+        <p class="author">Author(s): {{ publication.data.author }}</p>
+        <p class="date">Date: {{ publication.data.publication_date | date: "%Y" }}</p>
       </a>
     </div>
   {% endfor %}

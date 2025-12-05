@@ -5,7 +5,8 @@ title: Research Projects
 
 <h1 class="page-title">Research Projects</h1>
 <div class="filter-box" id="interest-filters">
-	<h3>Filter by Research Interest</h3>
+	<h3>Filter by Research Interests <button class="more-interests">↓</button></h3>
+  <!-- ↑ -->
 	{% assign all_interests = "" %} 
 	{% for project in collections.projects %} 
 		{% if project.data.research_interests %} 
@@ -22,6 +23,7 @@ title: Research Projects
 	    <button class="interest-btn" data-interest="{{ interest }}">{{ interest }}</button>
 	  {% endif %} 
   {% endfor %}
+  <div class="blurry-zone"></div>
 </div>
 
 
@@ -181,10 +183,20 @@ document.addEventListener("DOMContentLoaded", () => {
       const matchesKind =
         activeKinds.length === 0 || activeKinds.includes(projectKind);
 
-      project.style.display = matchesInterest && matchesKind ? "flex" : "none";
+      project.style.display = matchesInterest && matchesKind ? "block" : "none";
     });
   }
 });
+
+var navclick = document.getElementsByClassName("more-interests");
+var element = document.getElementById("interest-filters");
+for (var i = 0; i < navclick.length; i++) {
+  navclick[i].onclick = function(e) {
+    element.classList.toggle('expand-filters');
+  }
+}
+
+
 </script>
 
 
