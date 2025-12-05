@@ -197,7 +197,7 @@ main {
 
 @media (max-width: 768px) {
 	main {
-		padding-top: 8vh;
+		margin-top: 8vh!important;
 	}
 }
 
