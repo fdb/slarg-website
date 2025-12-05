@@ -195,7 +195,7 @@ main {
 	padding-top: 0vh;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 880px) {
 	main {
 		margin-top: 8vh!important;
 	}
@@ -726,7 +726,9 @@ border-radius: 8px;
 }
 
 .project h1 {
-	margin-bottom: 0.5em;
+	margin-bottom: 0.2em;
+	font-size: 2.75rem;
+	line-height: 3rem;
 }
 
 .project img {
@@ -761,7 +763,7 @@ border-radius: 8px;
 }
 
 .project-date {
-	margin-bottom: 1rem;
+	margin: 0.5rem 0;
 }
 .project-date .date {
 	color: var(--text);
@@ -874,21 +876,20 @@ border-radius: 8px;
 	}
 }
 
+.activities-calendar li {
+	margin-left: 0;
+}
 .event-card {
-	display: flex;
-	gap: 1rem;
 	border: 2px solid #00b96f;
 	border-radius: 10px;
 	padding: 1rem;
 	text-decoration: none;
+	margin-left: 0;
 	color: inherit;
-	transition: box-shadow 0.2s ease, transform 0.2s ease;
 	margin-bottom: 1rem;
-}
-
-.event-card:hover {
-	box-shadow: 0 4px 12px rgba(0, 185, 111, 0.2);
-	transform: translateY(-2px);
+	display: inline-block;
+	width: 30%;
+	margin-right: 2rem;
 }
 
 .event-thumb {
@@ -1095,6 +1096,9 @@ border-radius: 8px;
 	bottom: 0;
 }
 
+.people-link {
+	font-size: 1.2rem;
+}
 .people-link a {
 	text-decoration: underline;
 }
@@ -1129,4 +1133,15 @@ main p a {
 .publication-item p {
 	font-size: 1rem;
 	margin-bottom: 0.5rem;
+}
+@media (max-width: 886px) {
+	.publication-item {
+		width: 48%;
+	}
+}
+@media (max-width: 468px) {
+	.publication-item {
+		width: 100%;
+		padding: 0;
+	}
 }
