@@ -176,7 +176,7 @@ header {
 
 .page-title {
 	font-size: 3rem;
-	margin-bottom: 3rem;
+	margin-bottom: 1rem;
 	font-weight: 300;
 	color: var(--text-color);
 }
@@ -1121,4 +1121,12 @@ main p a {
 	width: 30%;
 	display: inline-block;
 	vertical-align: top;
+	padding-right: 1rem;
+}
+.publication-item h2 {
+	margin-top: 1rem;
+}
+.publication-item p {
+	font-size: 1rem;
+	margin-bottom: 0.5rem;
 }
