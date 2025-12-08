@@ -13,7 +13,7 @@ layout: base
 </div>
 <div class="event-layout">
     <div class="event-image">
-        <img src="{{ main_image }}-/format/auto/" alt="{{ title }}">
+        <img src="{{ main_image }}-/scale_crop/300x300/" alt="{{ title }}">
     </div>
     <div class="event-text">
         {{ content | raw }}
@@ -21,6 +21,6 @@ layout: base
 </div>
 <div class="event-images">
     {%- for image in images -%}
-    <img class="image" src="{{ image }}-/format/auto/" alt="" />
+    <img class="image" src="{{ image }}-/scale_crop/300x300/" alt="" />
     {%- endfor -%}
 </div>
