@@ -47,7 +47,7 @@ event-highlight: []
   {% assign day = parts[2] | plus: 0 | prepend: "0" | slice: -2 %}
   {% assign iso_date = year | append: "-" | append: month | append: "-" | append: day %} -->
   <!-- <p>{{ iso_date | date: "%A %-d %B %Y" }}</p> -->
-{% endif %}
+<!-- {% endif %} -->
 
   {% if section.time %}
 	<p>{{section.time}}</p>
@@ -67,17 +67,21 @@ event-highlight: []
 </section>
 {% endfor %}
 
-<h2 class="big-title">Research week October 2025</h2>
-<a class="site-thumb" href="/research-week/2025">
-		<img src="/static/img/research-week-title-square-2.png" alt="" />
-		<p style="text-transform: lowercase;
-  padding: 1rem 0rem; color: black;">Click here to view the full program of the research week</p>
-</a>
+<h2 class="big-title">Research week October 2026</h2>
+<!-- <a class="site-thumb" href="/research-week/2026"> -->
+		<img src="/static/img/research-week-2026-coming-soon.png" alt="" />
+		<!-- <p style="text-transform: lowercase;
+  padding: 1rem 0rem; color: black;">Coming soon!</p> -->
+<!-- </a> -->
 
 <h2 class="big-title">Past research weeks</h2>
 
 <div class="sites-grid">
 	
+	<a class="site-thumb" href="/research-week/2025">
+		<img src="/static/img/research-week-title-square-2.png" alt="" />
+		<span>Past Week 2025</span>
+	</a>
 	<a class="site-thumb" href="/research-week/2024">
 		<img src="/static/img/slarg-2024-research-week-visual-exhibition.png" alt="" />
 		<span>Past Week 2024</span>

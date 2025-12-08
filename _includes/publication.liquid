@@ -6,9 +6,9 @@ layout: base
 
   <h1 class="publication-title">{{ title }}</h1>
   <p class="publication-author">By {{ author }}</p>
-     {% if people or external_collaborators %}
-     <li class="people-link"><strong>Researcher(s):</strong> 
-    {% if people %}
+  {% if people or external_collaborators %}
+  <p class="people-link"><strong>Researcher(s):</strong> 
+  {% if people %}
     {% for person_name in people %}
       {% assign person = collections.people | where: "data.person_name", person_name | first %}
       {% if person %}
@@ -19,6 +19,7 @@ layout: base
       {% unless forloop.last %}, {% endunless %}
     {% endfor %}
   {% endif %}
+  </p>
 
   
     
