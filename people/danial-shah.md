@@ -13,19 +13,19 @@ research_interests:
   - mixed-media
 headshot: https://ucarecdn.com/5ddb470d-4913-4136-9204-530fa81f1cb3/
 bio: >-
-  <!--StartFragment-->
+  Danial Shah is a Pakistani documentary filmmaker and photographer whose work
+  spans more than a decade of photojournalism and independent storytelling. His
+  photographs have appeared in international publications including *The New
+  York Times*, and his films have screened at festivals such as the Budapest
+  International Film Festival and the Vancouver International Film Festival. He
+  holds a joint master’s degree in Documentary Film Direction from the DocNomads
+  programme in Hungary, Belgium, and Portugal.
 
 
-  **Danial Shah** is a Pakistani documentary filmmaker and photographer whose work spans a decade of photojournalism and independent storytelling. His photographs have appeared in international publications including The New York Times, and his short films have screened at festivals such as the Budapest International Film Festival and the Vancouver International Film Festival. He holds a joint master’s degree in Documentary Film Direction from the DocNomads programme in Hungary, Belgium and Portugal.
+  Danial was a PhD researcher at SLARG and completed his PhD in the arts at Sint Lucas Antwerpen (KdG) and ARIA at the University of Antwerp in October 2025. His doctoral project, *Visions of Becoming and Belonging: An (Autobiographical) Exploration of Photo Studios in Balochistan, Pakistan*, examines the social, cultural, and affective worlds of studio photography through a deeply personal and situated approach.
 
 
-  Danial completed his PhD in the arts at Sint Lucas Antwerpen (KdG) and ARIA at the University of Antwerp in October 2025. His doctoral project, *Visions of Becoming and Belonging: An (Autobiographical) Exploration of Photo Studios in Balochistan, Pakistan*, examines the social, cultural and affective worlds of studio photography through a deeply personal lens.
-
-
-  His first feature film, *Make it Look Real*, premiered at the International Documentary Film Festival Amsterdam (IDFA) in November 2024.
-
-
-  <!--EndFragment-->
+  His first feature-length documentary, *Make It Look Real*, premiered at the International Documentary Film Festival Amsterdam (IDFA) in November 2024.
 social_links:
   - name: Website
     url: https://www.danialshah.com
