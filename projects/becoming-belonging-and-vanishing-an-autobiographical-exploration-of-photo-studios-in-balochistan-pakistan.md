@@ -18,6 +18,10 @@ people:
   - Danial Shah
 external_collaborators: []
 ---
-How do we perform identity and desire before a camera? What unfolds before, during, and after a photograph? What is “real” in photography, and how are desires projected in a single image?
+[Danial Shah](https://slarg.be/people/danial-shah/) successfully completed his PhD in the arts at Sint Lucas Antwerpen (KdG) and ARIA at the University of Antwerp on 24 October 2025, with the doctoral project *Becoming, Belonging and Vanishing*. His research explored the evolving world of photo studios in Quetta, Pakistan, spaces where painted backdrops, props, and later digital techniques shape how people imagine, perform, and narrate themselves.
 
-In this research, I return to photo studios in my hometown, Quetta (Pakistan)—spaces that fascinated me as a child with their hand painted backdrops and props. These are spaces of transformation—where performance, identity, and aspiration meet. Even though the studios have been reshaped by digital technology, portraits still continue to express a wide range of desires—from challenging ruling ideologies to declaring love or recovering from heartbreak. While studios confine, reproduce and challenge society within their walls, m﻿y work engages with the world beyond those boundaries. This research explores the intersection of these two approaches—studio and documentary photography with possibilities to understand the nature of photography.
+Returning to the studios that fascinated him as a child, Danial examined how photography becomes a site where identity, desire, and aspiration are rehearsed and negotiated. His work asked fundamental questions about photography: how identity is performed in front of the camera, what unfolds before, during, and after a photograph is taken, and how ideas of reality and desire are projected into a single image.
+
+Through a combination of studio photography, documentary film, and autobiographical reflection, the project traced the social and emotional worlds embedded in these studios, many of which are now disappearing. While studio portraits can both reproduce and challenge dominant social structures, Danial’s research also engaged with the broader realities beyond the studio walls.
+
+The doctoral project was presented alongside an exhibition of the same title at FOMU in Antwerp, bringing together photography and film to reflect on memory, transformation, and the fragile afterlives of these spaces.
