@@ -17,7 +17,7 @@ abstract: >-
   My research centered on an artistic and conceptual engagement with the Qur’an as the primary textual source for reflecting on its book-being across different realms. Asking where — and consequently how and when — The Book unfolded helped me to approach its essence amid its many manifestations, meanings, and messages. To engage with its infinite nature and perpetual renewal was, for me, to begin from heart to heart, breath to breath, leaf to leaf, and letter to letter.
 
 
-  My artistic considerations unfolded through a scribal practice. Arabic handwriting, lettering, and drawing became ways of holding space in relation to the divine. As the qualities of The Book exceeded the notion of two covers and fixed, linear pages, I explored mobile pages, shifting reading directions, folds, layers, cut-outs, and pop-up elements. The project took material form in loose, unbound pages containing handwritten Qur’anic verses, devotional lettering, and drawings that referenced the multiple places and times of the Qur’an.
+  My artistic considerations unfolded through a scribal practice. Arabic handwriting, lettering, and drawing became ways of holding space in relation to the divine. As the qualities of The Book exceed the notion of two covers and fixed, linear pages, I explored mobile pages, shifting reading directions, folds, layers, cut-outs, and pop-up elements. The project took material form in loose, unbound pages containing handwritten Qur’anic verses, devotional lettering, and drawings that referenced the multiple places and times of the Qur’an.
 research_interests:
   - Book qualities & bookness
   - Devotion and aesthetics
