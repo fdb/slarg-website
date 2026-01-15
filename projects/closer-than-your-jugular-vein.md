@@ -19,6 +19,7 @@ abstract: >-
 
   My artistic considerations unfolded through a scribal practice. Arabic handwriting, lettering, and drawing became ways of holding space in relation to the divine. As the qualities of The Book exceed the notion of two covers and fixed, linear pages, I explored mobile pages, shifting reading directions, folds, layers, cut-outs, and pop-up elements. The project took material form in loose, unbound pages containing handwritten Qur’anic verses, devotional lettering, and drawings that referenced the multiple places and times of the Qur’an.
 research_interests:
+  - Arabic handwriting
   - Book qualities & bookness
   - Devotion and aesthetics
   - Ecology and spirituality
