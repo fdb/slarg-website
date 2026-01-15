@@ -9,7 +9,7 @@ year: 2022
 date: 2022-10-15
 time: 20:00 - 21:00
 location: "Kunsthal Extra City "
-main_image: https://ucarecdn.com/a318feda-91c3-41cb-97c4-22b1e2f4f459/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/a318feda-91c3-41cb-97c4-22b1e2f4f459.jpg
 ---
 **This performance is free and open to all but please register [here](https://calendly.com/extra-city/rightsofnature2?month=2022-10).** 
 

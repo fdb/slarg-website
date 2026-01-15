@@ -7,7 +7,7 @@ role:
   - Former researcher
 email: imane.benyecif@kdg.be
 research_interests: []
-headshot: https://ucarecdn.com/ffc22850-ecf1-4591-b90d-1fea94b1d68a/
+headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/ffc22850-ecf1-4591-b90d-1fea94b1d68a.jpg
 bio: >-
   Alongside Tunde Adefioye, I have researched threads Towards Braver Spaces and
   questioned the fostering of collective and sustainable spaces that center care

@@ -9,10 +9,10 @@ year: 2022
 date: 2022-10-10
 time: 14:00 - 17:00
 location: Campus Sint Lucas Antwerpen, Library (first floor)
-main_image: https://ucarecdn.com/86b6f5b9-ac69-4cda-8d3e-cd8a464ad44a/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/86b6f5b9-ac69-4cda-8d3e-cd8a464ad44a.jpg
 images:
-  - https://ucarecdn.com/03c5cf02-51f8-4c03-b2fc-5b229404fb6d/
-  - https://ucarecdn.com/d85fe46a-6792-4cc7-8372-303ff1fd5777/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/03c5cf02-51f8-4c03-b2fc-5b229404fb6d.jpg
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/d85fe46a-6792-4cc7-8372-303ff1fd5777.jpg
 ---
 **This Research Class is scheduled from Monday till Thursday and open to Sint Lucas Antwerpen digital MA students only.**
 

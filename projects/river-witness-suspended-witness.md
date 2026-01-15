@@ -7,7 +7,7 @@ end_date: 2025-06-26T12:37:37.657Z
 project-kind: 1 year project (pre-doc)
 ongoing: false
 research_interests: []
-main_image: https://ucarecdn.com/29b66142-5a4c-4b27-b9f9-e07c715de7f9/-/crop/2854x1603/13,98/-/preview/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/29b66142-5a4c-4b27-b9f9-e07c715de7f9.jpg
 people:
   - Joud Toamah
 ---

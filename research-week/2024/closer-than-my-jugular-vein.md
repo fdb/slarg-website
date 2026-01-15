@@ -6,14 +6,14 @@ section_website_2024: exhibition
 title: Closer than your jugular vein
 type: Arabic handwriting, lettering, and drawing within a spatial book practice
 author: Ruth Razan Loos
-main_image: https://ucarecdn.com/6eaa7eac-741a-4eea-b886-e893044611f3/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/6eaa7eac-741a-4eea-b886-e893044611f3.jpg
 images:
-  - https://ucarecdn.com/1d861677-1653-4424-a928-371027b7a665/
-  - https://ucarecdn.com/40a7d337-8cec-4718-a6cc-afa0381c72ff/
-  - https://ucarecdn.com/940f5efe-3cd2-4ce3-920b-dc8a2b72b7c7/
-  - https://ucarecdn.com/67723bc2-8e9c-43ef-a3ec-bf2a820c1702/
-  - https://ucarecdn.com/2b6d7b87-a899-4153-9a31-54444ed2917c/
-  - https://ucarecdn.com/f0823065-e2f2-4376-8eb7-c882a1bc41ca/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/1d861677-1653-4424-a928-371027b7a665.jpg
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/40a7d337-8cec-4718-a6cc-afa0381c72ff.jpg
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/940f5efe-3cd2-4ce3-920b-dc8a2b72b7c7.jpg
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/67723bc2-8e9c-43ef-a3ec-bf2a820c1702.jpg
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/2b6d7b87-a899-4153-9a31-54444ed2917c.jpg
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/f0823065-e2f2-4376-8eb7-c882a1bc41ca.jpg
 date: ""
 location: Sint Lucas Antwerpen showroom
 ---

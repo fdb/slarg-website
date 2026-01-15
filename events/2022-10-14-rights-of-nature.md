@@ -9,9 +9,9 @@ year: 2022
 date: 2022-10-14
 time: 14:00 - 17:00
 location: Seminarielokaal, FOMU
-main_image: https://ucarecdn.com/5fb50cea-24b6-4e20-a105-b00e8993ff3d/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/5fb50cea-24b6-4e20-a105-b00e8993ff3d.jpg
 images:
-  - https://ucarecdn.com/ff5bb372-958a-428b-817e-94ef25e80872/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/ff5bb372-958a-428b-817e-94ef25e80872.jpg
 ---
 **Participation is free, but subscription is mandatory (max. 24 participants). Please subscribe [here](https://fomu.be/en/calendar/workshop-fotografie-klimaatverandering).** 
 

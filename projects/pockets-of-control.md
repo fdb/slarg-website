@@ -10,7 +10,7 @@ research_interests:
   - game design
   - generative design
   - illustration
-main_image: https://ucarecdn.com/f358909a-7524-4827-9c8e-352617e68276/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/f358909a-7524-4827-9c8e-352617e68276.jpg
 people:
   - Sander Van de Vijver
 external_collaborators:

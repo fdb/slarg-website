@@ -12,7 +12,7 @@ social_links:
   - name: Instagram
     url: https://www.instagram.com/bianca_baldi/
 layout: people.liquid
-headshot: https://ucarecdn.com/00ab0026-08f3-43d5-b8a3-d37b1604b845/
+headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/00ab0026-08f3-43d5-b8a3-d37b1604b845.jpg
 bio: 'Bianca Baldi is a South African artist, based in Brussels. In her work
   Bianca deals with the role of narrative as a means of knowledge production in
   both fictional and historical contexts. She is interested in the staging of

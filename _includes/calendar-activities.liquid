@@ -10,7 +10,7 @@
           <li class="event-overview">
             <a href="{{ event.data.link }}" class="event-card overview-link">
              {% if event.data.thumbnail %}
-                <img src="{{ event.data.thumbnail | append: '/-/format/jpeg/'}}" alt="{{ event.data.title }}" class="event-thumb">
+                <img src="{{ event.data.thumbnail }}" alt="{{ event.data.title }}" class="event-thumb">
                 {% else %}
                 <img src="/static/img/research-week-colors-square-1.png" alt="Fallback image" class="event-thumb">
               {% endif %}

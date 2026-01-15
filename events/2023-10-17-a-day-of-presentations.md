@@ -9,7 +9,7 @@ author: Annelys De Vet, Helen Dowling, Marnie Slater, Robin Vanbesien
 date: 2023-10-19
 time: 16:30 -- 18:30
 location: Showroom, Sint Lucas Antwerpen, Van Schoonbekestraat 143, 2018 Antwerpen
-main_image: https://ucarecdn.com/7061c447-64e6-4cf4-816f-2e20b2b1f826/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/7061c447-64e6-4cf4-816f-2e20b2b1f826.jpg
 images: null
 ---
 > **Note: This was cancelled on Tuesday Oct 17 but rescheduled on Oct 19, starting at 16:30**

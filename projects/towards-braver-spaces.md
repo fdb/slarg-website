@@ -9,7 +9,7 @@ research_interests:
   - braver spaces
   - care
   - intersectional
-main_image: https://ucarecdn.com/4a01bab8-a30f-4d3b-8541-474b151dc082/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/4a01bab8-a30f-4d3b-8541-474b151dc082.jpg
 main_image_credits: visual made by Dani
 main_image_alt: logo of braver spaces
 people:

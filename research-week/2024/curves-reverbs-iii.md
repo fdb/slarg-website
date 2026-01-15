@@ -6,9 +6,9 @@ section_website_2024: event
 title: "Curves & Reverbs III "
 type: Performance
 author: Mona Hedayati
-main_image: https://ucarecdn.com/a5bfad12-890f-4de2-880c-6785ee0e20d7/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/a5bfad12-890f-4de2-880c-6785ee0e20d7.jpg
 images:
-  - https://ucarecdn.com/3ec9d23f-54a5-4b5b-bf12-14e2c4a831b8/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/3ec9d23f-54a5-4b5b-bf12-14e2c4a831b8.jpg
 date: 2024-10-25
 time: "17:00 - 18:30 "
 location: Sint Lucas Antwerpen showroom

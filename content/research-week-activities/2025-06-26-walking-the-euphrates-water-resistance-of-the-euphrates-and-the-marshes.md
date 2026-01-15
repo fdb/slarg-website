@@ -5,7 +5,7 @@ layout: activity.liquid
 startDate: 2025-10-21T09:00:32.270Z
 endDate: 2025-10-21T11:00:10.435Z
 location: Sint Lucas Antwerpen, AdMa Room, K.03.09
-thumbnail: https://ucarecdn.com/b0e2a233-87b7-4da3-aa8b-7116199ce521/
+thumbnail: https://pub-482595b1796343bdaa334509f7361457.r2.dev/b0e2a233-87b7-4da3-aa8b-7116199ce521.jpg
 ---
 <!--StartFragment-->
 

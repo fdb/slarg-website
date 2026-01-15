@@ -4,7 +4,7 @@ tags: people
 person_name: Reem Shilleh
 role:
   - Researcher
-headshot: https://ucarecdn.com/14b5946e-13cc-4cf9-a10e-3269c701561f/
+headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/14b5946e-13cc-4cf9-a10e-3269c701561f.jpg
 bio: >-
   
 

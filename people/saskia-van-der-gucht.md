@@ -8,7 +8,7 @@ role:
   - Staff
   - Former researcher
 email: saskia.vandergucht@kdg.be
-headshot: https://ucarecdn.com/aaec12ea-2615-44e0-ab3a-7968af14f250/
+headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/aaec12ea-2615-44e0-ab3a-7968af14f250.jpg
 bio: Saskia Van der Gucht (she/her) is a visual artist, artistic researcher and
   teacher based in Antwerp (BE). Her work deals with the complexities of
   emotional and economic value of housing and the feeling of home. More recently
@@ -23,7 +23,7 @@ social_links:
     url: https://www.adma.be/2023-2024/saskia_van_der_gucht
 staff_flag: "false"
 image_researcher:
-  - https://ucarecdn.com/504aa931-e873-4c87-9ecc-43554b7f0c6c/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/504aa931-e873-4c87-9ecc-43554b7f0c6c.jpg
 status_of_research: finished
 available_for_supervision: "false"
 projects:

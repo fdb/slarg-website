@@ -18,7 +18,7 @@ research_interests:
   - independent cinema
   - vietnamese film
   - vietnamese independent fi
-main_image: https://ucarecdn.com/511012ff-96b5-4701-953b-92522db87d55/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/511012ff-96b5-4701-953b-92522db87d55.jpg
 people:
   - Việt Vũ (Phạm Quang Trung)
 ---

@@ -26,11 +26,11 @@ bio: >-
   I am particularly committed to working with doctoral researchers whose inquiry is deeply rooted in their own artistic practice—where materials, techniques, and situated concerns are already central to how the work takes shape. Together, we look how the PhD trajectory can not only generate new insights but also deepen, challenge, and nurture the artistic practice itself. I hold great care for the process in its entirety: how different phases, gestures, and questions gradually crystallize into an artistically and intellectually resonant project. With a combination of curiosity and critical attentiveness, I aim to support researchers in shaping their inquiry in ways that are rigorous, clear, and meaningful—both for the research itself and for the communities it speaks with.
 staff_flag: "false"
 image_researcher:
-  - https://ucarecdn.com/0fa596af-d45c-43bc-88c4-9bfb77e0f4e3/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/0fa596af-d45c-43bc-88c4-9bfb77e0f4e3.jpg
 person_name: Wesley Meuris
 status_of_research: finished
 available_for_supervision: "false"
 tags: researcher
 email: wesley.meuris@kdg.be
-headshot: https://ucarecdn.com/a974001e-ab82-4030-b496-7a4b92b5dda5/
+headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/a974001e-ab82-4030-b496-7a4b92b5dda5.jpg
 ---

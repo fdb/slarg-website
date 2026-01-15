@@ -5,7 +5,7 @@ layout: activity.liquid
 startDate: 2025-10-22T08:00:06.590Z
 endDate: 2025-10-23T14:00:06.595Z
 location: Sint Lucas Antwerpen, Performative Space, K.03.10
-thumbnail: https://ucarecdn.com/3eebaed2-0f5c-4a48-adbe-b2a94787b5d8/
+thumbnail: https://pub-482595b1796343bdaa334509f7361457.r2.dev/3eebaed2-0f5c-4a48-adbe-b2a94787b5d8.jpg
 tags: []
 research_interests:
   - artificial intelligence

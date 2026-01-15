@@ -6,11 +6,11 @@ section_website_2024: exhibition
 title: Watermelon flag
 type: Alternative flag for Palestine
 author: Khaled Hourani
-main_image: https://ucarecdn.com/423890f8-0b6d-4d65-8835-95b3ab2e9d08/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/423890f8-0b6d-4d65-8835-95b3ab2e9d08.jpg
 images:
-  - https://ucarecdn.com/4d0c010f-7bb7-42c0-9ff7-02d9154993fe/
-  - https://ucarecdn.com/74ecf63f-d3ea-428b-bd2d-49462ff0e7f9/
-  - https://ucarecdn.com/97c040c8-90ec-4f19-b8d4-5ade86b31fe8/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/4d0c010f-7bb7-42c0-9ff7-02d9154993fe.jpg
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/74ecf63f-d3ea-428b-bd2d-49462ff0e7f9.jpg
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/97c040c8-90ec-4f19-b8d4-5ade86b31fe8.jpg
 date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---

@@ -5,7 +5,7 @@ layout: activity.liquid
 startDate: 2025-10-21T15:00:58.891Z
 endDate: 2025-10-21T16:30:15.919Z
 location: Sint Lucas Antwerpen, AdMa Room, K.03.09
-thumbnail: https://ucarecdn.com/4be44a8a-968b-461e-84c4-b212323fe3dd/
+thumbnail: https://pub-482595b1796343bdaa334509f7361457.r2.dev/4be44a8a-968b-461e-84c4-b212323fe3dd.jpg
 tags: []
 research_interests:
   - generative design

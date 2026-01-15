@@ -9,7 +9,7 @@ author: Organized by Hoda Siahtiri, Arshia Ali Azmat & Hari Prasad Sacré
 date: 2023-10-18
 time: "19:00 "
 location: Cinema Palace, Anspachlaan 85, 1000 Brussels
-main_image: https://ucarecdn.com/49319910-697c-4d15-a9cc-85dd0d1c5373/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/49319910-697c-4d15-a9cc-85dd0d1c5373.jpg
 ---
 This screening is the first evening of a three-day art and reflection program in Brussels around the work of researcher, writer and curator Ariella Aïsha Azoulay. 
 

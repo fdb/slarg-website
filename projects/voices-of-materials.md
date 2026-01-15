@@ -13,7 +13,7 @@ abstract: >
   materials, and my role as a jeweller in contemporary environmental discourse.
   Using an eco-critical lens, I explore materiality beyond the human timescale,
   rooted in the context of extractive ecologies.
-main_image: https://ucarecdn.com/b42a4f8d-fe21-40f3-a12c-eb80d316dc75/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/b42a4f8d-fe21-40f3-a12c-eb80d316dc75.jpg
 main_image_credits: photo and object by Irma Földényi
 people:
   - Irma Földényi

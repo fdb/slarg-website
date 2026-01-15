@@ -13,7 +13,7 @@ research_interests:
   - care
   - generative design
   - visual performance
-main_image: https://ucarecdn.com/b1a89a59-35e9-4851-bdd4-2942586bdfa1/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/b1a89a59-35e9-4851-bdd4-2942586bdfa1.jpg
 people:
   - Frederik De Bleser
 ---

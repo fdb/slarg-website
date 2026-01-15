@@ -8,7 +8,7 @@ role:
   - Staff
   - Former researcher
 email: tunde.adefioye@kdg.be
-headshot: https://ucarecdn.com/66d698c4-5c8d-409d-a3d8-211904f18a90/
+headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/66d698c4-5c8d-409d-a3d8-211904f18a90.jpg
 bio: "Tundé Adefioye is a Nigerian-American based in Belgium. Tunde helped
   founding the youth poetry platform Urban Woorden now Trill, works as a
   dramaturg (*Malcolm X,* *(Not) My Paradise),* and assisted with the research
@@ -26,7 +26,7 @@ social_links:
     url: https://www.instagram.com/braverspaces_summercamp/
 staff_flag: "false"
 image_researcher:
-  - https://ucarecdn.com/d83be6ab-91d8-45ab-9cb5-93bc75fe54a5/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/d83be6ab-91d8-45ab-9cb5-93bc75fe54a5.jpg
 status_of_research: ongoing
 available_for_supervision: "false"
 ---

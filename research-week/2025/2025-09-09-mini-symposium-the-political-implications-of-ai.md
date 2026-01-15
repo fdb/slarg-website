@@ -4,7 +4,7 @@ layout: activity.liquid
 startDate: 2025-10-23T14:30:00.000Z
 endDate: 2025-10-23T16:30:10.767Z
 location: Sint Lucas Antwerpen, Showroom
-thumbnail: https://ucarecdn.com/4e392f78-10cd-4cce-99c5-6e5f38341248/
+thumbnail: https://pub-482595b1796343bdaa334509f7361457.r2.dev/4e392f78-10cd-4cce-99c5-6e5f38341248.jpg
 research_interests:
   - AI
   - Symposium

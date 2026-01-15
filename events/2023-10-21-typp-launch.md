@@ -11,7 +11,7 @@ author: "Ward Heirwegh, Mrs. Kovich, Danial Shah, Marnie Slater, Tijana
 date: 2023-10-21
 time: 19:00 - 21:00
 location: "In the bar @ Kunsthal Extra City, Ploegstraat 25 "
-main_image: https://ucarecdn.com/b590ff98-e339-46dc-810b-eb896ee9e717/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/b590ff98-e339-46dc-810b-eb896ee9e717.jpg
 images: null
 ---
 Cover image from the new *TYPP*, by Ward Heirwegh, its designer.
@@ -24,7 +24,7 @@ Welcome: Petra Van Brabandt & Marnie Slater
 
 * Mirrors, fantasies and realities in photo studios. A lecture  by **Danial Shah**. More see [here](https://slarg.be/events/2023-10-21-image-mapping-process/). 
 * *Signed, sealed, delivered.* Performative intervention by **Mrs. Kovich**. (Image below) During the launch, guests will be able to get their fresh AdMa TYPP copy signed, sealed and delivered with limited edition stamps created by contributor Mrs. Kovich especially for the occasion. The booth will operate on and off according to the mood of its operator and the bureaucratic guidance from above. 
-* ![](https://ucarecdn.com/0b072257-aa46-4ae6-b02f-bf4e63732638/ "Image by Mrs. Kovich (2023)")
+* ![](https://pub-482595b1796343bdaa334509f7361457.r2.dev/0b072257-aa46-4ae6-b02f-bf4e63732638.jpg "Image by Mrs. Kovich (2023)")
 * *I don’t know where is the best place to be born again*. Performance **Tijana Petrovic**. (Image below)
 
   *They can’t say anything* 
@@ -41,7 +41,7 @@ Welcome: Petra Van Brabandt & Marnie Slater
 
   I thought it was icky, but felt like home
 
-  ![](https://ucarecdn.com/bd3fbe29-05bd-465b-9489-c53445439b67/ "A drawing by Tijana Petrovic (2023)")
+  ![](https://pub-482595b1796343bdaa334509f7361457.r2.dev/bd3fbe29-05bd-465b-9489-c53445439b67.jpg "A drawing by Tijana Petrovic (2023)")
 
 
 
@@ -59,6 +59,6 @@ TYPP #9 is designed by Ward Heirwegh.
 
 From within the Advanced Master Share Research module, each year a new group of students produce their own *ADMA TYPP*, to open up conversation as a mode of research and practice. *ADMA TYPP #3 Your Travel Companion is designed by Joud Toamah.* 
 
-![](https://ucarecdn.com/bf679ce8-1889-4727-885a-64820e81e1de/ "Cover image of ADMA TYP #3")
+![](https://pub-482595b1796343bdaa334509f7361457.r2.dev/bf679ce8-1889-4727-885a-64820e81e1de.jpg "Cover image of ADMA TYP #3")
 
 ![]()

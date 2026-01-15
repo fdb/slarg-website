@@ -6,9 +6,9 @@ section_website_2024: exhibition
 title: hear / musical score drawings
 type: texts on the wall / drawings
 author: Robin Vanbesien
-main_image: https://ucarecdn.com/c6317751-5bf7-476d-aeaf-569bbef0efe5/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/c6317751-5bf7-476d-aeaf-569bbef0efe5.jpg
 images:
-  - https://ucarecdn.com/f1db7857-86f7-4eeb-a53c-9e327fbe7d49/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/f1db7857-86f7-4eeb-a53c-9e327fbe7d49.jpg
 date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---

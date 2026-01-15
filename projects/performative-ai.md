@@ -10,7 +10,7 @@ research_interests:
   - performance
 Supervisors:
   - "Imane B. K. "
-main_image: https://ucarecdn.com/dae1e88d-c82b-4abd-9f20-6b9435dd32b2/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/dae1e88d-c82b-4abd-9f20-6b9435dd32b2.jpg
 main_image_credits: Photo by Tina Kult
 main_image_alt: Visitor watching the "I'm Sorry I Made You Feel This Way"
   project, developed by Martina Menegon, Frederik De Bleser and Lieven

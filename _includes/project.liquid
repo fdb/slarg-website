@@ -122,7 +122,7 @@ layout: base.liquid
 
   {% if main_image %}
   <figure>
-    <img src="{{ main_image | url }}/-/format/auto/" width="" height="" alt="{{ main_image_alt }}" />
+    <img src="{{ main_image | url }}" width="" height="" alt="{{ main_image_alt }}" />
     <figcaption class="image-block__credits">{{ main_image_credits }}</figcaption>
   </figure>
 {% endif %}
@@ -142,7 +142,7 @@ layout: base.liquid
   <div class="gallery">
     {% for image in gallery %}
       <div class="image-block">
-        <img src="{{ image.src | url }}/-/format/auto/" alt="{{ image.alt}}" />
+        <img src="{{ image.src | url }}" alt="{{ image.alt}}" />
         <figcaption class="image-block__credits">{{ image.caption }}</figcaption>
       </div>
     {% endfor %}
