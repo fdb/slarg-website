@@ -22,6 +22,7 @@ research_interests:
   - Arabic handwriting
   - Book qualities & bookness
   - Devotion and aesthetics
+  - Drawing
   - Ecology and spirituality
   - Qur’anic studies
   - Sacred books
