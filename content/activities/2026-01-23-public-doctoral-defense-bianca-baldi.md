@@ -3,7 +3,7 @@ type: activity
 title: "Public Doctoral Defense: Bianca Baldi"
 layout: activity.liquid
 startDate: 2026-01-22T15:00:19.537Z
-endDate: 2026-01-23T17:00:19.543Z
+endDate: 2026-01-22T17:00:19.543Z
 location: "Kunsthal Extra City - Antwerpen "
 thumbnail: https://ucarecdn.com/d3e338e6-9da1-4703-8303-bb4c5a8d1ca8/
 research_interests:
@@ -28,3 +28,5 @@ Through exhibitions such as *Sea Through Skin* (on view at Extra City), Baldi’
 Jury: Diana Arbaiza, Hicham Khalidi, George Tebogo Mahashe, Jyoti Mistry, Wesley Meuris, Petra Van Brabandt, Kurt Vanhoutte\
 18:00 – Laudatio by the supervisors\
 18:30 – Reception
+
+I﻿mage: installation view, *Play-White*
