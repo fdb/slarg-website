@@ -3,7 +3,7 @@ layout: project.liquid
 tags: project
 title: "Play-White: Racial Passing and Embodied Images."
 start_date: 2020-09-24T09:18:54.003Z
-end_date: ""
+end_date: 2026-01-22T23:00:00.000Z
 project-kind: PhD
 ongoing: false
 abstract: >-
