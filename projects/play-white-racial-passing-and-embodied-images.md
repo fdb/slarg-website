@@ -6,19 +6,7 @@ start_date: 2020-09-24T09:18:54.003Z
 end_date: 2026-01-22T23:00:00.000Z
 project-kind: PhD
 ongoing: false
-abstract: >-
-  Bianca Baldi successfully defended her doctoral project Play-White: Racial
-  Passing and Embodied Images, a practice-led PhD developed between 2020 and
-  2026 at Sint Lucas Antwerpen (KdG) and ARIA (University of Antwerp). The
-  research examined racial passing not as a fixed historical category but as an
-  embodied, material, and relational condition, explored through artistic
-  practice across glass, textile, pigment, sound, film, and photography. Through
-  processes of making and exhibition, the project approached passing as a mode
-  of becoming, foregrounding questions of visibility and concealment, memory and
-  inheritance, and the ethical stakes of representation.
-
-
-  Supervisors: Petra Van Brabandt (KdG), Wesley Meuris (KdG) & Diana Abraizas (UA). 
+abstract: ""
 research_interests:
   - materiality
   - photography
