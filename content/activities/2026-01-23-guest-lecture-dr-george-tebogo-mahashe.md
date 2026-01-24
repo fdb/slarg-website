@@ -1,6 +1,6 @@
 ---
 type: activity
-title: "Guest Lecture: Dr George Tebogo Mahashe"
+title: "Guest Lecture: Professor George Tebogo Mahashe"
 layout: activity.liquid
 startDate: 2026-01-23T15:00:43.116Z
 endDate: 2026-01-23T16:30:43.124Z
@@ -12,9 +12,9 @@ research_interests:
   - photography
 people: []
 ---
-On Friday 23 January, SLARG welcomes Dr George Tebogo Mahashe for a guest lecture in the AdMa room (K.03.09).
+On Friday 23 January, SLARG welcomes George Tebogo Mahashe for a guest lecture in the AdMa room (K.03.09).
 
-Mahashe is an artist and researcher at the Michaelis School of Fine Art (University of Cape Town). His work moves across photography, museums, archives, and the afterlives of anthropology, operating at the intersection of artistic research and practice. Drawing on khelovedu as a conceptual framework, his practice challenges dominant epistemologies and opens transdisciplinary modes of thinking.
+Mahashe is an associate professor at the Michaelis School of Fine Art (University of Cape Town). His work moves across photography, museums, archives, and the afterlives of anthropology, operating at the intersection of artistic research and practice. Drawing on khelovedu as a conceptual framework, his practice challenges dominant epistemologies and opens transdisciplinary modes of thinking.
 
 His ongoing research platform *—defunct context* explores collaborations between art, science, technology, and Indigenous Knowledge Systems. This inquiry culminated in the artist book *—defunct context: Ambivalence to important work* (2023), a layered “dreamscape” assembling 15 years of practice through photography, camera obscura, museum refiguration, and collaborative exchange.
 
