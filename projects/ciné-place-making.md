@@ -1,7 +1,7 @@
 ---
 layout: project.liquid
 tags: project
-title: Ciné Place-Making (PhD completed in July 2022)
+title: Ciné Place-Making (PhD completed on 2 July 2022)
 start_date: 2020-08-23T23:36:42.467Z
 end_date: 2024-07-23T23:36:42.479Z
 project-kind: PhD
