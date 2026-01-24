@@ -5,9 +5,7 @@ layout: people.liquid
 tags: researcher
 person_name: Hoda Siahtiri
 role:
-  - PhD
   - Former researcher
-email: "hoda.siahtiri@kdg.be "
 research_interests:
   - visual performance
 bio: >-
@@ -32,5 +30,6 @@ image_researcher:
   - https://ucarecdn.com/abd5e7ba-e6b4-4696-b4f9-711e05da3da2/
 status_of_research: ongoing
 available_for_supervision: "false"
+email: "hoda.siahtiri@kdg.be "
 headshot: https://ucarecdn.com/fe78ef46-7e36-4cda-9a5a-6d523bd2b2f0/
 ---
