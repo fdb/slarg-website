@@ -4,6 +4,6 @@ tags: people
 person_name: testing
 role:
   - Researcher
-headshot: /static/img/4032-3024-max.jpg
+headshot: /static/img/20250611_102904.jpg
 bio: hellozfz
 ---
