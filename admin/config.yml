@@ -6,6 +6,7 @@ media_library:
   name: uploadcare
   config:
     publicKey: 8970f409c0de54974858
+    baseUrl: /.netlify/functions/r2-upload
 site_url: https://slarg.be
 display_url: https://slarg.be
 load_scripts:
