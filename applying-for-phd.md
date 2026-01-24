@@ -1,7 +1,7 @@
 ---
 layout: phd-page-layout
 title: Call for PhD Applications NOW OPEN!
-thumbnail: https://ucarecdn.com/9a9a686f-6274-4715-a7ae-34714ec2b02e/
+thumbnail: ""
 ---
 **Do you want to join SLARG and do a PhD in the visual arts at Sint Lucas Antwerpen (KdG)/ARIA (University of Antwerp)?** 
 
