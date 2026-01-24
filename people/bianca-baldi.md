@@ -4,7 +4,6 @@ tags:
   - researcher
 person_name: Bianca Baldi
 role:
-  - PhD
   - Former researcher
 email: Bianca.baldi@kdg.be
 research_interests: []
