@@ -6,13 +6,11 @@ media_library:
   name: cloudinary
   config:
     cloud_name: dzidyqv6p
-    api_key: 443692255689819
+    upload_preset: decap_unsigned
     multiple: true
     default_transformations:
       - fetch_format: auto
         quality: auto
-    use_secure_upload: true
-    secure_upload_url: /.netlify/functions/cloudinary-sign
 site_url: https://slarg.be
 display_url: https://slarg.be
 load_scripts:
