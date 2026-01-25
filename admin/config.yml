@@ -2,15 +2,15 @@ backend:
   name: git-gateway
   branch: main
 media_folder: static/img
-media_library:
-  name: cloudinary
-  config:
-    cloud_name: dzidyqv6p
-    upload_preset: decap_unsigned
-    multiple: true
-    default_transformations:
-      - fetch_format: auto
-        quality: auto
+# media_library:
+#   name: cloudinary
+#   config:
+#     cloud_name: dzidyqv6p
+#     upload_preset: decap_unsigned
+#     multiple: true
+#     default_transformations:
+#       - fetch_format: auto
+#         quality: auto
 site_url: https://slarg.be
 display_url: https://slarg.be
 load_scripts:
