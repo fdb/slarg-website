@@ -4,7 +4,7 @@ layout: activity.liquid
 startDate: 2025-10-23T18:00:57.192Z
 endDate: 2025-10-23T21:00:57.200Z
 location: FOMU - Museum of Photography, Waalsekaai 47, Antwerpen
-thumbnail: https://ucarecdn.com/fa19ef54-7026-46ef-8ac8-9c1a9fa8d9ce/
+thumbnail: https://pub-482595b1796343bdaa334509f7361457.r2.dev/fa19ef54-7026-46ef-8ac8-9c1a9fa8d9ce.jpg
 research_interests:
   - Exhibition
   - Photography

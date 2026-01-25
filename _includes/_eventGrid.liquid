@@ -1,7 +1,7 @@
 <div class="events-grid">
     {% for event in events %}
     <div class="event">
-        <a href="{{ event.url }}"><img src="{{ event.data.main_image }}-/format/auto/scale_crop/600x600/smart/" alt=""></a>
+        <a href="{{ event.url }}"><img src="{{ event.data.main_image }}" alt=""></a>
         <h2 class="event-title">
             <a href="{{ event.url }}">{{ event.data.title }}</a>
         </h2>

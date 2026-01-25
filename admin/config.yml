@@ -3,9 +3,8 @@ backend:
   branch: main
 media_folder: static/img
 media_library:
-  name: uploadcare
-  config:
-    publicKey: 8970f409c0de54974858
+  name: local
+  max_file_size: 2097152
 site_url: https://slarg.be
 display_url: https://slarg.be
 load_scripts:

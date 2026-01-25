@@ -21,7 +21,7 @@ event-highlight:
     <div class="highlight-events">
       {% for section in event-highlight %}
       <div class="highlight-event">
-        <img src="{{ section.image }}-/preview/500x500" alt="">
+        <img src="{{ section.image }}" alt="">
         <h2>{{ section.section_title }}</h2>
         <div class="description">{{ section.description | markdownify }}
           <p class="info">

@@ -9,6 +9,6 @@ research_interests:
   - fiction
   - future thinking
   - history
-main_image: https://ucarecdn.com/d9c8f099-c906-4181-8839-57dbd3fde8ae/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/d9c8f099-c906-4181-8839-57dbd3fde8ae.jpg
 ---
 This research wants to delve into (science) fiction more comprehensively. An accumulation of seemingly scientific facts (historical and technological) often conceives an overly one-sided view on future thinking. This research wants to examine how specific narrative techniques can be used to cast an accessible yet critical light on sometimes too plausible scenarios. Science fiction can offer the possibility of presenting things differently than they appear, perhaps closer to what they actually are. Which artistic processes and constellations allow us to reconsider common chronologies? How can new and alternative narratives reposition the current configuration of science and technology?

@@ -15,7 +15,7 @@ role:
   - Post-Doc
   - Staff
 email: frederik.debleser@kdg.be
-headshot: https://ucarecdn.com/5376e29e-537c-4f91-aa56-928f1153b3b9/
+headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/5376e29e-537c-4f91-aa56-928f1153b3b9.jpg
 bio: >+
   Dr. Frederik De Bleser is a postdoctoral researcher and lecturer at Sint Lucas
   Antwerpen (KdG). His research concentrates on the democratization of
@@ -47,7 +47,7 @@ bio: >+
 
 staff_flag: "false"
 image_researcher:
-  - https://ucarecdn.com/78f36d31-7aac-4e5c-bd31-5303d4125af0/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/78f36d31-7aac-4e5c-bd31-5303d4125af0.jpg
 person_name: Frederik De Bleser
 status_of_research: finished
 available_for_supervision: false

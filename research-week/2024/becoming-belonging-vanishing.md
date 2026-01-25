@@ -6,9 +6,9 @@ section_website_2024: exhibition
 title: What is Real? Becoming, Belonging, Vanishing.
 type: Mixed Reality Interactive Installation
 author: Danial Shah
-main_image: https://ucarecdn.com/8fa7ea9f-c8c0-4799-abd1-9e538080bb7b/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/8fa7ea9f-c8c0-4799-abd1-9e538080bb7b.jpg
 images:
-  - https://ucarecdn.com/5ea000cb-bb2c-43f0-b3a1-04fef1e1e1f9/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/5ea000cb-bb2c-43f0-b3a1-04fef1e1e1f9.jpg
 date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---

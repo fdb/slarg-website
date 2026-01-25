@@ -9,11 +9,11 @@ year: 2022
 date: 2022-10-14
 time: 19:30 - 21:00
 location: Kunsthal Extra City
-main_image: https://ucarecdn.com/f7dfe6f0-380c-4c75-adf3-38fde6a7d73a/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/f7dfe6f0-380c-4c75-adf3-38fde6a7d73a.jpg
 images:
-  - https://ucarecdn.com/3cbdb866-58b3-455c-93a7-e71070616bde/
-  - https://ucarecdn.com/f9f9a84a-59cd-4dd2-afea-45821a8bb10e/
-  - https://ucarecdn.com/b4df38a9-eaa0-40da-8452-393151dab669/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/3cbdb866-58b3-455c-93a7-e71070616bde.jpg
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/f9f9a84a-59cd-4dd2-afea-45821a8bb10e.jpg
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/b4df38a9-eaa0-40da-8452-393151dab669.jpg
 ---
 **This activity is free and open to all, please register [here](https://calendly.com/extra-city/eglebudvytyte).** 
 

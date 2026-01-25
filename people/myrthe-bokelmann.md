@@ -12,9 +12,9 @@ bio: Myrthe Bokelmann (they/she, 1998) is a freelance dance maker and dance
   Eilit Marom and LeineRoebana amongst others. Currently they are part of
   research group the Algorithmic Gaze at Sint Lucas working on performative AI
   from a bodily perspective.
-headshot: https://ucarecdn.com/a3421058-6e7f-4dfa-bd06-6e9cef44d200/
+headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/a3421058-6e7f-4dfa-bd06-6e9cef44d200.jpg
 image_researcher:
-  - https://ucarecdn.com/25e4a65f-c3a9-4139-ae45-0549354997c9/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/25e4a65f-c3a9-4139-ae45-0549354997c9.jpg
 staff_flag: 'false'
 email: myrthe.bokelmann@kdg.be
 available_for_supervision: 'false'

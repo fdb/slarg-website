@@ -6,9 +6,9 @@ section_website_2024: exhibition
 title: Missing Books Անյայտ աղբիւրներ
 type: "mobile installation "
 author: Garine Gokceyan
-main_image: https://ucarecdn.com/41d6a760-efda-4e9a-a9ce-f2383ef2c4b9/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/41d6a760-efda-4e9a-a9ce-f2383ef2c4b9.jpg
 images:
-  - https://ucarecdn.com/6c77a387-6662-46ca-b19f-df2405e86857/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/6c77a387-6662-46ca-b19f-df2405e86857.jpg
 date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---

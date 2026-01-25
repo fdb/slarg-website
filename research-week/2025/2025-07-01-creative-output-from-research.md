@@ -4,7 +4,7 @@ layout: activity.liquid
 startDate: 2025-10-20T12:00:00.000Z
 endDate: 2025-10-20T15:00:52.407Z
 location: Sint Lucas Antwerpen, AdMa Room, K.03.09
-thumbnail: https://ucarecdn.com/55cf3fec-b337-47b2-86bd-fd12eda31eb9/
+thumbnail: https://pub-482595b1796343bdaa334509f7361457.r2.dev/55cf3fec-b337-47b2-86bd-fd12eda31eb9.jpg
 research_interests:
   - Practice-based research
   - workshop

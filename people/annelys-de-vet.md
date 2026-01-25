@@ -20,7 +20,7 @@ social_links:
     url: https://www.bureaudevet.be
   - name: Instagram
     url: https://www.instagram.com/devetann/
-headshot: https://ucarecdn.com/aa782ca8-a1d1-42f8-b889-6c7a4c434ece/
+headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/aa782ca8-a1d1-42f8-b889-6c7a4c434ece.jpg
 bio: >-
   
 

@@ -6,9 +6,9 @@ section_website_2024: event
 title: Re:Orientation
 type: Performance
 author: Biyi Zhu
-main_image: https://ucarecdn.com/68de27cf-db69-4800-8314-f7ce17770cb7/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/68de27cf-db69-4800-8314-f7ce17770cb7.jpg
 images:
-  - https://ucarecdn.com/2ba63832-53f2-4008-b75d-e67bbb7de7c1/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/2ba63832-53f2-4008-b75d-e67bbb7de7c1.jpg
 date: 2024-10-25
 time: 16:00 - 18:00
 location: Sint Lucas Antwerpen showroom

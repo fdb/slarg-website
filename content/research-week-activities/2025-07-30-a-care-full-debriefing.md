@@ -4,7 +4,7 @@ layout: activity.liquid
 startDate: 2025-10-20T12:00:12.082Z
 endDate: 2025-10-20T15:00:12.089Z
 location: Sint Lucas Antwerpen, Library
-thumbnail: https://ucarecdn.com/79e14677-db09-4d3b-a967-c4f1bc170d85/
+thumbnail: https://pub-482595b1796343bdaa334509f7361457.r2.dev/79e14677-db09-4d3b-a967-c4f1bc170d85.jpg
 research_interests:
   - care
   - ethics

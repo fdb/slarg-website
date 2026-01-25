@@ -11,7 +11,7 @@ research_interests:
   - film
   - photography
   - mixed-media
-headshot: https://ucarecdn.com/5ddb470d-4913-4136-9204-530fa81f1cb3/
+headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/5ddb470d-4913-4136-9204-530fa81f1cb3.jpg
 bio: >-
   Danial Shah is a Pakistani documentary filmmaker and photographer whose work
   spans more than a decade of photojournalism and independent storytelling. His
@@ -33,7 +33,7 @@ social_links:
     url: https://www.instagram.com/danialshah_
 staff_flag: "false"
 image_researcher:
-  - https://ucarecdn.com/c0ef8db3-6b7e-4391-9b1b-a690a3203362/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/c0ef8db3-6b7e-4391-9b1b-a690a3203362.jpg
 time: 2021 - 2025
 status_of_research: ongoing
 available_for_supervision: true

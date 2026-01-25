@@ -4,7 +4,7 @@ layout: activity.liquid
 startDate: 2025-10-21T12:00:14.871Z
 endDate: 2025-10-21T14:00:14.876Z
 location: Sint Lucas Antwerpen, AdMa Room, K.03.09
-thumbnail: https://ucarecdn.com/299be170-e6d3-40cd-8588-b2a4040d3a19/
+thumbnail: https://pub-482595b1796343bdaa334509f7361457.r2.dev/299be170-e6d3-40cd-8588-b2a4040d3a19.jpg
 tags: []
 research_interests:
   - collective praxis

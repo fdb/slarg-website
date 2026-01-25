@@ -4,7 +4,7 @@ layout: activity.liquid
 startDate: 2025-10-21T16:30:00.000Z
 endDate: 2025-10-21T18:00:15.513Z
 location: " Sint Lucas Antwerpen, AdMa Room, K.03.09"
-thumbnail: https://ucarecdn.com/180ed8a0-2b5b-45ee-897c-7145a3a6e3ba/-/crop/395x562/205,111/-/preview/
+thumbnail: https://pub-482595b1796343bdaa334509f7361457.r2.dev/180ed8a0-2b5b-45ee-897c-7145a3a6e3ba.jpg,111
 tags: []
 research_interests:
   - artists' books

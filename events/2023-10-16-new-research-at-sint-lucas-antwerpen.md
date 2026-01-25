@@ -10,9 +10,9 @@ author: "Tundé Adefioye, Imane Benyecif Khoutoul, Garine Gokceyan, Irma
 date: 2023-10-16
 time: 14:00 - 17:30
 location: "Showroom, Sint Lucas Antwerpen, Van Schoonbekestraat 143, 2018 Antwerpen "
-main_image: https://ucarecdn.com/9b0136fa-562b-4c60-9f99-3cc1d641801c/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/9b0136fa-562b-4c60-9f99-3cc1d641801c.jpg
 images:
-  - https://ucarecdn.com/19accc2c-86da-478b-a7ce-22fedd87e95e/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/19accc2c-86da-478b-a7ce-22fedd87e95e.jpg
 ---
 Curious about the new research projects starting at SLARG? Come to our sharing session!  
 

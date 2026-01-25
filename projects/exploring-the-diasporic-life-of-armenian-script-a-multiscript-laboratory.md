@@ -24,7 +24,7 @@ research_interests:
   - multiscript
   - publishing
   - typography
-main_image: https://ucarecdn.com/045af586-354e-4784-9c80-8aa52fc28ccf/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/045af586-354e-4784-9c80-8aa52fc28ccf.jpg
 main_image_credits: >-
   "Missing Books Անյայտ Աղբիւրներ", designed in Brussels exhibited in Antwerp,
   traveled to Armenia, Netherlands... 

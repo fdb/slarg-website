@@ -3,7 +3,7 @@ layout: base.liquid
 ---
 <article class="activity-detail">
   {% if thumbnail %}
-    <img src="{{ thumbnail | append: '/-/format/jpeg/'}}" alt="Thumbnail for {{ title }}" class="activity-thumb">
+    <img src="{{ thumbnail }}" alt="Thumbnail for {{ title }}" class="activity-thumb">
   {% endif %}
   <h1 class="activity-title">{{ title }}</h1>
   <div class="activity-meta">

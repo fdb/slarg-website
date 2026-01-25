@@ -14,11 +14,11 @@ bio: Shayma Nader is an artist, curator and researcher from Palestine. Her
   Antwerp.
 staff_flag: "false"
 image_researcher:
-  - https://ucarecdn.com/2d6f6272-694f-4dca-bc8f-b8af92c5e7a1/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/2d6f6272-694f-4dca-bc8f-b8af92c5e7a1.jpg
 person_name: Shayma Nader
 status_of_research: ongoing
 available_for_supervision: "false"
 tags: researcher
 email: shaymanader.albess@kdg.be
-headshot: https://ucarecdn.com/958b97fe-3e47-45ea-bebf-031eda853e77/
+headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/958b97fe-3e47-45ea-bebf-031eda853e77.jpg
 ---

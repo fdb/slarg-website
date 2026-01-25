@@ -33,11 +33,11 @@ bio: >-
   Portrait of Pierre-Antoine: William Thompson
 staff_flag: "false"
 image_researcher:
-  - https://ucarecdn.com/d7b49386-648c-48b4-ae9d-bc0912c583f4/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/d7b49386-648c-48b4-ae9d-bc0912c583f4.jpg
 person_name: Pierre-Antoine Vettorello
 status_of_research: ongoing
 available_for_supervision: "false"
 tags: researcher
 email: "pierreantoine.vettorello@kdg.be "
-headshot: https://ucarecdn.com/a7af8ff2-f055-403b-82d6-af2e95f14e0c/
+headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/a7af8ff2-f055-403b-82d6-af2e95f14e0c.jpg
 ---

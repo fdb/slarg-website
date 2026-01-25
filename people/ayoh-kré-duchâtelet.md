@@ -14,7 +14,7 @@ bio: >-
   Ayoh is doing a PhD in the arts at Sint Lucas Antwerpen (KdG) / ARIA (University of Antwerp), entitled *Hearing room: Ghosts of the African Democratic Assembly.*
 staff_flag: false
 image_researcher:
-  - https://ucarecdn.com/561a6eb6-f4a2-485a-948f-04722d500fc0/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/561a6eb6-f4a2-485a-948f-04722d500fc0.jpg
 person_name: Ayoh Kré Duchâtelet
 role:
   - PhD
@@ -22,5 +22,5 @@ status_of_research: ongoing
 available_for_supervision: false
 tags: researcher
 email: ayoh.duchatelet@kdg.be
-headshot: https://ucarecdn.com/9e84a0d9-554b-4792-b98f-a66729603be0/
+headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/9e84a0d9-554b-4792-b98f-a66729603be0.jpg
 ---

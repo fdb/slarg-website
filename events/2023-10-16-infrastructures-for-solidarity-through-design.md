@@ -11,9 +11,9 @@ author: "Annelys Devet, Sulaiman Saleh, Siwar Krai(y)tem & Rasha Dakkak, Trees
 date: 2023-10-05
 time: 5-6 Oct, 10:00 - 17:00
 location: Pianofabriek, Brussels (Rue du Fort 35, 1060 Saint-Gilles
-main_image: https://ucarecdn.com/80220e57-61d8-4674-881f-23b7534f4fe1/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/80220e57-61d8-4674-881f-23b7534f4fe1.jpg
 images:
-  - https://ucarecdn.com/66a966fc-dccf-4822-a671-8e14c71a27b3/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/66a966fc-dccf-4822-a671-8e14c71a27b3.jpg
 ---
 ### Introduction
 

@@ -11,7 +11,7 @@ date: 2023-10-03
 time: 10:00 - 21:00
 location: K.03.09, third floor,  Sint Lucas Antwerpen, Van Schoonbekestraat 143,
   2018 Antwerpen
-main_image: https://ucarecdn.com/6e12ab73-949d-45d4-8da1-d9174ef0bf4f/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/6e12ab73-949d-45d4-8da1-d9174ef0bf4f.jpg
 ---
 Cover image: graphic design by Felix Godefroy
 

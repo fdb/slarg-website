@@ -7,7 +7,7 @@ end_date: 2024-09-26T12:32:24.713Z
 project-kind: 1 year project (pre-doc)
 abstract: ""
 research_interests: []
-main_image: https://ucarecdn.com/4649301c-11c5-4d59-95c3-69bf0b6540f2/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/4649301c-11c5-4d59-95c3-69bf0b6540f2.jpg
 people:
   - Joud Toamah
 ---

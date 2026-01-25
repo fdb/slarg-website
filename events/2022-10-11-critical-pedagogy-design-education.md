@@ -9,7 +9,7 @@ year: 2022
 date: 2022-10-11
 time: 10:00 - 17:00
 location: Room 3.09, Campus Sint Lucas Antwerpen, Van Schoonbekestraat 143
-main_image: https://ucarecdn.com/28c22151-568b-4758-81cf-e0aeeec16b62/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/28c22151-568b-4758-81cf-e0aeeec16b62.jpg
 ---
 **This event is open to all. Please register by sending an email at  > annelys.devet@kdg.be** 
 

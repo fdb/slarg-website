@@ -9,9 +9,9 @@ author: "Danial Shah "
 date: 2023-10-21
 time: 19:00 - 20:00
 location: "In the bar @ Kunsthal Extra City, Ploegstraat 25 "
-main_image: https://ucarecdn.com/cf45c1d2-18f1-4dfd-beef-1df47da4651c/
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/cf45c1d2-18f1-4dfd-beef-1df47da4651c.jpg
 images:
-  - https://ucarecdn.com/4202bea1-9b5e-455d-b6bf-781a5314923d/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/4202bea1-9b5e-455d-b6bf-781a5314923d.jpg
 ---
 The talk builds upon my artistic research in and on photo studios in Balochistan, Pakistan, the place where I grew up. Photographic aesthetics are a key terrain around which many individuals gather and bring individual fantasies in touch with a sense of belonging to the local community. Photographs born in these studios are not mere representations of life but tools for performing life itself, tools for becoming. In this presentation I will share the methodology of image mapping that I am presently engaged with while navigating also this terrain with the help of elements of semiotics and phenomenology. The talk focuses on the reflections interlinked to my artistic practice where I deal with questions related to addressing images from a variety of different positions: as a researcher, a photographer, documentarian, filmmaker, collector and observer let be as a former inhabitant of the geographic area in question and now a citizen in transition located in Europe
 

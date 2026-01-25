@@ -23,9 +23,12 @@
 		"serve": "14.0.1"
 	},
 	"dependencies": {
+		"@aws-sdk/client-s3": "^3.975.0",
+		"busboy": "^1.6.0",
 		"gray-matter": "^4.0.3",
 		"js-yaml": "^4.1.0",
-		"node-fetch": "^2.7.0"
+		"node-fetch": "^2.7.0",
+		"uuid": "^13.0.0"
 	},
 	"engines": {
 		"node": ">=18"

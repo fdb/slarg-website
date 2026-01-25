@@ -9,7 +9,7 @@ role:
   - Post-Doc
   - Staff
 email: joachim.benyakoub@kdg.be
-headshot: https://ucarecdn.com/84899bd6-9609-4c36-8fdf-c7ab775ba08e/
+headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/84899bd6-9609-4c36-8fdf-c7ab775ba08e.jpg
 bio: >-
   Joachim Ben Yakoub is an art worker, sometimes operating as writer, sometimes
   as curator or dramaturg, mostly in the Kitchen, a collective study and
@@ -26,7 +26,7 @@ social_links:
     name: "Website "
 staff_flag: "false"
 image_researcher:
-  - https://ucarecdn.com/d61aa75f-fa28-4593-8e57-6e2ce5aac80c/
+  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/d61aa75f-fa28-4593-8e57-6e2ce5aac80c.jpg
 status_of_research: ongoing
 available_for_supervision: "false"
 projects:

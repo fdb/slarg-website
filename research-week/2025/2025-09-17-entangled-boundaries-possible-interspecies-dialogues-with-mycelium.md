@@ -4,7 +4,7 @@ layout: activity.liquid
 startDate: 2025-10-26T10:00:00.000Z
 endDate: 2025-10-26T16:00:45.390Z
 location: toitoidrome, Zendelingenstraat 38, 2140 Borgerhout
-thumbnail: https://ucarecdn.com/113d5167-1bcc-463a-94f3-3b83ece01c8a/
+thumbnail: https://pub-482595b1796343bdaa334509f7361457.r2.dev/113d5167-1bcc-463a-94f3-3b83ece01c8a.jpg
 ---
 Come join us  in ' T_Cyberhol  and explore with us the exciting world of cyborg electronics, infused with the spirit of technofeminism! Together we can shape the future of technology in an inclusive and empowering way, short-circuiting patriarchal and neoliberal technologies.
 
