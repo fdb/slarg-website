@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div class="side-by-side">
-  <img src="/static/img/logo-slarg.jpg" alt="SLARG Logo" width="100" />
+  <img src="https://pub-482595b1796343bdaa334509f7361457.r2.dev/logo-slarg.jpg" alt="SLARG Logo" width="100" />
   <h1>FROM 16 TO 21 OCTOBER 2023, SINT LUCAS ANTWERPEN RESEARCH GROUP (SLARG) ORGANIZES ITS ANNUAL RESEARCH WEEK.</h1>
 </div>
 
