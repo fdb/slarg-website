@@ -11,6 +11,8 @@ abstract: ""
 main_image: /static/img/2022_06_02_museummiddelheim-5722.jpg
 main_image_credits: "​Sammy Baloji, The Long Hand, 2022, collection Kunst in de
   Stad, Antwerp. Photography: Tom Cornille"
+people:
+  - Sammy Baloji
 external_collaborators: []
 ---
 Sammy Baloji's PhD project aims at creating new memory devices, based upon two existing ones used by different Luba groups living in the DRC; Kasala, a ceremonial poem and Lukasa, a memory board used in ritual performance. The two groups using these memory devises were divided during the colonial era by boundaries erected between the former provinces of Kasai and Katanga. The artworks created in the context of this research project are meant to bridge these groups back together through a narrative that is part personal, part historical, part fictitious.
