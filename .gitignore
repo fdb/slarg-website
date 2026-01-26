@@ -5,3 +5,6 @@ _site/
 uploadcare-files.json
 .vscode/
 scripts-r2/
+
+# Local Netlify folder
+.netlify

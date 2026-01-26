@@ -9,6 +9,12 @@ functions = "netlify/functions"
 [functions]
   directory = "netlify/functions"
 
+[dev]
+  command = "npm run start"
+  targetPort = 3000
+  port = 8888
+  autoLaunch = false
+
 [[redirects]]
   from = "/"
   to = "/2022/"

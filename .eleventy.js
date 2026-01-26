@@ -48,6 +48,17 @@ module.exports = function (eleventyConfig, collections) {
 	eleventyConfig.addPassthroughCopy('2021/static');
 	eleventyConfig.addPassthroughCopy({ '_data/global-tags.json': 'global-tags.json' });
 
+	// Cloudflare Images variant filter
+	// Usage: {{ main_image | cfImage: 'thumb' }}
+	eleventyConfig.addFilter('cfImage', function(url, variant = 'public') {
+		if (url && url.includes('imagedelivery.net')) {
+			// Replace the variant at the end of the URL
+			return url.replace(/\/[^\/]+$/, '/' + variant);
+		}
+		// R2 and other URLs pass through unchanged
+		return url;
+	});
+
 	eleventyConfig.addFilter('formatRoles', function (roles) {
 		if (!Array.isArray(roles)) return '';
 		return roles.join(', ');
