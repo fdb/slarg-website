@@ -222,10 +222,6 @@ a .intro-text {
 }
 
 .hero {
-	/* background-image: url(/static/img/hero-background.jpg); */
-	/* background-color: #9e3a4c;
-	background-size: cover; */
-	/* height: 20vh; */
 	display: flex;
 	align-items: flex-start;
 	justify-content: center;
