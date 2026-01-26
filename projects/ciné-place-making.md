@@ -5,7 +5,7 @@ title: Ciné Place-Making (PhD completed on 2 July 2022)
 start_date: 2020-08-23T23:36:42.467Z
 end_date: 2024-07-23T23:36:42.479Z
 project-kind: PhD
-main_image: /static/img/hold-on-to-her_festival-poster-1.jpg
+main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/hold-on-to-her_festival-poster-1.jpg
 ---
 Robin Vanbesien successfully defended his artistic doctoral study, *Ciné Place-Making* (2018–2024). The research traced cinematic approaches to place-making within grassroots initiatives, networks, and social movements that resist oppressive spaces shaped by colonial racial capitalism.
 
