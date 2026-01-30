@@ -5,7 +5,7 @@ startDate: 2025-10-24T10:15:21.783Z
 endDate: 2025-10-24T16:00:21.797Z
 location: FOMU - Fotomuseum Antwerpen, Waalsekaai 47, Antwerpen, entrance via
   Cinema Lumière
-thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/09cd85c7-7494-45a2-afcc-f7440cd1ba05.jpg/public
+thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/09cd85c7-7494-45a2-afcc-f7440cd1ba05.jpg
 tags: []
 research_interests:
   - Balochistan

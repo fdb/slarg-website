@@ -6,9 +6,9 @@ section_website_2024: exhibition
 title: 16.8 kg is the daily global demand of sand per person on July 5th, 2024
 type: installation
 author: Saskia Van der Gucht
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/70a1a3f0-81d8-4345-b492-e14324624497.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/70a1a3f0-81d8-4345-b492-e14324624497.jpg
 images:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/52bb4a1b-4cb4-418f-a3b3-7b23bde3592e.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/52bb4a1b-4cb4-418f-a3b3-7b23bde3592e.jpg
 date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---

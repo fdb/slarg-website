@@ -138,22 +138,25 @@ async function uploadToCloudflareImages(fileBuffer, filename, imageId) {
     // If image already exists (duplicate), return the existing URL
     const error = data.errors?.[0];
     if (error?.code === 5409) {
-      // Image with this ID already exists - construct the URL
+      // Image with this ID already exists - construct the URL (without variant suffix)
       const baseUrl = `https://imagedelivery.net/${accountId}`;
       return {
-        url: `${baseUrl}/${imageId}/public`,
+        url: `${baseUrl}/${imageId}`,
         id: imageId
       };
     }
     throw new Error(error?.message || 'Upload to Cloudflare Images failed');
   }
 
-  // Return the public variant URL
+  // Return the base URL without variant suffix
+  // Templates will add the appropriate variant (/public or /medium)
   const variants = data.result.variants || [];
-  const publicUrl = variants.find(v => v.includes('/public')) || variants[0];
+  const anyUrl = variants[0] || '';
+  // Strip variant suffix from URL (e.g., /public, /medium)
+  const baseUrl = anyUrl.replace(/\/[^/]+$/, '');
 
   return {
-    url: publicUrl,
+    url: baseUrl,
     id: data.result.id
   };
 }

@@ -17,11 +17,11 @@ research_interests:
   - radical pedagogy
   - social design
   - subjective mapping
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/a415af45-6ac1-4b00-998d-e61605f6363f.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/a415af45-6ac1-4b00-998d-e61605f6363f.jpg
 main_image_credits: "Exhbition 'Disarming Design, politics of participatory
   practices', Gallery Sint Lucas School of Arts, Antwerp – November 2025 "
 gallery:
-  - src: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/093e4a0e-27aa-4965-ace2-73e4c4e57d2c.jpg/public
+  - src: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/093e4a0e-27aa-4965-ace2-73e4c4e57d2c.jpg
     caption: Gallery, Sint Lucas School of Arts, November 2024
     alt: Exhibition 'Disarming Design, politics of participatory practices'
 people:

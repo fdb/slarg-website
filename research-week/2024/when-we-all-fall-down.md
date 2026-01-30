@@ -6,9 +6,9 @@ section_website_2024: exhibition
 title: When we all fall down
 type: Audio, text, photo display
 author: Tundé Adefioye
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/acb042a0-b721-4936-880a-39eb52e0f282.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/acb042a0-b721-4936-880a-39eb52e0f282.jpg
 images:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b8ae4be0-d88c-4886-97d1-002e50120fd6.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b8ae4be0-d88c-4886-97d1-002e50120fd6.jpg
 date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---

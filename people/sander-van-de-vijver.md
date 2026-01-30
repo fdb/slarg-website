@@ -6,7 +6,7 @@ role:
   - Researcher
   - Staff
 email: sander.vandevyver@kdg.be
-headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/99491634-1580-450a-b4a9-4631b8489a45.jpg/public
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/99491634-1580-450a-b4a9-4631b8489a45.jpg
 bio: >-
   Sander (Antwerp, 1988) is an illustrator, graphic designer and creative coder
   teaching at Sint Lucas Antwerp in the illustration department and the Master

@@ -4,7 +4,7 @@ layout: activity.liquid
 startDate: 2025-10-23T11:30:00.000Z
 endDate: 2025-10-23T12:30:17.919Z
 location: Kunsthal Extra City - Chapel, Provinciestraat 112, Antwerpen
-thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/f1cd9676-9b35-4c18-9f33-b76108cbd463.jpg/public
+thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/f1cd9676-9b35-4c18-9f33-b76108cbd463.jpg
 tags:
   - Exhibition
 ---

@@ -11,7 +11,7 @@ layout: page.liquid
 {% for event in collections.event %}
 <a class="researcher" href="{{ researcher.url }}">
     <h1> {{ event.data.name }}</h1>
-    <img src="{{event.data.main_image}}" alt="headshot of {{event.data.title}}">
+    <img src="{{event.data.main_image}}/medium" alt="headshot of {{event.data.title}}">
 
 </a>
 {% endfor %}

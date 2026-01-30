@@ -27,7 +27,7 @@ social_links:
     url: https://www.instagram.com/siahtiri.hoda/?hl=en
 staff_flag: "false"
 image_researcher:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/abd5e7ba-e6b4-4696-b4f9-711e05da3da2.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/abd5e7ba-e6b4-4696-b4f9-711e05da3da2.jpg
 status_of_research: ongoing
 available_for_supervision: "false"
 email: "hoda.siahtiri@kdg.be "

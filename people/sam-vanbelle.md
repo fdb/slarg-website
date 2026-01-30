@@ -18,11 +18,11 @@ bio: Sam Vanbelle is a Belgian illustrator and lecturer in the Applied Masters
   where the space for gender variation is often narrow.
 staff_flag: "false"
 image_researcher:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/5717be5e-e6ae-485c-8c41-661934ab8670.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/5717be5e-e6ae-485c-8c41-661934ab8670.jpg
 person_name: Sam Vanbelle
 status_of_research: ongoing
 available_for_supervision: false
 tags: researcher
 email: sam.vanbelle@kdg.be
-headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/aa0635c7-bead-47e0-b2ac-5b7b8cebaab0.jpg/public
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/aa0635c7-bead-47e0-b2ac-5b7b8cebaab0.jpg
 ---

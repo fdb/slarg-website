@@ -6,9 +6,9 @@ section_website_2024: exhibition
 title: "Chromograph: Blaschka i-iv "
 type: Ink on paper
 author: Bianca Baldi
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/fa38447c-9f64-45e1-b216-451388118953.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/fa38447c-9f64-45e1-b216-451388118953.jpg
 images:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/3f7e13bd-3b70-4a23-98b8-35f649101365.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/3f7e13bd-3b70-4a23-98b8-35f649101365.jpg
 date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---

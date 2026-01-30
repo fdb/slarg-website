@@ -4,7 +4,7 @@ tags: people
 person_name: Reem Shilleh
 role:
   - Researcher
-headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/14b5946e-13cc-4cf9-a10e-3269c701561f.jpg/public
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/14b5946e-13cc-4cf9-a10e-3269c701561f.jpg
 bio: >-
   
 

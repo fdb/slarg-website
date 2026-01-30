@@ -9,7 +9,7 @@ year: 2022
 date: 2022-10-10
 time: 14:00 - 16:00
 location: Room 3.09, Campus Sint Lucas Antwerpen
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/436a3994-f2d8-4133-94b4-2a8ad9c194f6.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/436a3994-f2d8-4133-94b4-2a8ad9c194f6.jpg
 images: ""
 ---
 ***This seminar is open to all (max. 20 participants). Please register by sending an email at > [robin.vanbesien@kdg.be](mailto:robin.vanbesien@kdg.be)***

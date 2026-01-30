@@ -34,11 +34,11 @@ bio: >-
   Photo credit: Sanja Bistričić Srića
 staff_flag: "false"
 image_researcher:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/2d1961ed-b19a-4b53-9f7f-340e538df08f.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/2d1961ed-b19a-4b53-9f7f-340e538df08f.jpg
 person_name: Robin Vanbesien
 status_of_research: finished
 available_for_supervision: "false"
 tags: researcher
 email: robin.vanbesien@kdg.be
-headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/66a199e7-1ca1-48f8-824b-30b9312e66f6.jpg/public
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/66a199e7-1ca1-48f8-824b-30b9312e66f6.jpg
 ---

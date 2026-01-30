@@ -8,7 +8,7 @@ project-kind: 1 year project (pre-doc)
 ongoing: true
 abstract: ""
 research_interests: []
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/c764cec9-c6ea-437d-bb62-3b08fbde4269.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/c764cec9-c6ea-437d-bb62-3b08fbde4269.jpg
 main_image_credits: 3 July 2025, Lesvos (Greece) – still by Robin Vanbesien
 people:
   - Robin Vanbesien

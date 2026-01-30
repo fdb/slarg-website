@@ -6,7 +6,7 @@ role:
   - Supervisor
   - Staff
 email: Kim.Gorus@kdg.be
-headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/62bee7dd-bfcd-4e2d-9058-2d9089d30154.jpg/public
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/62bee7dd-bfcd-4e2d-9058-2d9089d30154.jpg
 bio: >-
   Kim Gorus (°1982, Brussels) is a teacher and senior researcher at Sint Lucas
   Antwerpen. Her research focuses on narrative fiction strategies in

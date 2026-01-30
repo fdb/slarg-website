@@ -6,7 +6,7 @@ start_date: 2019-09-26T10:28:39.357Z
 end_date: 2021-11-26T11:28:39.362Z
 project-kind: 2 year project (post-doc)
 abstract: ""
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/bcbeb30e-89ec-482a-8c85-e7c456222fb5.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/bcbeb30e-89ec-482a-8c85-e7c456222fb5.jpg
 people:
   - Joachim Ben Yakoub
 ---

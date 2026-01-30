@@ -11,7 +11,7 @@ author: "Ward Heirwegh, Mrs. Kovich, Danial Shah, Marnie Slater, Tijana
 date: 2023-10-21
 time: 19:00 - 21:00
 location: "In the bar @ Kunsthal Extra City, Ploegstraat 25 "
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b590ff98-e339-46dc-810b-eb896ee9e717.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b590ff98-e339-46dc-810b-eb896ee9e717.jpg
 images: null
 ---
 Cover image from the new *TYPP*, by Ward Heirwegh, its designer.

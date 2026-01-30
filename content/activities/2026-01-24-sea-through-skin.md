@@ -5,7 +5,7 @@ layout: activity.liquid
 startDate: 2026-01-24T00:51:19.549Z
 endDate: 2026-01-24T00:51:19.556Z
 location: "Kunsthal Extra City "
-thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/bianca-baldi-installation-play-white-04.jpg/public
+thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/bianca-baldi-installation-play-white-04.jpg
 people:
   - Bianca Baldi
 ---

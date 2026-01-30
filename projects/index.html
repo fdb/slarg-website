@@ -80,7 +80,7 @@ title: Research Projects
       data-kind="{{ project.data['project-kind'] }}"
     >
       {% if project.data.main_image %}
-        <img src="{{ project.data.main_image | url }}" alt="Image for {{ project.data.main_image_credits }}" class="project-thumb" />
+        <img src="{{ project.data.main_image | url }}/medium" alt="Image for {{ project.data.main_image_credits }}" class="project-thumb" />
       {% endif %}
       <div class="project-info">
         <h2 class="project-title">{{ project.data.title }}</h2>
@@ -114,7 +114,7 @@ title: Research Projects
         data-kind="{{ project.data['project-kind'] }}"
       >
         {% if project.data.main_image %}
-          <img src="{{ project.data.main_image | url }}" alt="Image for {{ project.data.main_image_credits }}" class="project-thumb" />
+          <img src="{{ project.data.main_image | url }}/medium" alt="Image for {{ project.data.main_image_credits }}" class="project-thumb" />
         {% endif %}
         <div class="project-info">
           <h2 class="project-title">{{ project.data.title }}</h2>

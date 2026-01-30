@@ -42,7 +42,7 @@ layout: base
 {% endif %}
 
   {% if thumbnail %}
-    <img src="{{ thumbnail }}" alt="{{ title }} thumbnail" class="publication-thumbnail">
+    <img src="{{ thumbnail }}/public" alt="{{ title }} thumbnail" class="publication-thumbnail">
   {% endif %}
   <p class="publication-date">Published: {{ publication_date | date: "%B %d, %Y" }}</p>
 

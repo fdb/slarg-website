@@ -9,7 +9,7 @@ author: Mona Hedayati, Frederik De Bleser, Lieven Menschaert
 date: 2023-10-19
 time: 18:30 - 19:30
 location: Showroom  Sint Lucas Antwerpen, Van Schoonbekestraat 143, 2018 Antwerpen
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/d3d83438-8739-4d97-9451-340a556bde31.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/d3d83438-8739-4d97-9451-340a556bde31.jpg
 images: ""
 ---
 **NOTES: This was first cancelled on Tuesday and then rescheduled to Thursday Oct 19, starting at 18:30** 

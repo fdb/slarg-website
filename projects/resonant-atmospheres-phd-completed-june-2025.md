@@ -13,7 +13,7 @@ research_interests:
   - care
   - generative design
   - visual performance
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b1a89a59-35e9-4851-bdd4-2942586bdfa1.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b1a89a59-35e9-4851-bdd4-2942586bdfa1.jpg
 people:
   - Frederik De Bleser
 ---

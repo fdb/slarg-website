@@ -122,7 +122,7 @@ layout: base.liquid
 
   {% if main_image %}
   <figure>
-    <img src="{{ main_image | url }}" width="" height="" alt="{{ main_image_alt }}" />
+    <img src="{{ main_image | url }}/public" width="" height="" alt="{{ main_image_alt }}" />
     <figcaption class="image-block__credits">{{ main_image_credits }}</figcaption>
   </figure>
 {% endif %}
@@ -142,7 +142,7 @@ layout: base.liquid
   <div class="gallery">
     {% for image in gallery %}
       <div class="image-block">
-        <img src="{{ image.src | url }}" alt="{{ image.alt}}" />
+        <img src="{{ image.src | url }}/public" alt="{{ image.alt}}" />
         <figcaption class="image-block__credits">{{ image.caption }}</figcaption>
       </div>
     {% endfor %}
@@ -162,14 +162,14 @@ layout: base.liquid
         {% if f.link %}
           <a href="{{ f.link }}" target="_blank" rel="noopener">
             {% if f.image %}
-              <img src="{{ f.image | url }}" alt="Funding image for {{ f.name }}" style="max-height: 60px; margin-top: 0.5em;" />
+              <img src="{{ f.image | url }}/public" alt="Funding image for {{ f.name }}" style="max-height: 60px; margin-top: 0.5em;" />
           
             {% endif %}
             {{ f.name }}
           </a>
         {% else %}
           {% if f.image %}
-            <img src="{{ f.image | url }}" alt="Funding image for {{ f.name }}" style="max-height: 60px; margin-top: 0.5em;" />
+            <img src="{{ f.image | url }}/public" alt="Funding image for {{ f.name }}" style="max-height: 60px; margin-top: 0.5em;" />
            
           {% endif %}
           {{ f.name }}

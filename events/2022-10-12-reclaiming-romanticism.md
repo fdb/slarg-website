@@ -9,7 +9,7 @@ year: 2022
 date: 2022-10-12
 time: 10:00 - 12:00
 location: Room 3.09, Campus Sint Lucas Antwerpen
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/5e7f5dbe-95ef-4dd2-a963-86c7c6315b4c.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/5e7f5dbe-95ef-4dd2-a963-86c7c6315b4c.jpg
 images: null
 ---
 **This seminar is open to all *(12 participants max)*. Fully booked**
