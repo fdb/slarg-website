@@ -12,3 +12,6 @@ scripts-r2/
 
 # Secrets
 .env
+
+# Temp files
+/tmp
