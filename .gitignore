@@ -8,3 +8,7 @@ scripts-r2/
 
 # Local Netlify folder
 .netlify
+
+# Secrets
+.env
+
