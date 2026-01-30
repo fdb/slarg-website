@@ -45,7 +45,7 @@ function groupEventsByDayAndHour(allEvents) {
 module.exports = function (eleventyConfig, collections) {
 	eleventyConfig.addPassthroughCopy('static');
 	eleventyConfig.addPassthroughCopy('admin');
-	eleventyConfig.addPassthroughCopy('2021/static');
+	eleventyConfig.addPassthroughCopy('research-week/2021/static');
 	eleventyConfig.addPassthroughCopy({ '_data/global-tags.json': 'global-tags.json' });
 
 	eleventyConfig.addFilter('formatRoles', function (roles) {

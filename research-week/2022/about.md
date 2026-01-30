@@ -18,7 +18,7 @@ _Peace, justice, and love._
 <div class="partner-logos">
     <a rel="noreferrer" href="https://www.sintlucasantwerpen.be/en/research/" target="_blank"><img src="https://pub-482595b1796343bdaa334509f7361457.r2.dev/logo-sla-research.png" alt="Sint Lucas Antwerpen Research" /></a>
     <a rel="noreferrer" href="https://www.kdg.be/en" target="_blank"><img src="https://pub-482595b1796343bdaa334509f7361457.r2.dev/logo-kdg.png" alt="Karel de Grote Hogeschool" /></a>
-    <a rel="noreferrer" href="https://www.uantwerpen.be/en/research-groups/aria/" target="_blank"><img src="/static/img/logo-aria.png" alt="Antwerp Research Institute for the Arts" /></a>
+    <a rel="noreferrer" href="https://www.uantwerpen.be/en/research-groups/aria/" target="_blank"><img src="/static/img/local-img/logo-aria.svg" alt="Antwerp Research Institute for the Arts" /></a>
     <a rel="noreferrer" href="https://extracitykunsthal.org/en" target="_blank"><img src="https://pub-482595b1796343bdaa334509f7361457.r2.dev/logo-extra-city.png" alt="Extra City Kunsthal"></a>
     <a rel="noreferrer" href="https://curatorialstudies.be/" target="_blank"><img src="https://pub-482595b1796343bdaa334509f7361457.r2.dev/logo-curatorial-studies.png" alt="Curatorial Studies"></a>
     <a rel="noreferrer" href="https://morphovzw.be/en" target="_blank"><img src="https://pub-482595b1796343bdaa334509f7361457.r2.dev/logo-morpho.png" alt="Morpho"></a>
