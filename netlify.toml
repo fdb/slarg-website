@@ -3,11 +3,21 @@ publish = "_site"
 command = "npm run build"
 functions = "netlify/functions"
 
+[dev]
+command = "npx eleventy --watch"
+framework = "#static"
+autoLaunch = false
+
 [build.environment]
   TZ = "Europe/Brussels"
 
 [functions]
   directory = "netlify/functions"
+
+[[redirects]]
+  from = "/admin"
+  to = "/admin/"
+  status = 301
 
 [[redirects]]
   from = "/"

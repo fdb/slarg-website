@@ -12,11 +12,11 @@
 	<body>
 		<script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
 		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-		<!-- <script src="custom-media-library.js"></script> -->
+		<script src="cloudflare-media-library.js"></script>
 		<script>
-			CMS.init();
-
+			CMS.registerMediaLibrary(window.CloudflareMediaLibrary);
 			CMS.registerWidget('researchInterests', window.ResearchInterestsControl);
+			CMS.init();
 
 			window.addEventListener('load', function () {
 				const script = document.createElement('script');

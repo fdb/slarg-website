@@ -3,8 +3,9 @@ backend:
   branch: main
 media_folder: static/img
 media_library:
-  name: local
-  max_file_size: 2097152
+  name: cloudflare-images
+  config:
+    uploadEndpoint: /.netlify/functions/upload-image
 site_url: https://slarg.be
 display_url: https://slarg.be
 load_scripts:

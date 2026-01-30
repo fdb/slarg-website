@@ -5,3 +5,13 @@ _site/
 uploadcare-files.json
 .vscode/
 scripts-r2/
+.playwright-mcp
+
+# Local Netlify folder
+.netlify
+
+# Secrets
+.env
+
+# Temp files
+/tmp
