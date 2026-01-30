@@ -3,6 +3,10 @@ publish = "_site"
 command = "npm run build"
 functions = "netlify/functions"
 
+[dev]
+targetPort = 3000
+framework = "#static"
+
 [build.environment]
   TZ = "Europe/Brussels"
 
