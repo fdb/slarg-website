@@ -1,6 +1,6 @@
 // netlify/functions/upload-image.js
-const busboy = require('busboy');
-const { v4: uuidv4 } = require('uuid');
+import busboy from 'busboy';
+import { v4 as uuidv4 } from 'uuid';
 
 // Allowed file types for Cloudflare Images
 const ALLOWED_MIME_TYPES = [
@@ -21,7 +21,7 @@ const headers = {
   'Access-Control-Allow-Methods': 'POST, OPTIONS'
 };
 
-exports.handler = async (event, context) => {
+export const handler = async (event, context) => {
   // Handle CORS preflight
   if (event.httpMethod === 'OPTIONS') {
     return { statusCode: 200, headers, body: '' };
