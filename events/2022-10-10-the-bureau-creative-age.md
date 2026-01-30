@@ -9,7 +9,7 @@ year: 2022
 date: 2022-10-10
 time: 17:00 - 18:00
 location: Room 3.09, Campus Sint Lucas Antwerpen
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/d53b1089-7129-44fb-9e2d-83ccf3302c94.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/d53b1089-7129-44fb-9e2d-83ccf3302c94.jpg/public
 ---
 **This screening is open to all.**
 

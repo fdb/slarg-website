@@ -20,7 +20,7 @@ social_links:
     url: https://www.instagram.com/vietvu30s/
 staff_flag: true
 image_researcher:
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/a0c1aad3-89ec-433c-9cf8-700ecfaa8954.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/a0c1aad3-89ec-433c-9cf8-700ecfaa8954.jpg/public
 person_name: Việt Vũ (Phạm Quang Trung)
 role:
   - PhD
@@ -28,7 +28,7 @@ status_of_research: ongoing
 available_for_supervision: true
 tags: researcher
 email: "vietvu.pham@kdg.be "
-headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/b9f00ad0-6764-4e6a-b2c5-bde5309cb58c.jpg
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b9f00ad0-6764-4e6a-b2c5-bde5309cb58c.jpg/public
 projects:
   - "Queering the censorship: (Self-)investigations of an experimental filmmaker
     in Vietnam"

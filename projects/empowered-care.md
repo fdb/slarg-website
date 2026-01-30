@@ -14,10 +14,10 @@ research_interests:
   - socially engaged art
 people:
   - Dimitri van den Wittenboer
-Main image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/83e52b82-8918-4c56-a234-c266c8c62f2c.jpg,277
+Main image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/83e52b82-8918-4c56-a234-c266c8c62f2c.jpg,277/public
 tags: project
 title: Empowered Care
 ongoing: true
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/0953dd9e-3b57-485d-9656-8eb1149876d8.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/0953dd9e-3b57-485d-9656-8eb1149876d8.jpg/public
 ---
 The PhD research explores at broad formats of communal life that are based on care and mutual aid. In particular it is grounded in the artistic practice of co-initiation and co-maintenance of housing projects for and with people who are in financial and legal precarity (the homeless, sans-papiers, asylum seekers). The research explores through practice how care can be extended from the private nuclear family towards a broader group of people in need through sharing living space. In line with art as social practice the research explores ways of sharing space by overcoming established formats and proposing alternatives. The question of ethics is at the core of the research. Offering care to someone in a particular need involves inequality in power, which can lead to abuse, by fostering dis-empowerment and dependency. This research explores formats of care that are acknowledging potential pitfalls of inequality and offers practical proposals based on mutual aid, allyship and love.

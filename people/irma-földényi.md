@@ -5,7 +5,7 @@ person_name: Irma Földényi
 role:
   - PhD
 email: irma.foldenyi@kdg.be
-headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/662aa5ac-cfc3-4e61-8b74-5e86fe077ed1.jpg
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/662aa5ac-cfc3-4e61-8b74-5e86fe077ed1.jpg/public
 bio: >-
   <!--StartFragment-->
 

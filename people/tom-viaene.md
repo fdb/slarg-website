@@ -5,7 +5,7 @@ person_name: Tom Viaene
 role:
   - Staff
 email: tom.viaene@kdg.be
-headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/230303f7-fb0f-4fed-b845-d9ad98a66b94.jpg
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/230303f7-fb0f-4fed-b845-d9ad98a66b94.jpg/public
 bio: "**Tom J.J. Viaene** is a Belgian editor, lecturer, and programmer
   specialising in aesthetic and critical theory, with a focus on the philosophy
   of art and visual culture. He coordinates *Trigger*, a publication for

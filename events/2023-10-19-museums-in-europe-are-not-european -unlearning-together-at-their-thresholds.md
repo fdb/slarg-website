@@ -11,7 +11,7 @@ author: "Organized by Hoda Siahtiri, Hari Prasad Sacré, Arshia Ali Azmat "
 date: 2023-10-19
 time: 19:00 - 21:00
 location: VUB Main Campus Etterbeek Pleinlaan 2 1050 Elsene
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/84313225-1c1d-4038-9aa9-ad467447edc9.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/84313225-1c1d-4038-9aa9-ad467447edc9.jpg/public
 ---
 In this lecture, professor Azoulay addresses the impossibility of decolonising colonial museums, such as the Belgian Royal Museum for Central Africa, without decolonising the world. Addressing how stolen art, regime of documents and contemporary refugeeism are historically connected, she provides a transnational perspective on decolonisation. 
 

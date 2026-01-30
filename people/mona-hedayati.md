@@ -22,11 +22,11 @@ social_links:
     url: https://centreforsensorystudies.org/mona-hedayati/
 staff_flag: "false"
 image_researcher:
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/88a43bdd-daa9-42ea-a240-6c2a2dbca5c8.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/88a43bdd-daa9-42ea-a240-6c2a2dbca5c8.jpg/public
 person_name: Mona Hedayati
 status_of_research: ongoing
 available_for_supervision: "false"
 tags: researcher
 email: mona.hedayati@kdg.be
-headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/2f15114c-4cdd-46b5-8eaa-bf90ffab2bcf.jpg
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/2f15114c-4cdd-46b5-8eaa-bf90ffab2bcf.jpg/public
 ---

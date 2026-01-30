@@ -7,20 +7,20 @@ end_date: 2024-12-23T14:15:34.189Z
 project-kind: 2 year project (post-doc)
 research_interests:
   - data visualization
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/70b2b560-8992-48ee-a6c1-9b2f5c0e571c.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/70b2b560-8992-48ee-a6c1-9b2f5c0e571c.jpg/public
 main_image_credits: NodeBox screenshot by Frederik De Bleser
 main_image_alt: Screenshot of the NodeBox application showing the interface and
   a complex data visualization
 gallery:
-  - src: https://pub-482595b1796343bdaa334509f7361457.r2.dev/1e60340c-6697-4521-bce4-d74c103fc181.jpg
+  - src: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/1e60340c-6697-4521-bce4-d74c103fc181.jpg/public
     alt: Eurovision visualisation by Dalia Kemeklytė and Viktorija Pampuščenko
     caption: Eurovision visualisation by Dalia Kemeklytė and Viktorija Pampuščenko
-  - src: https://pub-482595b1796343bdaa334509f7361457.r2.dev/201126d2-a176-48cb-aa0a-2e764c657b1d.jpg
+  - src: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/201126d2-a176-48cb-aa0a-2e764c657b1d.jpg/public
     alt: 50 Years of Film Speech visualized by Jonas Lekevicius, Juste Ziliute and
       Augustinas Paukste
     caption: 50 Years of Film Speech visualized by Jonas Lekevicius, Juste Ziliute
       and Augustinas Paukste
-  - src: https://pub-482595b1796343bdaa334509f7361457.r2.dev/ed37f4a6-f833-4f6e-a550-94eab88631bd.jpg
+  - src: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/ed37f4a6-f833-4f6e-a550-94eab88631bd.jpg/public
     caption: A Day in Your City, visualization by Frederik De Bleser, Andy Boeykens
       and Tina Stevens for De Standaard
     alt: A Day in Your City, visualization by Frederik De Bleser, Andy Boeykens and

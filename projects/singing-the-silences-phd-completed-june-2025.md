@@ -10,7 +10,7 @@ research_interests:
   - Embodied knowledge
   - Listening practices
   - Ritual and grief
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/9efaec3e-e8de-4fcd-a726-c2de3cd29389.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/9efaec3e-e8de-4fcd-a726-c2de3cd29389.jpg/public
 people:
   - Joachim Ben Yakoub
 ---

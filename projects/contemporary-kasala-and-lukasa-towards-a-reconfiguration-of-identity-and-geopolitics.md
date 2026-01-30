@@ -8,7 +8,7 @@ end_date: 2026-05-23T23:29:56.197Z
 project-kind: PhD
 ongoing: true
 abstract: ""
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/2022_06_02_museummiddelheim-5722.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/2022_06_02_museummiddelheim-5722.jpg/public
 main_image_credits: "​Sammy Baloji, The Long Hand, 2022, collection Kunst in de
   Stad, Antwerp. Photography: Tom Cornille"
 people:

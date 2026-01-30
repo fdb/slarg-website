@@ -16,7 +16,7 @@ bio: Dimitri van den Wittenboer is a community artist and researchers based in
   aid, allyship and love and the ethical complexities of it.
 staff_flag: false
 image_researcher:
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/c47f7e94-1e01-45ce-beee-59c4bba10c89.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/c47f7e94-1e01-45ce-beee-59c4bba10c89.jpg/public
 person_name: Dimitri van den Wittenboer
 role:
   - PhD
@@ -24,5 +24,5 @@ status_of_research: ongoing
 available_for_supervision: false
 tags: researcher
 email: Dimitrivandenwittenboer@gmail.com
-headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/062a5982-e26b-4d0f-8e1d-551b02dc22c4.jpg
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/062a5982-e26b-4d0f-8e1d-551b02dc22c4.jpg/public
 ---

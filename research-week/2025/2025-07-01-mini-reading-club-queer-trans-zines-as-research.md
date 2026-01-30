@@ -4,7 +4,7 @@ layout: activity.liquid
 startDate: 2025-10-23T08:00:34.628Z
 endDate: 2025-10-23T09:30:34.633Z
 location: Sint Lucas Antwerpen, AdMa Room, K.03.09
-thumbnail: https://pub-482595b1796343bdaa334509f7361457.r2.dev/78eaecd4-d3a8-4803-8d1a-abe085e005f3.jpg
+thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/78eaecd4-d3a8-4803-8d1a-abe085e005f3.jpg/public
 research_interests:
   - illustration
 ---

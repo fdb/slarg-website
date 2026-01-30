@@ -6,9 +6,9 @@ section_website_2024: exhibition
 title: "Dome: Remembering Maïmouna"
 type: Installation
 author: Pierre-Antoine Vettorello
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/5f4fa6a9-0642-42cf-af67-513445f1dfe3.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/5f4fa6a9-0642-42cf-af67-513445f1dfe3.jpg/public
 images:
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/b65e93a6-6c2f-4754-802b-37ae64ba3079.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b65e93a6-6c2f-4754-802b-37ae64ba3079.jpg/public
 date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---

@@ -9,7 +9,7 @@ author: "Organized by Hoda Siahtiri, Hari Prasad Sacré and Arshia Ali Azmat "
 date: 2023-10-20
 time: 18:00 - 22:30
 location: "KAAISTUDIO'S - Rue Notre-Dame-du-Sommeil 81, 1000 Bruxelles "
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/b72fdd53-0309-45a1-92eb-eaf9d175b185.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b72fdd53-0309-45a1-92eb-eaf9d175b185.jpg/public
 ---
 Cover Image: 'Recalling History; Sitting number 6; Conjuring A Fork of Tales' Conjuring A looted wooden box by Hagar Ophir in collaboration with Juna Suleiman, Tapiès Foundation, photograph by Natasha Christia
 

@@ -5,7 +5,7 @@ layout: activity.liquid
 startDate: 2025-10-22T08:00:06.236Z
 endDate: 2025-10-22T14:00:56.631Z
 location: Sint Lucas Antwerpen, Showroom
-thumbnail: https://pub-482595b1796343bdaa334509f7361457.r2.dev/668ff979-6e74-4632-9afd-27713bcba081.jpg
+thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/668ff979-6e74-4632-9afd-27713bcba081.jpg/public
 research_interests:
   - Islamic
 ---

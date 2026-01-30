@@ -7,9 +7,9 @@ title: "Contemporary Kasala and Lukasa: towards a Reconfiguration of Identity
   and Geopolitics"
 type: Video, prints, sculpture
 author: "Sammy Baloji "
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/6fb1b93e-f2b4-46d8-b72d-685de4429977.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/6fb1b93e-f2b4-46d8-b72d-685de4429977.jpg/public
 images:
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/b718f7f9-e00d-43e0-9daa-0c219dfcaed2.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b718f7f9-e00d-43e0-9daa-0c219dfcaed2.jpg/public
 date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---

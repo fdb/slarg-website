@@ -9,13 +9,13 @@ year: 2022
 date: 2022-10-13
 time: 20:00-21:00
 location: Showroom, Campus Sint Lucas Antwerpen
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/8b143367-a758-4535-9828-d4a3c0887618.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/8b143367-a758-4535-9828-d4a3c0887618.jpg/public
 images:
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/19906093-db71-48fe-9715-0177b2a49f64.jpg
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/fdfb3654-3713-425c-b383-5bea19847cc0.jpg
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/f989cae8-d84f-4f9c-bfb7-16b75fa52b02.jpg
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/86ad5113-33e5-4cef-b791-b861a27ca358.jpg
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/25024144-70a2-43f3-83e7-ab039d53d106.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/19906093-db71-48fe-9715-0177b2a49f64.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/fdfb3654-3713-425c-b383-5bea19847cc0.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/f989cae8-d84f-4f9c-bfb7-16b75fa52b02.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/86ad5113-33e5-4cef-b791-b861a27ca358.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/25024144-70a2-43f3-83e7-ab039d53d106.jpg/public
 ---
 **Double Launch: TYPP # 8  and ADMA TYPP # 2**
 

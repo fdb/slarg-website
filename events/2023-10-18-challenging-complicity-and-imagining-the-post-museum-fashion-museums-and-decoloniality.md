@@ -9,7 +9,7 @@ author: Pierre-Antoine Vettorello
 date: 2023-10-04
 time: 10:00 - 12:00
 location: Library,  Sint Lucas Antwerpen, Van Schoonbekestraat 143, 2018 Antwerpen
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/e5eaa488-5773-4f7e-b4cb-73840af018ea.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/e5eaa488-5773-4f7e-b4cb-73840af018ea.jpg/public
 ---
 Cover image: 'Colorado College Zine Collection', by Colorado College Tutt Library is licensed under CC BY 2.0.
 

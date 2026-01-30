@@ -6,9 +6,9 @@ section_website_2024: exhibition
 title: A River Flows Through Dreams صلاة حلم
 type: Video work
 author: Joud Toamah
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/1728b1f7-6dcb-4688-b6b0-6917b30b361a.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/1728b1f7-6dcb-4688-b6b0-6917b30b361a.jpg/public
 images:
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/3718f8e1-3433-4b37-9220-b5355732975b.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/3718f8e1-3433-4b37-9220-b5355732975b.jpg/public
 date: 2024-09-24
 location: Sint Lucas Antwerpen showroom
 ---

@@ -6,7 +6,7 @@ start_date: 2024-09-26T10:22:11.080Z
 end_date: 2026-08-26T10:22:11.086Z
 project-kind: 2 year project (post-doc)
 ongoing: true
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/c76b7175-6d9d-4eea-a190-c8a3f302d890.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/c76b7175-6d9d-4eea-a190-c8a3f302d890.jpg/public
 people:
   - Joachim Ben Yakoub
   - Reem Shilleh

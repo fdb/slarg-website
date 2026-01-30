@@ -12,7 +12,7 @@ research_interests:
   - desires
   - portraiture
   - vanishing
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/ee129860-e618-4f59-8003-17dcfd8dee3e.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/ee129860-e618-4f59-8003-17dcfd8dee3e.jpg/public
 people:
   - Danial Shah
 external_collaborators: []

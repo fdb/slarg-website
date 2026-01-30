@@ -10,7 +10,7 @@ role:
   - Staff
 email: karen.vermeren@kdg.be
 research_interests: []
-headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/5c62e51e-7d0c-4d6e-8d06-41d37584d538.jpg
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/5c62e51e-7d0c-4d6e-8d06-41d37584d538.jpg/public
 bio: >-
   Karen Vermeren (°1982, Belgium) is a visual artist, postdoctoral researcher
   and lecturer at Sint Lucas Antwerpen (KdG). She obtained her Master's of Art
@@ -31,7 +31,7 @@ social_links:
     url: https://www.karenvermeren.be
 staff_flag: "false"
 image_researcher:
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/ee9d72db-39e1-47ec-b9fa-c05ca606b290.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/ee9d72db-39e1-47ec-b9fa-c05ca606b290.jpg/public
 status_of_research: ongoing
 available_for_supervision: "false"
 projects:

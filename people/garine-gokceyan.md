@@ -19,13 +19,13 @@ social_links:
     url: https://www.instagram.com/garine.gokceyan/
 staff_flag: false
 image_researcher:
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/9ea7378a-84c2-4e26-aedc-e0febf43aa49.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/9ea7378a-84c2-4e26-aedc-e0febf43aa49.jpg/public
 person_name: Garine Gokceyan
 status_of_research: ongoing
 available_for_supervision: false
 tags: researcher
 email: garine.gokceyan@kdg.be
-headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/d21ac0b8-0eba-4630-86fb-663d2d72f84b.jpg
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/d21ac0b8-0eba-4630-86fb-663d2d72f84b.jpg/public
 projects:
   - "Exploring the Diasporic Life of Armenian Script: A Multiscript Design
     Laboratory"

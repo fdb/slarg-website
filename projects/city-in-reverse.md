@@ -15,7 +15,7 @@ research_interests:
   - landscape
   - painting
   - raw material
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/1e50d293-c26b-4731-9672-2ee1f731b877.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/1e50d293-c26b-4731-9672-2ee1f731b877.jpg/public
 main_image_credits: © Karen Vermeren, 66x 92cm, aluminum powder, acrylic,
   encyclopaedia photo collage, silkscreen on stone paper
 people:

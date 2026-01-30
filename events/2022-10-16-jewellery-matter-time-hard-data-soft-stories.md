@@ -9,7 +9,7 @@ year: 2022
 date: 2022-10-16
 time: 10:00 - 17:00
 location: Sint Lucas Antwerpen - Showroom
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/11f79147-db02-4d3b-a4a2-7c3b8155457c.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/11f79147-db02-4d3b-a4a2-7c3b8155457c.jpg/public
 ---
 ‘Jewellery Matter Time - Hard Data, Soft Stories’ unveils contemporary stories about mined materials and how they contribute to jewellery as a practice. The movement of materials has a variety of ecological effects, many of which are concealed in the shadows behind shiny objects. If jewellery can tell stories, which stories could they tell about their origin in the age of the Anthropocene? 
 

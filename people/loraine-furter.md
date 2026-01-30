@@ -12,7 +12,7 @@ social_links: |-
   <https://www.lorainefurter.net/>
 
   <https://www.instagram.com/lorainefurter/>
-headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/64c0d154-f2d1-4e99-a7b2-141eceb1f22e.jpg
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/64c0d154-f2d1-4e99-a7b2-141eceb1f22e.jpg/public
 bio: Loraine Furter is a graphic designer and a teacher, specialized in hybrid
   publishing and in love with subversive anti-hegemonic practices. She
   co-founded the cyber-feminist collective Just For the Record, the typography
@@ -24,7 +24,7 @@ supervisors:
   - name: Kim Gorus
   - name: Diana Arbaiza
 image_researcher:
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/0bfb8237-d623-41cd-8754-eada04619c3f.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/0bfb8237-d623-41cd-8754-eada04619c3f.jpg/public
 time: September 2019-September 2025
 person_name: Loraine Furter
 role:

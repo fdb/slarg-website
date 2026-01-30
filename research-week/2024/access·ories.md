@@ -6,9 +6,9 @@ section_website_2024: exhibition
 title: Access·ories
 type: installation
 author: Loraine Furter
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/9208ba0a-06c3-4fb6-9800-fb90c12ab316.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/9208ba0a-06c3-4fb6-9800-fb90c12ab316.jpg/public
 images:
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/30e2e7f5-3064-4283-a327-a3f7c7d7ea75.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/30e2e7f5-3064-4283-a327-a3f7c7d7ea75.jpg/public
 date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---

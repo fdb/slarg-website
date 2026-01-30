@@ -9,7 +9,7 @@ year: 2022
 date: 2022-10-14
 time: 13:00 - 19:00
 location: Refectory, Morpho (entrance via Extra City)
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/c05c55d4-5928-4b6c-b3db-14bef2909b7f.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/c05c55d4-5928-4b6c-b3db-14bef2909b7f.jpg/public
 ---
 ***garden pub(l)ics***
 

@@ -6,10 +6,10 @@ section_website_2024: event
 title: "Assume calibration pose: this breath isn't mine"
 type: Performance
 author: Myrthe Bokelmann & Cèlia Tort Pujol
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/7b7fc03d-4d1d-4fd0-a0cb-466d54d3e86c.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/7b7fc03d-4d1d-4fd0-a0cb-466d54d3e86c.jpg/public
 images:
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/46104337-313e-4e88-8ae4-56d2a783d3cc.jpg
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/d5d1489a-5810-49e3-8563-e7589014f848.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/46104337-313e-4e88-8ae4-56d2a783d3cc.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/d5d1489a-5810-49e3-8563-e7589014f848.jpg/public
 date: 2024-10-24
 time: 20:00 - 21:00
 location: Sint Lucas Antwerpen showroom

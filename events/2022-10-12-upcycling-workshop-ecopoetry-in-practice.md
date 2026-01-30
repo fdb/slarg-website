@@ -9,7 +9,7 @@ year: 2022
 date: 2022-10-12
 time: 13:00 - 15:00
 location: Room 3.09, Campus Sint Lucas Antwerpen
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/cecb02cc-1292-46ca-a783-2728186fff47.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/cecb02cc-1292-46ca-a783-2728186fff47.jpg/public
 images: null
 ---
 **This workshop is open to all (max. 10 participants).** *Workshop*** *Fully booked.***

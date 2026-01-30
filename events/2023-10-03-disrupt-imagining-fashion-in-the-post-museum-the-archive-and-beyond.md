@@ -10,7 +10,7 @@ date: 2023-10-18
 time: 13:00 - 16:00
 location: K.03.09, third floor, Sint Lucas Antwerpen, Van Schoonbekestraat 143,
   2018 Antwerpen
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/6ee53f00-42bf-489c-a67e-f9d78521f333.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/6ee53f00-42bf-489c-a67e-f9d78521f333.jpg/public
 images: null
 ---
 Cover image Martine Bos: "Lieve Bluefingers linen coat, 'dégradé' dyed in natural indigo, finished with an arashi shibori"

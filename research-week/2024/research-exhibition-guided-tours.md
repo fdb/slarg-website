@@ -6,9 +6,9 @@ section_website_2024: event
 title: "Research Exhibition Guided Tours "
 type: "Guided tours "
 author: SLARG
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/b209e56f-152c-444b-a1d2-23b2aee4db18.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b209e56f-152c-444b-a1d2-23b2aee4db18.jpg/public
 images:
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/cc6caae4-cc41-463e-abc2-a7de33d20e89.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/cc6caae4-cc41-463e-abc2-a7de33d20e89.jpg/public
 date: 2024-10-25
 time: 15:00 - 17:00
 location: Sint Lucas Antwerpen showroom

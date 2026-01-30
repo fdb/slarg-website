@@ -7,7 +7,7 @@ role:
   - Former researcher
 email: Bianca.baldi@kdg.be
 research_interests: []
-headshot: https://pub-482595b1796343bdaa334509f7361457.r2.dev/00ab0026-08f3-43d5-b8a3-d37b1604b845.jpg
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/00ab0026-08f3-43d5-b8a3-d37b1604b845.jpg/public
 bio: 'Bianca Baldi is a South African artist, based in Brussels. In her work
   Bianca deals with the role of narrative as a means of knowledge production in
   both fictional and historical contexts. She is interested in the staging of

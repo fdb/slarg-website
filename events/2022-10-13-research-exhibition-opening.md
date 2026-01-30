@@ -9,7 +9,7 @@ year: 2022
 date: 2022-10-13
 time: 19:00 - 21:45
 location: Showroom, Campus Sint Lucas Antwerpen
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/51ea7e1d-b504-4f0d-9976-f26228c4ec60.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/51ea7e1d-b504-4f0d-9976-f26228c4ec60.jpg/public
 ---
 **Join us for the opening of SLARG exhibition! SLARG researchers and friends will share traces, leftovers and experiments of their artistic research with you.**
 

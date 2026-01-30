@@ -6,12 +6,12 @@ section_website_2024: exhibition
 title: Voices from the drought | Stemmen uit de Droogte
 type: Series of framed herbaria depicting imaginairy dry landscapes
 author: Annelys de Vet
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/93d19315-f24d-44a8-8e7c-0ce2831359d9.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/93d19315-f24d-44a8-8e7c-0ce2831359d9.jpg/public
 images:
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/bdcf7165-4158-4817-b398-72127a59c979.jpg
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/24fc9371-ddd5-4e42-bd2a-bd8e7d0a0850.jpg
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/72d41640-b40f-4cbe-a83c-badbe0e12ba9.jpg
-  - https://pub-482595b1796343bdaa334509f7361457.r2.dev/2d77287c-4d2b-466b-aaf4-f4d94e3a010b.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/bdcf7165-4158-4817-b398-72127a59c979.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/24fc9371-ddd5-4e42-bd2a-bd8e7d0a0850.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/72d41640-b40f-4cbe-a83c-badbe0e12ba9.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/2d77287c-4d2b-466b-aaf4-f4d94e3a010b.jpg/public
 date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---

@@ -10,7 +10,7 @@ date: 2023-10-18
 time: 9:30 - 12:30
 location: K.03.09, third floor, Sint Lucas Antwerpen, Van Schoonbekestraat 143,
   2018 Antwerpen
-main_image: https://pub-482595b1796343bdaa334509f7361457.r2.dev/48677443-a34c-4fe6-bc1d-f0059037c9e9.jpg
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/48677443-a34c-4fe6-bc1d-f0059037c9e9.jpg/public
 ---
 This workshop will introduce participants to the “working bee,” an organizing tool for collective making, and create a participatory moment within the final stage in my current research project. The one-year research project focusses on tools and strategies for queer, feminist and anti-racist collaboration in and beyond the art field. 
 
