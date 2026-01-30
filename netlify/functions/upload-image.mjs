@@ -1,6 +1,6 @@
-// netlify/functions/upload-image.js
+// netlify/functions/upload-image.mjs
 import busboy from 'busboy';
-import { v4 as uuidv4 } from 'uuid';
+import { randomUUID } from 'node:crypto';
 
 // Allowed file types for Cloudflare Images
 const ALLOWED_MIME_TYPES = [
@@ -51,7 +51,7 @@ export const handler = async (event, context) => {
     }
 
     // Generate custom ID with slarg/ prefix
-    const imageId = `slarg/${uuidv4()}.${ext}`;
+    const imageId = `slarg/${randomUUID()}.${ext}`;
 
     // Upload to Cloudflare Images
     const result = await uploadToCloudflareImages(fileBuffer, filename, imageId);
