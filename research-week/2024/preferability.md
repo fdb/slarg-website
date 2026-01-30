@@ -6,9 +6,9 @@ section_website_2024: exhibition
 title: Preferability
 type: study for artwork
 author: Wesley Meuris
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/ac9d1a3a-dfb5-4caa-b794-217e776065fd.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/ac9d1a3a-dfb5-4caa-b794-217e776065fd.jpg
 images:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/97843c6e-a7c3-4237-958e-9b176115d37a.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/97843c6e-a7c3-4237-958e-9b176115d37a.jpg
 date: 2024-10-24
 location: Sint Lucas Antwerpen showroom
 ---

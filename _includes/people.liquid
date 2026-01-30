@@ -8,7 +8,7 @@ layout: base
     <div class="person-image">
       {% if headshot %}
         <img
-          src="{{ headshot }}"
+          src="{{ headshot }}/public"
           alt="{{ person_name }}"
           width="800"
           height="100">
@@ -63,7 +63,7 @@ layout: base
               <a href="{{ projectEntry.url }}">
                 {% if projectEntry.data.image %}
                   <div class="project-image">
-                    <img src="{{ projectEntry.data.image }}" alt="{{ projectEntry.data.title }}" width="120" height="120">
+                    <img src="{{ projectEntry.data.image }}/public" alt="{{ projectEntry.data.title }}" width="120" height="120">
                   </div>
                 {% endif %}
                 <div class="project-info">

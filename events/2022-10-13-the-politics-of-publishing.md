@@ -10,7 +10,7 @@ year: 2022
 date: 2022-10-13
 time: 11:00-12:00
 location: Showroom, Campus Sint Lucas Antwerpen
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/6dfd966a-7574-4cb5-9c37-b86a044933fa.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/6dfd966a-7574-4cb5-9c37-b86a044933fa.jpg
 ---
 **This presentation is open to all.**
 

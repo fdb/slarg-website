@@ -6,9 +6,9 @@ section_website_2024: event
 title: Scream Manifesto
 type: Performance
 author: Hoda Siahtiri & Azertyklavierwerke
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/f8605076-a251-4c87-9d29-129ac24ad464.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/f8605076-a251-4c87-9d29-129ac24ad464.jpg
 images:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/c29ee746-afbf-45fe-94ce-25a11e42ae8b.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/c29ee746-afbf-45fe-94ce-25a11e42ae8b.jpg
 date: 2024-10-25
 time: 19:30 - 21:00
 location: Sint Lucas Antwerpen showroom

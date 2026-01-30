@@ -26,11 +26,11 @@ bio: >-
   Credits image: Kevin Faingnaert
 staff_flag: "false"
 image_researcher:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/6b5b9fc5-4308-4bbf-8203-0a2c29c86a92.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/6b5b9fc5-4308-4bbf-8203-0a2c29c86a92.jpg
 person_name: Sammy Baloji
 status_of_research: ongoing
 available_for_supervision: "false"
 tags: researcher
 email: "sammy.baloji@kdg.be "
-headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/36db17e3-5b48-4f5f-970c-aabe51279832.jpg/public
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/36db17e3-5b48-4f5f-970c-aabe51279832.jpg
 ---

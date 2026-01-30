@@ -6,9 +6,9 @@ section_website_2024: event
 title: Research Exhibition Opening
 type: Opening
 author: SLARG
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/76843947-6e1b-46d9-a170-74193ad13700.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/76843947-6e1b-46d9-a170-74193ad13700.jpg
 images:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/fa2a8b33-cc74-49bc-9e13-c4c34901cde3.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/fa2a8b33-cc74-49bc-9e13-c4c34901cde3.jpg
 date: 2024-10-24
 time: 18:00 - 22:00
 location: Sint Lucas Antwerpen showroom

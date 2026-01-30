@@ -9,12 +9,12 @@ year: 2022
 date: 2022-10-14
 time: 10:00 - 13:00
 location: Theaterzaal, Het Bos
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/7880197a-e248-41a9-b188-bf2ebf859d34.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/7880197a-e248-41a9-b188-bf2ebf859d34.jpg
 images:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/f038a6b9-7078-4242-bc81-25a8725198be.jpg/public
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/95d34c2f-6ece-4444-80d3-4b713e4c4854.jpg/public
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/4ac9390b-eff4-4c7c-9f3b-a0b5e76c7e4a.jpg/public
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/9189c9a9-322b-4c2f-aef9-e1d0350d204d.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/f038a6b9-7078-4242-bc81-25a8725198be.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/95d34c2f-6ece-4444-80d3-4b713e4c4854.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/4ac9390b-eff4-4c7c-9f3b-a0b5e76c7e4a.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/9189c9a9-322b-4c2f-aef9-e1d0350d204d.jpg
 ---
 **Participation is free but please subscribe [here](https://www.klimaatfestivalantwerpen.be/nl/calendar/events/rights-of-nature).**
 

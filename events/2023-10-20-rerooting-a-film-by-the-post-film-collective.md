@@ -10,7 +10,7 @@ date: 2023-10-20
 time: 10:30 - 13:00
 location: K.03.09, third floor, Sint Lucas Antwerpen, Van Schoonbekestraat 143,
   2018 Antwerpen
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/e847d9af-2faf-4080-8b24-1143da7e3983.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/e847d9af-2faf-4080-8b24-1143da7e3983.jpg
 ---
 The Post Film Collective screens and discusses their film *Rerooting* (2023, 19') in assembly with the participants of this session.  
 

@@ -10,7 +10,7 @@ research_interests:
   - fiction
   - history
   - storytelling
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/86ed4d8b-16ef-43ad-9fbc-87918ece771f.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/86ed4d8b-16ef-43ad-9fbc-87918ece771f.jpg
 main_image_credits: Le tribunal de Grand-Bassam_Afrique Occidentale
   française_carte postale_4FI-1219_Archives nationales du
   Sénégal_Dakar_photo_juillet 2023_ayoh kré Duchâtelet

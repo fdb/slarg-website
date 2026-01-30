@@ -4,7 +4,7 @@ layout: activity.liquid
 startDate: 2025-10-20T15:00:00.000Z
 endDate: 2025-10-20T17:00:39.692Z
 location: Sint Lucas Antwerpen, AdMa Room, K.03.09
-thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/c967166d-3a36-43b1-8a69-761d961a2f83.jpg/public
+thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/c967166d-3a36-43b1-8a69-761d961a2f83.jpg
 research_interests:
   - care
   - ethics

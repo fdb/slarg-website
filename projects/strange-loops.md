@@ -9,7 +9,7 @@ ongoing: true
 research_interests:
   - ai
   - performance
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/16e0c572-8cc3-4f13-8edd-2867604643ba.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/16e0c572-8cc3-4f13-8edd-2867604643ba.jpg
 main_image_credits: Photo by Danial Shah
 people:
   - Frederik De Bleser

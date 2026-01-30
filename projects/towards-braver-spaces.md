@@ -9,7 +9,7 @@ research_interests:
   - braver spaces
   - care
   - intersectional
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/4a01bab8-a30f-4d3b-8541-474b151dc082.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/4a01bab8-a30f-4d3b-8541-474b151dc082.jpg
 main_image_credits: visual made by Dani
 main_image_alt: logo of braver spaces
 people:

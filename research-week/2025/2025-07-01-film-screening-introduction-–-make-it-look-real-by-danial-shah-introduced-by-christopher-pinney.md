@@ -5,7 +5,7 @@ startDate: 2025-10-24T10:30:31.397Z
 endDate: 2025-10-24T12:00:00.000Z
 location: "FOMU - Fotomuseum Antwerpen, Waalsekaai 47, Antwerpen, entrance via
   Cinema Lumière "
-thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/6abce5be-7851-4b61-833d-22888d48c721.jpg/public
+thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/6abce5be-7851-4b61-833d-22888d48c721.jpg
 tags: []
 research_interests:
   - Photography

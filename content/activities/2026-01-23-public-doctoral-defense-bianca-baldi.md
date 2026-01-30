@@ -5,7 +5,7 @@ layout: activity.liquid
 startDate: 2026-01-22T15:00:19.537Z
 endDate: 2026-01-22T17:00:19.543Z
 location: "Kunsthal Extra City - Antwerpen "
-thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/momenta-biennale-bianca-baldi-romain-boniface-2023-1-800x1200.jpg/public
+thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/momenta-biennale-bianca-baldi-romain-boniface-2023-1-800x1200.jpg
 research_interests:
   - mixed-media
   - photography

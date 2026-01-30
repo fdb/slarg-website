@@ -9,9 +9,9 @@ author: Hussein Shikha
 date: 2023-10-21
 time: 16:00 - 17:00
 location: "Ploegstraat 25 @ Kunsthal Extra City "
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/95bfc069-1420-47e5-8ed7-c5eede2a79b9.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/95bfc069-1420-47e5-8ed7-c5eede2a79b9.jpg
 images:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/152fc29d-22a5-4818-9d05-64b33f389f0f.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/152fc29d-22a5-4818-9d05-64b33f389f0f.jpg
 ---
 Cover Image: Hussein Shikha, design process
 

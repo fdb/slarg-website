@@ -9,7 +9,7 @@ year: 2022
 date: 2022-10-15
 time: 11:00 - 17:00
 location: Refectory, Morpho (entrance via Kunsthal Extra City)
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/f80c16c0-7b38-4e1a-a9e1-bf8b317ee647.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/f80c16c0-7b38-4e1a-a9e1-bf8b317ee647.jpg
 ---
 ***garden pub(l)ics***
 

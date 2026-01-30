@@ -6,9 +6,9 @@ section_website_2024: event
 title: hold on to her
 type: Feature film
 author: Robin Vanbesien
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/4b4d4816-c87a-474a-b254-70fb47c61fcc.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/4b4d4816-c87a-474a-b254-70fb47c61fcc.jpg
 images:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/ff44009e-15f4-4225-87ab-e3b6900e77cc.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/ff44009e-15f4-4225-87ab-e3b6900e77cc.jpg
 date: 2024-10-16
 time: 19:30 - 21:30
 location: Sint Lucas Antwerpen showroom

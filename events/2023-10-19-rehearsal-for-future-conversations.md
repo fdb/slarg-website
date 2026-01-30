@@ -9,7 +9,7 @@ author: elephy
 date: 2023-10-19
 time: 10:00 - 16:00
 location: De refter @ Kunsthal Extra City & Morpho - Ploegstraat 25, 2018 Antwerpen
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/91283b1f-de88-4d50-9571-ff6577224dbb.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/91283b1f-de88-4d50-9571-ff6577224dbb.jpg
 ---
 ### Introduction
 

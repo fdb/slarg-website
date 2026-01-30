@@ -7,7 +7,7 @@ role:
   - Staff
 email: ""
 research_interests: []
-headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/f84cee3b-6e09-430a-bb13-ee10126c0be2.jpg/public
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/f84cee3b-6e09-430a-bb13-ee10126c0be2.jpg
 bio: Lieven Menschaert (º1975) is a researcher and lecturer at Sint Lucas
   Antwerp and LUCA school of arts. His primary focus lies in generative and
   computational design, where systems and algorithms play a central role in

@@ -6,9 +6,9 @@ section_website_2024: exhibition
 title: Auto-ethnography of our years on fire
 type: image and text installation
 author: Việt Vũ (Phạm Quang Trung)
-main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/dc93e49d-3ef7-459b-b06a-1775960fc9d3.jpg/public
+main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/dc93e49d-3ef7-459b-b06a-1775960fc9d3.jpg
 images:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/fd860924-ec7c-41c9-8425-adb5f7fe4b30.jpg/public
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/fd860924-ec7c-41c9-8425-adb5f7fe4b30.jpg
 date: 2024-10-24
 time: ""
 location: Sint Lucas Antwerpen showroom

@@ -6,7 +6,7 @@ role:
   - Supervisor
 email: sofie.verdoodt@kdg.be
 research_interests: []
-headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/923e6239-2690-4855-9c8a-e7d142faa54d.jpg/public
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/923e6239-2690-4855-9c8a-e7d142faa54d.jpg
 bio: >-
   
 
