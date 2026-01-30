@@ -4,7 +4,7 @@ tags: project
 title: Posthumous Struggle
 start_date: 2025-09-28T15:52:05.311Z
 end_date: 2026-08-28T15:52:05.346Z
-project-kind: 1 year project (pre-doc)
+project-kind: 1 year project
 ongoing: true
 abstract: ""
 research_interests: []

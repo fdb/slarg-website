@@ -255,7 +255,7 @@ collections:
           label: 'Project Kind',
           name: 'project-kind',
           widget: 'select',
-          options: ['2 year project (post-doc)', '1 year project (pre-doc)', 'PhD', 'social outreach'],
+          options: ['2 year project (post-doc)', '1 year project', 'PhD', 'social outreach'],
           required: false
         }
       - { label: 'Ongoing', name: 'ongoing', widget: 'boolean', required: false }
@@ -293,14 +293,6 @@ collections:
           multiple: true,
           required: false
         }
-      - label: 'External researchers'
-        name: 'external_collaborators'
-        widget: 'list'
-        summary: '{{fields.name}}'
-        fields:
-          - { label: 'Name', name: 'name', widget: 'string' }
-          - { label: 'URL', name: 'url', widget: 'string', required: false }
-          - { label: 'Email', name: 'email', widget: 'string', required: false }
       - {
           label: 'Supervisors',
           name: 'supervisors',
@@ -434,14 +426,6 @@ collections:
           multiple: true,
           required: false
         }
-      - label: 'External researchers'
-        name: 'external_collaborators'
-        widget: 'list'
-        summary: '{{fields.name}}'
-        fields:
-          - { label: 'Name', name: 'name', widget: 'string' }
-          - { label: 'URL', name: 'url', widget: 'string', required: false }
-          - { label: 'Email', name: 'email', widget: 'string', required: false }
 
   - name: 'research-week-activity'
     label: 'Research Week Activity'
@@ -478,14 +462,6 @@ collections:
           multiple: true,
           required: false
         }
-      - label: 'External researchers'
-        name: 'external_collaborators'
-        widget: 'list'
-        summary: '{{fields.name}}'
-        fields:
-          - { label: 'Name', name: 'name', widget: 'string' }
-          - { label: 'URL', name: 'url', widget: 'string', required: false }
-          - { label: 'Email', name: 'email', widget: 'string', required: false }
   - name: 'publications'
 
 
@@ -510,14 +486,6 @@ collections:
           multiple: true,
           required: false
         }
-      - label: 'External researchers'
-        name: 'external_collaborators'
-        widget: 'list'
-        summary: '{{fields.name}}'
-        fields:
-          - { label: 'Name', name: 'name', widget: 'string' }
-          - { label: 'URL', name: 'url', widget: 'string', required: false }
-          - { label: 'Email', name: 'email', widget: 'string', required: false }
       - { label: 'Author', name: 'author', widget: 'string', required: true }
       - { label: 'Publication Date', name: 'publication_date', widget: 'datetime', format: 'YYYY-MM-DD', date_format: 'DD/MM/YYYY', time_format: false, required: true }
       - { label: 'Publication URL', name: 'publication_file', widget: 'string', required: true, hint: 'Paste the URL to your PDF or EPUB file' }

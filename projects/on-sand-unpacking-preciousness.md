@@ -4,7 +4,7 @@ tags: project
 title: "On sand: unpacking preciousness"
 start_date: 2023-09-18T15:38:33.279Z
 end_date: 2024-08-18T15:38:33.286Z
-project-kind: 1 year project (pre-doc)
+project-kind: 1 year project
 abstract: ""
 main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/ecc32fe3-6669-48e0-b7c2-d48d62c6ecc1.jpg/public
 people:

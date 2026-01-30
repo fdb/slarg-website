@@ -4,7 +4,7 @@ tags: project
 title: Pockets of Control
 start_date: 2024-09-26T10:12:26.513Z
 end_date: 2025-09-26T10:12:26.522Z
-project-kind: 1 year project (pre-doc)
+project-kind: 1 year project
 abstract: ""
 research_interests:
   - game design

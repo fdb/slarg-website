@@ -121,9 +121,6 @@ title: Research Projects
           {% if project.data.project-kind %}
             <p class="project-kind">{{ project.data.project-kind }}</p>
           {% endif %}
-          {% if project.data.abstract %}
-            <p class="project-abstract">{{ project.data.abstract | truncate: 120 }}</p>
-          {% endif %}
           {% if project.data.research_interests %}
             <div class="project-interests">
               {% for interest in project.data.research_interests %}

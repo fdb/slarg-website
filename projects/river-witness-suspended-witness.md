@@ -4,7 +4,7 @@ tags: project
 title: The Talisman of the Fluid Word
 start_date: 2024-09-26T12:37:37.650Z
 end_date: 2025-06-26T12:37:37.657Z
-project-kind: 1 year project (pre-doc)
+project-kind: 1 year project
 ongoing: false
 research_interests: []
 main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/29b66142-5a4c-4b27-b9f9-e07c715de7f9.jpg/public

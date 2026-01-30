@@ -4,7 +4,7 @@ tags: project
 title: "Speculative / Creative Biographies as a Method for Memory and Participatory "
 start_date: 2025-08-23T23:07:17.200Z
 end_date: 2026-08-23T23:07:17.206Z
-project-kind: 1 year project (pre-doc)
+project-kind: 1 year project
 ongoing: true
 research_interests:
   - Colonial_photography_re-approriation_strategies
