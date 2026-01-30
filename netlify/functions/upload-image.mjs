@@ -1,6 +1,6 @@
 // netlify/functions/upload-image.mjs
 import busboy from 'busboy';
-import { randomUUID } from 'node:crypto';
+import { createHash } from 'node:crypto';
 
 // Allowed file types for Cloudflare Images
 const ALLOWED_MIME_TYPES = [
@@ -50,8 +50,9 @@ export const handler = async (event, context) => {
       };
     }
 
-    // Generate custom ID with slarg/ prefix
-    const imageId = `slarg/${randomUUID()}.${ext}`;
+    // Generate ID from content hash (SHA1) for deduplication
+    const hash = createHash('sha1').update(fileBuffer).digest('hex');
+    const imageId = `slarg/${hash}.${ext}`;
 
     // Upload to Cloudflare Images
     const result = await uploadToCloudflareImages(fileBuffer, filename, imageId);
@@ -134,8 +135,17 @@ async function uploadToCloudflareImages(fileBuffer, filename, imageId) {
   const data = await response.json();
 
   if (!data.success) {
-    const errorMsg = data.errors?.[0]?.message || 'Upload to Cloudflare Images failed';
-    throw new Error(errorMsg);
+    // If image already exists (duplicate), return the existing URL
+    const error = data.errors?.[0];
+    if (error?.code === 5409) {
+      // Image with this ID already exists - construct the URL
+      const baseUrl = `https://imagedelivery.net/${accountId}`;
+      return {
+        url: `${baseUrl}/${imageId}/public`,
+        id: imageId
+      };
+    }
+    throw new Error(error?.message || 'Upload to Cloudflare Images failed');
   }
 
   // Return the public variant URL
