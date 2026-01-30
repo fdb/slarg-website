@@ -15,6 +15,11 @@ autoLaunch = false
   directory = "netlify/functions"
 
 [[redirects]]
+  from = "/admin"
+  to = "/admin/"
+  status = 301
+
+[[redirects]]
   from = "/"
   to = "/2022/"
 
