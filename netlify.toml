@@ -4,8 +4,9 @@ command = "npm run build"
 functions = "netlify/functions"
 
 [dev]
-targetPort = 3000
+command = "npx eleventy --watch"
 framework = "#static"
+autoLaunch = false
 
 [build.environment]
   TZ = "Europe/Brussels"
