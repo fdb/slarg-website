@@ -18,6 +18,9 @@
 			CMS.registerMediaLibrary(window.CloudflareMediaLibrary);
 			CMS.registerWidget('researchInterests', window.ResearchInterestsControl);
 
+			// Register preview stylesheet to match frontend styling
+			CMS.registerPreviewStyle('/admin/preview.css');
+
 			// Register custom image preview that adds Cloudflare variant
 			try {
 				var originalImageWidget = CMS.getWidget('image');
@@ -35,6 +38,8 @@
 						var entry = this.props.entry;
 						var mainImage = entry.getIn(['data', 'main_image']);
 						var title = entry.getIn(['data', 'title']);
+						var startDate = entry.getIn(['data', 'start_date']);
+						var endDate = entry.getIn(['data', 'end_date']);
 						var body = this.props.widgetFor('body');
 
 						// Handle Immutable.js List - extract first item
@@ -44,11 +49,23 @@
 							mainImage = mainImage[0];
 						}
 
-						return h('div', {},
+						// Format dates
+						var dateText = '';
+						if (startDate) {
+							var start = new Date(startDate);
+							dateText = start.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+							if (endDate) {
+								var end = new Date(endDate);
+								dateText += ' – ' + end.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+							}
+						}
+
+						return h('div', { className: 'project' },
+							h('div', { className: 'project-label' }, 'RESEARCH PROJECT'),
 							h('h1', {}, title),
+							dateText ? h('div', { className: 'project-date' }, dateText) : null,
 							mainImage ? h('img', {
-								src: window.addCloudflareVariant ? window.addCloudflareVariant(mainImage) : mainImage,
-								style: { maxWidth: '100%', height: 'auto', marginBottom: '1rem' }
+								src: window.addCloudflareVariant ? window.addCloudflareVariant(mainImage) : mainImage
 							}) : null,
 							body
 						);
