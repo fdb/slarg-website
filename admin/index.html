@@ -13,9 +13,45 @@
 		<script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
 		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 		<script src="cloudflare-media-library.js"></script>
+		<script src="cloudflare-image-preview.js"></script>
 		<script>
 			CMS.registerMediaLibrary(window.CloudflareMediaLibrary);
 			CMS.registerWidget('researchInterests', window.ResearchInterestsControl);
+
+			// Register custom image preview that adds Cloudflare variant
+			try {
+				var originalImageWidget = CMS.getWidget('image');
+				if (originalImageWidget && originalImageWidget.control) {
+					CMS.registerWidget('image', originalImageWidget.control, window.CloudflareImagePreview);
+				}
+			} catch (e) {
+				console.error('Failed to register image widget:', e);
+			}
+
+			// Register preview template for projects collection that includes the image
+			try {
+				var ProjectPreview = createClass({
+					render: function() {
+						var entry = this.props.entry;
+						var mainImage = entry.getIn(['data', 'main_image']);
+						var title = entry.getIn(['data', 'title']);
+						var body = this.props.widgetFor('body');
+
+						return h('div', {},
+							h('h1', {}, title),
+							mainImage ? h('img', {
+								src: window.addCloudflareVariant ? window.addCloudflareVariant(mainImage) : mainImage,
+								style: { maxWidth: '100%', height: 'auto', marginBottom: '1rem' }
+							}) : null,
+							body
+						);
+					}
+				});
+				CMS.registerPreviewTemplate('projects', ProjectPreview);
+			} catch (e) {
+				console.error('Failed to register preview template:', e);
+			}
+
 			CMS.init();
 
 			window.addEventListener('load', function () {
