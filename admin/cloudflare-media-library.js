@@ -29,8 +29,8 @@ async function init({ options = {}, handleInsert } = {}) {
         '<p id="cf-status" style="margin-top: 10px; font-size: 14px; color: #666;"></p>' +
         '</div>' +
         '<div style="display: flex; gap: 10px; justify-content: flex-end;">' +
-        '<button id="cf-cancel" style="padding: 10px 20px; background: #ccc; border: none; border-radius: 4px; cursor: pointer;">Cancel</button>' +
-        '<button id="cf-upload" style="padding: 10px 20px; background: #ccc; color: #666; border: none; border-radius: 4px; cursor: not-allowed;" disabled>Upload</button>' +
+        '<button id="cf-cancel" style="padding: 10px 20px; background: #e8e8e8; border: none; border-radius: 4px; cursor: pointer;">Cancel</button>' +
+        '<button id="cf-upload" style="padding: 10px 20px; background: #ccc; color: #888; border: none; border-radius: 4px; cursor: not-allowed;" disabled title="Select an image first">Upload</button>' +
         '</div>';
 
       overlay.appendChild(modal);
@@ -60,10 +60,12 @@ async function init({ options = {}, handleInsert } = {}) {
           uploadBtn.style.background = '#f68220';
           uploadBtn.style.color = 'white';
           uploadBtn.style.cursor = 'pointer';
+          uploadBtn.removeAttribute('title');
         } else {
           uploadBtn.style.background = '#ccc';
-          uploadBtn.style.color = '#666';
+          uploadBtn.style.color = '#888';
           uploadBtn.style.cursor = 'not-allowed';
+          uploadBtn.title = 'Select an image first';
         }
 
         preview.innerHTML = '';
