@@ -37,6 +37,13 @@
 						var title = entry.getIn(['data', 'title']);
 						var body = this.props.widgetFor('body');
 
+						// Handle Immutable.js List - extract first item
+						if (mainImage && typeof mainImage.first === 'function') {
+							mainImage = mainImage.first();
+						} else if (Array.isArray(mainImage)) {
+							mainImage = mainImage[0];
+						}
+
 						return h('div', {},
 							h('h1', {}, title),
 							mainImage ? h('img', {
