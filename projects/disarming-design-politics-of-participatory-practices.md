@@ -1,8 +1,8 @@
 ---
 layout: project.liquid
 tags: project
-title: Disarming Design, politics of participatory practices (PhD completed on
-  29 November 2024)
+title: Disarming Design, politics of participatory practices (PhD completed
+  November 2024)
 start_date: 2019-09-18T06:35:50.976Z
 end_date: 2024-11-18T07:35:50.985Z
 project-kind: PhD
