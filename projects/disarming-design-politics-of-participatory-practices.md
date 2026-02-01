@@ -26,6 +26,10 @@ gallery:
     alt: Exhibition 'Disarming Design, politics of participatory practices'
 people:
   - Annelys de Vet
+supervisors:
+  - Petra Van Brabandt
+external_supervisors:
+  - name: Pascal Gielen (UA)
 ---
 Annelys De Vet successfully defended her practice-based doctoral research, *Disarming Design: Politics of Participatory Practices*. The study examined how design can sustain political agency and social engagement in challenging political and economic conditions through participatory and collaborative methods.
 
