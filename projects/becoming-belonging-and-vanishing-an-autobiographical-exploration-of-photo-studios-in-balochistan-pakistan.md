@@ -5,7 +5,6 @@ title: Becoming, Belonging and Vanishing (PhD completed October 2025)
 start_date: 2021-09-18T10:18:05.461Z
 end_date: 2025-10-18T10:18:05.468Z
 project-kind: PhD
-ongoing: false
 research_interests:
   - becoming
   - belonging
@@ -15,7 +14,10 @@ research_interests:
 main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/ee129860-e618-4f59-8003-17dcfd8dee3e.jpg
 people:
   - Danial Shah
+supervisors:
+  - Ruth Razan Loos
 external_collaborators: []
+ongoing: false
 ---
 [Danial Shah](https://slarg.be/people/danial-shah/) successfully completed his PhD in the arts at Sint Lucas Antwerpen (KdG) and ARIA at the University of Antwerp on 24 October 2025, with the doctoral project *Becoming, Belonging and Vanishing*. His research explored the evolving world of photo studios in Quetta, Pakistan, spaces where painted backdrops, props, and later digital techniques shape how people imagine, perform, and narrate themselves.
 
