@@ -355,50 +355,48 @@ collections:
                   { label: 'Location', name: 'location', widget: 'string', required: false }
                 ]
             }
-  - name: 'grounds'
-    label: 'Grounds'
+  - name: 'grounds_publications'
+    label: 'Grounds Publications'
+    folder: 'grounds/publications'
+    create: true
+    delete: true
+    slug: '{{slug}}'
+    sortable_fields: ['ground_date', 'title']
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'ground.liquid' }
+      - { label: 'Title', name: 'title', widget: 'string', required: true }
+      - {
+          label: 'Researchers',
+          name: 'people',
+          widget: 'relation',
+          collection: 'people',
+          search_fields: ['person_name'],
+          value_field: 'person_name',
+          display_fields: ['person_name'],
+          multiple: true,
+          required: false
+        }
+      - { label: 'Author', name: 'author', widget: 'string', required: true }
+      - { label: 'Ground Date', name: 'ground_date', widget: 'datetime', format: 'YYYY-MM-DD', date_format: 'DD/MM/YYYY', time_format: false, required: true }
+      - { label: 'Ground URL', name: 'ground_file', widget: 'string', required: false }
+      - { label: 'Thumbnail Image', name: 'thumbnail', widget: 'image', required: false }
+      - { label: 'Description', name: 'body', widget: 'markdown', required: false }
+
+  - name: 'grounds_page'
+    label: 'Grounds Page Info'
     delete: false
     editor:
       preview: false
     files:
-      - label: 'Grounds Page Info'
+      - label: 'Grounds Page'
         name: 'grounds-page'
-        file: 'grounds/index.md'
+        file: 'grounds/index.html'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/grounds/' }
           - { label: 'Description', name: 'description', widget: 'markdown' }
           - { label: 'Hero Image', name: 'hero_image', widget: 'image', required: false }
-
-      - label: 'Grounds Publications'
-        name: 'grounds-publications'
-        file: '_data/grounds_publications.yml'
-        format: yaml
-        fields:
-          - label: 'Publications'
-            name: 'publications'
-            widget: 'list'
-            summary: '{{fields.title}}'
-            fields:
-              - { label: 'Title', name: 'title', widget: 'string', required: true }
-              - { label: 'Slug', name: 'slug', widget: 'string', required: false }
-              - {
-                  label: 'Researchers',
-                  name: 'people',
-                  widget: 'relation',
-                  collection: 'people',
-                  search_fields: ['person_name'],
-                  value_field: 'person_name',
-                  display_fields: ['person_name'],
-                  multiple: true,
-                  required: false
-                }
-              - { label: 'Author', name: 'author', widget: 'string', required: true }
-              - { label: 'Ground Date', name: 'ground_date', widget: 'datetime', format: 'YYYY-MM-DD', date_format: 'DD/MM/YYYY', time_format: false, required: true }
-              - { label: 'Ground URL', name: 'ground_file', widget: 'string', required: false }
-              - { label: 'Thumbnail Image', name: 'thumbnail', widget: 'image', required: false }
-              - { label: 'Description', name: 'description', widget: 'markdown', required: false }
   - name: 'accessibility'
     label: 'Accessibility'
     delete: false

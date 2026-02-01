@@ -2,11 +2,9 @@
 layout: page
 title: Grounds
 permalink: /grounds/
-description: "*Grounds* is the renewed artistic research journal..."
+description: "*Grounds* is the renewed artistic research journal of Sint Lucas Antwerp."
 hero_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/grounds.jpg/public
 ---
-
-{% assign sorted_grounds = collections.all | where: "data.layout", "ground.liquid" | sort: "data.ground_date" | reverse %}
 
 <h1 class="page-title">{{ title }}</h1>
 
@@ -17,7 +15,7 @@ hero_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/grounds.jpg/p
 {% endif %}
 
 <div class="publication-grid">
-  {% for ground in sorted_grounds %}
+  {% for ground in collections.grounds_publications %}
     <div class="publication-item">
       <a href="{{ ground.url }}">
         {% if ground.data.thumbnail %}

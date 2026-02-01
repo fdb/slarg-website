@@ -43,6 +43,7 @@ function groupEventsByDayAndHour(allEvents) {
 }
 
 module.exports = function (eleventyConfig, collections) {
+
 	eleventyConfig.addPassthroughCopy('static');
 	eleventyConfig.addPassthroughCopy('admin');
 	eleventyConfig.addPassthroughCopy('research-week/2021/static');
@@ -117,6 +118,15 @@ module.exports = function (eleventyConfig, collections) {
 			return date instanceof Date && date.getFullYear() === 2023 && date.getDate() >= 16;
 		});
 		return groupEventsByWeekday(allEvents);
+	});
+
+	eleventyConfig.addCollection('grounds_publications', function (collection) {
+	return collection.getFilteredByGlob('grounds/publications/*.md')
+		.sort((a, b) => {
+		const dateA = new Date(a.data.ground_date);
+		const dateB = new Date(b.data.ground_date);
+		return dateB - dateA; // newest first
+		});
 	});
 
 	eleventyConfig.addCollection('events_2022', function (collection) {
@@ -220,5 +230,14 @@ module.exports = function (eleventyConfig, collections) {
 	eleventyConfig.addCollection("publications", function (collectionApi) {
   		return collectionApi.getFilteredByGlob("./publications/*.md");
 	});
+
+	  return {
+    dir: {
+      input: ".",
+      includes: "_includes",
+      data: "_data",
+      output: "_site"
+    }
+  };
 
 };
