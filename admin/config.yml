@@ -363,12 +363,13 @@ collections:
     files:
       - label: 'Grounds Page Info'
         name: 'grounds-page'
-        file: '_data/grounds_page.yml'
-        format: yaml
+        file: 'grounds/index.md'
         fields:
-          - { label: 'Title', name: 'title', widget: 'string', hint: 'Main title at the top of the Grounds page' }
-          - { label: 'Description', name: 'description', widget: 'markdown', hint: 'Intro text about Grounds journal' }
-          - { label: 'Hero Image', name: 'hero_image', widget: 'image', required: false, hint: 'Large image below the description' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/grounds/' }
+          - { label: 'Description', name: 'description', widget: 'markdown' }
+          - { label: 'Hero Image', name: 'hero_image', widget: 'image', required: false }
 
       - label: 'Grounds Publications'
         name: 'grounds-publications'
@@ -381,7 +382,7 @@ collections:
             summary: '{{fields.title}}'
             fields:
               - { label: 'Title', name: 'title', widget: 'string', required: true }
-              - { label: 'Slug', name: 'slug', widget: 'string', required: false, hint: 'URL slug (auto-generated from title if empty)' }
+              - { label: 'Slug', name: 'slug', widget: 'string', required: false }
               - {
                   label: 'Researchers',
                   name: 'people',
@@ -395,10 +396,9 @@ collections:
                 }
               - { label: 'Author', name: 'author', widget: 'string', required: true }
               - { label: 'Ground Date', name: 'ground_date', widget: 'datetime', format: 'YYYY-MM-DD', date_format: 'DD/MM/YYYY', time_format: false, required: true }
-              - { label: 'Ground URL', name: 'ground_file', widget: 'string', required: false, hint: 'URL to the grounds issue (e.g. PDF or external link)' }
+              - { label: 'Ground URL', name: 'ground_file', widget: 'string', required: false }
               - { label: 'Thumbnail Image', name: 'thumbnail', widget: 'image', required: false }
-              - { label: 'Description', name: 'description', widget: 'markdown', required: false, hint: 'Brief description or abstract' }
-
+              - { label: 'Description', name: 'description', widget: 'markdown', required: false }
   - name: 'accessibility'
     label: 'Accessibility'
     delete: false

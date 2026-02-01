@@ -1,31 +1,33 @@
 ---
 layout: page
 title: Grounds
+permalink: /grounds/
+description: "*Grounds* is the renewed artistic research journal..."
+hero_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/grounds.jpg/public
 ---
 
-{% assign sorted_grounds = grounds_publications.publications | sort: "ground_date" | reverse %}
+{% assign sorted_grounds = collections.all | where: "data.layout", "ground.liquid" | sort: "data.ground_date" | reverse %}
 
-<h1 class="page-title">{{ grounds_page.title }}</h1>
+<h1 class="page-title">{{ title }}</h1>
 
-<div class="grounds-intro">{{ grounds_page.description | markdownify }}</div>
-{% if grounds_page.hero_image %}
-<img src="{{ grounds_page.hero_image }}" alt="" class="grounds-hero-image">
+<div class="grounds-intro">{{ description | markdownify }}</div>
+
+{% if hero_image %}
+  <img src="{{ hero_image }}" alt="" class="grounds-hero-image">
 {% endif %}
-
 
 <div class="publication-grid">
   {% for ground in sorted_grounds %}
-    {% assign ground_slug = ground.slug | default: ground.title | slugify %}
     <div class="publication-item">
-      <a href="/grounds/{{ ground_slug }}/">
-        {% if ground.thumbnail %}
-          <img src="{{ ground.thumbnail }}" alt="{{ ground.title }} thumbnail">
+      <a href="{{ ground.url }}">
+        {% if ground.data.thumbnail %}
+          <img src="{{ ground.data.thumbnail }}" alt="{{ ground.data.title }} thumbnail">
         {% else %}
           <img src="/static/img/placeholder.png" alt="Placeholder Image">
         {% endif %}
-        <h2>{{ ground.title }}</h2>
-        <p class="author">Author(s): {{ ground.author }}</p>
-        <p class="date">Date: {{ ground.ground_date | date: "%Y" }}</p>
+        <h2>{{ ground.data.title }}</h2>
+        <p class="author">Author(s): {{ ground.data.author }}</p>
+        <p class="date">Date: {{ ground.data.ground_date | date: "%Y" }}</p>
       </a>
     </div>
   {% endfor %}
