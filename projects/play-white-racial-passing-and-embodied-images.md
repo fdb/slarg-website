@@ -17,6 +17,11 @@ main_image_credits: Sea Through Skin (Exhibition view Extra City September 2025
 main_image_alt: ""
 people:
   - Bianca Baldi
+supervisors:
+  - Petra Van Brabandt
+  - Wesley Meuris
+external_supervisors:
+  - name: Diana Arbaiza (UA)
 ---
 Bianca Baldi successfully defended her doctoral project *Play-White: Racial Passing and Embodied Images* on 22 January at Kunsthal Extra City, while her exhibition *Sea Through Skin* was still on view there. The practice-led PhD was developed between 2020 and 2026 at Sint Lucas Antwerpen (KdG) and ARIA (University of Antwerp), and departs from a deeply personal point of departure: the discovery that Baldi’s mother was reclassified as white under apartheid in 1984, exposing racial categorisation as a state-authored fiction extending into the most intimate domains of family and selfhood.
 
