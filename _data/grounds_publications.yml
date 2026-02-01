@@ -8,4 +8,8 @@ publications:
     author: grounds
     thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/grounds.jpg/public
     description: description/ synopsis
+<<<<<<< HEAD
     slug: test
+=======
+    slug: testing
+>>>>>>> 84ae62ae96f12420aac4d8d70651fa15b7d07ea1
