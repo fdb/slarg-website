@@ -1,0 +1,31 @@
+---
+layout: page
+title: Grounds
+---
+
+{% assign sorted_grounds = grounds_publications.publications | sort: "ground_date" | reverse %}
+
+<h1 class="page-title">{{ grounds_page.title }}</h1>
+
+<div class="grounds-intro">{{ grounds_page.description | markdownify }}</div>
+{% if grounds_page.hero_image %}
+<img src="{{ grounds_page.hero_image }}" alt="" class="grounds-hero-image">
+{% endif %}
+
+<div class="publication-grid">
+  {% for ground in sorted_grounds %}
+    {% assign ground_slug = ground.slug | default: ground.title | slugify %}
+    <div class="publication-item">
+      <a href="/grounds/{{ ground_slug }}/">
+        {% if ground.thumbnail %}
+          <img src="{{ ground.thumbnail }}" alt="{{ ground.title }} thumbnail">
+        {% else %}
+          <img src="/static/img/placeholder.png" alt="Placeholder Image">
+        {% endif %}
+        <h2>{{ ground.title }}</h2>
+        <p class="author">Author(s): {{ ground.author }}</p>
+        <p class="date">Date: {{ ground.ground_date | date: "%Y" }}</p>
+      </a>
+    </div>
+  {% endfor %}
+</div>

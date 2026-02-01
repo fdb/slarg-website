@@ -1,0 +1,52 @@
+---
+layout: base
+---
+<article class="publication-detail">
+
+  <h1 class="publication-title">{{ title }}</h1>
+  <p class="publication-author">By {{ author }}</p>
+  {% if people or external_collaborators %}
+  <p class="people-link"><strong>Researcher(s):</strong>
+  {% if people %}
+    {% for person_name in people %}
+      {% assign person = collections.people | where: "data.person_name", person_name | first %}
+      {% if person %}
+        <a href="{{ person.url }}">{{ person_name }}</a>
+      {% else %}
+        {{ person_name }},
+      {% endif %}
+      {% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  {% endif %}
+  {% if external_collaborators %}
+    {% for collaborator in external_collaborators %}
+      {% if collaborator.url %}
+        , <a href="{{ collaborator.url | prepend: 'https://' | replace_first: 'https://https://', 'https://' }}" target="_blank" rel="noopener noreferrer">
+          {{ collaborator.name }}
+        </a>
+      {% else %}
+        , {{ collaborator.name }}
+      {% endif %}
+      {% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  {% endif %}
+  </p>
+  {% endif %}
+
+  {% if thumbnail %}
+    <img src="{{ thumbnail }}/public" alt="{{ title }} thumbnail" class="publication-thumbnail">
+  {% endif %}
+  <p class="publication-date">Published: {{ ground_date | date: "%B %d, %Y" }}</p>
+
+  {% if description %}
+    <div class="publication-description">
+      {{ description | markdownify }}
+    </div>
+  {% endif %}
+
+  {% if ground_file %}
+    <a href="{{ ground_file }}" class="button publication-download-button" target="_blank" rel="noopener noreferrer">
+      View Grounds
+    </a>
+  {% endif %}
+</article>
