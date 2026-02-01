@@ -28,7 +28,8 @@ research_interests:
   - Qur’anic studies
   - Sacred books
   - Scribal practice
-main_image: ""
+main_image:
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b8982e6ecdd8d26729aa3340a234cdfc9ed696a4.jpg
 people:
   - Ruth Razan Loos
 ---
