@@ -32,6 +32,8 @@ main_image_credits: >-
   Description: Ten books with multiscript covers pointing to gaps in the Armenian design field, each filled with empty pages waiting to be written. Originally created during the October Research Week at Sint Lucas in 2024, these books became catalysts for conversation...
 people:
   - Garine Gokceyan
+supervisors:
+  - Ruth Razan Loos
 ---
 Through intersectional, feminist, and decolonial lenses, the research seeks collaborative, participatory and creative approaches to disrupt dominant practices and reimagine both the language and the practice of design. It challenges the dominant design thinking and methodologies shaped by the Global North, where the Latin script is treated as the default and its principles assumed to be universally applicable.
 My process is grounded in collective care, co-learning, and the unlearning of Western design thinking. It aims to enable and create critical space for decentralized design discourse, centered on amplifying underrepresented scripts and voices in both local and global contexts.
