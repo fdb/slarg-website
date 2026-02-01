@@ -1,4 +1,5 @@
 publications:
+<<<<<<< HEAD
   - title: grounds 1
     author: grounds
     ground_date: '2026-02-01'
@@ -16,3 +17,15 @@ publications:
     thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/grounds.jpg
     description: >-
       This is a sample grounds issue. Add more entries in the CMS to list them on the Grounds page.
+=======
+  - ground_date: 2026-02-01
+    title: Grounds 1
+    people:
+      - Joud Toamah
+      - Danial Shah
+      - Hoda Siahtiri
+    author: grounds
+    thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/grounds.jpg/public
+    description: description/ synopsis
+    slug: test
+>>>>>>> f6596e8fd3842956ac8ba72fa60606d18a261a0c
