@@ -12,6 +12,7 @@ title: Grounds
 <img src="{{ grounds_page.hero_image }}" alt="" class="grounds-hero-image">
 {% endif %}
 
+
 <div class="publication-grid">
   {% for ground in sorted_grounds %}
     {% assign ground_slug = ground.slug | default: ground.title | slugify %}
