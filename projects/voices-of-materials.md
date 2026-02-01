@@ -17,6 +17,8 @@ main_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b42a4f8d-fe21
 main_image_credits: photo and object by Irma Földényi
 people:
   - Irma Földényi
+supervisors:
+  - Wesley Meuris
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
