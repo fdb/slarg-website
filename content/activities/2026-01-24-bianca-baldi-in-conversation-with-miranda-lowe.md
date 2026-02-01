@@ -3,7 +3,7 @@ type: activity
 title: Bianca Baldi in conversation with Miranda Lowe
 layout: activity.liquid
 startDate: 2025-12-05T17:30:33.965Z
-endDate: 2025-12-05T06:30:33.970Z
+endDate: 2025-12-05T18:30:33.970Z
 location: Kunsthal Extra City, Provinciestraat 112, 2018 Antwerpen
 thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/miranda-lowe-cbe-full-width.jpg
 ---
