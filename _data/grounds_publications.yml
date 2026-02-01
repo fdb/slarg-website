@@ -1,15 +1,7 @@
 publications:
-  - ground_date: 2026-02-01
-    title: Grounds 1
-    people:
-      - Joud Toamah
-      - Danial Shah
-      - Hoda Siahtiri
-    author: grounds
-    thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/grounds.jpg/public
-    description: description/ synopsis
-<<<<<<< HEAD
+  - ground_date: 2026-02-02
+    title: grounds 1
     slug: test
-=======
-    slug: testing
->>>>>>> 84ae62ae96f12420aac4d8d70651fa15b7d07ea1
+    thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/grounds.jpg/public
+    description: test
+    author: grounds
