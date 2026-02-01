@@ -4,6 +4,7 @@ tags: project
 title: Closer Than Your Jugular Vein (Q, 50:16)
 start_date: 2023-09-10T09:33:46.871Z
 end_date: 2024-08-10T09:40:17.103Z
+project-kind: 1 year project
 abstract: >-
   This postdoctoral project (2023–24) developed an artistic book practice that
   offered devoted time and space to reflect on the worldly, inter-worldly, and
