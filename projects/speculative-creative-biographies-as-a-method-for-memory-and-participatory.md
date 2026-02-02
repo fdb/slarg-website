@@ -11,6 +11,10 @@ research_interests:
   - belonging
   - photography
   - radical pedagogy
+main_image:
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/6ec753697a24ba3587c6dd2bfb1d78ce350e5baf.png
+main_image_credits: Antje Van Wichelen and SICV, The Recognition Machine, 2018,
+  website, https://recognitionmachine.vandal.ist.
 ---
 In this artistic research project, I explore how speculative biographies and the reuse of colonial images can support processes of repair, decolonial interpretation, and the development of personal and collective freedom. I work with artists and scholars from Troubled Archives and partner organisations to design participatory workshops and audiovisual experiments with small audience groups.
 
