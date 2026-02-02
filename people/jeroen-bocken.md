@@ -5,6 +5,8 @@ person_name: Jeroen Bocken
 role:
   - Researcher
   - Staff
+headshot:
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/13ff5060e473a3991f5dde992be4e54f32466be8.png
 bio: >-
   Jeroen Bocken is an artist, teacher, and researcher based in Antwerp. His work
   spans digital imaging, material studies, and object-based research, often
