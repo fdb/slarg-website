@@ -17,6 +17,8 @@ main_image:
 people:
   - Ruth Razan Loos
 ---
+
+
 This postdoctoral project (2023–24) developed an artistic book practice that offered devoted time and space to reflect on the worldly, inter-worldly, and other-worldly qualities of the Qur’an (القرآن الكريم). It was guided by the question: Where is The Book? I approached the Qur’an as a “Book in/from heaven” — timeless, infinite, and preserved — as a recited and written Mushaf, and as a Book inscribed in the heart of the believer and expressed through Nature.
 
 My research centered on an artistic and conceptual engagement with the Qur’an as the primary textual source for reflecting on its book-being across different realms. Asking where — and consequently how and when — The Book unfolded helped me to approach its essence amid its many manifestations, meanings, and messages. To engage with its infinite nature and perpetual renewal was, for me, to begin from heart to heart, breath to breath, leaf to leaf, and letter to letter.
