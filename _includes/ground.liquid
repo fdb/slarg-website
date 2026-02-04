@@ -36,7 +36,7 @@ layout: base
   {% if thumbnail %}
     <img src="{{ thumbnail }}/public" alt="{{ title }} thumbnail" class="publication-thumbnail">
   {% endif %}
-  <p class="publication-date">Published: {{ ground_date | date: "%B %d, %Y" }}</p>
+  <p class="publication-date">Published: {{ ground_date | date: "%Y" }}</p>
 
   {% if description %}
     <div class="publication-description">
