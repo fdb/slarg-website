@@ -2,7 +2,7 @@
 layout: project.liquid
 tags: project
 title: "Hearing room: Ghosts of an African Democratic Assembly"
-start_date: 2025-09-20T09:08:30.230Z
+start_date: 2024-09-20T09:08:30.230Z
 end_date: 2025-09-20T09:08:30.240Z
 project-kind: PhD
 ongoing: true
