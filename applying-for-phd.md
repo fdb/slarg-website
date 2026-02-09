@@ -9,7 +9,7 @@ For the 2025 call, there are four PhD fellowships available in the visual arts.
 
 One of these is reserved for a pilot collaboration with Jan van Eyck Academie, Maastricht, The Netherlands.
 
-The successful candidates receive a 50% assistant postion at Sint Lucas Antwerpen and is admitted to the doctoral program of ARIA (University of Antwerp). The research duration is four years, starting with a 2-year contract that is once renewable upon positive evaluation. 
+The successful candidates receive a 50% assistant position at Sint Lucas Antwerpen and is admitted to the doctoral program of ARIA (University of Antwerp). The research duration is four years, starting with a 2-year contract that is once renewable upon positive evaluation. 
 
 The PhD fellowship in collaboration with Jan van Eyck is thematically defined as follows:
 
