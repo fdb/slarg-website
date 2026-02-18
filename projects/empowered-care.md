@@ -1,6 +1,6 @@
 ---
 layout: project.liquid
-start_date: 2025-09-26T12:33:07.684Z
+start_date: 2024-09-26T12:33:07.684Z
 end_date: 2028-09-26T12:33:07.692Z
 project-kind: PhD
 abstract: "What can be considered - beautiful - when we look at a (potential)
