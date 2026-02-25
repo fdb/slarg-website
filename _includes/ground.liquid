@@ -42,7 +42,11 @@ layout: base
     <div class="publication-description">
       {{ description | markdownify }}
     </div>
-  {% endif %}
+  {% elsif content %}
+  <div class="publication-description">
+    {{ content }}
+  </div>
+{% endif %}
 
   {% if ground_file %}
     <a href="{{ ground_file }}" class="button publication-download-button" target="_blank" rel="noopener noreferrer">
