@@ -18,7 +18,7 @@ title: Off the shelves
         {% endif %}
         <h2>{{ publication.data.title }}</h2>
         <p class="author">Author(s): {{ publication.data.author }}</p>
-        <p class="date">Date: {{ publication.data.publication_date | date: "%Y" }}</p>
+        <p class="date">Date: {{ publication.data.publication_date | date: monthYear }}</p>
       </a>
     </div>
   {% endfor %}
