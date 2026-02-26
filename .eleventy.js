@@ -161,6 +161,15 @@ module.exports = function (eleventyConfig, collections) {
 		return DateTime.fromISO(value).toFormat('MMMM yyyy');
 	});
 
+	eleventyConfig.addFilter('Year', (value) => {
+		if (!value) return '';
+
+		if (value instanceof Date) {
+			return DateTime.fromJSDate(value).toFormat('yyyy');
+		}
+		return DateTime.fromISO(value).toFormat('yyyy');
+	});
+
 	eleventyConfig.addCollection('calendar_events', function (collectionApi) {
 		const allActivities = collectionApi.getFilteredByGlob('./content/activities/*.md');
 		const allEvents = [];

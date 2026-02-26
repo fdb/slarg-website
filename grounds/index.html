@@ -28,7 +28,7 @@ hero_image: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/grounds.jpg/p
         {% endif %}
         <h2>{{ ground.data.title }}</h2>
         <p class="author">Author(s): {{ ground.data.author }}</p>
-        <p class="date">Date: {{ ground.data.ground_date | date: monthYear }}</p>
+        <p class="date">Date: {{ ground.data.ground_date | Year }}</p>
       </a>
     </div>
   {% endfor %}
