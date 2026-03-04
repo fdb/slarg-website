@@ -9,7 +9,7 @@ people:
   - Tundé Adefioye
   - Robin Vanbesien
   - Joud Toamah
-author: Kim Gorus (ed.)
+author: "(...) "
 ground_date: 2025-05-22
 thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/d755881cf73dc0828884859e7c70674f4be81b31.jpg/public
 ---
