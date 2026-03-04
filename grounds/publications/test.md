@@ -1,6 +1,6 @@
 ---
 layout: ground.liquid
-title: "Gounds #1"
+title: "Grounds #1"
 people:
   - Bianca Baldi
   - Pierre-Antoine Vettorello
