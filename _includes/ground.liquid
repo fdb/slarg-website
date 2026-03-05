@@ -48,9 +48,14 @@ layout: base
   </div>
 {% endif %}
 
-  {% if ground_file %}
-    <a href="{{ ground_file }}" class="button publication-download-button" target="_blank" rel="noopener noreferrer">
-      View Grounds
+
+
+
+  {% if ground_url %}
+    {% for link in ground_url %}
+    <a href="{{ link.url }}" class="button publication-download-button" target="_blank" rel="noopener noreferrer">
+      {{ link.name}}
     </a>
+    {% endfor%}
   {% endif %}
 </article>
