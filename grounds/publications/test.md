@@ -1,6 +1,6 @@
 ---
 layout: ground.liquid
-title: "Gounds #1"
+title: "Grounds #1"
 people:
   - Bianca Baldi
   - Pierre-Antoine Vettorello
@@ -9,15 +9,17 @@ people:
   - Tundé Adefioye
   - Robin Vanbesien
   - Joud Toamah
-author: Kim Gorus (ed.)
+author: "(...) "
 ground_date: 2025-05-22
+ground_file: https://www.sintlucasantwerpen.be/wp-content/uploads/2025/12/Grounds_DEF_volgorde_BIS_web.pdf
+ground_url:
+  - url: https://www.sintlucasantwerpen.be/wp-content/uploads/2025/12/Grounds_DEF_volgorde_BIS_web.pdf
+    name: View the publication
 thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/d755881cf73dc0828884859e7c70674f4be81b31.jpg/public
 ---
 <!--StartFragment-->
 
 *Grounds* opens with its first issue.
-
-An annual research journal by Sint Lucas Antwerp Research Group (SLARG), *Grounds* moves away from polished outcomes and toward process: artistic research as something alive, unfinished, and shared. The title points to multiple grounds—material, conceptual, geopolitical—where questions take shape and perspectives shift.
 
 This inaugural edition gathers voices working across identity, resistance, care, and memory. Joud Toamah traces Syrian water rituals and fear-soothing bowls. Pierre-Antoine Vettorello reads Black resistance through Senegalese fashion in Paris. Imane B.K. and Tundé Adefioye reflect on building braver spaces in Antwerp. Mona Hedayati uses biosensors to translate migration into sound.
 
