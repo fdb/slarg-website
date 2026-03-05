@@ -11,6 +11,7 @@ people:
   - Joud Toamah
 author: "(...) "
 ground_date: 2025-05-22
+ground_file: https://www.sintlucasantwerpen.be/wp-content/uploads/2025/12/Grounds_DEF_volgorde_BIS_web.pdf
 thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/d755881cf73dc0828884859e7c70674f4be81b31.jpg/public
 ---
 <!--StartFragment-->
