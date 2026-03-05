@@ -378,7 +378,19 @@ collections:
         }
       - { label: 'Author', name: 'author', widget: 'string', required: true }
       - { label: 'Ground Date', name: 'ground_date', widget: 'datetime', format: 'YYYY-MM-DD', date_format: 'DD/MM/YYYY', time_format: false, required: true }
-      - { label: 'Ground URL', name: 'ground_file', widget: 'string', required: false }
+      - label: 'Ground Url' 
+        name: 'ground_url'
+        widget: 'list'
+        required: false
+        hint: 'Link for the publication'
+        fields:
+          - label: 'Link Name'
+            name: 'name'
+            widget: 'string'
+          - label: 'URL'
+            name: 'url'
+            widget: 'string'
+            hint: 'Full URL including https://'
       - { label: 'Thumbnail Image', name: 'thumbnail', widget: 'image', required: false }
       - { label: 'Description', name: 'body', widget: 'markdown', required: false }
 
