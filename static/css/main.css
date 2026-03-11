@@ -983,15 +983,10 @@ border-radius: 8px;
 
 .project-card {
 	position: relative;
-	aspect-ratio: 6/9;
-	overflow: hidden;
 	text-decoration: none;
 	color: inherit;
 }
 
-.project-card:hover {
-	/* box-shadow: 0 6px 24px rgba(0,0,0,0.12); */
-}
 
 .project-thumb {
 	width: 100%;
@@ -1010,6 +1005,10 @@ border-radius: 8px;
 	margin-top: 0;
 	margin-bottom: 0.5rem;
 	color: var(--text-accent, #00c589);
+}
+@media (max-width: 480px){
+	.project-title {font-size: 1.1rem;}
+	
 }
 
 .project-kind {
@@ -1147,4 +1146,91 @@ main p a {
 border: 1px solid #00c589;
   padding: 0.5rem;
   margin: 1rem 0;
+}
+
+
+
+.filters{
+	display: flex;
+	gap:1rem;
+}
+
+@media ( max-width: 480px) {
+	.filters{
+		
+		display: block;
+	
+	}
+	.custom-select-wrapper{
+		padding-bottom: 1rem;
+	}
+	
+}
+
+.custom-select-wrapper {
+  position: relative;
+}
+
+.custom-select-trigger {
+  background: transparent;
+  border: 1px solid var(--turquoise);
+  color: var(--turquoise);
+  font-family: 'AuthenticSans', sans-serif;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  white-space: nowrap;
+}
+
+.custom-select-trigger[aria-expanded="true"] {
+  background: var(--turquoise);
+  color: var(--bg-color);
+}
+
+.custom-select-dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 100;
+  background: var(--bg-color);
+  border: 1px solid var(--turquoise);
+  list-style: none;
+  min-width: 100%;
+  max-height: 260px;
+  overflow-y: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.custom-select-dropdown.open {
+  display: block;
+}
+
+.custom-option {
+  padding: 0.5rem;
+  margin: 0;
+  cursor: pointer;
+  font-family: 'AuthenticSans', sans-serif;
+  font-size: 0.95rem;
+  color: var(--text-light);
+}
+
+.custom-option:hover,
+.custom-option:focus {
+  background: var(--tag-bg);
+  color: var(--turquoise);
+  outline: none;
+}
+
+.custom-option.selected {
+  color: var(--turquoise);
+  font-weight: bold;
+}
+
+.custom-option[aria-selected="true"] {
+  background: var(--tag-bg);
 }
