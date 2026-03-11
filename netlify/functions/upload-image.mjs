@@ -111,9 +111,10 @@ function parseMultipartForm(event) {
 
 async function uploadToCloudflareImages(fileBuffer, filename, imageId) {
   const accountId = process.env.CLOUDFLARE_ACCOUNT_ID;
+  const accountHash = process.env.CLOUDFLARE_ACCOUNT_HASH;
   const apiToken = process.env.CLOUDFLARE_API_TOKEN;
 
-  if (!accountId || !apiToken) {
+  if (!accountId || !accountHash  || !apiToken) {
     throw new Error('Cloudflare credentials not configured');
   }
 
@@ -141,7 +142,7 @@ async function uploadToCloudflareImages(fileBuffer, filename, imageId) {
       // Image with this ID already exists - construct the URL (without variant suffix)
       const baseUrl = `https://imagedelivery.net/${accountId}`;
       return {
-        url: `${baseUrl}/${imageId}`,
+        url: `https://imagedelivery.net/${accountHash}/${imageId}`, 
         id: imageId
       };
     }

@@ -322,7 +322,7 @@ collections:
           - { label: 'thumbnail for funding body', name: 'image', widget: 'image', required: false }
 
   - name: 'Outreach projects'
-    label: 'outreach projects'
+    label: 'outreach_projects'
     folder: 'outreach'
     slug: '{{title}}'
     create: true

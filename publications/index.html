@@ -11,7 +11,16 @@ title: Off the shelves
     <div class="publication-item">
       <a href="{{ publication.url }}">
         {% if publication.data.thumbnail %}
-          <img src="{{ publication.data.thumbnail }}" alt="{{ publication.data.title }} thumbnail">
+          <!-- <img src="{{ publication.data.thumbnail }}" alt="{{ publication.data.title }} thumbnail"> -->
+
+         
+  {% assign isCloudflare = publication.data.thumbnail | split: "imagedelivery.net" %}
+  {% if isCloudflare.size > 1 %}
+    <img src="{{ publication.data.thumbnail }}/public" alt="{{ publication.data.title }} thumbnail" class="publication-thumbnail">
+  {% else %}
+    <img src="{{ publication.data.thumbnail }}" alt="{{ publication.data.title }} thumbnail" class="publication-thumbnail">
+ 
+{% endif %}
         {% else %}
           <!-- Placeholder if no thumbnail is provided -->
           <img src="/static/img/placeholder.png" alt="Placeholder Image">

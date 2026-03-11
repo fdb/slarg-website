@@ -1,0 +1,203 @@
+---
+layout: page.liquid
+title: Outreach
+---
+
+<h1 class="page-title">Outreach Projects</h1>
+
+
+  
+</div>
+{% assign sorted_projects = collections.outreach | sort: "data.title" %}
+
+{% assign has_ongoing = false %}
+{% for project in sorted_projects %}
+  {% if project.data.ongoing %}
+    {% assign has_ongoing = true %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% assign has_finished = false %}
+{% for project in sorted_projects %}
+  {% unless project.data.ongoing %}
+    {% assign has_finished = true %}
+    {% break %}
+  {% endunless %}
+{% endfor %}
+
+{% if has_ongoing %}
+  <h2>Ongoing Projects</h2>
+  <div class="projects-grid">
+  {% for project in sorted_projects %}
+    {% if project.data.ongoing %}
+    <a
+      class="project-card"
+      href="{{ project.url }}"
+      data-interests="{% if project.data.research_interests %}{{ project.data.research_interests | join: ',' }}{% endif %}"
+      data-kind="{{ project.data['project-kind'] }}"
+    >
+      {% if project.data.main_image %}
+        <img src="{{ project.data.main_image | url }}/medium" alt="Image for {{ project.data.main_image_credits }}" class="project-thumb" />
+      {% endif %}
+      <div class="project-info">
+        <h2 class="project-title">{{ project.data.title }}</h2>
+        {% if project.data.project-kind %}
+          <p class="project-kind">{{ project.data.project-kind }}</p>
+        {% endif %}
+      </div>
+    </a>
+    {% endif %}
+  {% endfor %}
+  </div>
+{% endif %}
+
+{% if has_finished %}
+  <h2>Completed Projects</h2>
+  <div class="projects-grid">
+  {% for project in sorted_projects %}
+    {% unless project.data.ongoing %}
+    <a
+      class="project-card"
+      href="{{ project.url }}"
+      data-interests="{% if project.data.research_interests %}{{ project.data.research_interests | join: ',' }}{% endif %}"
+      data-kind="{{ project.data['project-kind'] }}"
+    >
+      {% if project.data.main_image %}
+        <img src="{{ project.data.main_image | url }}/medium" alt="Image for {{ project.data.main_image_credits }}" class="project-thumb" />
+      {% endif %}
+      <div class="project-info">
+        <h2 class="project-title">{{ project.data.title }}</h2>
+        {% if project.data.project-kind %}
+          <p class="project-kind">{{ project.data.project-kind }}</p>
+        {% endif %}
+      </div>
+    </a>
+    {% endunless %}
+  {% endfor %}
+  </div>
+{% endif %}
+
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+
+  function normalize(str) {
+    return (str || "").trim().toLowerCase();
+  }
+
+  // --- Custom select logic ---
+  document.querySelectorAll(".custom-select-wrapper").forEach(wrapper => {
+    const trigger = wrapper.querySelector(".custom-select-trigger");
+    const dropdown = wrapper.querySelector(".custom-select-dropdown");
+    const options = wrapper.querySelectorAll(".custom-option");
+    let currentIndex = 0;
+
+    function openDropdown() {
+      dropdown.classList.add("open");
+      trigger.setAttribute("aria-expanded", "true");
+      dropdown.focus();
+    }
+
+    function closeDropdown() {
+      dropdown.classList.remove("open");
+      trigger.setAttribute("aria-expanded", "false");
+      trigger.focus();
+    }
+
+    function selectOption(option) {
+      options.forEach(o => {
+        o.setAttribute("aria-selected", "false");
+        o.classList.remove("selected");
+      });
+      option.setAttribute("aria-selected", "true");
+      option.classList.add("selected");
+
+      // update trigger label (keep arrow)
+      const label = option.dataset.value 
+        ? option.textContent 
+        : trigger.id === "interest-btn" ? "Filter by Research Interests" : "Filter by Project Kind";
+      trigger.innerHTML = `${label} <span aria-hidden="true">↓</span>`;
+
+      closeDropdown();
+      filterProjects();
+    }
+
+    trigger.addEventListener("click", () => {
+      const isOpen = dropdown.classList.contains("open");
+      // close all other dropdowns first
+      document.querySelectorAll(".custom-select-dropdown.open").forEach(d => {
+        d.classList.remove("open");
+        d.previousElementSibling?.setAttribute("aria-expanded", "false");
+      });
+      if (!isOpen) openDropdown();
+    });
+
+    options.forEach((option, i) => {
+      option.addEventListener("click", () => selectOption(option));
+    });
+
+    // Keyboard navigation
+    dropdown.addEventListener("keydown", e => {
+      const opts = Array.from(options);
+      if (e.key === "ArrowDown") {
+        e.preventDefault();
+        currentIndex = Math.min(currentIndex + 1, opts.length - 1);
+        opts[currentIndex].focus();
+      } else if (e.key === "ArrowUp") {
+        e.preventDefault();
+        currentIndex = Math.max(currentIndex - 1, 0);
+        opts[currentIndex].focus();
+      } else if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        selectOption(opts[currentIndex]);
+      } else if (e.key === "Escape") {
+        closeDropdown();
+      }
+    });
+
+    // Make options focusable for keyboard nav
+    options.forEach(o => o.setAttribute("tabindex", "-1"));
+  });
+
+  // Close on outside click
+  document.addEventListener("click", e => {
+    if (!e.target.closest(".custom-select-wrapper")) {
+      document.querySelectorAll(".custom-select-dropdown.open").forEach(d => {
+        d.classList.remove("open");
+        d.closest(".custom-select-wrapper")
+          .querySelector(".custom-select-trigger")
+          .setAttribute("aria-expanded", "false");
+      });
+    }
+  });
+
+  // --- Filter logic ---
+  function normalize(str) {
+    return (str || "").trim().toLowerCase();
+  }
+
+  function getSelected(wrapperId) {
+    const selected = document.querySelector(`#${wrapperId} .custom-option[aria-selected="true"]`);
+    return normalize(selected?.dataset.value || "");
+  }
+
+  function filterProjects() {
+    const selectedInterest = getSelected("interest-listbox");
+    const selectedKind = getSelected("kind-listbox");
+
+    document.querySelectorAll(".project-card").forEach(project => {
+      const projectInterests = (project.getAttribute("data-interests") || "")
+        .split(",").map(normalize);
+      const projectKind = normalize(project.getAttribute("data-kind"));
+
+      const matchesInterest = !selectedInterest || projectInterests.includes(selectedInterest);
+      const matchesKind = !selectedKind || projectKind === selectedKind;
+
+      project.style.display = matchesInterest && matchesKind ? "block" : "none";
+    });
+  }
+
+
+});
+</script>
