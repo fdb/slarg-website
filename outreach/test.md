@@ -1,6 +1,6 @@
 ---
 layout: project.liquid
-tags: project
+tags: outreach
 title: test
 start_date: 2026-03-11T21:12:21.767Z
 end_date: 2026-03-11T21:12:21.774Z

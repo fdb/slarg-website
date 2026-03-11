@@ -11,8 +11,6 @@ title: Off the shelves
     <div class="publication-item">
       <a href="{{ publication.url }}">
         {% if publication.data.thumbnail %}
-          <!-- <img src="{{ publication.data.thumbnail }}" alt="{{ publication.data.title }} thumbnail"> -->
-
          
   {% assign isCloudflare = publication.data.thumbnail | split: "imagedelivery.net" %}
   {% if isCloudflare.size > 1 %}
