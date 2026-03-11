@@ -321,6 +321,76 @@ collections:
           - { label: "Link to funding's website", name: 'link', widget: 'string', required: false }
           - { label: 'thumbnail for funding body', name: 'image', widget: 'image', required: false }
 
+  - name: 'Outreach projects'
+    label: 'outreach projects'
+    folder: 'outreach'
+    slug: '{{title}}'
+    create: true
+    delete: true
+    preview_path: '/outreach/{{slug}}'
+    identifier_field: 'title'
+    sortable_fields: ['title', 'year']
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'project.liquid' }
+      - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'project' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Start Date', name: 'start_date', widget: 'datetime', required: false, date_format: 'YYYY-MM', time_format: false }
+      - { label: 'End Date', name: 'end_date', widget: 'datetime', required: false, date_format: 'YYYY-MM', time_format: false }
+      - { label: 'Ongoing', name: 'ongoing', widget: 'boolean', required: false }
+      - { label: 'Abstract', name: 'abstract', widget: 'text', required: false }
+      - {
+          label: 'Research Interests',
+          name: 'research_interests',
+          widget: 'researchInterests',
+          required: false,
+          hint: 'Select or add your research interests',
+          max: 3
+        }
+      - { label: 'Main_image', name: 'main_image', widget: 'image', required: false }
+      - { label: 'Main_image_credits', name: 'main_image_credits', widget: 'text', hint: 'ex. picture by Adam Berry', required: false }
+      - { label: 'Main_image_alt', name: 'main_image_alt', widget: 'text', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Describe the project in detail' }
+      -   label: 'Gallery'
+          name: 'gallery'
+          label_singular: "Image"
+          widget: 'list'
+          max: 3
+          required: false
+          fields: 
+            - { label: Image, name: src, widget: image }
+            - { label: Alt Text, name: alt, widget: string }
+            - { label: Caption / Credits, name: caption, widget: string} 
+      - {
+          label: 'Project owner',
+          name: 'project owner',
+          widget: 'relation',
+          collection: 'people',
+          search_fields: ['person_name'],
+          value_field: 'person_name',
+          display_fields: ['person_name'],
+          multiple: true,
+          required: false
+        }
+      - {
+          label: 'Partners',
+          name: 'partners',
+          widget: 'relation',
+          collection: 'people',
+          search_fields: ['person_name'],
+          value_field: 'person_name',
+          display_fields: ['person_name'],
+          multiple: true,
+          required: false
+        }
+      - label: 'Funding'
+        name: 'funding'
+        widget: 'list'
+        required: false
+        fields:
+          - { label: "Funding's name", name: 'name', widget: 'string' }
+          - { label: "Link to funding's website", name: 'link', widget: 'string', required: false }
+          - { label: 'thumbnail for funding body', name: 'image', widget: 'image', required: false }
+
   - name: 'homepage'
     label: 'Homepage'
     delete: false
@@ -366,7 +436,7 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'ground.liquid' }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
       - {
-          label: 'Researchers',
+          label: 'Contributors',
           name: 'people',
           widget: 'relation',
           collection: 'people',
@@ -376,7 +446,7 @@ collections:
           multiple: true,
           required: false
         }
-      - { label: 'Author', name: 'author', widget: 'string', required: true }
+     
       - { label: 'Ground Date', name: 'ground_date', widget: 'datetime', format: 'YYYY-MM-DD', date_format: 'DD/MM/YYYY', time_format: false, required: true }
       - label: 'Ground Url' 
         name: 'ground_url'

@@ -4,9 +4,9 @@ layout: base
 <article class="publication-detail">
 
   <h1 class="publication-title">{{ title }}</h1>
-  <p class="publication-author">By {{ author }}</p>
+
   {% if people or external_collaborators %}
-  <p class="people-link"><strong>Researcher(s):</strong>
+  <p class="people-link"><strong>Contributor(s):</strong>
   {% if people %}
     {% for person_name in people %}
       {% assign person = collections.people | where: "data.person_name", person_name | first %}

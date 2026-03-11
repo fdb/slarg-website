@@ -16,6 +16,7 @@
         {% endunless %}
       {% endfor %}
     {% endfor %}
+    
     {% assign uniqueRoles = roles | split: ',' | uniq %}
     {% for role in uniqueRoles %}
       {% if role != "" %}
