@@ -148,11 +148,7 @@ title: Research Projects
 <script>
 document.addEventListener("DOMContentLoaded", () => {
 
-  function normalize(str) {
-    return (str || "").trim().toLowerCase();
-  }
 
-  // --- Custom select logic ---
   document.querySelectorAll(".custom-select-wrapper").forEach(wrapper => {
     const trigger = wrapper.querySelector(".custom-select-trigger");
     const dropdown = wrapper.querySelector(".custom-select-dropdown");
@@ -179,7 +175,6 @@ document.addEventListener("DOMContentLoaded", () => {
       option.setAttribute("aria-selected", "true");
       option.classList.add("selected");
 
-      // update trigger label (keep arrow)
       const label = option.dataset.value 
         ? option.textContent 
         : trigger.id === "interest-btn" ? "Filter by Research Interests" : "Filter by Project Kind";
@@ -249,21 +244,30 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function filterProjects() {
-    const selectedInterest = getSelected("interest-listbox");
-    const selectedKind = getSelected("kind-listbox");
+  const selectedInterest = getSelected("interest-listbox");
+  const selectedKind = getSelected("kind-listbox");
 
-    document.querySelectorAll(".project-card").forEach(project => {
+  document.querySelectorAll(".projects-grid").forEach(grid => {
+    let visibleCount = 0;
+
+    grid.querySelectorAll(".project-card").forEach(project => {
       const projectInterests = (project.getAttribute("data-interests") || "")
-        .split(",").map(normalize);
-      const projectKind = normalize(project.getAttribute("data-kind"));
+        .split(",").map(s => (s || "").trim().toLowerCase());
+      const projectKind = (project.getAttribute("data-kind") || "").trim().toLowerCase();
 
       const matchesInterest = !selectedInterest || projectInterests.includes(selectedInterest);
       const matchesKind = !selectedKind || projectKind === selectedKind;
 
-      project.style.display = matchesInterest && matchesKind ? "block" : "none";
+      const visible = matchesInterest && matchesKind;
+      project.style.display = visible ? "block" : "none";
+      if (visible) visibleCount++;
     });
-  }
 
-
+    const heading = grid.previousElementSibling;
+    if (heading && heading.tagName === "H2") {
+      heading.style.display = visibleCount > 0 ? "" : "none";
+    }
+  });
+}
 });
 </script>
