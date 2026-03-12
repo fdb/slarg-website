@@ -491,7 +491,7 @@ main .partner-logos img {
 	background-color: var(--bg-color);
 	font-family: 'AuthenticSans', sans-serif;
 	color: var(--turquoise);
-	font-size: 1.8rem;
+	font-size: 1.2rem;
 	cursor: pointer;
 }
 .homepage-newsletter:hover {
@@ -524,19 +524,14 @@ main .partner-logos img {
 .highlight-events h2 {
 	color: var(--bg-color);
 }
-.highlight-event {
-	
-}
-/* .highlight-event a:not(:has(img)) {
-	border-bottom: 2px solid aquamarine;
-} */
+
 .highlight-event,
 .highlight-event p {
 	color: var(--bg-color);
-	font-size: 1.2rem;
+	font-size: 1.1rem;
 	line-height: 1.3;
 	font-family: 'Authenticsans';
-	margin-bottom: 0rem;
+
 }
 .highlight-event h2 {
 	font-weight: normal;
@@ -550,6 +545,16 @@ main .partner-logos img {
 	width: 50%;
 	display: block;
 	margin: 1rem auto;
+}
+
+@media (max-width: 768px) {
+	.highlight-event img {
+		width: 100%;
+	}
+}
+
+.highlight-event .content a{
+	color: whitesmoke;
 }
 
 footer {
@@ -710,6 +715,7 @@ border-radius: 8px;
 	}
 	.homepage-short-presentation {
 		margin-left: 0;
+		font-size: 1.5rem;
 	}
 }
 
