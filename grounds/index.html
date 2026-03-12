@@ -27,7 +27,8 @@ hero_image:
 <h2>Browse publications</h2>
 <br>
 <div class="publication-grid">
-  {% for ground in collections.grounds_publications %}
+  {% assign sorted_grounds = collections.grounds_publications | sort: "data.ground_date" %}
+{% for ground in sorted_grounds %}
     <div class="publication-item">
       <a href="{{ ground.url }}">
         {% if ground.data.thumbnail %}
@@ -36,7 +37,7 @@ hero_image:
           <img src="/static/img/placeholder.png" alt="Placeholder Image">
         {% endif %}
         <h2>{{ ground.data.title }}</h2>
-        <p class="author">Author(s): {{ ground.data.author }}</p>
+        <p class="author">Contributors(s): {{ ground.data.people | join: ", " }}</p>
         <p class="date">Date: {{ ground.data.ground_date | Year }}</p>
       </a>
     </div>
