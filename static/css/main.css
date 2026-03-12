@@ -890,8 +890,15 @@ border-radius: 8px;
 	color: inherit;
 	margin-bottom: 1rem;
 	display: inline-block;
-	width: 30%;
+	width: 50%;
 	margin-right: 2rem;
+	word-wrap: break-word;
+}
+
+@media (max-width: 780px) {
+	.event-card {
+		width: 100%;
+	}
 }
 
 .event-thumb {
