@@ -7,9 +7,6 @@ role:
 email: irma.foldenyi@kdg.be
 headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/662aa5ac-cfc3-4e61-8b74-5e86fe077ed1.jpg
 bio: >-
-  <!--StartFragment-->
-
-
   **Bio**
 
 
@@ -22,9 +19,6 @@ bio: >-
   She holds an MD in Social Design from Design Academy Eindhoven and an MA in Product Design from the Moholy-Nagy University of Art and Design. Before that she studied as a goldsmith in Budapest.
 
 
-   
-
-
   **Personal Links**
 
 
@@ -35,9 +29,4 @@ bio: >-
 
 
   *[https://www.instagram.com/irmafoldenyi/](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Firmafoldenyi%2F&data=05%7C02%7Ctom.viaene%40kdg.be%7C9dc38bd7abe94b06941408ddf10a8ec2%7Ced1fc57f8a9747e79de19302dfd786ae%7C0%7C0%7C638931749833515119%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ZL5sjV2mBmlwjxQfjgtcEazV6XP%2FRUDYko02Zxo9YuE%3D&reserved=0 "Originele URL: https\://www.instagram.com/irmafoldenyi/. Klik of tik als u deze koppeling vertrouwt.")*
-
-
-
-
-  <!--EndFragment-->
 ---
