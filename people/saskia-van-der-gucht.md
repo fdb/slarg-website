@@ -2,13 +2,6 @@
 researcher_name: Saskia Van der Gucht
 researcher_flag: "false"
 layout: people.liquid
-tags: researcher
-person_name: Saskia Van der Gucht
-role:
-  - Staff
-  - Former researcher
-email: saskia.vandergucht@kdg.be
-headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/aaec12ea-2615-44e0-ab3a-7968af14f250.jpg
 bio: Saskia Van der Gucht (she/her) is a visual artist, artistic researcher and
   teacher based in Antwerp (BE). Her work deals with the complexities of
   emotional and economic value of housing and the feeling of home. More recently
@@ -24,8 +17,15 @@ social_links:
 staff_flag: "false"
 image_researcher:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/504aa931-e873-4c87-9ecc-43554b7f0c6c.jpg
+person_name: Saskia Van der Gucht
+role:
+  - Staff
+  - Former researcher
 status_of_research: finished
 available_for_supervision: "false"
+tags: researcher
+email: saskia.vandergucht@kdg.be
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/aaec12ea-2615-44e0-ab3a-7968af14f250.jpg
 projects:
-  - "On sand: Unpacking Preciousness"
+  - "On sand: unpacking preciousness"
 ---
