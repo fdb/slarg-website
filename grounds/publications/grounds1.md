@@ -6,7 +6,16 @@ TOC:
     contributors: Joud Toamah
   - title: "Strolling Through the Eccentric Space: Unveiling the Potential
       Photo-History of Khady Diop in La Goutte d’Or"
-    contributors: Imane B.K. & Tuundé Adefioyeh
+    contributors: Pierre-Antoine Vettorello
+  - title: "Reverb-Resonate: The Undercurrents"
+    contributors: Monda Hedayati
+  - title: Ciné Place-Making — hold on to her
+    contributors: Robin Vanbesien
+  - contributors: Việt Vũ
+    title: "Film Censorship in Vietnam: A Conflict of Sociocultural and National
+      Identity Re-Coding"
+  - title: Parable of a Sunfish
+    contributors: Bianca Baldi
 ground_date: 2025-05-22
 author: "(...) "
 people:
