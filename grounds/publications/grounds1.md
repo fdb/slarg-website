@@ -4,6 +4,9 @@ title: "Grounds #1"
 TOC:
   - title: The Mumkinat of Remembrance
     contributors: Joud Toamah
+  - title: "Strolling Through the Eccentric Space: Unveiling the Potential
+      Photo-History of Khady Diop in La Goutte d’Or"
+    contributors: Imane B.K. & Tuundé Adefioyeh
 ground_date: 2025-05-22
 author: "(...) "
 people:
