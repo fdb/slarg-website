@@ -697,7 +697,7 @@ border-radius: 8px;
 	font-size: 1.2rem;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 780px) {
 	.sidebar h2,
 	.sidebar-logo {
 		display: none;

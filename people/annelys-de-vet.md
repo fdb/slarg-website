@@ -49,6 +49,4 @@ bio: >-
   >
 
   > She welcomes PhD in the arts projects that critically explore the role of design within socio-political contexts. Her interests include participatory artistic practices, community-driven projects, and pedagogical projects that challenge dominant narratives and foster collective imaginaries. She is particularly drawn to research that investigates design as a tool for social engagement, emancipation, and situated knowledge production.
-projects:
-  - log project
 ---
