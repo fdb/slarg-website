@@ -49,6 +49,15 @@ layout: base
 {% endif %}
 
 
+  {% if TOC %}
+<div class="toc">
+  <h3 class="toc-label">CONTENTS:</h3>
+  {% for entry in TOC %}
+  <p>{{ entry.title }} by {{ entry.contributors }}</p>
+  {% endfor %}
+</div>
+{% endif %}
+
 
 
   {% if ground_url %}
@@ -58,4 +67,6 @@ layout: base
     </a>
     {% endfor%}
   {% endif %}
+
+
 </article>

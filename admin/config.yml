@@ -446,6 +446,19 @@ collections:
           multiple: true,
           required: false
         }
+      - label: 'TOC'
+        name: 'TOC'
+        widget: 'list'
+        required: false
+        label_singular: 'TOC entry'
+        hint: 'Add the table of contents entries for this publication'
+        fields:
+          - label: 'Contribution Title'
+            name: 'title'
+            widget: 'string'
+          - label: 'Contributor(s)'
+            name: 'contributors'
+            widget: 'string'
      
       - { label: 'Ground Date', name: 'ground_date', widget: 'datetime', format: 'YYYY-MM-DD', date_format: 'DD/MM/YYYY', time_format: false, required: true }
       - label: 'Ground Url' 
