@@ -29,7 +29,7 @@ hero_image:
 <div class="publication-grid">
   {% assign sorted_grounds = collections.grounds_publications | sort: "data.ground_date" %}
 {% for ground in sorted_grounds %}
-    <div class="publication-item">
+    <div class="publication-item-grounds">
       <a href="{{ ground.url }}">
         {% if ground.data.thumbnail %}
           <img src="{{ ground.data.thumbnail }}" alt="{{ ground.data.title }} thumbnail">

@@ -1138,13 +1138,13 @@ main p a {
 /* PUBLICATIONS */
 
 .publication-item {
-	/* width: 30%; */
+	width: 30%;
 	display: inline-block;
 	vertical-align: top;
 	padding-right: 1rem;
 	padding-bottom: 2rem;
 }
-.publication-item a{
+.publication-item-grounds a{
 	display: flex;
   justify-content: center;
   align-items: flex-start;
@@ -1166,6 +1166,9 @@ width: 300px;
 	}
 }
  
+.publication-description{
+	padding-bottom: 2rem;
+}
 /* @media (max-width: 468px) {
 	.publication-item {
 		width: 100%;
