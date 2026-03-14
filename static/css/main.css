@@ -1150,6 +1150,12 @@ main p a {
   align-items: flex-start;
   gap: 2rem;
 }
+.publication-item-grounds a img{
+width: 300px;
+}
+.publication-item-grounds a .content h2{
+margin-top: 0;
+}
 .publication-item a img{
 width: 300px;
 }
@@ -1161,9 +1167,13 @@ width: 300px;
 	margin-bottom: 0.5rem;
 }
 @media (max-width: 886px) {
-	.publication-item a{
+	.publication-item a, .publication-item-grounds a{
 		display: block;
 	}
+	.publication-item a, .publication-item-grounds a img{
+		padding-bottom: 1rem;
+	}
+
 }
  
 .publication-description{
