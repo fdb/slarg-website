@@ -286,7 +286,7 @@ a .intro-text {
 
 .events-grid {
 	display: grid;
-	grid-template-columns: repeat(auto-fit, 300px);
+	grid-template-columns: repeat(auto-fit, 290px);
 	grid-gap: 1rem;
 	margin-top: 1rem;
 }
@@ -297,8 +297,8 @@ a .intro-text {
 	font-size: 1rem;
 	color: var(--text-accent);
 	text-transform: uppercase;
-	text-decoration: none;
 	font-family: 'Marsha', sans-serif;
+	padding-bottom: 0.5rem;
 }
 
 .event-title a {
@@ -320,12 +320,13 @@ a .intro-text {
 	color: var(--text);
 }
 
-.event-detailh3s {
+.event-details {
 	font-size: 1rem;
 	font-family: 'AuthenticSans', sans-serif;
 	margin: 0;
 	line-height: 1.5;
 	color: var(--text);
+	padding-top: 0.5rem;
 }
 
 .event-layout,
