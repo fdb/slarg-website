@@ -72,6 +72,7 @@ layout: base
       <div class="social-links-container">
         {% for link in social_links %}
           <a href="{{ link.url }}" class="social-link-tag" target="_blank" rel="noopener noreferrer">
+           <span>↗</span>
             {{ link.name }}
           </a>
         {% endfor %}

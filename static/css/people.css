@@ -165,11 +165,17 @@
 	margin-bottom: 1.2rem;
 	line-height: 1.7;
 	color: #222;
+	border-top: 2px solid var(--border-accent);
+  padding-top: 1rem;
 }
 .person-bio p{
 	font-size: 1.1rem;
 }
-
+@media (min-width: 780px) {
+	.person-bio p{
+		font-size: 1.3rem;
+	}
+}
 .person-social-links {
 	margin-bottom: 1.5rem;
 }
@@ -194,13 +200,14 @@
 	text-decoration: none;
 	transition: all 0.2s ease;
 	width: fit-content;
+	padding: 0.3rem 1rem;
 }
 
 .social-link-tag:hover {
-	background: #2c5aa0;
-	color: white;
-	transform: translateY(-1px);
+	background: #e6f7f2;
+	color: var(--text-darker);
 	box-shadow: 0 2px 8px rgba(44, 90, 160, 0.2);
+	
 }
 
 .person-projects {
