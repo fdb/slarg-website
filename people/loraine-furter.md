@@ -8,10 +8,6 @@ research_interests:
   - intersectional
   - publishing
   - storytelling
-social_links: |-
-  <https://www.lorainefurter.net/>
-
-  <https://www.instagram.com/lorainefurter/>
 headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/64c0d154-f2d1-4e99-a7b2-141eceb1f22e.jpg
 bio: Loraine Furter is a graphic designer and a teacher, specialized in hybrid
   publishing and in love with subversive anti-hegemonic practices. She
