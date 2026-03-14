@@ -15,6 +15,11 @@ bio: Loraine Furter is a graphic designer and a teacher, specialized in hybrid
   research group Bye Bye Binary and the project Intersections of Care. Loraine
   is doing a PhD in the arts at Sint Lucas Antwerpen (KdG) / ARIA (University of
   Antwerp), entitled "The politics of publishing."
+social_links:
+  - name: website
+    url: https://www.lorainefurter.net/
+  - name: instagram
+    url: https://www.instagram.com/lorainefurter/
 staff_flag: true
 supervisors:
   - name: Kim Gorus
