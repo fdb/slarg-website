@@ -32,7 +32,7 @@ hero_image:
     <div class="publication-item-grounds">
       <a href="{{ ground.url }}">
         {% if ground.data.thumbnail %}
-          <img src="{{ ground.data.thumbnail }}" alt="{{ ground.data.title }} thumbnail">
+          <img src="{{ ground.data.thumbnail }}/public" alt="{{ ground.data.title }} thumbnail">
         {% else %}
           <img src="/static/img/placeholder.png" alt="Placeholder Image">
         {% endif %}
