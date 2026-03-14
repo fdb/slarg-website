@@ -26,7 +26,8 @@ people:
   - Tundé Adefioye
   - Robin Vanbesien
   - Joud Toamah
-thumbnail: ""
+thumbnail:
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/bc97fdf98868b117504f400036d2fc6052ed62b2.png
 ground_file: https://www.sintlucasantwerpen.be/wp-content/uploads/2025/12/Grounds_DEF_volgorde_BIS_web.pdf
 ground_url:
   - url: https://www.sintlucasantwerpen.be/wp-content/uploads/2025/12/Grounds_DEF_volgorde_BIS_web.pdf
