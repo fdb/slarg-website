@@ -40,18 +40,7 @@ layout: base
     {{ bio | markdownify }}
   </div>
 
-  {% if social_links and social_links.size > 0 %}
-    <div class="person-social-links">
-      <h3>Links & Social</h3>
-      <div class="social-links-container">
-        {% for link in social_links %}
-          <a href="{{ link.url }}" class="social-link-tag" target="_blank" rel="noopener noreferrer">
-            {{ link.name }}
-          </a>
-        {% endfor %}
-      </div>
-    </div>
-  {% endif %}
+
 
     {% if projects and projects.size > 0 and collections.projects %}
       <div class="person-projects">
@@ -61,9 +50,9 @@ layout: base
           {% if projects contains projectEntry.data.title %}
             <li>
               <a href="{{ projectEntry.url }}">
-                {% if projectEntry.data.image %}
+                {% if projectEntry.data.main_image %}
                   <div class="project-image">
-                    <img src="{{ projectEntry.data.image }}/public" alt="{{ projectEntry.data.title }}" width="120" height="120">
+                    <img src="{{ projectEntry.data.main_image }}/public" alt="{{ projectEntry.data.title }}" width="120" height="120">
                   </div>
                 {% endif %}
                 <div class="project-info">
@@ -77,6 +66,17 @@ layout: base
       </div>
     {% endif %}
  
-
+  {% if social_links and social_links.size > 0 %}
+    <div class="person-social-links">
+      <h3>Links & Social</h3>
+      <div class="social-links-container">
+        {% for link in social_links %}
+          <a href="{{ link.url }}" class="social-link-tag" target="_blank" rel="noopener noreferrer">
+            {{ link.name }}
+          </a>
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
 
 </div>
