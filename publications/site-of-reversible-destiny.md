@@ -5,7 +5,7 @@ author: Sam Vanbelle
 publication_date: 2025-11-10
 publication_file: https://outsidethegrid.cargo.site/
 thumbnail:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/28105e7eece74fdd91f78ce98c288d5c0f178b50.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/175c550dade429be430eb28a0e1afd57b1685949.jpg
 description: >-
   *Site Of Reversible Destiny* is a small publication by SLARG researcher Sam
   Vanbelle, developed as the first chapter of a year-long research project at
