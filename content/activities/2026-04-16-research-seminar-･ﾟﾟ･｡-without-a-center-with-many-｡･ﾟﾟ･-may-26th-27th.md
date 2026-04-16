@@ -19,18 +19,18 @@ On **Wednesday the 27th of May**, we will gather around a workshop where we will
 
 Explore the full program + Meet the Speakers **[༺HERE༻](https://docs.google.com/spreadsheets/d/1o26BpQbftbOQpZIvL5mVGaFre5hwZ0ly65oxbE5U6-4/edit?usp=sharing)**
 
-**Locations:**
-
-Day 1 (26.05.26 — HYBRID) → Paramour, Rue d’Arlon 104, 1040 Brussels 
-
-
-Day 2 (27.05.26 — IN PERSON) → Les îles Mardi, Rue Jacques de Lalaing 13, 1040 Brussels 
-
-**Registration:**
-
-For all types of participation, whether in person or online, registration is required.
-
-**→** **[Register via this link](https://forms.gle/E4fDDWBLxGxPtJYy8)** 
+> **Locations:**
+>
+> Day 1 (26.05.26 — HYBRID) → Paramour, Rue d’Arlon 104, 1040 Brussels 
+>
+>
+> Day 2 (27.05.26 — IN PERSON) → Les îles Mardi, Rue Jacques de Lalaing 13, 1040 Brussels 
+>
+> **Registration:**
+>
+> For all types of participation, whether in person or online, registration is required.
+>
+> **→** **[Register via this link](https://forms.gle/E4fDDWBLxGxPtJYy8)** 
 
 #### This seminar is organized as part of Garine's research project “Exploring the Diasporic Life of Armenian Script: A multiscript design Laboratory”, which seeks collaborative, participatory and creative approaches to disrupt dominant practices and reimagine both the language and the practice of design. 
 
