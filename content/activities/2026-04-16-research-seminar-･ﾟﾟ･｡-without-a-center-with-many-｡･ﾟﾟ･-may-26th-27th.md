@@ -32,6 +32,10 @@ Explore the full program + Meet the Speakers **[༺HERE༻](https://docs.google.
 >
 > **→** **[Register via this link](https://forms.gle/E4fDDWBLxGxPtJYy8)** 
 
+
+
+
+
 #### This seminar is organized as part of Garine's research project “Exploring the Diasporic Life of Armenian Script: A multiscript design Laboratory”, which seeks collaborative, participatory and creative approaches to disrupt dominant practices and reimagine both the language and the practice of design. 
 
 #### This is a multilingual event. Most presentations and discussions will be in English, but speakers and the audience are free to switch between languages as needed. We’ll do our best to offer partial translation when possible. The final presentation of the program will be in French.
