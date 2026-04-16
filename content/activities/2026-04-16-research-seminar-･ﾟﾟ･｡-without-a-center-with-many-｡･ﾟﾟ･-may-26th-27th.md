@@ -26,6 +26,8 @@ Day 1 (26.05.26 — HYBRID) → Paramour, Rue d’Arlon 104, 1040 Brussels
 
 Day 2 (27.05.26 — IN PERSON) → Les îles Mardi, Rue Jacques de Lalaing 13, 1040 Brussels 
 
+### Registrations:
+
 For all types of participation, whether in person or online, registration is required.
 
 **→** **[Register via this link](https://forms.gle/E4fDDWBLxGxPtJYy8)** 
