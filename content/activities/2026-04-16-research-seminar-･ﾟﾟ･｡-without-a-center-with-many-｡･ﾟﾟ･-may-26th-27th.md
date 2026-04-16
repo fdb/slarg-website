@@ -8,7 +8,7 @@ location: "Day 1 (26.05.26) → Paramour, Rue d’Arlon 104, 1040 Brussels
   ･ﾟﾟ･｡  Day 2 (27.05.26) → Les îles Mardi, Rue Jacques de Lalaing 13, 1040
   Brussels "
 thumbnail:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/165f16ef056f98ad2a22c5749be3723762243889.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/af40c92f89228ed891b587d2389ab8d85665e936.jpg
 tags: []
 research_interests: []
 ---
@@ -27,8 +27,6 @@ For all types of participation, whether in person or online, registration is req
 
 #### This seminar is organized as part of my research project “Exploring the Diasporic Life of Armenian Script: A multiscript design Laboratory”, which seeks collaborative, participatory and creative approaches to disrupt dominant practices and reimagine both the language and the practice of design with a critical, feminist and decolonial lense. It challenges the dominant design thinking and methodologies shaped by Eurocentric canons, where the Latin script is treated as the default and its principles assumed to be universally applicable.
 
-
 #### This is a multilingual event with presentations and discussions where we it is possible to shift from one language to another if felt necessary. We will try our best to partially translate if needed.The last talk in the program is scheduled to be in French.
-
 
 #### The event is supported by ARIA (Sint Lucas Antwerpen and University of Antwerp) as well as Subsidie Omkadering Jonge Onderzoekers OJO (Antwerp Doctoral School).
