@@ -4,9 +4,9 @@ title: Research Seminar ❝Without A Center, With Many❞
 layout: activity.liquid
 startDate: 2026-05-26T07:30:43.317Z
 endDate: 2026-05-27T16:00:43.322Z
-location: "Day 1 (26.05.26) → Paramour, Rue d’Arlon 104, 1040 Brussels
-  ･ﾟﾟ･｡  Day 2 (27.05.26) → Les îles Mardi, Rue Jacques de Lalaing 13, 1040
-  Brussels "
+location: "Day 1 (26.05.26 — HYBRID) → Paramour, Rue d’Arlon 104, 1040 Brussels
+  ･ﾟﾟ･｡ ･ﾟﾟ･｡･ﾟﾟ･｡･ﾟﾟ･｡･ﾟﾟ･｡･ﾟﾟ･｡ Day 2 (27.05.26 —) → Les îles Mardi, Rue
+  Jacques de Lalaing 13, 1040 Brussels "
 thumbnail:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/ed4ec3944c61a239ee9caf1935d0a5631bbdcf4f.gif
 tags: []
