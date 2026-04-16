@@ -1,6 +1,6 @@
 ---
 type: activity
-title: "･ﾟﾟ･｡ Without A Center, With Many ｡･ﾟﾟ･Research Seminar "
+title: "❝Without A Center, With Many❞ ･･･ Research Seminar "
 layout: activity.liquid
 startDate: 2026-05-26T07:30:43.317Z
 endDate: 2026-05-27T16:00:43.322Z
@@ -18,11 +18,13 @@ The seminar will start on **Tuesday the 26th of May**, with a full day of prese
 \
 On Wednesday the 27th of May, we will gather around a workshop during which we will critically rethink the practice of type revivals and explore possible futures for revival-making through a shared set of guidelines. \
 \
-Explore the full program + Meet the Speakers ** [༺HERE༻](**<https://docs.google.com/spreadsheets/d/1o26BpQbftbOQpZIvL5mVGaFre5hwZ0ly65oxbE5U6-4/edit?usp=sharing>**)**\
+Explore the full program + Meet the Speakers **[༺HERE༻](https://docs.google.com/spreadsheets/d/1o26BpQbftbOQpZIvL5mVGaFre5hwZ0ly65oxbE5U6-4/edit?usp=sharing)**\
 For all types of participation, whether in person or online, registration is required.
 
-**[Register via this link](< <https://forms.gle/E4fDDWBLxGxPtJYy8>>)** for in person participation for Day 1 and/or Day 2.\
+**[Register via this link](https://forms.gle/E4fDDWBLxGxPtJYy8)** for in person participation for Day 1 and/or Day 2.\
 **Register via this link** for online participation.
+
+![](https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/af40c92f89228ed891b587d2389ab8d85665e936.jpg)
 
 #### This seminar is organized as part of my research project “Exploring the Diasporic Life of Armenian Script: A multiscript design Laboratory”, which seeks collaborative, participatory and creative approaches to disrupt dominant practices and reimagine both the language and the practice of design with a critical, feminist and decolonial lense. It challenges the dominant design thinking and methodologies shaped by Eurocentric canons, where the Latin script is treated as the default and its principles assumed to be universally applicable.
 
