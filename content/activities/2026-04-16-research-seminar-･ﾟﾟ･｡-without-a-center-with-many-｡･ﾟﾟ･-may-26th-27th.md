@@ -8,7 +8,7 @@ location: "Day 1 (26.05.26) → Paramour, Rue d’Arlon 104, 1040 Brussels
   ･ﾟﾟ･｡  Day 2 (27.05.26) → Les îles Mardi, Rue Jacques de Lalaing 13, 1040
   Brussels "
 thumbnail:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/af40c92f89228ed891b587d2389ab8d85665e936.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/ed4ec3944c61a239ee9caf1935d0a5631bbdcf4f.gif
 tags: []
 research_interests: []
 ---
