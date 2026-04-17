@@ -19,7 +19,7 @@ On **Wednesday the 27th of May**, we will gather around a workshop where we wil
 Explore the full programme + Meet the Speakers **[༺HERE༻](https://docs.google.com/spreadsheets/d/1o26BpQbftbOQpZIvL5mVGaFre5hwZ0ly65oxbE5U6-4/edit?usp=sharing)**
 
 **Locations:**<br>
-Day 1 (26.05.26) → Paramour, Rue d’Arlon 104, 1040 Brussels <br> Day 2 (27.05.26) → Les îles Mardi, Rue Jacques de Lalaing 13, 1040 Brussels 
+● Day 1 (26.05.26) → Paramour, Rue d’Arlon 104, 1040 Brussels <br> ● Day 2 (27.05.26) → Les îles Mardi, Rue Jacques de Lalaing 13, 1040 Brussels 
 
 For all types of participation, whether in person or online, registration is required.
 **[→ Register via this link](https://docs.google.com/forms/d/e/1FAIpQLSd9Bv76HKalYRWKAIYLugVInpJYwqcO-pHNZZkB4JMWSdN2bA/viewform?usp=dialog)**
