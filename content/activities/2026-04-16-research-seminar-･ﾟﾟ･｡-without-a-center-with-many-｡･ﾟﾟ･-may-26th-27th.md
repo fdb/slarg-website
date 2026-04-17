@@ -13,7 +13,7 @@ research_interests: []
 ---
 As part of her PhD research at ARIA (Sint Lucas Antwerp & University of Antwerp), Garine Gokceyan invites you to a two-day public research seminar.
 
-The seminar will start on **Tuesday the 26th of May**, with a full day of presentations and discussions gathering diverse and multilingual voices around authorship and ownership in collaborative practices, sharing on the politics of accessible resource-making and approaches to unlearning the language of design. We will also take a moment to celebrate the launch of the Alphabettes Soup book by Bikini Books.
+The seminar will start on **Tuesday the 26th of May**, with a full day of presentations and discussions gathering diverse and multilingual voices around authorship and ownership in collaborative practices, sharing on the politics of accessible resource-making and approaches to unlearning the language of design. We will also take a moment to celebrate the launch of the *Alphabettes Soup* book by [Bikini Books](https://bikini-books.com/products/alphabettes-soup).
 
 On **Wednesday the 27th of May**, we will gather around a workshop where we will critically rethink the practice of type revivals and explore possible futures for revival-making through a shared set of guidelines. <br>
 Explore the full programme + Meet the Speakers **[༺HERE༻](https://docs.google.com/spreadsheets/d/1o26BpQbftbOQpZIvL5mVGaFre5hwZ0ly65oxbE5U6-4/edit?usp=sharing)**
