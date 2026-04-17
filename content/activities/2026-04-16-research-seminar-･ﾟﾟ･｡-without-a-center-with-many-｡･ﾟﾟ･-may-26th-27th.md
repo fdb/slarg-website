@@ -1,6 +1,6 @@
 ---
 type: activity
-title: Research Seminar ❝Without A Center, With Many❞
+title: ❝Without A Center, With Many❞
 layout: activity.liquid
 startDate: 2026-05-26T07:30:43.317Z
 endDate: 2026-05-27T16:00:43.322Z
