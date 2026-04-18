@@ -18,7 +18,7 @@ The seminar will start on **Tuesday the 26th of May**, with a full day of pres
 On **Wednesday the 27th of May**, we will gather around a workshop where we will critically rethink the practice of type revivals and explore possible futures for revival-making through a shared set of guidelines. 
 
 ## **Programme**<br>
-Explore the full programme + Meet the Speakers **[༺HERE༻](https://docs.google.com/spreadsheets/d/1o26BpQbftbOQpZIvL5mVGaFre5hwZ0ly65oxbE5U6-4/edit?usp=sharing)**
+Explore the full programme and meet the speakers **[༺HERE༻](https://docs.google.com/spreadsheets/d/1o26BpQbftbOQpZIvL5mVGaFre5hwZ0ly65oxbE5U6-4/edit?usp=sharing)**
 
 ## **Locations:**<br>
 ● Day 1 (26.05.26) → Paramour, Rue d’Arlon 104, 1040 Brussels <br> ● Day 2 (27.05.26) → Les îles Mardi, Rue Jacques de Lalaing 13, 1040 Brussels 
