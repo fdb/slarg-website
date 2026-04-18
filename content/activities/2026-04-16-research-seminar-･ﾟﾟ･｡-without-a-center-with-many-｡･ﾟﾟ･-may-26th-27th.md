@@ -18,17 +18,17 @@ The seminar will start on **Tuesday the 26th of May**, with a full day of pres
 On **Wednesday the 27th of May**, we will gather around a workshop where we will critically rethink the practice of type revivals and explore possible futures for revival-making through a shared set of guidelines. 
 
 ## **Programme**<br>
-Explore the full programme and meet the speakers **[༺HERE༻](https://docs.google.com/spreadsheets/d/1o26BpQbftbOQpZIvL5mVGaFre5hwZ0ly65oxbE5U6-4/edit?usp=sharing)**
+For more information on the programme, the workshop, and the invited speakers, click  **[༺HERE༻](https://docs.google.com/spreadsheets/d/1o26BpQbftbOQpZIvL5mVGaFre5hwZ0ly65oxbE5U6-4/edit?usp=sharing)**
 
-## **Locations:**<br>
-● Day 1 (26.05.26) → Paramour, Rue d’Arlon 104, 1040 Brussels <br> ● Day 2 (27.05.26) → Les îles Mardi, Rue Jacques de Lalaing 13, 1040 Brussels 
-
-## **Registration:**<br>
+## **Registration**<br>
 
 For all types of participation, whether in person or online, registration is required.
 **[→ Register via this link](https://docs.google.com/forms/d/e/1FAIpQLSd9Bv76HKalYRWKAIYLugVInpJYwqcO-pHNZZkB4JMWSdN2bA/viewform?usp=dialog)**
 
-#### This seminar is organised as part of Garine's research project “Exploring the Diasporic Life of Armenian Script: A multiscript design Laboratory”, which seeks collaborative, participatory and creative approaches to disrupt dominant paradigms and reimagine both the language and the practice of design with a critical, feminist and decolonial lense. <br><br>
+## **Locations**<br>
+● Day 1 (26.05.26) → Paramour, Rue d’Arlon 104, 1040 Brussels <br> ● Day 2 (27.05.26) → Les îles Mardi, Rue Jacques de Lalaing 13, 1040 Brussels 
+
+#### <br><br>This seminar is organised as part of Garine's research project “Exploring the Diasporic Life of Armenian Script: A multiscript design Laboratory”, which seeks collaborative, participatory and creative approaches to disrupt dominant paradigms and reimagine both the language and the practice of design with a critical, feminist and decolonial lense. <br><br>
 
 #### This is a multilingual event. Most presentations and discussions will be in English, but speakers and the audience are free to switch between languages as needed. We’ll do our best to offer partial translation when possible. The final presentation of the program will be in French.<br><br>
 
