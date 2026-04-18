@@ -28,7 +28,7 @@ For all types of participation, whether in person or online, registration is req
 ## **Locations**<br>
 ● Day 1 (26.05.26) → Paramour, Rue d’Arlon 104, 1040 Brussels <br> ● Day 2 (27.05.26) → Les îles Mardi, Rue Jacques de Lalaing 13, 1040 Brussels 
 
-#### <br><br>More about Garine Gokceyan's research can be found [here](https://slarg.be/projects/exploring-the-diasporic-life-of-armenian-script-a-multiscript-laboratory/).<br><br>
+#### <br><br>**Garine's research project “Exploring the Diasporic Life of Armenian Script: A multiscript design Laboratory”, seeks collaborative and creative approaches to co-learning and resource sharing/making that disrupts dominant paradigms of design education. She tries to reimagine both the language and practice of design through a critical, feminist and decolonial lens where different writing systems and voices could unite as allies (and not rivals) against uniformisation, standardisation and erasure.**<br><br>
 
 #### This is a multilingual event. Most presentations and discussions will be in English, but speakers and the audience are free to switch between languages as needed. We’ll do our best to offer partial translation when possible. The final presentation of the program will be in French.<br><br>
 
