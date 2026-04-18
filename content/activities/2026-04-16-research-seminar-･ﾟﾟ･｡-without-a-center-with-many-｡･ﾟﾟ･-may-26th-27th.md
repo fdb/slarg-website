@@ -1,6 +1,6 @@
 ---
 type: activity
-title: ❝Without A Center, With Many❞
+title: Without A Center, With Many — Designing Across Diasporas, Languages &Times
 layout: activity.liquid
 startDate: 2026-05-26T07:30:43.317Z
 endDate: 2026-05-27T16:00:43.322Z
@@ -21,11 +21,11 @@ Explore the full programme + Meet the Speakers **[༺HERE༻](https://docs.goog
 **Locations:**<br>
 ● Day 1 (26.05.26) → Paramour, Rue d’Arlon 104, 1040 Brussels <br> ● Day 2 (27.05.26) → Les îles Mardi, Rue Jacques de Lalaing 13, 1040 Brussels 
 
-For all types of participation, whether in person or online, registration is required.
+#### For all types of participation, whether in person or online, registration is required.
 **[→ Register via this link](https://docs.google.com/forms/d/e/1FAIpQLSd9Bv76HKalYRWKAIYLugVInpJYwqcO-pHNZZkB4JMWSdN2bA/viewform?usp=dialog)**
 <br><br>
 This seminar is organised as part of Garine's research project “Exploring the Diasporic Life of Armenian Script: A multiscript design Laboratory”, which seeks collaborative, participatory and creative approaches to disrupt dominant paradigms and reimagine both the language and the practice of design with a critical, feminist and decolonial lense. 
 <br><br>
 This is a multilingual event. Most presentations and discussions will be in English, but speakers and the audience are free to switch between languages as needed. We’ll do our best to offer partial translation when possible. The final presentation of the program will be in French.
-<br><br>
+
 The event is supported by ARIA (Sint Lucas Antwerpen and University of Antwerp) as well as Subsidie Omkadering Jonge Onderzoekers OJO (Antwerp Doctoral School).
