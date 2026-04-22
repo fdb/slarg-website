@@ -17,6 +17,8 @@ The seminar will start on **Tuesday the 26th of May**, with a full day of pres
 
 On **Wednesday the 27th of May**, we will gather around a workshop where we will critically rethink the practice of type revivals and explore possible futures for revival-making through a shared set of guidelines. 
 
+We have meticulously curated an exceptional line-up, including the renowned 'doula' publisher and feminist designer, **Nina Paim**; the fiction writer and artist researcher, **Ayoh Kré Duchtelet**; the generously collaborative multiscript type designers, **Nama Ben Ayed** and **Khajag Apelian**; the attuned architect and translator, **Movses Der Kevorkian**; the subversive feminist designers and educators, **Ludi Loiseau** and **Loraine Furter** and finally from *The Kitchen*; the engaged researchers and arts workers, **Reem Shilleh** and **Joachim Ben Yacoub**.
+
 ## **Programme**<br>
 
 For more information on the programme, the workshop, and the invited speakers, click  **[༺HERE༻](https://docs.google.com/spreadsheets/d/1o26BpQbftbOQpZIvL5mVGaFre5hwZ0ly65oxbE5U6-4/edit?usp=sharing)**
