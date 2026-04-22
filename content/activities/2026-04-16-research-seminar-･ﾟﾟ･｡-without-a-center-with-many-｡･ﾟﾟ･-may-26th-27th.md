@@ -23,7 +23,7 @@ For more information on the programme, the workshop, and the invited speakers, c
 
 ## **Registration**<br>
 
-For all types of participation, whether in person or online, registration is required.
+Registration is required for all types of participation: whether in person or online, and for day 1 or day 2 (workshop).
 **[→ Register via this link](https://docs.google.com/forms/d/e/1FAIpQLSd9Bv76HKalYRWKAIYLugVInpJYwqcO-pHNZZkB4JMWSdN2bA/viewform?usp=dialog)**
 
 ## **Locations**<br>
