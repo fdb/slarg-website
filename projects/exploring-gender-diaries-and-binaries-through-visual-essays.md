@@ -4,7 +4,7 @@ tags: project
 title: Exploring gender, diaries and binaries through visual essays
 start_date: 2024-09-02T12:40:59.650Z
 end_date: 2026-08-02T12:40:59.664Z
-project-kind: 2 year project (post-doc)
+project-kind: 1 year project
 ongoing: true
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/af9d8dcae06ec98a87afbfd0944c3ea2bfb52eab.jpg
