@@ -9,7 +9,7 @@ thumbnail:
 people:
   - Sammy Baloji
 ---
-In *Copper thread, Rubber thread, Sugar thread*, Sammy Baloji presents a major solo exhibition in Belgium, developed in close relation to his PhD research at Sint Lucas Antwerpen - KdG & Antwerp Research Institute for the Arts (ARIA) The exhibition brings together key strands of his doctoral work, which he will complete and defend in 2026.
+In *Copper thread, Rubber thread, Sugar thread*, Sammy Baloji presents a major solo exhibition in Belgium, developed in close relation to his PhD research at Sint Lucas Antwerpen - KdG & Antwerp Research Institute for the Arts (ARIA). The exhibition brings together key strands of his doctoral work, which he will complete and defend in 2026.
 
 Through tapestries, film, and sound, Baloji revisits the histories of colonial extraction in Central Africa and their continuing effects today. Copper, rubber, and sugar—materials central to colonial economies—become threads that connect histories, geographies, and systems of power. Weaving functions both as method and metaphor: history as something continuously reassembled rather than fixed.
 
