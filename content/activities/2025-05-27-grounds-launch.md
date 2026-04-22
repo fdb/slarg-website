@@ -1,6 +1,6 @@
 ---
 type: activity
-title: "Grounds #1 launch"
+title: "Launch Grounds #1"
 layout: activity.liquid
 startDate: 2025-05-29T15:00:47.241Z
 endDate: ""
