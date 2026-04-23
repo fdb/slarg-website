@@ -1,6 +1,6 @@
 ---
 type: activity
-title: "Sea Through Skin "
+title: "Sea Through Skin - Exhibition "
 layout: activity.liquid
 startDate: 2025-09-13T12:00:19.549Z
 endDate: 2026-01-24T17:00:19.556Z
