@@ -11,14 +11,14 @@ tags:
   - Research Seminar
 research_interests: []
 ---
-As part of her PhD research at Sint Lucas Antwerpen - KdG and ARIA- Antwerp Research Institute for the Arts (University of Antwerp), Garine Gokceyan invites you to a two-day public research seminar.
+As part of her PhD research at Sint Lucas Antwerpen — KdG and ARIA — Antwerp Research Institute for the Arts (University of Antwerp), **[Garine Gokceyan ](https://slarg.be/people/garine-gokceyan/)**invites you to a two-day public research seminar.
 
-The seminar will start on Tuesday the 26th of May, with a full day of presentations and discussions,  bringing together diverse and multilingual voices, around authorship and ownership in collaborative design practices. This seminar day addresses the politics of accessible resource-making alongside approaches to unlearning the language of design. It is also a good occasion to celebrate the launch of the Alphabettes Soup book by Bikini Books, featuring contributions from many of our guests. 
+The seminar will start on **Tuesday the 26th of May**, with a full day of **presentations and discussions**,  bringing together diverse and multilingual voices, around authorship and ownership in collaborative design practices. This seminar day addresses the politics of accessible resource-making alongside approaches to unlearning the language of design. It is also a good occasion to celebrate the launch of the *Alphabettes Soup* book by [Bikini Books](https://bikini-books.com/products/alphabettes-soup), featuring contributions from many of our guests. 
 
-On Wednesday the 27th of May, we will gather around a workshop led by Khajag Apelian and Naïma Ben Ayed, entitled « Revivals Reconsidered » to discuss the question of what constitutes a Typeface revival. Does its significance shift across time and geography? What politics are embedded within it? Together with the participants, we will critically rethink this practice and explore possible futures by creating a shared set of revival-making guidelines. 
+On **Wednesday the 27th of May**, we will gather around a **workshop** led by Khajag Apelian and Naïma Ben Ayed, entitled "Revivals Reconsidered" to discuss the question of what constitutes a Typeface revival. Does its significance shift across time and geography? What politics are embedded within it? Together with the participants, we will critically rethink this practice and explore possible futures by creating a shared set of revival-making guidelines. 
 
 
-We have curated a line-up featuring doula publisher and feminist designer Nina Paim; writer and artist-researcher Ayoh Kré Duchatelet; type designers Naima Ben Ayed and Khajag Apelian; architect and translator Movses Der Kevorkian; designers and educators Ludi Loiseau and Loraine Furter; and, from The Kitchen, researchers and arts workers Reem Shilleh and Joachim Ben Yakoub.
+We have curated a line-up featuring 'doula' publisher and feminist designer **Nina Paim**; writer and artist-researcher **Ayoh Kré Duchâtelet**; type designers **Naïma Ben Ayed** and **Khajag Apelian**; architect and translator **Movses Der Kevorkian;** designers and educators **Ludi Loiseau** and **Loraine Furter**; and, from *The Kitchen*, researchers and arts workers **Reem Shilleh** and **Joachim Ben Yakoub**.
 
 ## **Programme**<br>
 
@@ -32,8 +32,6 @@ Registration is required for all types of participation: whether in person or on
 ## **Locations**<br>
 
 ● Day 1 (26.05.26) → Paramour, Rue d’Arlon 104, 1040 Brussels <br> ● Day 2 (27.05.26) → Les îles Mardi, Rue Jacques de Lalaing 13, 1040 Brussels 
-
-●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●
 
 #### <br><br>**Garine's research project “Exploring the Diasporic Life of Armenian Script: A multiscript design Laboratory”, seeks varied approaches to creating typo-graphic resources that disrupt dominant paradigms of design education. She tries to reimagine both the language and practice of design through a critical, feminist and decolonial lens where different writing systems and voices could unite as allies (and not rivals) against uniformisation, standardisation and erasure.**<br><br>
 
