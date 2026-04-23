@@ -31,7 +31,7 @@ Registration is required for all types of participation: whether in person or on
 
 ## **Locations**<br>
 
-● Day 1 (26.05.26) → **Paramour**, Rue d’Arlon 104, 1040 Brussels <br> ● Day 2 (27.05.26) → **Les îles Mardi**, Rue Jacques de Lalaing 13, 1040 Brussels 
+● Day 1 (26.05.26) → Paramour, Rue d’Arlon 104, 1040 Brussels <br> ● Day 2 (27.05.26) → Les îles Mardi, Rue Jacques de Lalaing 13, 1040 Brussels 
 
 #### <br><br>**Garine's research project “Exploring the Diasporic Life of Armenian Script: A multiscript design Laboratory”, seeks varied approaches to creating typo-graphic resources that disrupt dominant paradigms of design education. She tries to reimagine both the language and practice of design through a critical, feminist and decolonial lens where different writing systems and voices could unite as allies (and not rivals) against uniformisation, standardisation and erasure.**<br><br>
 
