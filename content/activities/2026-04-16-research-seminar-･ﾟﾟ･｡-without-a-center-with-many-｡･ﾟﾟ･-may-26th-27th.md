@@ -1,6 +1,7 @@
 ---
 type: activity
-title: Without A Center, With Many — Designing Across Diasporas, Languages &Times
+title: Without A Center, With Many — Designing Across Diasporas, Languages
+  &Times - Two days seminar
 layout: activity.liquid
 startDate: 2026-05-26T07:30:43.317Z
 endDate: 2026-05-27T16:00:43.322Z
