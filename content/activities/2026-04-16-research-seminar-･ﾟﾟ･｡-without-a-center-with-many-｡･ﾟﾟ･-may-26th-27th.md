@@ -11,13 +11,14 @@ tags:
   - Research Seminar
 research_interests: []
 ---
-As part of her PhD research at ARIA (Sint Lucas Antwerp & University of Antwerp), Garine Gokceyan invites you to a two-day public research seminar.
+As part of her PhD research at Sint Lucas Antwerpen - KdG and ARIA- Antwerp Research Institute for the Arts (University of Antwerp), Garine Gokceyan invites you to a two-day public research seminar.
 
-The seminar will start on **Tuesday the 26th of May**, with a full day of presentations and discussions, gathering diverse and multilingual voices, around authorship and ownership in collaborative practices, sharing on the politics of accessible resource-making and approaches to unlearning the language of design. We will also take a moment to celebrate the launch of the *Alphabettes Soup* book by [Bikini Books](https://bikini-books.com/products/alphabettes-soup).
+The seminar will start on Tuesday the 26th of May, with a full day of presentations and discussions,  bringing together diverse and multilingual voices, around authorship and ownership in collaborative design practices. This seminar day addresses the politics of accessible resource-making alongside approaches to unlearning the language of design. It is also a good occasion to celebrate the launch of the Alphabettes Soup book by Bikini Books, featuring contributions from many of our guests. 
 
-On **Wednesday the 27th of May**, we will gather around a workshop where we will critically rethink the practice of type revivals and explore possible futures for revival-making through a shared set of guidelines. 
+On Wednesday the 27th of May, we will gather around a workshop led by Khajag Apelian and Naïma Ben Ayed, entitled « Revivals Reconsidered » to discuss the question of what constitutes a Typeface revival. Does its significance shift across time and geography? What politics are embedded within it? Together with the participants, we will critically rethink this practice and explore possible futures by creating a shared set of revival-making guidelines. 
 
-We have meticulously curated an exceptional line-up, including the renowned 'doula' publisher and feminist designer, **Nina Paim**; the fiction writer and artist researcher, **Ayoh Kré Duchâtelet**; the generously collaborative multiscript type designers, **Naïma Ben Ayed** and **Khajag Apelian**; the attuned architect and translator, **Movses Der Kevorkian**; the subversive feminist designers and educators, **Ludi Loiseau** and **Loraine Furter** and finally from *The Kitchen*; the engaged researchers and arts workers, **Reem Shilleh** and **Joachim Ben Yacoub**.
+
+We have curated a line-up featuring doula publisher and feminist designer Nina Paim; writer and artist-researcher Ayoh Kré Duchatelet; type designers Naima Ben Ayed and Khajag Apelian; architect and translator Movses Der Kevorkian; designers and educators Ludi Loiseau and Loraine Furter; and, from The Kitchen, researchers and arts workers Reem Shilleh and Joachim Ben Yakoub.
 
 ## **Programme**<br>
 
