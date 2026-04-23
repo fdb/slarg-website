@@ -1,6 +1,6 @@
 ---
 type: activity
-title: "Copper thread, Rubber thread, Sugar thread "
+title: Copper thread, Rubber thread, Sugar thread - Exhibition
 layout: activity.liquid
 startDate: 2026-04-17T16:00:37.723Z
 endDate: 2026-08-16T18:00:37.736Z
