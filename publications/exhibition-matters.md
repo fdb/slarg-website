@@ -1,8 +1,9 @@
 ---
 layout: publication.liquid
 title: Exhibition Matters
-people: []
-author: Wesley Meuris
+people:
+  - Wesley Meuris
+author: Pamela Bianchi & Wesley Meuris (eds.)
 publication_date: 2026-04-28
 publication_file: https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.bloomsbury.com%2Fuk%2Fexhibition-matters-9781350575547%2F&data=05%7C02%7Ctom.viaene%40kdg.be%7C31e61fdd65b74b5f988408dea4ece334%7Ced1fc57f8a9747e79de19302dfd786ae%7C0%7C0%7C639129534537536803%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=1mZsnP45p38%2FXoUr%2BGHv3AKLUldIRpS7q7tEZb7GQxQ%3D&reserved=0
 thumbnail:
