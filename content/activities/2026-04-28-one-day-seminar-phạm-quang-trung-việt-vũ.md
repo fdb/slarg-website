@@ -14,9 +14,9 @@ research_interests:
 people:
   - Việt Vũ (Phạm Quang Trung)
 ---
-Việt Vũ (Phạm Quang Trung), PhD researcher at SLARG and ARIA, invites you to this hybrid (also via zoom) one-day seminar bringing together international filmmakers, authors, artists, and scholars working across complex socio-political contexts in Asia and beyond.
+As part of his PhD research at Sint Lucas Antwerpen — KdG and ARIA — Antwerp Research Institute for the Arts (University of Antwerp),Việt Vũ (Phạm Quang Trung), invites you to this hybrid (also via zoom) one-day seminar bringing together international filmmakers, authors, artists, and scholars working across complex socio-political contexts in Asia and beyond: 
 
-***Research and Creation amid Asian Socio-Political Sensitivity: Methods and Reflections***
+## ***Research and Creation amid Asian Socio-Political Sensitivity: Methods and Reflections***
 
 Across geographies including China, Thailand, Malaysia, Vietnam, and Iran, speakers share concrete methodologies and reflect on creative strategies for producing research and audiovisual work in environments shaped by censorship and socio-political constraints.
 
