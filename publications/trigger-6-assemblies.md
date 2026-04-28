@@ -1,7 +1,9 @@
 ---
 layout: publication.liquid
 title: "Trigger #6 Assemblies"
-author: Joachim Ben Yakoub
+people:
+  - Joachim Ben Yakoub
+author: Taous Dahmani (ed.)
 publication_date: 2025-11-03
 publication_file: https://shop.fomu.be/products/trigger-6-assemblies?srsltid=AfmBOoovRijK-n0EJqsc6lSGs_SPcahH4sRDnB-O6vukPH9IW69tV0Xl
 thumbnail:
