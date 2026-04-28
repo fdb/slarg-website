@@ -1,7 +1,6 @@
 ---
 type: activity
-title: Without A Center, With Many — Designing Across Diasporas, Languages
-  &Times - Two days seminar
+title: "Two days seminar | Garine Gokceyan "
 layout: activity.liquid
 startDate: 2026-05-26T07:30:43.317Z
 endDate: 2026-05-27T16:00:43.322Z
@@ -12,7 +11,9 @@ tags:
   - Research Seminar
 research_interests: []
 ---
-As part of her PhD research at Sint Lucas Antwerpen — KdG and ARIA — Antwerp Research Institute for the Arts (University of Antwerp), **Garine Gokceyan** invites you to a two-day public research seminar.
+As part of her PhD research at Sint Lucas Antwerpen — KdG and ARIA — Antwerp Research Institute for the Arts (University of Antwerp), **Garine Gokceyan** invites you to a two-day public research seminar:
+
+## **Without A Center, With Many — Designing Across Diasporas, Languages &Times**
 
 The seminar will start on **Tuesday the 26th of May**, with a full day of **presentations and discussions**,  bringing together diverse and multilingual voices, around authorship and ownership in collaborative design practices. This seminar day addresses the politics of accessible resource-making alongside approaches to unlearning the language of design. It is also a good occasion to celebrate the launch of the *Alphabettes Soup* book by [Bikini Books](https://bikini-books.com/products/alphabettes-soup), featuring contributions from many of our guests. 
 
