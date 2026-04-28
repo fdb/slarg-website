@@ -1,6 +1,6 @@
 ---
 type: activity
-title: Public PhD Defense Sammy Baloji
+title: Public Doctoral Defense Sammy Baloji
 layout: activity.liquid
 startDate: 2026-05-18T12:00:09.470Z
 endDate: 2026-05-18T16:30:09.481Z
