@@ -26,7 +26,7 @@ At stake is a broader question central to contemporary artistic research: how to
 
 ### **Guests**
 
-**Amir Muhammad** (Malaysian filmmaker, writer, publisher working on censorship and independent media) · **Hajar Mehrani** (Iranian animation director based in Brussels, focusing on women, freedom, and metaphorical storytelling) · **Matthew Hunt** (researcher and author on Thai cinema censorship and political filmmaking) · **Trương Minh Quý** (Vietnamese filmmaker working between documentary and fiction, known for experimental cinema) · **Dr. Sabrina Qiong Yu** (Professor of Film and Chinese Studies, director of the Chinese Independent Film Archive at Newcastle University).
+**Amir Muhammad** (Malaysian filmmaker, writer, publisher working on censorship and independent media) · **Hajar Mehrani** (Iranian animation director based in Brussels, focusing on women, freedom, and metaphorical storytelling) · **Matthew Hunt** (researcher and author on Thai cinema censorship and political filmmaking) · **Trương Minh Quý** (Vietnamese filmmaker working between documentary and fiction, known for experimental cinema) · **Prof. dr. Sabrina Qiong Yu** (Professor of Film and Chinese Studies, director of the Chinese Independent Film Archive at Newcastle University).
 
 ### **Programme**
 
