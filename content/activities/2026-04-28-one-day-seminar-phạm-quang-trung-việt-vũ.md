@@ -39,7 +39,7 @@ Film censorship and political history in Thailand.
 **11:00–12:00** — Amir Muhammad (online)\
 Censorship, independent publishing, and filmmaking in Malaysia.
 
-**12:15–13:15** — Dr. Sabrina Qiong Yu\
+**12:15–13:15** —  Sabrina Qiong Yu\
 Archiving as research method: Chinese Independent Film Archive (CIFA).
 
 **14:15–15:15** — Hajar Mehrani\
