@@ -11,7 +11,7 @@ thumbnail:
 description: >-
   *Bauxite*, an edition with & on aluminium, stone paper & plastic, made by
   SLARG researcher Karen Vermeren during her artist in residency in Masereel
-  Center and with an accompanied text of Sofie Crabbé, is the start for her
+  Center and with an accompanied text from Sofie Crabbé, is the start for her
   research project *City in Reverse, Reflecting Aluminum*.
 
 
