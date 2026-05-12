@@ -11,4 +11,5 @@ main_image:
 gallery: []
 ---
 A project initiated and curated by Sint Lucas Antwerp, Stadscanvas (Fameus) and VOEM.
+
 M﻿ore information: Ruth Razan Loos
