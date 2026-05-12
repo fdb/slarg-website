@@ -1,7 +1,7 @@
 ---
 layout: project.liquid
 tags: outreach
-title: freedom is a responsibility
+title: Freedom is a responsibility
 start_date: ""
 end_date: ""
 main_image:
