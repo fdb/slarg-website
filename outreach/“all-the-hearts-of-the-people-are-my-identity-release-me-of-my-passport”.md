@@ -7,6 +7,8 @@ end_date: ""
 abstract: "\ \n\n\n\n\n"
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/47adea45e6495dc99240486a0e62702228ad3e3c.jpg
+project owner:
+  - Ruth Razan Loos
 ---
 كل قلوب الناس جنسيتي ... فلتسقطوا عني جواز السفر
 
