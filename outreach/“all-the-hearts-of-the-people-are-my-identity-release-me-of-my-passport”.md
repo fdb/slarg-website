@@ -19,7 +19,7 @@ gallery:
 project owner:
   - Ruth Razan Loos
 ---
-**كل قلوب الناس جنسيتي ... فلتسقطوا عني جواز السفر**
+ **كل قلوب الناس جنسيتي ... فلتسقطوا عني جواز السفر**
 
 M﻿ahmoud Darwish, concept & design: [Bahia Shehab](https://www.bahiashehab.com/murals)
 
