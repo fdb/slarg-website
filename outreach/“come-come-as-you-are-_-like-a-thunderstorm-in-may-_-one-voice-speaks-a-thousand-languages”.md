@@ -15,6 +15,6 @@ A project initiated and curated by Sint Lucas Antwerp, [Stadscanvas](https://www
 
 G﻿uided by graffiti & calligraphy artist [DEMAone](https://www.instagram.com/demacnn/)
 
-At Rooftoptiger [Archipel](https://www.archipel.site/) 
+At [Rooftoptiger](https://rooftoptiger.com/) _ [Archipel](https://www.archipel.site/) 
 
 M﻿ore information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
