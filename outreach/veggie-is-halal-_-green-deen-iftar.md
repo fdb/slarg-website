@@ -11,4 +11,4 @@ P﻿roject initiated and curated by Sint Lucas Antwerp, Stadscanvas, VOEM
 
 G﻿uided by Laura Braspenning
 
-W﻿ith the support of Ruth Razan Loos
+Supported by Ruth Razan Loos
