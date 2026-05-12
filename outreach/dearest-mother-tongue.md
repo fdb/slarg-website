@@ -16,3 +16,5 @@ International Mother Language Day
 
 
 Sint Lucas Antwerp, Stadscanvas, Museum Plantin-Moretus
+
+M﻿ore information: Ruth Razan Loos
