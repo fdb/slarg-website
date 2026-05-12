@@ -1,7 +1,7 @@
 ---
 layout: project.liquid
 tags: outreach
-title: “All the hearts of the people are my identity ... release me of my passport”
+title: All the hearts of the people are my identity ... release me of my passport
 start_date: ""
 end_date: ""
 abstract: "\ \n\n\n\n\n"
@@ -18,6 +18,7 @@ gallery:
     caption: .
 project owner:
   - Ruth Razan Loos
+funding: []
 ---
  **كل قلوب الناس جنسيتي ... فلتسقطوا عني جواز السفر**
 
