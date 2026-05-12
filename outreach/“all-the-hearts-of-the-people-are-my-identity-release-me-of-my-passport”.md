@@ -1,7 +1,7 @@
 ---
 layout: project.liquid
 tags: outreach
-title: “All the hearts of the people are my identity _ Release me of my passport”
+title: “All the hearts of the people are my identity ... release me of my passport”
 start_date: ""
 end_date: ""
 abstract: "\ \n\n\n\n\n"
