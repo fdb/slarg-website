@@ -10,7 +10,7 @@ gallery: []
 ---
 I﻿nitiated and curated by Sint Lucas Antwerp and Stadscanvas
 
-G﻿uided by Fareed Aziz
+C﻿oncept & design: Fareed Aziz, g﻿uided by Fareed Aziz
 
 P﻿roject week at Fameus
 
