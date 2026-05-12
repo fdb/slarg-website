@@ -27,4 +27,4 @@ project owner:
 
 ###### A project initiated and curated by Sint Lucas Antwerp and [Stadscanvas](https://www.fameus.be/stadscanvas) (Fameus)
 
-M﻿ore information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
+###### M﻿ore information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
