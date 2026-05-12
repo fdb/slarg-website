@@ -7,6 +7,15 @@ end_date: ""
 abstract: "\ \n\n\n\n\n"
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/47adea45e6495dc99240486a0e62702228ad3e3c.jpg
+gallery:
+  - src:
+      - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/791a8b572bbb0159d656e0677e859867bb567b5f.jpg
+    alt: .
+    caption: .
+  - src:
+      - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/e25bcf97cafe83b9e9a37461730af21e7ffb4fac.jpg
+    alt: .
+    caption: .
 project owner:
   - Ruth Razan Loos
 ---
