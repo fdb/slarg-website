@@ -8,6 +8,9 @@ main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/f8e811e6bb7fbf9042777e87bffcfd84167f5bef.jpg
 ---
 I﻿nitiated and curated by Sint Lucas Antwerp and Stadscanvas
+
 G﻿uided by Fareed Aziz
+
 P﻿roject week at Fameus
+
 M﻿ore info: Ruth Razan Loos
