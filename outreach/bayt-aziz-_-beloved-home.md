@@ -12,6 +12,6 @@ I﻿nitiated and curated by Sint Lucas Antwerp and Stadscanvas
 
 C﻿oncept & design: Fareed Aziz, g﻿uided by Fareed Aziz
 
-P﻿roject week at Fameus
+P﻿roject week at Fameus, pop-up exhibition at Museum Plantin-Moretus
 
 M﻿ore info: Ruth Razan Loos
