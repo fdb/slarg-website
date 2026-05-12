@@ -8,7 +8,11 @@ end_date: ""
 abstract: ""
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/67e3194f91d81fb89b2cf42cef2df06a73b497d8.jpg
-gallery: []
+gallery:
+  - src:
+      - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b15468f738e6a9525c804f3d82ea1b79d3fd0673.jpg
+    alt: .
+    caption: .
 project owner: []
 ---
 A project initiated and curated by Sint Lucas Antwerp, [Stadscanvas](https://www.fameus.be/stadscanvas) (Fameus) and [VOEM](https://www.voem.be/).
