@@ -6,9 +6,10 @@ start_date: ""
 end_date: ""
 abstract: ""
 main_image:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/1dcd12bc0a9d82806318ccc080f7e1533abd3fad.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/2815db2a1aabadbc66c286b6985de9e8a6860115.jpg
+main_image_credits: Workshop by Tamim _ “I dream of being human” (Rumi)
 ---
-Community poem and workshops
+Community poem and workshops by Stadscanvas
 
 
 International Mother Language Day
