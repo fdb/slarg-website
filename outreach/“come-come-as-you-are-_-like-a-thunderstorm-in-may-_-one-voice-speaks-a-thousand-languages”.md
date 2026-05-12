@@ -1,7 +1,7 @@
 ---
 layout: project.liquid
 tags: outreach
-title: “Come, come as you are _ Like a thunderstorm in May _ One voice speaks a
+title: “Come, come, as you are _ Like a thunderstorm in May _ One voice speaks a
   thousand languages”
 start_date: ""
 end_date: ""
