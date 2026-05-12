@@ -21,8 +21,10 @@ project owner:
 ---
 كل قلوب الناس جنسيتي ... فلتسقطوا عني جواز السفر
 
-###### M﻿ahmoud Darwish, concept & design: [Bahia Shehab](https://www.bahiashehab.com/murals) 
+###### M﻿ahmoud Darwish, concept & design: [Bahia Shehab](https://www.bahiashehab.com/murals)
 
 ###### Permanent onsite mural, [Fameus](https://www.fameus.be/), Zirkstraat 23, 2000 Antwerp
 
-###### A collaboration between Sint Lucas Antwerp and [Stadscanvas](https://www.fameus.be/stadscanvas) (Fameus)
+###### A project initiated and curated by Sint Lucas Antwerp and [Stadscanvas](https://www.fameus.be/stadscanvas) (Fameus)
+
+M﻿ore information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
