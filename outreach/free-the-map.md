@@ -6,7 +6,7 @@ start_date: ""
 end_date: ""
 abstract: ""
 main_image:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/67daedb8edeb23120eafbd5d490d60b4f53b9962.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/5776e526f32c88ff1923a2e684d71fa1feadef00.jpg
 ---
 Sint Lucas Antwerp, [Stadscanvas,](https://www.fameus.be/stadscanvas) [De Vormforesen](<Sint Lucas Antwerp, Stadscanvas, De Vormforesen>)
 
