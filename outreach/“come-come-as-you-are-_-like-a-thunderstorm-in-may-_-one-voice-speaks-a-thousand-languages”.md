@@ -13,6 +13,8 @@ project owner: []
 ---
 A project initiated and curated by Sint Lucas Antwerp, [Stadscanvas](https://www.fameus.be/stadscanvas) (Fameus) and [VOEM](https://www.voem.be/).
 
-G﻿uided by grafitti & calligraphy artist [DEMAone](https://www.instagram.com/demacnn/)
+G﻿uided by graffiti & calligraphy artist [DEMAone](https://www.instagram.com/demacnn/)
+
+Location: [Archipel](https://www.archipel.site/)
 
 M﻿ore information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
