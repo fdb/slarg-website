@@ -1,7 +1,7 @@
 ---
 layout: project.liquid
 tags: outreach
-title: "Veggie is Halal _ Green Deen iftar "
+title: Veggie is Halal _ Green Deen iftar takeaway
 start_date: 2026-05-12T15:40:51.444Z
 end_date: 2026-05-12T15:40:51.453Z
 main_image:
