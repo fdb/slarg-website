@@ -1,6 +1,6 @@
 ---
 type: activity
-title: Public Doctoral Defense Sammy Baloji
+title: Public Doctoral Defense Sammy Baloji (hybrid event)
 layout: activity.liquid
 startDate: 2026-05-18T12:00:09.470Z
 endDate: 2026-05-18T16:30:09.481Z
@@ -28,6 +28,18 @@ T﻿his is the program:
 Supervisors: Ruth Loos (Sint Lucas Antwerp), Bambi Ceuppens (AfricaMuseum), and Paolo Favero (University of Antwerp)
 
 Please register [HERE](https://us4.list-manage.com/survey?u=a981a459c68b351519dd8e1bb&id=c1a89e8990&attribution=false).
+
+Y﻿ou can also attend via this online link:
+
+Baloji is inviting you to a scheduled Zoom meeting.
+
+Topic: PhD Public Defence Sammy Baloji\
+Time: May 18, 2026 03:00 PM Brussels\
+Join Zoom Meeting\
+[https://us06web.zoom.us/j/83172765545?pwd=0sv2PqsrofY9CK9HSuWWXD30d6UGNV.1](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fus06web.zoom.us%2Fj%2F83172765545%3Fpwd%3D0sv2PqsrofY9CK9HSuWWXD30d6UGNV.1&data=05%7C02%7Ctom.viaene%40kdg.be%7Cfe7e70c963384ac5cc5908deb0df4197%7Ced1fc57f8a9747e79de19302dfd786ae%7C0%7C0%7C639142670083232821%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=prqnopvmjmxu4pnm0nko26hlI87FWLtSGi0FV1EQgo8%3D&reserved=0 "Originele URL: https\://us06web.zoom.us/j/83172765545?pwd=0sv2PqsrofY9CK9HSuWWXD30d6UGNV.1. Klik of tik als u deze koppeling vertrouwt.")
+
+Meeting ID: 831 7276 5545\
+Passcode: 964027
 
 ### About the research
 
