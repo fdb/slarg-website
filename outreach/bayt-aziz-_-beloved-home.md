@@ -1,5 +1,5 @@
 ---
-layout: project.liquid
+layout: outreach.liquid
 tags: outreach
 title: Bayt Aziz _ Beloved home
 start_date: ""
