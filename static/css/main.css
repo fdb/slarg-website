@@ -1184,7 +1184,14 @@ main p a {
 		padding-bottom: 1rem;
 	}
 }
- 
+
+.publication-detail .big-title {
+	margin-top: 0;
+}
+.publication-detail .publication-date, .publication-detail .people-link {
+	color: var(--text);
+	font-size: 1.2rem;
+}
 .publication-description {
 	padding-bottom: 2rem;
 }

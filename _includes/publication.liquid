@@ -3,9 +3,11 @@ layout: base
 ---
 <article class="publication-detail">
 
+  <h2 class="big-title">PUBLICATION</h2>
 
   <h1 class="publication-title">{{ title }}</h1>
   <p class="publication-author">By {{ author }}</p>
+  <p class="publication-date"><strong>Published:</strong> {{ publication_date | date: monthYear }}</p>
   {% if people or external_collaborators %}
   <p class="people-link"><strong>Researcher(s):</strong> 
   {% if people %}
@@ -49,9 +51,6 @@ layout: base
     <img src="{{ thumbnail }}" alt="{{ title }} thumbnail" class="publication-thumbnail">
   {% endif %}
 {% endif %}
-
-
-  <p class="publication-date">Published: {{ publication_date | date: monthYear }}</p>
 
   {% if description %}
     <div class="publication-description">
