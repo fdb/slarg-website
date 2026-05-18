@@ -728,7 +728,6 @@ border-radius: 8px;
 
 .project {
 	max-width: 800px;
-	margin: 0 auto;
 	line-height: 1.5;
 }
 .project h1 {
@@ -893,7 +892,7 @@ border-radius: 8px;
 	color: inherit;
 	margin-bottom: 1rem;
 	display: inline-block;
-	width: 50%;
+	width: 100%;
 	margin-right: 2rem;
 	word-wrap: break-word;
 }
@@ -939,7 +938,8 @@ border-radius: 8px;
 }
 
 .activity-detail {
-	max-width: 700px;
+	max-width: 800px;
+	margin: 0 auto;
 }
 .activity-detail .big-title {
 	margin-top: 0;
@@ -1175,6 +1175,13 @@ main p a {
 	}
 }
 
+.publication-detail {
+	max-width: 800px;
+	margin: 0 auto;
+}
+.publication-detail h1 {
+	margin-bottom: 20px;
+}
 .publication-detail .big-title {
 	margin-top: 0;
 }
