@@ -1146,6 +1146,10 @@ main p a {
 .publication-item-grounds a .content h2 {
 	margin-top: 0;
 }
+
+.publication-item-grounds a .author {
+	margin-bottom: 0;
+}
 .publication-item-grounds a .content p, .publication-item-grounds a .content ul {
 	font-size: 1.2rem;
 	line-height: 1.3;

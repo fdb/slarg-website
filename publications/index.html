@@ -24,8 +24,8 @@ title: Off the shelves
           <img src="/static/img/placeholder.png" alt="Placeholder Image">
         {% endif %}
         <h2>{{ publication.data.title }}</h2>
-        <p class="author">Author(s): {{ publication.data.author }}</p>
-        <p class="date">Date: {{ publication.data.publication_date | date: monthYear }}</p>
+        <p class="author"><strong>Author(s):</strong> {{ publication.data.author }}</p>
+        <p class="date"><strong>Date:</strong> {{ publication.data.publication_date | date: monthYear }}</p>
       </a>
     </div>
   {% endfor %}
