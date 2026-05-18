@@ -1188,9 +1188,12 @@ main p a {
 .publication-detail .big-title {
 	margin-top: 0;
 }
+<<<<<<< HEAD
 .publication-detail .publication-date {
 	margin-bottom: 0;
 }
+=======
+>>>>>>> origin/main
 .publication-detail .publication-date, .publication-detail .people-link {
 	color: var(--text);
 	font-size: 1.2rem;
