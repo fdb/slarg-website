@@ -189,10 +189,6 @@ background-image: linear-gradient(to bottom, var(--bg-color), var(--bg-color),va
 	color: var(--text-color);
 }
 
-.project h1 {
-	font-size: 2.75rem;
-}
-
 .hidden {
 	display: none;
 }
@@ -735,19 +731,20 @@ border-radius: 8px;
 	margin: 0 auto;
 	line-height: 1.5;
 }
-
 .project h1 {
 	margin-bottom: 0.2em;
 	font-size: 2.75rem;
 	line-height: 3rem;
 }
-
 .project img {
 	max-width: 100%;
 	height: auto;
 	display: block;
 	margin: 1em 0;
 	border-radius: 3px;
+}
+.project .big-title {
+	margin-top: 0;
 }
 
 .image-block {
@@ -1115,7 +1112,7 @@ border-radius: 8px;
 }
 
 .people-link {
-	font-size: 1.2rem;
+	/* font-size: 1.2rem; */
 }
 .people-link a {
 	text-decoration: underline;
