@@ -14,7 +14,6 @@ gallery:
     alt: .
     caption: .
 project owner: []
-funding: []
 ---
 A project initiated and curated by Sint Lucas Antwerp, [Stadscanvas](https://www.fameus.be/stadscanvas) (Fameus) and [VOEM](https://www.voem.be/).
 
