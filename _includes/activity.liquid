@@ -3,9 +3,7 @@ layout: base.liquid
 ---
 <article class="activity-detail">
 <h2 class="big-title">EVENT</h2>
-  {% if thumbnail %}
-    <img src="{{ thumbnail }}/public" alt="Thumbnail for {{ title }}" class="activity-thumb">
-  {% endif %}
+  
   <h1 class="activity-title">{{ title }}</h1>
   <div class="activity-meta">
     <p>
@@ -59,6 +57,10 @@ layout: base.liquid
 {% endif %}
 
   </li>
+{% endif %}
+
+{% if thumbnail %}
+    <img src="{{ thumbnail }}/public" alt="Thumbnail for {{ title }}" class="activity-thumb">
 {% endif %}
 
   <div class="activity-body">
