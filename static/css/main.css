@@ -849,10 +849,7 @@ border-radius: 8px;
 
 .activities-calendar {
 	max-width: 800px;
-	margin: 2rem auto;
-	padding: 0 1rem;
 	font-family: sans-serif;
-	color: #00b96f;
 }
 .activities-calendar ul li {
 	list-style: none;
@@ -863,7 +860,6 @@ border-radius: 8px;
 	margin-top: 2.5rem;
 	margin-bottom: 0.5rem;
 	font-weight: 700;
-	color: #00b96f;
 }
 
 .activities-calendar hr {
@@ -924,7 +920,6 @@ border-radius: 8px;
 .event-info h3 {
 	margin: 0 0 0.25rem;
 	font-size: 1.1rem;
-	color: #007d4f;
 	border-top: 0;
 	font-family: 'Marsha';
 }
@@ -932,13 +927,11 @@ border-radius: 8px;
 .event-time {
 	margin: 0;
 	font-size: 0.9rem;
-	color: #008f57;
 }
 
 .event-location {
 	margin: 0.25rem 0 0;
 	font-size: 0.85rem;
-	color: #005e3f;
 }
 
 .person-bio {
@@ -947,32 +940,29 @@ border-radius: 8px;
 
 .activity-detail {
 	max-width: 700px;
-	margin: 2rem auto;
 }
-
+.activity-detail .big-title {
+	margin-top: 0;
+}
 .activity-thumb {
 	width: 100%;
 	max-width: 420px;
 	display: block;
 	margin: 0 auto 1.5rem auto;
-	border-radius: 10px;
-	box-shadow: 0 1px 6px rgba(0, 0, 0, 0.07);
 }
 
 .activity-title {
 	font-size: 2rem;
 	margin-bottom: 0.5rem;
-	color: var(--text-accent, #222);
 }
 
 .activity-meta {
-	font-size: 1rem;
-	color: #666;
 	margin-bottom: 1.5rem;
-	display: flex;
-	flex-wrap: wrap;
-	gap: 1.5rem;
-	align-items: center;
+}
+.activity-meta p {
+	font-size: 1.2rem;
+	margin-bottom: 0;
+	color: #222;
 }
 
 .activity-tags {

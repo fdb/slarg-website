@@ -2,27 +2,28 @@
 layout: base.liquid
 ---
 <article class="activity-detail">
+<h2 class="big-title">EVENT</h2>
   {% if thumbnail %}
     <img src="{{ thumbnail }}/public" alt="Thumbnail for {{ title }}" class="activity-thumb">
   {% endif %}
   <h1 class="activity-title">{{ title }}</h1>
   <div class="activity-meta">
-    <span>
+    <p>
       <strong>Date:</strong>
       {{ startDate | formatDateTime }}
       {% if endDate and endDate != "" %}
         &ndash; {{ endDate | formatDateTime }}
       {% endif %}
-    </span>
+    </p>
     {% if location %}
-      <span><strong>Location:</strong> {{ location }}</span>
+      <p><strong>Location:</strong> {{ location }}</p>
     {% endif %}
     {% if tags %}
-      <span class="activity-tags">
+      <p class="activity-tags">
         {% for tag in tags %}
           <span class="activity-tag">{{ tag }}</span>
         {% endfor %}
-      </span>
+      </p>
     {% endif %}
   </div>
 
