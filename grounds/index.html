@@ -37,17 +37,17 @@ hero_image:
           <img src="/static/img/placeholder.png" alt="Placeholder Image">
         {% endif %}
         <div class="content">
-        <h2>{{ ground.data.title }}</h2>
-        <p class="author">Contributors(s): {{ ground.data.people | join: ", " }}</p>
-        <p class="date">Date: {{ ground.data.ground_date | Year }}</p>
-  
-        <h4>Contents:</h4>
-        <ul class="toc-preview">
-          {% for entry in ground.data.TOC %}
-          <li>{{ entry.title }} by {{ entry.contributors }}</li>
-          {% endfor %}
-        </ul>
-      </div>
+          <h2>{{ ground.data.title }}</h2>
+          <p class="author"><strong>Contributors:</strong> {{ ground.data.people | join: ", " }}</p>
+          <p class="date"><strong>Date:</strong> {{ ground.data.ground_date | Year }}</p>
+    
+          <p class="contents"><strong>Contents:</strong></p>
+          <ul class="toc-preview">
+            {% for entry in ground.data.TOC %}
+            <li>{{ entry.title }} by {{ entry.contributors }}</li>
+            {% endfor %}
+          </ul>
+        </div>
       </a>
     </div>
   {% endfor %}
