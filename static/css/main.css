@@ -1168,6 +1168,9 @@ main p a {
 	margin-bottom: 0.5rem;
 }
 @media (max-width: 886px) {
+	.publication-item {
+		width: 100%;
+	}
 	.publication-item a, .publication-item-grounds a {
 		display: block;
 	}
