@@ -16,7 +16,7 @@ gallery:
 ---
 A project week initiated and curated by Sint Lucas Antwerp and Stadscanvas (Fameus)
 
-W﻿orkshop different Perso-Arabic calligraphy styles by Tamim
+Workshop different Perso-Arabic calligraphy styles by Tamim
 
 
 More information: Ruth Razan Loos

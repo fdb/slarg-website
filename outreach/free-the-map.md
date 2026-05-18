@@ -12,4 +12,4 @@ Sint Lucas Antwerp, [Stadscanvas,](https://www.fameus.be/stadscanvas) [De Vormfo
 
 Workshop by [Annelys de Vet](https://freethemap.org/) at Sint Lucas Antwerp
 
-S﻿upported by [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/) and Stadscanvas
+Supported by [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/) and Stadscanvas

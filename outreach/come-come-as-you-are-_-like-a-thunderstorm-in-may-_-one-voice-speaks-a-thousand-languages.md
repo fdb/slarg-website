@@ -18,8 +18,8 @@ funding: []
 ---
 A project initiated and curated by Sint Lucas Antwerp, [Stadscanvas](https://www.fameus.be/stadscanvas) (Fameus) and [VOEM](https://www.voem.be/).
 
-G﻿uided by graffiti & calligraphy artist [DEMAone](https://www.instagram.com/demacnn/)
+Guided by graffiti & calligraphy artist [DEMAone](https://www.instagram.com/demacnn/)
 
 At [Rooftoptiger](https://rooftoptiger.com/) _ [Archipel](https://www.archipel.site/) 
 
-M﻿ore information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
+More information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)

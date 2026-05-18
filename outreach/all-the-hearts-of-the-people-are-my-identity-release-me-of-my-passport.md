@@ -1,5 +1,5 @@
 ---
-layout: project.liquid
+layout: outreach.liquid
 tags: outreach
 title: All the hearts of the people are my identity ... release me of my passport
 start_date: ""
@@ -18,14 +18,13 @@ gallery:
     caption: .
 project owner:
   - Ruth Razan Loos
-funding: []
 ---
  **كل قلوب الناس جنسيتي ... فلتسقطوا عني جواز السفر**
 
-M﻿ahmoud Darwish, concept & design: [Bahia Shehab](https://www.bahiashehab.com/murals)
+Mahmoud Darwish, concept & design: [Bahia Shehab](https://www.bahiashehab.com/murals)
 
 Permanent onsite mural, [Fameus](https://www.fameus.be/), Zirkstraat 23, 2000 Antwerp
 
 A project initiated and curated by Sint Lucas Antwerp and [Stadscanvas](https://www.fameus.be/stadscanvas) (Fameus)
 
-M﻿ore information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
+More information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
