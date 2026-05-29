@@ -5,6 +5,8 @@ layout: base
 
   <h1 class="publication-title">{{ title }}</h1>
 
+  <p class="publication-date"><strong>Published:</strong> {{ ground_date | monthYear }}</p>
+
   {% if people or external_collaborators %}
   <p class="people-link"><strong>Contributor(s):</strong>
   {% if people %}
@@ -36,7 +38,6 @@ layout: base
   {% if thumbnail %}
     <img src="{{ thumbnail }}/public" alt="{{ title }} thumbnail" class="publication-thumbnail">
   {% endif %}
-  <p class="publication-date">Published: {{ ground_date | monthYear }}</p>
 
   {% if description %}
     <div class="publication-description">
