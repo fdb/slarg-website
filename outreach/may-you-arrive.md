@@ -1,7 +1,7 @@
 ---
 layout: project.liquid
 tags: outreach
-title: "May you arrive "
+title: May you arrive as
 start_date: ""
 end_date: ""
 abstract: May you arrive as part of the family and tread an easy path as you enter
