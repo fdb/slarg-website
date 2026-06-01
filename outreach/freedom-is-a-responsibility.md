@@ -6,7 +6,7 @@ start_date: ""
 end_date: ""
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/37245fe0ce0ac72ef35be42cb339e8da552ff791.jpg
-main_image_credits: Freedom is a responsibility
+main_image_credits: ""
 main_image_alt: ""
 gallery:
   - src:
