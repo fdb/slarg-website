@@ -13,6 +13,7 @@ gallery:
     alt: .
     caption: .
 ---
+May you arrive as part of the family and tread an easy path as you enter
 Initiated and curated by Sint Lucas Antwerp and Stadscanvas
 
 
