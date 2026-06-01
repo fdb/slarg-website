@@ -17,12 +17,10 @@ gallery:
 
 Initiated by Sint Lucas Antwerp and Stadscanvas
 
-
-
 Project week at Sint Lucas Antwerp
-
 
 More info: Ruth Razan Loos
 
 I﻿mage 1: mural at Sint Lucas (designed and painted by Bachelor students and artistic newcomers Stadscanvas)
+
 I﻿mage 2: leporello with works of participants
