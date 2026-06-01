@@ -7,7 +7,7 @@ end_date: 2026-05-12T15:40:51.453Z
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/85b882790b2d3f9e8010461ffb57320d54f6e69e.jpg
 ---
-Project initiated and curated by Sint Lucas Antwerp, Stadscanvas, VOEM
+Project initiated and curated by Sint Lucas Antwerp, Stadscanvas, [VOEM](https://www.voem.be/) a﻿nd Veganation
 
 Guided by Laura Braspenning
 
