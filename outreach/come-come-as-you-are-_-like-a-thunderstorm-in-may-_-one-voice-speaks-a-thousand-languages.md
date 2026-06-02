@@ -12,7 +12,8 @@ gallery:
   - src:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b15468f738e6a9525c804f3d82ea1b79d3fd0673.jpg
     alt: .
-    caption: .
+    caption: '"Come, come, as you are _ Like a thunderstorm in May _ One voice
+      speaks a thousand languages" - a quote by the group of participants'
 project owner: []
 ---
 A project initiated and curated by Sint Lucas Antwerp, [Stadscanvas](https://www.fameus.be/stadscanvas) (Fameus) and [VOEM](https://www.voem.be/).
