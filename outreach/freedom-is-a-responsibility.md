@@ -14,9 +14,8 @@ gallery:
     caption: "Freedom is a responsibility "
     alt: .
 ---
-A project week initiated and curated by Sint Lucas Antwerp and Stadscanvas (Fameus)
+A project week initiated and curated by Sint Lucas Antwerp and [Stadscanvas](https://www.fameus.be/stadscanvas) (Fameus)
 
-Workshop different Perso-Arabic calligraphy styles by Tamim
+Workshop different Perso-Arabic calligraphy styles by Tamim SahebZada
 
-
-More information: Ruth Razan Loos
+More information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
