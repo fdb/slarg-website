@@ -15,11 +15,11 @@ gallery:
 ---
 "May you arrive as part of the family and tread an easy path as you enter"
 
-Initiated by Sint Lucas Antwerp and Stadscanvas
+Initiated by Sint Lucas Antwerp and [Stadscanvas](https://www.fameus.be/stadscanvas)
 
 Project week at Sint Lucas Antwerp
 
-More info: Ruth Razan Loos
+More info: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
 
 I﻿mage 1: mural at Sint Lucas (designed and painted by Bachelor students and artistic newcomers Stadscanvas)
 
