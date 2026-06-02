@@ -8,10 +8,10 @@ main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/92fd376201c9bed7525b601c315c4fce5a74a78f.jpg
 gallery: []
 ---
-Initiated and curated by Sint Lucas Antwerp and Stadscanvas
+Initiated and curated by Sint Lucas Antwerp and [Stadscanvas](https://www.fameus.be/stadscanvas)
 
 Concept & design: Fareed Aziz, g﻿uided by Fareed Aziz
 
-Project week at Fameus, pop-up exhibition at Museum Plantin-Moretus
+Project week at Fameus, pop-up exhibition at [Museum Plantin-Moretus](https://museumplantinmoretus.be/en/museum-plantin-moretus)
 
-More info: Ruth Razan Loos
+More info: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
