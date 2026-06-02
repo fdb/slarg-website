@@ -7,7 +7,7 @@ end_date: ""
 abstract: ""
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/2815db2a1aabadbc66c286b6985de9e8a6860115.jpg
-main_image_credits: Workshop by Tamim _ “I dream of being human” (Rumi)
+main_image_credits: Workshop by Tamim SahebZada _ “I dream of being human” (Rumi)
 ---
 Community poem and workshops by [Stadscanvas](https://www.fameus.be/stadscanvas)
 
