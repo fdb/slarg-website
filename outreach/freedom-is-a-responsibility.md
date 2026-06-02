@@ -11,7 +11,7 @@ main_image_alt: ""
 gallery:
   - src:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/54eb03a3c6c13a92a2bc7f7f29ba6e8496628524.jpg
-    caption: "Freedom is a responsibility "
+    caption: Freedom is a responsibility - a quote by the group of participants
     alt: .
 ---
 A project week initiated and curated by Sint Lucas Antwerp and [Stadscanvas](https://www.fameus.be/stadscanvas) (Fameus)
