@@ -14,8 +14,8 @@ bio: >-
   as a PhD in the Arts. She supports SLARG in its social outreach approach. In
   collaboration with Stadscanvas (Fameus), a space for artistic newcomers in
   Antwerp, she initiates and organises events that value participatory
-  practices, multiple artistic canons, storytelling, languages, scripts and
-  solidarity. 
+  practices, multiple artistic canons, alternative, decentered narratives,
+  languages, scripts and solidarity. 
 
   At Sint Lucas Antwerp, she teaches the courses: 'A Multilingual / Multiscript World: Socio-Political and Artistic' and 'Islamic Knowledges and Aesthetic Practices', the latter with colleague-researcher Joud Toamah.
 
