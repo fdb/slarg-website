@@ -21,7 +21,7 @@ thumbnail:
 * **Myrthe Bokelmann & Cèlia Tort Pujol – *Assume Calibration Pose***\
   A reflection on performance and technology after system collapse, focusing on embodied “gut navigation” and residual memory.
 * **Ruth Razan Loos – *Towards Celestial Letters***\
-  An exploration of writing, spirituality, and care through circular calligraphy inspired by the Quran.
+  An exploration of writing, religion and care through circular calligraphy inspired by the Quran.
 * **Loraine Furter – *Staying with the Itch***\
   A hybrid graphic work that exposes toxic collaboration dynamics and offers tools for more ethical working relations.
 * **Sammy Baloji – *‘Le Fil de Sucre-pourpre de Mulohò’ Explained***\
