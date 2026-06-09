@@ -11,8 +11,7 @@ role:
 email: robin.vanbesien@kdg.be
 headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/66a199e7-1ca1-48f8-824b-30b9312e66f6.jpg
 bio: >-
-  **Currently not available for supervision of PhD - contact me in November
-  2027**
+  **Currently not available for PhD supervision - contact me in November 2027**
 
 
   Robin Vanbesien is a visual artist, filmmaker, researcher, and educator exploring embodied knowledge and collective imagination in social and political struggles. He collaborates with situated initiatives of collective self-organization, exploring cinema as a space for social gathering, militant engagement, speculative rehearsal, and communal assembly. In 2024, he finalised a PhD in the arts with Ciné Place-Making. At Sint Lucas Antwerp, he co-coordinates and coaches the Masterproject in a Socio-Political Context. He (co-)convened the study circles Ciné Place-Making (2022) and Cinema as Assembly (2025). His book Solidarity Poiesis: I Will Come and Steal You was published by b_books (Berlin, 2017). His first feature film, hold on to her, premiered at Berlinale Forum Expanded in 2024. He is supervising PhD in the arts projects.
