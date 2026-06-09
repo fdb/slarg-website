@@ -33,8 +33,7 @@ Painted by Bahia Shehab, students Sint Lucas Antwerp, participants, [Stadscanvas
 
 * Screening documentary *[Nefertiti’s Daughters](https://www.imdb.com/title/tt3909458/plotsummary/?ref_=tt_ov_pl)*a story of women, art and revolution
 * L﻿ecture Bahia Shehab at [Integrated](https://www.integratedconf.org/) (De Singel)
-
-+﻿ workshop photography by Johan Luyckx
+* Workshop photography by Johan Luyckx
 
 S﻿upported by colleagues Sint Lucas Antwerp and Fameus-team.
 
