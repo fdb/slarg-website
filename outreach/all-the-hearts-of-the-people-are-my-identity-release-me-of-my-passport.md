@@ -23,7 +23,7 @@ project owner:
 
 
 
-A project initiated and curated by Sint Lucas Antwerp and [Fameus](https://www.fameus.be/)[](https://www.fameus.be/stadscanvas) 
+A project initiated and curated by Sint Lucas Antwerp and [F](https://www.fameus.be/)ameu
 
 Concept & design: [Bahia Shehab](https://www.bahiashehab.com/murals)
 
