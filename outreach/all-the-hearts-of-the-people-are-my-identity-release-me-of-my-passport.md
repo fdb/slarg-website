@@ -21,8 +21,6 @@ project owner:
 ---
  **كل قلوب الناس جنسيتي ... فلتسقطوا عني جواز السفر**  Mahmoud Darwish
 
-
-
 A﻿ project intitiated and curated by Sint Lucas Antwerp and [Fameus](https://www.fameus.be/)
 
 Concept & design: [Bahia Shehab](https://www.bahiashehab.com/murals)
@@ -31,7 +29,7 @@ The heartbeat shaped script was painted in Fameus - permanent onsite mural
 
 Painted by Bahia Shehab, students Sint Lucas Antwerp, participants, [Stadscanvas](https://www.fameus.be/stadscanvas), [ODC](https://opendesigncourse.be/), [VOEM](https://www.voem.be/), de Zingende Samenleving, Theater A_Z, Boslabs, local residents/passersby
 
-* Screening documentary *[Nefertiti’s Daughters](https://www.imdb.com/title/tt3909458/plotsummary/?ref_=tt_ov_pl)*a story of women, art and revolution
+* Screening documentary [Nefertiti’s Daughters](https://icarusfilms.com/if-nef) - a story of women, art and revolution
 * L﻿ecture Bahia Shehab at [Integrated](https://www.integratedconf.org/) (De Singel)
 * Workshop photography by Johan Luyckx
 
