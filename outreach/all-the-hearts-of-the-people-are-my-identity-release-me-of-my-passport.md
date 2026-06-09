@@ -29,8 +29,8 @@ A project initiated and curated by Sint Lucas Antwerp and [Stadscanvas](https://
 
 Students Sint Lucas, Stadscanvas participants, ODC, VOEM, de Zingende Samenleving, Theater A_Z, Boslabs, local residents/passersby
 
-+Screening documentary *[Nefertiti’s Daughters](https://www.imdb.com/title/tt3909458/plotsummary/?ref_=tt_ov_pl)*a story of women, art and revolution
++ Screening documentary *[Nefertiti’s Daughters](https://www.imdb.com/title/tt3909458/plotsummary/?ref_=tt_ov_pl)*a story of women, art and revolution
 
-+L﻿ecture Bahia Shehab at [Integrated](https://www.integratedconf.org/) (De Singel) 
++ L﻿ecture Bahia Shehab at [Integrated](https://www.integratedconf.org/) (De Singel) 
 
 More information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
