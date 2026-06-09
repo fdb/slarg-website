@@ -23,16 +23,20 @@ project owner:
 
 
 
-A project initiated and curated by Sint Lucas Antwerp and [Stadscanvas](https://www.fameus.be/stadscanvas) (Fameus)
+A project initiated and curated by Sint Lucas Antwerp and [Fameus](https://www.fameus.be/)[](https://www.fameus.be/stadscanvas) 
 
 Concept & design: [Bahia Shehab](https://www.bahiashehab.com/murals)
 
-The heartbeat shaped script was painted in [Fameus](https://www.fameus.be/) - permanent onsite mural
+The heartbeat shaped script was painted in Fameus - permanent onsite mural
 
-Painted by Bahia Shehab, students and lecturers Sint Lucas, participants [Stadscanvas](https://www.fameus.be/stadscanvas), [ODC](https://opendesigncourse.be/), [VOEM](https://www.voem.be/), de Zingende Samenleving, Theater A_Z, Boslabs, local residents/passersby
+Painted by Bahia Shehab, students Sint Lucas Antwerp, participants, [Stadscanvas](https://www.fameus.be/stadscanvas), [ODC](https://opendesigncourse.be/), [VOEM](https://www.voem.be/), de Zingende Samenleving, Theater A_Z, Boslabs, local residents/passersby
 
 + Screening documentary *[Nefertiti’s Daughters](https://www.imdb.com/title/tt3909458/plotsummary/?ref_=tt_ov_pl)*a story of women, art and revolution
 
-+ L﻿ecture Bahia Shehab at [Integrated](https://www.integratedconf.org/) (De Singel) 
++ L﻿ecture Bahia Shehab at [Integrated](https://www.integratedconf.org/) (De Singel)
+
++﻿ workshop photography by Johan Luyckx
+
+S﻿upported by colleagues Sint Lucas Antwerp and Fameus-team.
 
 More information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
