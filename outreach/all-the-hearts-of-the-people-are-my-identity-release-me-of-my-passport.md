@@ -29,7 +29,7 @@ Concept & design: [Bahia Shehab](https://www.bahiashehab.com/murals)
 
 The heartbeat shaped script was painted in [Fameus](https://www.fameus.be/) - permanent onsite mural
 
-Painted by students Sint Lucas and participants [Stadscanvas](https://www.fameus.be/stadscanvas), [ODC](https://opendesigncourse.be/), [VOEM](https://www.voem.be/), de Zingende Samenleving, Theater A_Z, Boslabs, local residents/passersby
+Painted by Bahia Shehab, students and lecturers Sint Lucas, participants [Stadscanvas](https://www.fameus.be/stadscanvas), [ODC](https://opendesigncourse.be/), [VOEM](https://www.voem.be/), de Zingende Samenleving, Theater A_Z, Boslabs, local residents/passersby
 
 + Screening documentary *[Nefertiti’s Daughters](https://www.imdb.com/title/tt3909458/plotsummary/?ref_=tt_ov_pl)*a story of women, art and revolution
 
