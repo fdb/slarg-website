@@ -17,7 +17,9 @@ gallery:
 
 Initiated by Sint Lucas Antwerp and [Stadscanvas](https://www.fameus.be/stadscanvas)
 
-Project week at Sint Lucas Antwerp
+Project week at Sint Lucas Antwerp (﻿Bachelor students and Stadscanvas participants)
+
+Engagement with some new [KHATT](https://khattbooks.com/?doing_wp_cron=1780987920.2704958915710449218750) books and other SWANA art books in the Sint Lucas library
 
 More info: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
 
