@@ -23,8 +23,14 @@ project owner:
 
 Mahmoud Darwish, concept & design: [Bahia Shehab](https://www.bahiashehab.com/murals)
 
-Permanent onsite mural, [Fameus](https://www.fameus.be/), Zirkstraat 23, 2000 Antwerp
+The heartbeat shaped script was painted in [Fameus](https://www.fameus.be/) - permanent onsite mural
 
 A project initiated and curated by Sint Lucas Antwerp and [Stadscanvas](https://www.fameus.be/stadscanvas) (Fameus)
+
+Students Sint Lucas, Stadscanvas participants, ODC, VOEM, de Zingende Samenleving, Theater A_Z, Boslabs, local residents/passersby
+
++Screening documentary *[Nefertiti’s Daughters](https://www.imdb.com/title/tt3909458/plotsummary/?ref_=tt_ov_pl)*a story of women, art and revolution
+
++L﻿ecture Bahia Shehab at [Integrated](https://www.integratedconf.org/) (De Singel) 
 
 More information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
