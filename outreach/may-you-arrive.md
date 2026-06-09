@@ -23,6 +23,6 @@ Engagement with some new [KHATT](https://khattbooks.com/?doing_wp_cron=178098792
 
 More info: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
 
-I﻿mage 1: Permanent onsite mural at Sint Lucas (designed and painted by Bachelor students and artistic newcomers Stadscanvas)
+I﻿mage 1: Permanent onsite mural at Sint Lucas (designed and painted by Bachelor students and artistic newcomers Stadscanvas) - image also printed as a postcard
 
 I﻿mage 2: leporello, designed by / with works of participants
