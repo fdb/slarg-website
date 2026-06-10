@@ -16,6 +16,6 @@ Concept & design: Fareed Aziz, g﻿uided by Fareed Aziz
 
 We looked into the notion of ‘home’ by using our subjective and collective memory archives as an inspiration. What is our understanding of ‘the self’ and ‘the other’ and the dynamicity of their coexistence? What does ‘belonging’ mean? How can we look at ‘individuality’ versus ‘collectivity’ and look at ways of grounding ourselves? We archived our happy memories, and shared stories without dissociating ourselves from the real world.
 
-With students Sint Lucas Antwerp, participants [Stadscanvas](https://www.fameus.be/stadscanvas)
+With students Sint Lucas Antwerp & participants [Stadscanvas](https://www.fameus.be/stadscanvas)
 
 More info: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
