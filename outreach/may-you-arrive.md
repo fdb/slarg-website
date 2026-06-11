@@ -12,6 +12,10 @@ gallery:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/de473a2a5be7a0ff224a6156f324e275c7d0b60f.jpg
     alt: .
     caption: .
+  - src:
+      - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b0bdf4f2e384aae8e5d75e8b22f79bb75950040f.jpg
+    alt: .
+    caption: .
 ---
 "May you arrive as part of the family and tread an easy path as you enter"
 
@@ -21,8 +25,12 @@ Project week at Sint Lucas Antwerp (﻿Bachelor students and Stadscanvas partici
 
 Engagement with some new [KHATT](https://khattbooks.com/?doing_wp_cron=1780987920.2704958915710449218750) books and other SWANA art books in the Sint Lucas library
 
+Presentation by [Gilani Raja](https://www.instagram.com/gilani_raja/) (alumnus Illustration)
+
 More info: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
 
 I﻿mage 1: Permanent onsite mural at Sint Lucas (designed and painted by Bachelor students and artistic newcomers Stadscanvas) - image also printed as a postcard
 
-I﻿mage 2: leporello, designed by / with works of participants
+I﻿mage 2: Leporello, designed by / with works of participants
+
+I﻿mage 3: Some drawings made during the week
