@@ -8,6 +8,11 @@ abstract: "\n\n"
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/75baf5278b1bc9aceef44758284044192be4af67.jpg
 main_image_credits: design Gerard Leysen
+gallery:
+  - src:
+      - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/efb239c2e74438b6be5a8e50afd07c9b4aabb431.jpg
+    alt: .
+    caption: .
 ---
 Library project Sint Lucas x [Stadscanvas](https://www.fameus.be/stadscanvas) (ongoing)
 
@@ -20,3 +25,6 @@ Memories, cultures, practices, experiences, knowledges, perspectives, canons, se
 M﻿ore information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
 
 W﻿ith the support of librarian Adeline Boeckaert
+
+I﻿mage 2: typesetting for haikus written during one of the library evenings
+held in celebration of International Mother Language Day
