@@ -16,6 +16,10 @@ gallery:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b0bdf4f2e384aae8e5d75e8b22f79bb75950040f.jpg
     alt: .
     caption: .
+  - src:
+      - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/0631f0998281c5f458dd94436ceb83811b574599.jpg
+    alt: .
+    caption: .
 ---
 "May you arrive as part of the family and tread an easy path as you enter"
 
@@ -34,3 +38,5 @@ I﻿mage 1: Permanent onsite mural at Sint Lucas (designed and painted by Bachel
 I﻿mage 2: Leporello, designed by / with works of participants
 
 I﻿mage 3: Some drawings made during the week
+
+I﻿mage 4: painting the mural
