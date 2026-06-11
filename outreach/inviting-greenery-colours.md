@@ -18,7 +18,9 @@ gallery:
 ---
 A project initiated and curated by Sint Lucas Antwerp, [Stadscanvas](https://www.fameus.be/stadscanvas)
 
-G﻿uided by Younes van den Broeck and Klaartje Lambrechts.
+G﻿uided by Younes van den Broeck 
+
+W﻿orkshop cyanotype or sun print by Klaartje Lambrechts
 
 We’re transforming the courtyard at Fameus into a welcoming “concrete jungle.” 
 
