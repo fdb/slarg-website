@@ -27,4 +27,4 @@ M﻿ore information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
 W﻿ith the support of librarian Adeline Boeckaert
 
 I﻿mage 2: typesetting for haikus written during one of the library evenings
-held in celebration of International Mother Language Day
+held in celebration of International Mother Language Day (Museum Plantin-Moretus)
