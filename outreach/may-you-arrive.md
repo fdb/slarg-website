@@ -33,10 +33,10 @@ Presentation by [Gilani Raja](https://www.instagram.com/gilani_raja/) (alumnus I
 
 More info: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
 
-I﻿mage 1: Permanent onsite mural at Sint Lucas (designed and painted by Bachelor students and artistic newcomers Stadscanvas) - image also printed as a postcard
+I﻿mage 1: permanent onsite mural at Sint Lucas (designed and painted by Bachelor students and artistic newcomers Stadscanvas) - image also printed as a postcard
 
-I﻿mage 2: Leporello, designed by / with works of participants
+I﻿mage 2: leporello, designed by / with works of participants
 
-I﻿mage 3: Some drawings made during the week
+I﻿mage 3: some drawings made during the week
 
 I﻿mage 4: painting the mural
