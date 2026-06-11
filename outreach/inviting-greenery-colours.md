@@ -12,7 +12,7 @@ gallery:
     alt: .
     caption: .
   - src:
-      - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/990e71b6dae8d37d4890a2c624d21b22ebc78636.jpg
+      - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/fa6e4050ffed8f2c52987f10db958ffb98dff223.jpg
     alt: .
     caption: .
 ---
