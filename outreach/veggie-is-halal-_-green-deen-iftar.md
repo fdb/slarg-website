@@ -13,6 +13,6 @@ Project week initiated and curated by Sint Lucas Antwerp, [Stadscanvas](https://
 
 P﻿alestinian kitchen by Lamas from [Veggie=Halal ](https://www.veggieishalal.be/)(VOEM)
 
-Creation of a Ramadan Iftar box, filled with tasty food by Veganation, distributed at the campus of Sint Lucas Antwerp during Ramadan
+Creation of a Ramadan Iftar box, filled with tasty food prepared by Veganation, distributed at the campus of Sint Lucas Antwerp during Ramadan
 
 Supported by [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
