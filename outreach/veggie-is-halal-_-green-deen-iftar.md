@@ -9,10 +9,10 @@ main_image:
 ---
 Project week initiated and curated by Sint Lucas Antwerp, [Stadscanvas](https://www.fameus.be/stadscanvas), [VOEM](https://www.voem.be/) a﻿nd Veganation
 
-Designing Dialogues at [Rooftoptiger](https://rooftoptiger.com/) _ [Archipel](https://www.archipel.site/), guided by Laura Braspenning, with aworkshop probing & critical artefacts by Rozan van Klaveren 
+**Designing Dialogues** at [Rooftoptiger](https://rooftoptiger.com/) _ [Archipel](https://www.archipel.site/), guided by Laura Braspenning, with a workshop probing & critical artefacts by Rozan van Klaveren 
 
 P﻿alestinian kitchen by Lamas from [Veggie=Halal ](https://www.veggieishalal.be/)(VOEM)
 
-Creation of a Ramadan Iftar box, filled with tasty food by Veganation, distributed at the campus of Sint Lucas Antwerp
+Creation of a Ramadan Iftar box, filled with tasty food by Veganation, distributed at the campus of Sint Lucas Antwerp during Ramadan
 
 Supported by [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
