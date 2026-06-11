@@ -15,4 +15,6 @@ P﻿alestinian kitchen by Lamas from [Veggie=Halal ](https://www.veggieishalal.b
 
 Creation of a Ramadan Iftar box, filled with tasty food prepared by Veganation, distributed at the campus of Sint Lucas Antwerp during Ramadan
 
+With students Sint Lucas Antwerp & participants [Stadscanvas](https://www.fameus.be/stadscanvas)
+
 Supported by [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
