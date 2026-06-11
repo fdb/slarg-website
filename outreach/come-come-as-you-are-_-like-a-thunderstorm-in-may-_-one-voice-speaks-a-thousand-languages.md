@@ -16,10 +16,12 @@ gallery:
       speaks a thousand languages" - a quote by the group of participants'
 project owner: []
 ---
-A project initiated and curated by Sint Lucas Antwerp, [Stadscanvas](https://www.fameus.be/stadscanvas) (Fameus) and [VOEM](https://www.voem.be/).
+A calligraffiti-project initiated and curated by Sint Lucas Antwerp, [Stadscanvas](https://www.fameus.be/stadscanvas) (Fameus) and [VOEM](https://www.voem.be/).
 
 Guided by graffiti & calligraphy artist [DemaOne](https://www.instagram.com/demacnn/) a﻿t [Rooftoptiger](https://rooftoptiger.com/) _ [Archipel](https://www.archipel.site/) 
 
-In this project, calligraphy and graffiti, Eastern and Western influences, stories, and languages come together. Together with graffiti artist and street artist DemaOne, we created a unifying quote that we incorporated into the site as a large-scale text installation and permanent artwork.
+In this project, calligraphy and graffiti, stories, languages and scripts meet. Together with graffiti artist and street artist DemaOne, we created a unifying quote that we incorporated into the site as a large-scale text installation and permanent artwork. 
+
+Students Sint Lucas Antwerp and participants [Stadscanvas](https://www.fameus.be/stadscanvas), [ODC](https://opendesigncourse.be/), [VOEM](https://www.voem.be/)
 
 More information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
