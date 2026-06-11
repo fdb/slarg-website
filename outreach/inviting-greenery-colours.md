@@ -22,9 +22,7 @@ G﻿uided by Younes van den Broeck
 
 W﻿orkshop cyanotype or sun print by Klaartje Lambrechts
 
-We’re transforming the courtyard at Fameus into a welcoming “concrete jungle.” 
-
-Together, we’ll create a warm, green, and artistic space that welcomes the open artistic community and visitors of Fameus.
+We transformed the courtyard at Fameus into a welcoming 'concrete jungle'; a warm, green, and artistic space that welcomes the open artistic community and visitors of Fameus. 
 
 With students Sint Lucas Antwerp & participants [Stadscanvas](https://www.fameus.be/stadscanvas)
 
