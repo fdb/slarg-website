@@ -8,15 +8,11 @@ main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/ff51925be15c1d99ac65fc8eda2429a3a651364b.jpg
 gallery:
   - src:
-      - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/7647bed1879a8f64cb3b12958a65d9f65ef0b052.jpg
+      - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/3a758335624d004565236e054ed984c1793ff3aa.jpg
     alt: .
     caption: .
   - src:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/990e71b6dae8d37d4890a2c624d21b22ebc78636.jpg
-    alt: .
-    caption: .
-  - src:
-      - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/3a758335624d004565236e054ed984c1793ff3aa.jpg
     alt: .
     caption: .
 ---
