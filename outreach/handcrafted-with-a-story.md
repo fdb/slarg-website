@@ -6,6 +6,11 @@ start_date: ""
 end_date: ""
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/fb5dd8dfdbeec305615b0a9a5c52e09f05a09b8a.jpg
+gallery:
+  - src:
+      - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/0f91251172ccd6892d1683a467bc4612ade5e133.jpg
+    alt: .
+    caption: .
 ---
 Initiated and curated by Sint Lucas Antwerp and [Stadscanvas](https://www.fameus.be/stadscanvas)
 
