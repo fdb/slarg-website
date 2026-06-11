@@ -8,7 +8,7 @@ main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/ff51925be15c1d99ac65fc8eda2429a3a651364b.jpg
 gallery:
   - src:
-      - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/522f45315d21ea8c9999f074d9974403f346cd8e.jpg
+      - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/7647bed1879a8f64cb3b12958a65d9f65ef0b052.jpg
     alt: .
     caption: .
   - src:
