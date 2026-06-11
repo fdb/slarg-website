@@ -18,7 +18,7 @@ project owner: []
 ---
 A project initiated and curated by Sint Lucas Antwerp, [Stadscanvas](https://www.fameus.be/stadscanvas) (Fameus) and [VOEM](https://www.voem.be/).
 
-Guided by graffiti & calligraphy artist [DEMAone](https://www.instagram.com/demacnn/)t [Rooftoptiger](https://rooftoptiger.com/) _ [Archipel](https://www.archipel.site/) 
+Guided by graffiti & calligraphy artist [DemaOne](https://www.instagram.com/demacnn/) a﻿t [Rooftoptiger](https://rooftoptiger.com/) _ [Archipel](https://www.archipel.site/) 
 
 In this project, calligraphy and graffiti, Eastern and Western influences, stories, and languages come together. Together with graffiti artist and street artist DemaOne, we created a unifying quote that we incorporated into the site as a large-scale text installation and permanent artwork.
 
