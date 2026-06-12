@@ -7,12 +7,13 @@ end_date: ""
 abstract: ""
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/2815db2a1aabadbc66c286b6985de9e8a6860115.jpg
-main_image_credits: Workshop by Tamim SahebZada _ “I dream of being human” (Rumi)
+main_image_credits: Workshop Perso-Arabic calligraphy by Tamim SahebZada _ “I
+  dream of being human” (Rumi)
 ---
-Community poem and workshops by [Stadscanvas](https://www.fameus.be/stadscanvas)
+Project initiated and curated by Sint Lucas Antwerp, Stadscanvas, [Museum Plantin-Moretus](https://museumplantinmoretus.be/en/museum-plantin-moretus)
 
-International Mother Language Day
+A﻿ctivities on International Mother Language Day
 
-Sint Lucas Antwerp, Stadscanvas, [Museum Plantin-Moretus](https://museumplantinmoretus.be/en/museum-plantin-moretus)
+S﻿tudents Sint Lucas Antwerp & participants Stadscanvas followed the elective course 'A multilingual / multiscript world: socio-political and artistic' in which they collaboratively wrote a poem. T﻿his community poem reflects on relationships with mother tongues close by and far away and it was hand-printed in the museum. Aside from manually printing there were different workshops in the museum, guided by newcomers of [Stadscanvas](https://www.fameus.be/stadscanvas)
 
 More information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
