@@ -8,7 +8,8 @@ abstract: May you arrive as part of the family and tread an easy path as you ent
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/8bdf589a80d5bb6059fff8e371664a2b75828bf8.jpg
 gallery:
-  - src: /static/img/mayyouarrive.jpg
+  - src:
+      - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/91208cb95a77595294f3731bde7e9026dd6771d5.jpg
     alt: .
     caption: .
 ---
