@@ -9,6 +9,10 @@ main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/2815db2a1aabadbc66c286b6985de9e8a6860115.jpg
 main_image_credits: Workshop Perso-Arabic calligraphy by Tamim SahebZada _ “I
   dream of being human” (Rumi)
+gallery:
+  - src: /static/img/moedertalen.jpg
+    alt: .
+    caption: .
 ---
 Project initiated and curated by Sint Lucas Antwerp, Stadscanvas, [Museum Plantin-Moretus](https://museumplantinmoretus.be/en/museum-plantin-moretus)
 
