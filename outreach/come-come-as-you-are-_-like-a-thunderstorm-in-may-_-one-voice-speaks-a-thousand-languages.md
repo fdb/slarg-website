@@ -20,7 +20,7 @@ A calligraffiti-project initiated and curated by Sint Lucas Antwerp, [Stadscanva
 
 Guided by graffiti & calligraphy artist [DemaOne](https://www.instagram.com/demacnn/) a﻿t [Rooftoptiger](https://rooftoptiger.com/) _ [Archipel](https://www.archipel.site/) 
 
-In this project, calligraphy and graffiti, stories, languages and scripts meet. Together with graffiti artist and street artist DemaOne, we created a unifying quote that we incorporated into the site as a large-scale text installation and permanent artwork. 
+In this project, calligraphy and graffiti, stories, languages and scripts meet. Together with graffiti and street artist DemaOne, we created a unifying quote that we incorporated into the site as a large-scale text installation and permanent artwork. 
 
 Students Sint Lucas Antwerp and participants [Stadscanvas](https://www.fameus.be/stadscanvas), [ODC](https://opendesigncourse.be/), [VOEM](https://www.voem.be/)
 
