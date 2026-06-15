@@ -7,19 +7,22 @@ end_date: ""
 abstract: May you arrive as part of the family and tread an easy path as you enter
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/8bdf589a80d5bb6059fff8e371664a2b75828bf8.jpg
+main_image_credits: Permanent onsite mural at Sint Lucas (designed and painted
+  by Bachelor students and artistic newcomers Stadscanvas) - image also printed
+  as a postcard
 gallery:
   - src:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b0bdf4f2e384aae8e5d75e8b22f79bb75950040f.jpg
     alt: .
-    caption: .
+    caption: Some drawings made during the week
   - src:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/de473a2a5be7a0ff224a6156f324e275c7d0b60f.jpg
     alt: .
-    caption: .
+    caption: Leporello, designed by / with works of participants
   - src:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/0631f0998281c5f458dd94436ceb83811b574599.jpg
     alt: .
-    caption: .
+    caption: Painting the mural
 ---
 "May you arrive as part of the family and tread an easy path as you enter"
 
@@ -32,11 +35,3 @@ Engagement with some new [KHATT](https://khattbooks.com/?doing_wp_cron=178098792
 Presentation by [Gilani Raja](https://www.instagram.com/gilani_raja/) (alumnus Illustration)
 
 More info: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
-
-I﻿mage 1: permanent onsite mural at Sint Lucas (designed and painted by Bachelor students and artistic newcomers Stadscanvas) - image also printed as a postcard
-
-I﻿mage 2: some drawings made during the week 
-
-I﻿mage 3: leporello, designed by / with works of participants
-
-I﻿mage 4: painting the mural
