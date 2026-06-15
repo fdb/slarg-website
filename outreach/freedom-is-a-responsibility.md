@@ -22,7 +22,7 @@ A project week initiated and curated by Sint Lucas Antwerp and [Stadscanvas](htt
 
 During this week we engaged with different languages and scripts and collaboratively thought of a quote that we could share and work on artistically in two calligraphy styles.
 
-Workshop different Perso-Arabic calligraphy styles by Tamim SahebZada
+Workshop different Perso-Arabic calligraphy styles by master calligrapher and miniaturist Tamim SahebZada
 
 T﻿he square geometrical calligraphy version of the quote was screen-printed on tote bags.
 
