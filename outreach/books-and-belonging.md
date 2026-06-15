@@ -11,7 +11,8 @@ main_image_credits: new library cards for external users, designed and printed b
 gallery:
   - src:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/efb239c2e74438b6be5a8e50afd07c9b4aabb431.jpg
-    alt: .
+    alt: Typesetting for haikus written during one of the library evenings
+      (International Mother Language Day at the Museum Plantin-Moretus)
     caption: .
 ---
 Library project Sint Lucas x [Stadscanvas](https://www.fameus.be/stadscanvas) (ongoing)
@@ -25,5 +26,3 @@ Memories, cultures, practices, experiences, knowledges, perspectives, canons, se
 M﻿ore information: [Ruth Razan Loos](https://slarg.be/people/ruth-razan-loos/)
 
 W﻿ith the support of librarian Adeline Boeckaert
-
-I﻿mage 2: typesetting for haikus written during one of the library evenings (International Mother Language Day at the Museum Plantin-Moretus)
