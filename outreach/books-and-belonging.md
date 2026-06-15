@@ -11,9 +11,9 @@ main_image_credits: new library cards for external users, designed and printed b
 gallery:
   - src:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/efb239c2e74438b6be5a8e50afd07c9b4aabb431.jpg
-    alt: Typesetting for haikus written during one of the library evenings
+    alt: .
+    caption: Typesetting for haikus written during one of the library evenings
       (International Mother Language Day at the Museum Plantin-Moretus)
-    caption: .
 ---
 Library project Sint Lucas x [Stadscanvas](https://www.fameus.be/stadscanvas) (ongoing)
 
