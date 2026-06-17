@@ -7,9 +7,9 @@ end_date: ""
 abstract: May you arrive as part of the family and tread an easy path as you enter
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/8bdf589a80d5bb6059fff8e371664a2b75828bf8.jpg
-main_image_credits: Permanent onsite mural at Sint Lucas (designed and painted
-  by Bachelor students and artistic newcomers Stadscanvas) - image also printed
-  as a postcard
+main_image_credits: Permanent on-site mural at Sint Lucas, designed and painted
+  by Bachelor students and artistic newcomers from Stadscanvas - image also
+  printed as a postcard
 gallery:
   - src:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b0bdf4f2e384aae8e5d75e8b22f79bb75950040f.jpg
