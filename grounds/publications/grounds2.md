@@ -9,6 +9,9 @@ people:
   - Ruth Razan Loos
 author: Kim Gorus (ed.)
 ground_date: 2026-05-28
+ground_url:
+  - name: view publication
+    url: https://www.sintlucasantwerpen.be/wp-content/uploads/2026/06/SLA_Grounds02_DEF_web.pdf
 thumbnail:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/652bdbc03208ff5f59980eaf3657ef5736cb6ffa.png
 ---
