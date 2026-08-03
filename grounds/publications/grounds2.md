@@ -9,6 +9,10 @@ TOC:
     contributors: Ruth Razan Loos
   - title: Staying with the Itch
     contributors: Loraine Furter
+  - title: Le Fil de Sucre-pourpre de Mulohò’ Explained
+    contributors: Sammy Baloji
+  - title: Where And Who And What We Grew
+    contributors: "Saskia Van der Gucht "
 ground_date: 2026-05-28
 author: Kim Gorus (ed.)
 title: "Grounds #2"
