@@ -1,5 +1,16 @@
 ---
 layout: ground.liquid
+TOC:
+  - title: No One Can Obscure the Sun
+    contributors: Shayma Nader
+  - title: Assume Calibration Pose
+    contributors: Myrthe Bokelmann & Cèlia Tort Pujol
+  - title: Towards Celestial Letters
+    contributors: Ruth Razan Loos
+  - title: Staying with the Itch
+    contributors: Loraine Furter
+ground_date: 2026-05-28
+author: Kim Gorus (ed.)
 title: "Grounds #2"
 people:
   - Shayma Nader
@@ -7,15 +18,13 @@ people:
   - Sammy Baloji
   - Loraine Furter
   - Ruth Razan Loos
-author: Kim Gorus (ed.)
-ground_date: 2026-05-28
 ground_url:
   - name: view publication
     url: https://www.sintlucasantwerpen.be/wp-content/uploads/2026/06/SLA_Grounds02_DEF_web.pdf
 thumbnail:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/652bdbc03208ff5f59980eaf3657ef5736cb6ffa.png
 ---
-<!--StartFragment-->
+
 
 *Grounds #2* brings together six artistic research projects that explore how relations, memory, care, and knowledge are formed through bodies, technologies, ecologies, and colonial histories. Each contribution works as a situated inquiry into how we navigate presence, loss, and collective making.
 
@@ -31,5 +40,3 @@ thumbnail:
   A poetic collage tracing sugar’s aesthetic and colonial histories, linking extraction to ongoing global inequalities.
 * **Saskia Van der Gucht – *Where And Who And What We Grew***\
   A film-based inquiry into ecological scarcity, mutual aid, and alternative forms of belonging and “home.”
-
-<!--EndFragment-->
