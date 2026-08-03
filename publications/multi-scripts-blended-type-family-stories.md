@@ -4,11 +4,12 @@ title: Multi scripts - Blended type family stories
 people:
   - Garine Gokceyan
   - Loraine Furter
-external_collaborators: []
 author: Émilie Aurat, Loraine Furter, Lisa Huang, Garine Gokceyan and Naïma Ben Ayed.
 publication_date: 2022-12-02
 publication_file: https://www.design-research.be/multiscriptes/2022-Forum-plus-multiscripts_GarinaGokceyan_NaimaBenayed_EmilieAurat_LisaHuang_LoraineFurter.pdf
-thumbnail: https://www.design-research.be/multiscriptes/multiscriptes-Forum-plus-spread.jpg
+thumbnail:
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/5ad565963fbdc96abf2850229a921a6e76ff1ee9.jpg
+external_collaborators: []
 description: >-
   Multi Scripts – Blended Type Family Stories is a collective
   research-in-progress about multi-script typography. Partial and situated
