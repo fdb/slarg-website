@@ -2,14 +2,16 @@
 layout: event.liquid
 tags: event
 year: 2026
-research_exhibition_2026: event
 title: "testing event "
 type: video installation
 author: imane B.K.
-main_image: /static/img/mayyouarrive.jpg
 images: /static/img/fdl-femlgbt-mathildevigneau.800x0.png
-date: 2026-10-16
+start_time: 20:09
 time: 10:00 - 12:00
+research_exhibition_2026: event
+main_image: /static/img/mayyouarrive.jpg
+date: 2026-10-16
+end_time: ""
 location: Sint Lucas Antwerpen showroom
 ---
 hello
