@@ -6,7 +6,7 @@ title: "testing event "
 type: video installation
 author: imane B.K.
 images: /static/img/fdl-femlgbt-mathildevigneau.800x0.png
-start_time: 20:09
+start_time: 21:00
 time: 10:00 - 12:00
 research_exhibition_2026: event
 main_image: /static/img/mayyouarrive.jpg
