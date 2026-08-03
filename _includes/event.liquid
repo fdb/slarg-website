@@ -9,11 +9,20 @@ layout: base
         <span class="event-author">{{ author}}</span> |
         <span class="event-date">{{ date | formatDate }}{% if time %} | {{ time | escape}}{% endif %}</span> |
         <span class="event-location">{{ location }}</span>
+
+{% if start_time %}
+  | {{ start_time | timeOnly }}
+  {% if end_time %}
+    - {{ end_time | timeOnly  }}
+  {% endif %}
+{% endif %}
+
+
     </div>
 </div>
 <div class="event-layout">
     <div class="event-image">
-        <img src="{{ main_image }}/public" alt="{{ title }}">
+        <img src="{{ main_image }}" alt="{{ title }}">
     </div>
     <div class="event-text">
         {{ content | raw }}
@@ -21,6 +30,6 @@ layout: base
 </div>
 <div class="event-images">
     {%- for image in images -%}
-    <img class="image" src="{{ image }}/public" alt="" />
+    <img class="image" src="{{ image }}" alt="" />
     {%- endfor -%}
 </div>

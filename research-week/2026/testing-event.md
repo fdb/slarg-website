@@ -7,7 +7,6 @@ type: video installation
 author: imane B.K.
 images: /static/img/fdl-femlgbt-mathildevigneau.800x0.png
 start_time: 12:00
-time: 10:00 - 12:00
 research_exhibition_2026: event
 main_image: /static/img/mayyouarrive.jpg
 date: 2026-10-16

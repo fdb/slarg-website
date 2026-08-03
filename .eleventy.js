@@ -2,7 +2,12 @@ const { DateTime } = require('luxon');
 const markdownIt = require('markdown-it');
 const md = new markdownIt();
 
+
+
 function groupEventsByWeekday(allEvents) {
+
+
+
 	let groupedByWeekday = {};
 
 	allEvents.forEach((item) => {
@@ -49,6 +54,29 @@ module.exports = function (eleventyConfig, collections) {
 	eleventyConfig.addPassthroughCopy('research-week/2021/static');
 	eleventyConfig.addPassthroughCopy({ '_data/global-tags.json': 'global-tags.json' });
 
+
+eleventyConfig.addFilter('timeOnly', function(value) {
+	if (value === undefined || value === null || value === '') return '';
+
+	// YAML converted HH:MM into minutes
+	if (typeof value === 'number') {
+		const hours = Math.floor(value / 60);
+		const minutes = value % 60;
+
+		return `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}`;
+	}
+
+	// Fallback for strings
+	if (typeof value === 'string') {
+		if (value.includes('T')) {
+			return value.substring(11, 16);
+		}
+		return value;
+	}
+
+	return value;
+});
+
 	eleventyConfig.addFilter('formatRoles', function (roles) {
 		if (!Array.isArray(roles)) return '';
 		return roles.join(', ');
@@ -66,13 +94,13 @@ module.exports = function (eleventyConfig, collections) {
 
 	eleventyConfig.addCollection('events_2026', function (collection) {
   		return collection.getAll().filter((item) => {
-    		return item.data.section_website_2026 === 'event' && item.data.year === 2026;
+    		return item.data.research_exhibition_2026 === 'event' && item.data.year === 2026;
   			});
 	});
-	
+
 	eleventyConfig.addCollection('exhibition_2026', function (collection) {
   		return collection.getAll().filter((item) => {
-    		return item.data.section_website_2026 === 'exhibition' && item.data.year === 2026;
+    		return item.data.research_exhibition_2026 === 'exhibition' && item.data.year === 2026;
   		});
 	});
 
