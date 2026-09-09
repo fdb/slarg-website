@@ -2,7 +2,7 @@
 layout: project.liquid
 tags: project
 title: "Contemporary Kasala and Lukasa: towards a Reconfiguration of Identity
-  and Geopolitics "
+  and Geopolitics (PhD COMPLETED MAY 2026)"
 start_date: 2019-08-23T23:29:56.182Z
 end_date: 2026-05-23T23:29:56.197Z
 project-kind: PhD
