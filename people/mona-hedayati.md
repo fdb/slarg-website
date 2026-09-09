@@ -2,9 +2,12 @@
 researcher_name: Mona Hedayati
 researcher_flag: "false"
 layout: people.liquid
+tags: researcher
+person_name: Mona Hedayati
 role:
-  - PhD
   - Former researcher
+email: mona.hedayati@kdg.be
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/2f15114c-4cdd-46b5-8eaa-bf90ffab2bcf.jpg
 bio: >-
   Mona Hedayati is an Iranian-Canadian artist and researcher whose work moves
   across sound, technology, and embodied experiences of displacement. She was a
@@ -23,10 +26,6 @@ social_links:
 staff_flag: "false"
 image_researcher:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/88a43bdd-daa9-42ea-a240-6c2a2dbca5c8.jpg
-person_name: Mona Hedayati
 status_of_research: ongoing
 available_for_supervision: "false"
-tags: researcher
-email: mona.hedayati@kdg.be
-headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/2f15114c-4cdd-46b5-8eaa-bf90ffab2bcf.jpg
 ---
