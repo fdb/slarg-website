@@ -5,7 +5,7 @@ layout: people.liquid
 tags: researcher
 person_name: Danial Shah
 role:
-  - PhD
+  - Post-Doc
 email: shah.danial@kdg.be
 research_interests:
   - film
