@@ -9,7 +9,7 @@ ongoing: true
 abstract: ""
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/d28f32b99fceb76aff0257f5d77fd0b6f9a692d9.jpg
-main_image_credits: ""
+main_image_credits: "Image: ‘a’, drawing by Michel Olyff"
 people:
   - "Mateo Broillet "
 ---
