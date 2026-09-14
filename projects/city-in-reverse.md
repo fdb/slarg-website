@@ -5,7 +5,7 @@ title: "City in Reverse: Reflecting Aluminum"
 start_date: ""
 end_date: ""
 project-kind: 2 year project (post-doc)
-ongoing: true
+ongoing: false
 abstract: ""
 research_interests:
   - artists' books
