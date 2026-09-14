@@ -4,6 +4,7 @@ tags: project
 title: Bauxitization Processes. Stone Pigments in Post-Industrial Landscapes
 start_date: 2026-09-14T12:00:34.112Z
 end_date: 2028-09-14T12:00:34.129Z
+project-kind: 2 year project (post-doc)
 ongoing: true
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/199d4284324cae07f5cf9c026e1993ac0439d0f5.jpg
