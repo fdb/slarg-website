@@ -1,7 +1,7 @@
 ---
 layout: project.liquid
 tags: project
-title: "The Hi-Vis Workie: Reflective workwear, from appropriation to queercoding. "
+title: "The Hi-Vis Workie: Reflective workwear, from appropriation to queercoding"
 start_date: 2026-09-14T12:25:21.089Z
 end_date: 2027-09-14T12:25:21.096Z
 project-kind: 1 year project
