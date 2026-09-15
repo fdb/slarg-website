@@ -10,6 +10,8 @@ main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/199d4284324cae07f5cf9c026e1993ac0439d0f5.jpg
 main_image_credits: © Karen Vermeren, Bauxitization Processes, 21 cm x 59 cm,
   folded & recto verso, acrylic & silkscreen on stone paper
+people:
+  - Karen Vermeren
 ---
 In this two-year postdoctoral research project, Karen Vermeren investigates bauxite as a material and artistic medium, asking whether our current era is transforming into a ‘bauxite climate’. Taking post-industrial landscapes in the Anthropocene as a starting point, the research explores the material’s geological trajectory, transformation, composition, properties, and technical possibilities, while questioning how we understand time and imagine new forms of spatialisation.
 
