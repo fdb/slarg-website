@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 year: 2026
-research_exhibition_2026: event
+research_exhibition_2026: exhibition
 title: SLARG RESEARCH EXHIBITION 28 October – 1 November
 type: Exhibition
 author: Ayoh Kré Duchâtelet, Brenda Bikoko,, Cèlia Tort Pujol, Dimitri van den
