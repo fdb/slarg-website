@@ -10,6 +10,8 @@ author: Ayoh Kré Duchâtelet, Brenda Bikoko,, Cèlia Tort Pujol, Dimitri van de
   Joachim Ben Yakoub, Jonathan Paepens, Karen Vermeren, Lieven Menschaert,
   Myrthe Bokelmann, Reem Shilleh, Robin Vanbesien, Sam Vanbelle and Sander Van
   de Vijve
+main_image:
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/59fb188d3e40f85b783a6908f5412b96795ff01c.png
 images:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/59fb188d3e40f85b783a6908f5412b96795ff01c.png
 date: ""
