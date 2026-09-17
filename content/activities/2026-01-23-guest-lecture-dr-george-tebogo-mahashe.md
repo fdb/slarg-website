@@ -5,7 +5,7 @@ layout: activity.liquid
 startDate: 2026-01-23T15:00:43.116Z
 endDate: 2026-01-23T16:30:43.124Z
 location: "AdMa room "
-thumbnail: https://ucarecdn.com/b4b54cc5-256c-49b0-9b68-5d631bdcfd53/
+thumbnail: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b4b54cc5-256c-49b0-9b68-5d631bdcfd53.jpg
 tags: []
 research_interests:
   - camera obscura

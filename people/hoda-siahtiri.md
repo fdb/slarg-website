@@ -27,5 +27,5 @@ status_of_research: ongoing
 available_for_supervision: "false"
 tags: researcher
 email: "hoda.siahtiri@kdg.be "
-headshot: https://ucarecdn.com/fe78ef46-7e36-4cda-9a5a-6d523bd2b2f0/
+headshot: https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/fe78ef46-7e36-4cda-9a5a-6d523bd2b2f0.jpg
 ---
