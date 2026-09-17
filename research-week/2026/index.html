@@ -22,7 +22,7 @@ layout: base.liquid
           {% if exhibition.data.main_image %}
             <div class="event-image"><img src="{{ exhibition.data.main_image }}" alt="{{ exhibition.data.title }}"></div>
           {% endif %}
-          <h3>{{ exhibition.data.title }}</h3>
+          <h2>{{ exhibition.data.title }}</h2>
           <span class="exhibition-type">{{ exhibition.data.type }}</span> |
           <span class="exhibition-author">{{ exhibition.data.author }}</span>
         </div>
@@ -57,7 +57,7 @@ layout: base.liquid
               {% if event_time.data.main_image %}
                 <div class="event-image"><img src="{{ event_time.data.main_image }}" alt="{{ event_time.data.title }}"></div>
               {% endif %}
-              <h3>{{ event_time.data.title }}</h3>
+              <h2>{{ event_time.data.title }}</h2>
               <span class="event-type">{{ event_time.data.type }}</span> |
               <span class="event-author">{{ event_time.data.author }}</span> |
               <span class="event-date">
@@ -90,7 +90,7 @@ layout: base.liquid
           {% if event_time.data.main_image %}
             <div class="event-image"><img src="{{ event_time.data.main_image }}" alt="{{ event_time.data.title }}"></div>
           {% endif %}
-          <h3>{{ event_time.data.title }}</h3>
+          <h2>{{ event_time.data.title }}</h2>
           <span class="event-type">{{ event_time.data.type }}</span> |
           <span class="event-author">{{ event_time.data.author }}</span> |
           <span class="event-date">
