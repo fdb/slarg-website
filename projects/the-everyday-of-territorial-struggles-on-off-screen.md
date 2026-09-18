@@ -10,6 +10,12 @@ research_interests:
   - Feminist perspectives
   - Housing politics
   - Public space
+main_image:
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/0bd92119c5bc6705ea8da1d64d8d711c3fde9e7e.png
+main_image_credits: |
+  WTC A never-ending Love Story (2023), by Lietje Bauwens and Wouter De Raeve
+
+  Portrait by Stine Sampers 
 people:
   - Lietje Bauwens
 supervisors:
