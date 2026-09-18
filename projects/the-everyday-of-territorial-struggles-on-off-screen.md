@@ -4,6 +4,7 @@ tags: project
 title: The everyday of territorial struggles on/off screen
 start_date: 2026-09-17T15:30:17.857Z
 end_date: 2030-09-17T15:30:17.881Z
+project-kind: PhD
 ongoing: true
 research_interests:
   - Collective filmmaking
