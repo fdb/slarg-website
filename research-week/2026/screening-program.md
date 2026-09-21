@@ -3,8 +3,8 @@ layout: event.liquid
 tags: event
 year: 2026
 research_exhibition_2026: film screening
-title: Screening Program
-type: Screening
+title: Film Screening Program
+type: Film Screening
 author: Danial Shah, Bianca Baldi, Sammy Baloji
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/fdf91099b0f859715764af6bebbb4959895adcdf.png
@@ -13,29 +13,19 @@ images:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/6d3c4e7f581d330044001bb0ea64b8c902e2f6f7.jpg
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/64095e98f4b9fefe0661f8c66c86e2a08c10fae7.jpg
 date: 2026-10-29
-start_time: 16:00
-end_time: 19:30
+start_time: 15:30
+end_time: 19:00
 location: Sint Lucas Antwerpen showroom
 ---
-
-
 **Aula, Sint Lucas Antwerpen School of Arts**
 
-16:00–16:05 Welcome + introduction 
 
-16:05–17:15 Make It Look Real · Danial Shah (70 min)
 
-17:15–17:25 Q&A with Danial Shah
+15:30 - *Make It Look Real* · Danial Shah (70 min)
 
-17:25–17:45 Hear Her Calendar System: A Year of Thirteen Months · Bianca Baldi (20 min)
+16:45 - *Hear Her Calendar System: A Year of Thirteen Months* · Bianca Baldi (20 min)
 
-17:45–17:55 Q&A with Bianca Baldi
-
-17:55–19:20 L’Arbre de l’Authenticité · Sammy Baloji (85 min)
-
-19:20–19:30 Q&A with Sammy Baloji
-
-Total duration: 3 hours and 30 minutes.
+1﻿7:30 - *L’Arbre de l’Authenticité ·* Sammy Baloji (85 min)
 
 
 
@@ -47,8 +37,6 @@ Danial Shah explores the relationship between photography, imagination, and the 
 
 I﻿mage: film poster 
 
-
-
 **Hear Her Calendar System: A Year of Thirteen Months**
 
 Bianca Baldi
@@ -58,8 +46,6 @@ Bianca Baldi reflects on alternative ways of sensing and organising time. Filmed
 F﻿ilm still caption: 
 
 Hear Her Calendar System: A Year of Thirteen Months (2025), film still. 19’07”. Produced by WIELS. Filmed at Tanda Tula, Timbavati Game Reserve.
-
-
 
 **L’Arbre de l’Authenticité**
 
