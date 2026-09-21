@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 year: 2026
-research_exhibition_2026: film screening
+research_exhibition_2026: event
 title: Film Screening Program
 type: Film Screening
 author: Danial Shah, Bianca Baldi, Sammy Baloji
