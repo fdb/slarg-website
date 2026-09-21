@@ -28,7 +28,7 @@ Our researchers will be present and are looking forward to engaging in dialogue 
 
 The exhibition will open on **Wednesday 28 October at 17:00.** It runs from  **Thursday 29 October till Sunday 1 November, 14:00 - 17:00.** 
 
-On the opening night, 28 October, you can meet the researchers or join a guided tour (18:00) led by Petra Van Brabandt, head of research at Sint Lucas Antwerpen. Petra will guide you through the various projects on display.
+On the **opening night, 28 October**, you can meet the researchers or join a guided tour (18:00) led by Petra Van Brabandt, head of research at Sint Lucas Antwerpen. Petra will guide you through the various projects on display.
 
 \
 **We are looking forward to seeing you there!**
