@@ -12,7 +12,6 @@ main_image_credits: Poster designed by Abid Bahri for a Cultural Day organised
   by Ahl El Hijra on 28 March 1981 at Les Halles de Schaerbeek, Brussels.
 people:
   - Joachim Ben Yakoub
-  - Annelys de Vet
 supervisors:
   - Joachim Ben Yakoub
 ---
