@@ -3,7 +3,7 @@ layout: project.liquid
 tags: project
 title: A Circle of Birds. On recomposition as murmuration
 start_date: 2026-09-16T08:09:51.530Z
-end_date: 2028-09-16T08:09:51.544Z
+end_date: ""
 project-kind: 2 year project (post-doc)
 ongoing: true
 main_image:
