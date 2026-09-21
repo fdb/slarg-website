@@ -5,9 +5,9 @@ year: 2026
 research_exhibition_2026: event
 title: Research Presentations
 type: Research Presentations
-author: Karen Vermeren, Joachim Ben Yakoub & Reem Shilleh, Brenda Bikoko, Robin
+author: Brenda Bikoko, Karen Vermeren, Reem Shilleh & Joachim Ben Yakoub, Robin
   Vanbesien, Sam Vanbelle and Jeroen Bocken, Sander Van de Vijver and Jonathan
-  Paepen
+  Paepens
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/38bc3fe72f18433be5f054bd2e8ca381f39b5f95.png
 images:
