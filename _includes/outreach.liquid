@@ -72,10 +72,6 @@ layout: base.liquid
     {% endif %}
 
 
-    {%- comment -%}
-    SUPERVISORS
-    {%- endcomment -%}
-
     {% if supervisors or external_supervisors %}
 
       <li class="people-link">
@@ -150,7 +146,7 @@ layout: base.liquid
 
     {% endif %}
 
-{% if partners or external_partners %}
+{% if partners.size > 0 or external_partners.size > 0 %}
   <li class="people-link">
     <strong>Partner(s):</strong>
 
