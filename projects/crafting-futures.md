@@ -22,16 +22,8 @@ funding:
 ---
 *Crafting Futures seeks ways to revalue the knowledge and skills of crafts and tap into their potential for addressing current challenges in sustainability, innovation, inclusion, lifelong learning, and urban transformation. The project examines the assessment & validation mechanisms by which crafts knowledge and know-how (CKK) is evaluated in order to enhance its added value for the economy and society in Belgium.*
 
-
-
 *Crafting Futures is developed by an interdisciplinary team from UAntwerpen and KU Leuven, in collaboration with the Schools of Art, KASK in Gent, Royal Academy of Fine Arts Antwerp and Sint Lucas Antwerpen. Moreover, the project is realized in close collaboration with partners from the field. During the course of the project, three stakeholder working groups are set up, based on specific themes and craft contexts: crafts education, maker spaces, and finally, policy and entrepreneurship.*
-
-
 
 *This unique academic and field consortium brings together a broad range of expertise ranging from pedagogy, critical heritage and economy studies, anthropology, design sciences, cultural management, law, to hands-on art and design practices anchored in artistic research.*
 
-
-
 *By combining critical analysis with an action-based approach, the project will prototype and develop new models for validating crafts in educational, policy-making, and economic contexts. This will result in new learning formats, classification systems and typologies, legal instruments, business models, and policy recommendations for field practitioners, policy makers and educational organisms.*
-
-*With the support of FWO / SBO"*
