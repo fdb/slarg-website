@@ -25,6 +25,9 @@ gallery:
 project_owner:
   - Ruth Razan Loos
   - "Imane B. K. "
+external_partners:
+  - name: test
+    url: https://www.bozar.be/en
 ---
  **كل قلوب الناس جنسيتي ... فلتسقطوا عني جواز السفر**  Mahmoud Darwish
 
