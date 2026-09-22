@@ -8,6 +8,7 @@ ongoing: true
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/940f904308ac5eed8ad77ae959bc56d55fae3888.jpg
 main_image_credits: Shibori workshop ©Pierre Antoine Vettorello
+gallery: []
 people:
   - Pierre-Antoine Vettorello
 external_partners:
