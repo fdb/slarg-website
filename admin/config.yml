@@ -403,6 +403,14 @@ collections:
           multiple: true,
           required: false
         }
+      - label: 'External partners'
+        name: 'external_partners'
+        widget: 'list'
+        summary: '{{fields.name}}'
+        fields:
+        - { label: 'Name', name: 'name', widget: 'string' }
+        - { label: 'URL', name: 'url', widget: 'string', required: false }
+        - { label: 'Email', name: 'email', widget: 'string', required: false }
       - {
           label: 'Supervisors',
           name: 'supervisors',
@@ -492,6 +500,14 @@ collections:
           multiple: true,
           required: false
         }
+      - label: 'External partners'
+        name: 'external_partners'
+        widget: 'list'
+        summary: '{{fields.name}}'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string', required: false }
+          - { label: 'Email', name: 'email', widget: 'string', required: false }
       - label: 'Funding'
         name: 'funding'
         widget: 'list'
