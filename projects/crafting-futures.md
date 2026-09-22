@@ -2,8 +2,8 @@
 layout: project.liquid
 tags: project
 title: Crafting Futures
-start_date: 2026-09-22T13:55:44.668Z
-end_date: 2026-09-22T13:55:44.686Z
+start_date: 2023-10-22T13:55:44.668Z
+end_date: 2026-09-22T14:11:27.193Z
 ongoing: true
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/940f904308ac5eed8ad77ae959bc56d55fae3888.jpg
