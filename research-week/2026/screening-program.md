@@ -17,15 +17,21 @@ start_time: 15:30
 end_time: 19:00
 location: Sint Lucas Antwerpen showroom
 ---
-**Aula, Sint Lucas Antwerpen School of Arts**
+## **SLARG screening** 
+
+## **Aula, Sint Lucas Antwerpen School of Arts**
+
+## **1﻿5:15 - 19:30** 
 
 
 
-15:30 - *Make It Look Real* · Danial Shah (70 min)
 
-16:45 - *Hear Her Calendar System: A Year of Thirteen Months* · Bianca Baldi (20 min)
 
-1﻿7:30 - *L’Arbre de l’Authenticité ·* Sammy Baloji (85 min)
+### 15:30 - *Make It Look Real* · Danial Shah (70 min)
+
+### 17:00 - *Hear Her Calendar System: A Year of Thirteen Months* · Bianca Baldi (20 min)
+
+### 1﻿7:45 - *L’Arbre de l’Authenticité ·* Sammy Baloji (85 min)
 
 
 
