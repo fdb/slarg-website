@@ -20,6 +20,8 @@ project owner:
   - Ruth Razan Loos
   - Annelys de Vet
   - Bianca Baldi
+partners:
+  - Ann Laenen
 ---
  **كل قلوب الناس جنسيتي ... فلتسقطوا عني جواز السفر**  Mahmoud Darwish
 
