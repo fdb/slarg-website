@@ -28,6 +28,8 @@ project_owner:
 external_partners:
   - name: test
     url: https://www.bozar.be/en
+funding:
+  - name: "who funded this "
 ---
  **كل قلوب الناس جنسيتي ... فلتسقطوا عني جواز السفر**  Mahmoud Darwish
 
