@@ -480,7 +480,7 @@ collections:
             - { label: Caption / Credits, name: caption, widget: string} 
       - {
           label: 'Project owner',
-          name: 'project owner',
+          name: 'project_owner',
           widget: 'relation',
           collection: 'people',
           search_fields: ['person_name'],
