@@ -11,7 +11,7 @@ project owner:
   - Ruth Razan Loos
   - Annelys de Vet
   - Bianca Baldi
-end_date: ""
+end_date: 2026-03-21T23:00:00.000Z
 gallery:
   - src:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/791a8b572bbb0159d656e0677e859867bb567b5f.jpg
