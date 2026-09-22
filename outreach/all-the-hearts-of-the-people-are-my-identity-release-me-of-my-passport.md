@@ -2,7 +2,7 @@
 layout: outreach.liquid
 tags: outreach
 title: All the hearts of the people are my identity ... release me of my passport
-start_date: 2026-09-22T13:52:07.567Z
+start_date: 2026-12-22T22:13:08.851Z
 abstract: "\ \n\n\n\n\n"
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/47adea45e6495dc99240486a0e62702228ad3e3c.jpg
