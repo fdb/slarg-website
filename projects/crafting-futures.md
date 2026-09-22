@@ -5,6 +5,9 @@ title: Crafting Futures
 start_date: 2026-09-22T13:55:44.668Z
 end_date: 2026-09-22T13:55:44.686Z
 ongoing: true
+main_image:
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/940f904308ac5eed8ad77ae959bc56d55fae3888.jpg
+main_image_credits: Shibori workshop ©Pierre Antoine Vettorello
 people:
   - Pierre-Antoine Vettorello
 external_partners:
