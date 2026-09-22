@@ -6,8 +6,7 @@ start_date: 2026-12-22T22:13:08.851Z
 abstract: "\ \n\n\n\n\n"
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/47adea45e6495dc99240486a0e62702228ad3e3c.jpg
-partners:
-  - Ann Laenen
+partners: []
 project owner:
   - Ruth Razan Loos
   - Annelys de Vet
@@ -24,12 +23,8 @@ gallery:
     caption: .
 project_owner:
   - Ruth Razan Loos
-  - "Imane B. K. "
-external_partners:
-  - name: test
-    url: https://www.bozar.be/en
-funding:
-  - name: "who funded this "
+external_partners: []
+funding: []
 ---
  **كل قلوب الناس جنسيتي ... فلتسقطوا عني جواز السفر**  Mahmoud Darwish
 
