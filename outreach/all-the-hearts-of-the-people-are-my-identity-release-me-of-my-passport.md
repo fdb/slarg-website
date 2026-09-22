@@ -18,6 +18,8 @@ gallery:
     caption: .
 project owner:
   - Ruth Razan Loos
+  - Annelys de Vet
+  - Bianca Baldi
 ---
  **كل قلوب الناس جنسيتي ... فلتسقطوا عني جواز السفر**  Mahmoud Darwish
 
