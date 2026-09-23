@@ -15,10 +15,4 @@ start_time: 10:00
 end_time: 12:00
 location: Sint Lucas Antwerpen showroom
 ---
-A conversation on the redistribution of Radio El Wafa and The Arab Workers Journal.
-
-With Fatiha Saïdi, Stijn Carpentier, Reem Shilleh and Joachim Ben Yakoub
-
-
-
-More on Radio El Wafa via firstwaves [here](https://firstwaves.be/en/nodes/radios/el-wafa/?items=1091,1100).
+During their ongoing series, Kitchen Broadcast, Kitchen Broadcast, SLARG researchers Reem Shilleh and Joachim Ben Yakoub will be in conversation with Fatiha Saïdi and Stijn Carpentier about their research into Radio El Wafa, an Arab solidarity radio station active in Brussels in the 1980s. Drawing on recordings, magazines and other archival traces, they explore how earlier forms of solidarity might be reactivated and shared today.
