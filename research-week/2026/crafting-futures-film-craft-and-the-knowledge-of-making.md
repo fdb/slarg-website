@@ -5,7 +5,7 @@ year: 2026
 research_exhibition_2026: event
 title: "Crafting Futures: film, craft and the knowledge of making"
 type: Film
-author: Pierre-Antoine Vetterello
+author: SLARG
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/6f782c900291dd0d00a3d0aa376ab0837dff5b84.jpg
 images:
