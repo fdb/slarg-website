@@ -7,15 +7,13 @@ title: "Crafting Futures: film, craft and the knowledge of making"
 type: Film
 author: SLARG
 main_image:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/6f782c900291dd0d00a3d0aa376ab0837dff5b84.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/fd7c3dc4303611d03e8f34c42373c0698bfc680f.png
 images:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/9a1cdb2fa9d6bc1784175484834aeb14d310db39.jpg
 date: 2026-10-29
 start_time: 19:15
 location: Sint Lucas Antwerpen showroom
 ---
-##### Image: Andrea Cammarosano, photo by Chiara Amico.
-
 As part of SLARG’s Research Week ’26, we present an evening connected to **Crafting Futures**, an interdisciplinary research project exploring how craft knowledge and skills can be revalued in relation to sustainability, innovation, inclusion, lifelong learning and urban transformation.
 
 The evening brings artistic research, craft and cinema together, inviting us to look at making not only as a practical skill, but also as a form of knowledge, cultural heritage and a way of imagining possible futures.
