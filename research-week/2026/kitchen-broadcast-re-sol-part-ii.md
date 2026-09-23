@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 year: 2026
-research_exhibition_2026: performance
+research_exhibition_2026: event
 title: Kitchen Broadcast - Re:Sol (Part II)
 type: Live broadcast
 author: Reem Shilleh & Joachim Ben Yakoub
