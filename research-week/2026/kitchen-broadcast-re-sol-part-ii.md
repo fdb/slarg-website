@@ -5,7 +5,7 @@ year: 2026
 research_exhibition_2026: performance
 title: Kitchen Broadcast - Re:Sol (Part II)
 type: Live broadcast
-author: Reem
+author: Reem Shilleh & Joachim Ben Yakoub
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/847810fd6dcaf6c1c06ea8017d365a25c99b4a7a.png
 images:
