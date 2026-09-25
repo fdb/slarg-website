@@ -15,4 +15,4 @@ start_time: 10:00
 end_time: 12:00
 location: Sint Lucas Antwerpen showroom
 ---
-During their ongoing series, Kitchen Broadcast, Kitchen Broadcast, SLARG researchers Reem Shilleh and Joachim Ben Yakoub will be in conversation with Fatiha Saïdi and Stijn Carpentier about their research into Radio El Wafa, an Arab solidarity radio station active in Brussels in the 1980s. Drawing on recordings, magazines and other archival traces, they explore how earlier forms of solidarity might be reactivated and shared today.
+During their ongoing series, Kitchen Broadcast, Kitchen Broadcast, SLARG researchers Reem Shilleh and Joachim Ben Yakoub will be in conversation with Fatiha Saïdi and Stijn Carpentier about their research into  El Amil El Arabi (Arab Worker), the monthly information magazine of the Arab section of the Christian Union in the 1970's and Radio El Wafa, an Arab solidarity radio station active in Brussels in the 1980s. Drawing on recordings, magazines and other archival traces, they explore how earlier forms of solidarity might be reactivated and shared today.
