@@ -9,18 +9,18 @@ main_image:
 gallery:
   - src:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/f40fedcb42bbdd6a40884371d6053398a46ee13f.webp
-    alt: "Question I Water Biography   "
-    caption: Write down how water has shaped your life.
+    alt: Dijlevalei 2024
+    caption: Question I WATER BIOGRAPHY Write down how water has shaped your life.
   - src:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/85b67649e0664a098a78798eca87beb7d1506c95.webp
-    caption: Exercise II Water Infrastructure Tell us about a specific water
+    caption: Exercise II WATER INFRASTRUCTURE Tell us about a specific water
       infrastructure you have experience with, and draw it to explain the system
       to others.
     alt: Dijlevalei, 2024
   - src:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/529cf5d87607a19d868edd4f84a8cd39f7d2bda7.webp
     alt: Dijlevalie, 2024
-    caption: Exercise III Wet Landscapes Collect some water together in a small tin,
+    caption: Exercise III WET LANDSCAPES Collect some water together in a small tin,
       find a location with a 'wet' detail, and make a watercolour of it. Give
       the drawing a title and share your observation with the others.
 ---
