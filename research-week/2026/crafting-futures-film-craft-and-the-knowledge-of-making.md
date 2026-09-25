@@ -3,11 +3,11 @@ layout: event.liquid
 tags: event
 year: 2026
 research_exhibition_2026: event
-title: "Crafting Futures: film, craft and the knowledge of making"
+title: Crafting Futures
 type: Film
 author: SLARG
 main_image:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/fd7c3dc4303611d03e8f34c42373c0698bfc680f.png
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/9bb5a9dde72cc068fc1b5ef4240f9565e58c791d.png
 images:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/9a1cdb2fa9d6bc1784175484834aeb14d310db39.jpg
 date: 2026-10-29
