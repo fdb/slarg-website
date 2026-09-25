@@ -7,7 +7,7 @@ title: Kitchen Broadcast - Re:Sol (Part II)
 type: Live broadcast
 author: Reem Shilleh & Joachim Ben Yakoub
 main_image:
-  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/847810fd6dcaf6c1c06ea8017d365a25c99b4a7a.png
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/63b0e0bfd747f367db1b4e70930f040b28699f30.png
 images:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/da2a56439a468b6ab7a1dd58ce8bc2bb6cfacd2c.jpg
 date: 2026-10-30
