@@ -13,27 +13,21 @@ images:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/6d3c4e7f581d330044001bb0ea64b8c902e2f6f7.jpg
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/64095e98f4b9fefe0661f8c66c86e2a08c10fae7.jpg
 date: 2026-10-29
-start_time: 15:30
-end_time: 19:00
+start_time: 15:15
+end_time: 19:30
 location: Sint Lucas Antwerpen showroom
 ---
-## **SLARG screening** 
+## **SLARG screening**
 
 ## **Aula, Sint Lucas Antwerpen School of Arts**
 
-## **1﻿5:15 - 19:30** 
-
-
-
-
+## **1﻿5:15 - 19:30**
 
 ### 15:30 - *Make It Look Real* · Danial Shah (70 min)
 
 ### 17:00 - *Hear Her Calendar System: A Year of Thirteen Months* · Bianca Baldi (20 min)
 
-### 1﻿7:45 - *L’Arbre de l’Authenticité ·* Sammy Baloji (85 min)
-
-
+### 1﻿7:40 - *L’Arbre de l’Authenticité ·* Sammy Baloji (85 min)
 
 **Make It Look Real**
 
