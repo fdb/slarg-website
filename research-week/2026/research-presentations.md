@@ -13,8 +13,8 @@ main_image:
 images:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/38bc3fe72f18433be5f054bd2e8ca381f39b5f95.png
 date: 2026-10-30
-start_time: 14:30
-end_time: 18:00
+start_time: 14:00
+end_time: 17:30
 location: Sint Lucas Antwerpen showroom
 ---
 C﻿ome join us for an afternoon of research presentations. The SLARG researchers will present the insights, outcomes and challenges gathered from their research projects that finished in September 2026. There will be time for Q&A. 
