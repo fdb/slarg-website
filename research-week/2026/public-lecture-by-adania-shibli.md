@@ -12,6 +12,7 @@ images:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/6f09a3537dec51e47d908d8ce772a564939fe825.jpg
 date: 2026-10-30
 start_time: 18:00
+end_time: 19:30
 location: Sint Lucas Antwerpen showroom
 ---
 F﻿riday October 30, we welcome Palestinian writer Adania Shibli for a closing lecture exploring the fragile spaces between words, silence and writing.
