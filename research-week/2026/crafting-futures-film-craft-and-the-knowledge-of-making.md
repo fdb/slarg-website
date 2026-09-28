@@ -14,7 +14,7 @@ date: 2026-10-29
 start_time: 19:15
 location: Sint Lucas Antwerpen showroom
 ---
-As part of SLARG’s Research Week ’26, we present an evening connected to **Crafting Futures**, an interdisciplinary research project exploring how craft knowledge and skills can be revalued in relation to sustainability, innovation, inclusion, lifelong learning and urban transformation.
+As part of SLARG’s Research Week ’26, we present an evening connected to **[Crafting Futures](https://slarg.be/projects/crafting-futures/)**, an interdisciplinary research project exploring how craft knowledge and skills can be revalued in relation to sustainability, innovation, inclusion, lifelong learning and urban transformation.
 
 The evening brings artistic research, craft and cinema together, inviting us to look at making not only as a practical skill, but also as a form of knowledge, cultural heritage and a way of imagining possible futures.
 
