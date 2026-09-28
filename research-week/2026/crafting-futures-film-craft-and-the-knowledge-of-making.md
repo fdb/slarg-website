@@ -25,6 +25,8 @@ De Studio\
 Maarschalk Gérardstraat 4\
 2000 Antwerpen
 
+Time: 19:15
+
 Book tickets: [https://decinema.be/aanbod/le-bleu-du-caftan/](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdecinema.be%2Faanbod%2Fle-bleu-du-caftan%2F&data=05%7C02%7Ctom.viaene%40kdg.be%7C05d117d3ed8d460d60b808df186dcb83%7Ced1fc57f8a9747e79de19302dfd786ae%7C0%7C0%7C639256532099050422%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=lT1QiE5AHejdHqYx%2FHqLsDOzmAunOeFbdyORMWF5yUc%3D&reserved=0 "Originele URL: https\://decinema.be/aanbod/le-bleu-du-caftan/. Klik of tik als u deze koppeling vertrouwt.")
 
 [Crafting Futures](http://www.craftingfutures.be/) is an interdisciplinary project developed by researchers from UAntwerpen and KU Leuven, in collaboration with KASK Ghent, the Royal Academy of Fine Arts Antwerp and Sint Lucas Antwerpen, and with partners from the field of crafts, education, policy and entrepreneurship.
