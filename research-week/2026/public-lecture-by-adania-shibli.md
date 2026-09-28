@@ -4,7 +4,7 @@ tags: event
 year: 2026
 research_exhibition_2026: event
 title: Language as an Impasse
-type: Public Lecture
+type: Public Lecture, 18:00
 author: SLARG
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/4a897ed064348be2417567f894d770bf0648dfa5.png
@@ -21,9 +21,9 @@ An interruption in the flow of words. Posing for the right word to approach. A p
 
 In *Language as an Impasse*, Shibli takes the process of becoming dysfluent in writing as a point of departure. Looking at the moments when language falters, stalls or repeats, the talk explores silence as a counterpoint to speaking, and the ways in which writing encounters the limits of language.
 
-Location:
+Location:: S﻿howroom, Sint Lucas Antwerpen
 
-S﻿howroom, Sint Lucas Antwerpen
+Time: 18:00-19:30
 
 ### About
 
@@ -31,7 +31,4 @@ Adania Shibli (Palestine, 1974) has written novels, plays, short stories and nar
 
 Shibli is also engaged in academic research and teaching in different universities across Europe, as well as at Birzeit University, Palestine (2012–2018). From 2022–2025 she acted as a co-curator of the Bergen Assembly 2025, Bergen, Norway.
 
-##### Image credit:
-
-Khalil al-Sakakini, handwritten diary entry, 2 January 1950.\
-Image courtesy of Adania Shibli.
+##### Image credit:  Khalil al-Sakakini, handwritten diary entry, 2 January 1950. Image courtesy of Adania Shibli.
