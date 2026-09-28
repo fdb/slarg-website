@@ -15,7 +15,7 @@ start_time: 18:00
 end_time: 19:30
 location: Sint Lucas Antwerpen showroom
 ---
-F﻿riday October 30, we welcome Palestinian writer Adania Shibli for a closing lecture exploring the fragile spaces between words, silence and writing.
+We are honored to host Palestinian writer Adania Shibli for a closing lecture exploring the fragile spaces between words, silence and writing.
 
 An interruption in the flow of words. Posing for the right word to approach. A prolonged silence between words. Blocks in which no words would emerge. Then, their repetition. Where do words disappear? But first, why?
 
