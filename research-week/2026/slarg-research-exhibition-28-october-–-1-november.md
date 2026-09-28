@@ -6,7 +6,7 @@ research_exhibition_2026: exhibition
 title: SLARG RESEARCH EXHIBITION 28 October – 1 November
 type: Exhibition
 author: Ayoh Kré Duchâtelet, Brenda Bikoko, Cèlia Tort Pujol, Dimitri van den
-  Wittenboer, Frederik Debleser, Garine Gokceyan, Irma Földényi, Jeroen Bocken,
+  Wittenboer, Frederik De Bleser, Garine Gokceyan, Irma Földényi, Jeroen Bocken,
   Joachim Ben Yakoub, Jonathan Paepens, Karen Vermeren, Lieven Menschaert,
   Myrthe Bokelmann, Reem Shilleh, Robin Vanbesien, Sam Vanbelle and Sander Van
   de Vyver
@@ -18,7 +18,7 @@ date: 2026-10-28
 start_time: 17:00
 location: Sint Lucas Antwerpen showroom
 ---
-**SLARG Research Exhibition** presents the work of artists and researchers Garine Gokceyan, Robin Vanbesien, Ayoh Kré Duchâtelet, Brenda Bikoko, Dimitri van den Wittenboer, Irma Foldényi, Reem Silleh & Joachim Ben Yakoub, Karen Vermeren, Sam Vanbelle, Myrthe Bokelmann, Célia Tort Pujol, Lieven Menschaert & Frederik Debleser, Jeroen Bocken, Jonathan Paepens & Sander Van de Vyver. 
+**SLARG Research Exhibition** presents the work of artists and researchers Garine Gokceyan, Robin Vanbesien, Ayoh Kré Duchâtelet, Brenda Bikoko, Dimitri van den Wittenboer, Irma Foldényi, Reem Silleh & Joachim Ben Yakoub, Karen Vermeren, Sam Vanbelle, Myrthe Bokelmann, Célia Tort Pujol, Lieven Menschaert & Frederik De Bleser, Jeroen Bocken, Jonathan Paepens & Sander Van de Vyver. 
 
 
 
