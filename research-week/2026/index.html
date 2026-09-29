@@ -61,13 +61,16 @@ layout: base.liquid
               <span class="event-type">{{ event_time.data.type }}</span> |
               <span class="event-author">{{ event_time.data.author }}</span> |
               <span class="event-date">
-                {{ current_date }}
-                {% if event_time.data.start_time %}
-                  | {{ event_time.data.start_time }}
-                  {% if event_time.data.end_time %}
-                    - {{ event_time.data.end_time }}
+                <span class="event-date">
+                  {{ event_time.data.date | shortDate }}
+                  {% if event_time.data.start_time %}
+                    | {{ event_time.data.start_time | timeOnly }}
+                    {% if event_time.data.end_time %}
+                      - {{ event_time.data.end_time | timeOnly }}
+                    {% endif %}
                   {% endif %}
-                {% endif %}
+                </span>
+
               </span>
             </a>
           {% endfor %}
@@ -93,12 +96,16 @@ layout: base.liquid
           <h2>{{ event_time.data.title }}</h2>
           <span class="event-type">{{ event_time.data.type }}</span> |
           <span class="event-author">{{ event_time.data.author }}</span> |
+
           <span class="event-date">
-            {{ current_date }}
-            {% if event_time.data.time %}
-              | {{ event_time.data.time | split: ' - ' | first }} <!-- Extract the start time -->
-            {% endif %}
-          </span>
+                  {{ event_time.data.date | shortDate }}
+                  {% if event_time.data.start_time %}
+                    | {{ event_time.data.start_time | timeOnly }}
+                    {% if event_time.data.end_time %}
+                      - {{ event_time.data.end_time | timeOnly }}
+                    {% endif %}
+                  {% endif %}
+                </span>
         </a>
       {% endfor %}
     {% endif %}

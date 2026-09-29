@@ -201,6 +201,14 @@ eleventyConfig.addFilter('timeOnly', function(value) {
 		return DateTime.fromISO(value).toFormat('MMMM yyyy');
 	});
 
+	eleventyConfig.addFilter('shortDate', (value) => {
+    if (!value) return '';
+    const dt = value instanceof Date
+        ? DateTime.fromJSDate(value, { zone: 'utc' })
+        : DateTime.fromISO(String(value));
+    return dt.isValid ? dt.toFormat('ccc dd LLL') : value;
+});
+
 	eleventyConfig.addFilter('Year', (value) => {
 		if (!value) return '';
 
