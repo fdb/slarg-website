@@ -26,9 +26,11 @@ event-highlight:
     <div class="highlight-events">
       {% for section in event-highlight %}
       <div class="highlight-event">
-        <img src="{{ section.image }}/public" alt="">
+        
         <div class="content">
+          {% if section.section_title %} 
         <h2>{{ section.section_title }}</h2>
+         {% endif %} 
         <div class="description">{{ section.description | markdownify }}
           <p class="info">
             {% if section.date %}
@@ -42,6 +44,7 @@ event-highlight:
           </p>
         </div>
         </div>
+        <img src="{{ section.image }}/public" alt="">
       </div>
       {% endfor %}
     </div>
