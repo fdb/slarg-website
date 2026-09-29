@@ -15,6 +15,10 @@ gallery:
     alt: .
     caption: Typesetting for haikus written during one of the library evenings
       (International Mother Language Day at the Museum Plantin-Moretus)
+project_owner:
+  - Brenda Bikoko
+external_partners:
+  - name: "whoever "
 ---
 Library project Sint Lucas x [Stadscanvas](https://www.fameus.be/stadscanvas) (ongoing)
 
