@@ -7,11 +7,11 @@ end_date: 2027-08-22T14:11:27.193Z
 ongoing: true
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/940f904308ac5eed8ad77ae959bc56d55fae3888.jpg
-main_image_credits: Shibori workshop ©Pierre Antoine Vettorello
+main_image_credits: Shibori workshop ©Pierre-Antoine Vettorello
 gallery:
   - src:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/e1bda05afdd0868e01de59b085a76c9257b12c0d.jpeg
-    caption: At Atelier Lamine Diouf / Photo by Pierre-Antoine Vettorello
+    caption: At Atelier Lamine Diouf   ©Pierre-Antoine Vettorello
     alt: Photos taken at Atelier Lamine Diouf.
 people:
   - Pierre-Antoine Vettorello
