@@ -2,7 +2,7 @@
 layout: event.liquid
 tags: event
 year: 2026
-research_exhibition_2026: film screening
+research_exhibition_2026: event
 title: Crafting Futures
 type: Film
 author: SLARG
