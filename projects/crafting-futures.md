@@ -11,7 +11,7 @@ main_image_credits: Shibori workshop ©Pierre-Antoine Vettorello
 gallery:
   - src:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/e1bda05afdd0868e01de59b085a76c9257b12c0d.jpeg
-    caption: At Atelier Lamine Diouf   ©Pierre-Antoine Vettorello
+    caption: At Atelier Lamine Diouf ©Pierre-Antoine Vettorello
     alt: Photos taken at Atelier Lamine Diouf.
 people:
   - Pierre-Antoine Vettorello
