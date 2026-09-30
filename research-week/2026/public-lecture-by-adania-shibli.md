@@ -15,13 +15,13 @@ start_time: 18:00
 end_time: 19:30
 location: Sint Lucas Antwerpen showroom
 ---
-**Closing lecture · SLARG Research Week ’26**\
+**Closing lecture · SLARG 2026 Research Week**\
 **Friday 30 October 2026 · 18:00–19:30**\
 **Showroom, Sint Lucas Antwerpen**
 
-We are honoured to welcome Palestinian writer **Adania Shibli** for the closing lecture of SLARG’s Research Week ’26. In *Language as an Impasse*, she explores the fragile spaces between words, silence and writing.
+We are honoured to welcome Palestinian writer **Adania Shibli** for the closing lecture of SLARG’s 2026 Research Week. In *Language as an Impasse*, she explores the fragile spaces between words, silence and writing.
 
-**Free admission, registration required [here](https://forms.gle/U4b1Dbp6N6TDXxD47).**
+**Free admission, places limited, registration required [here](https://forms.gle/U4b1Dbp6N6TDXxD47).**
 
 ### Language as an Impasse
 
