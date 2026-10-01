@@ -3,9 +3,9 @@ layout: event.liquid
 tags: event
 year: 2026
 research_exhibition_2026: event
-title: Language as an Impasse
+title: Adiana Shibli - Language as an Impasse
 type: Public Lecture
-author: SLARG
+author: Adiana Shibli
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/4a897ed064348be2417567f894d770bf0648dfa5.png
 images:
