@@ -14,7 +14,7 @@ images:
 date: 2026-10-26
 start_time: 12:00
 end_time: 19:00
-location: Sint Lucas Antwerpen showroom
+location: Horloge du Sud, Rue du Trône 141, 1050 Brussels
 ---
 How did Black African women in mid-20th-century Paris use dress as a language of resistance, belonging, and self-fashioning. And how can artistic practice bridge the gaps in historical archives? 
 
