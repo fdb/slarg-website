@@ -4,12 +4,13 @@ tags: event
 year: 2026
 research_exhibition_2026: event
 title: Public PhD Defense Pierre-Antoine Vettorello
-type: Public Lecture
+type: PhD Defense
 author: Pierre-Antoine Vetterello
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/705d8464a49e0a133c188d3c1820499735216165.jpg
 images:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/2539c771f0a51e1d33d4d6dc2e4c439933a6b29e.jpg
+  - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b6d099938686d80615b3518449c5ece7de75c6ef.jpg
 date: 2026-10-26
 start_time: 12:00
 end_time: 19:00
@@ -17,7 +18,7 @@ location: Sint Lucas Antwerpen showroom
 ---
 How did Black African women in mid-20th-century Paris use dress as a language of resistance, belonging, and self-fashioning. And how can artistic practice bridge the gaps in historical archives? 
 
-As part of our upcoming Research Week, SLARG, ARIA (Antwerp Research Institute for the Arts), and the University of Antwerp warmly invite you to the public PhD defense of researcher Pierre-Antoine Vettorello.
+SLARG and ARIA (Antwerp Research Institute for the Arts,University of Antwerp) warmly invite you to Pierre-Antoine Vettorello's public PhD defense.
 
 His doctoral dissertation in the arts, titled "Black Yarns: Fashion and African Women's Resistance in the Parisian Afropea (1939–1966)", addresses the archival absence of Black African women in fashion histories and museum collections.
 
