@@ -5,6 +5,7 @@ title: "Public Phd defense Pierre-Antoine Vetterello "
 layout: activity.liquid
 startDate: 2026-10-26T11:00:55.900Z
 endDate: 2026-10-26T18:00:55.908Z
+location: Horloge du Sud, Brussels (address below)
 thumbnail:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/705d8464a49e0a133c188d3c1820499735216165.jpg
 ---
