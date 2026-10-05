@@ -3,7 +3,7 @@ layout: people.liquid
 tags: people
 person_name: Noor Abed
 role:
-  - Researcher
+  - PhD
 email: noor.abed@kdg.be
 headshot:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/f48aa28b6d7537bd115841aff9995225a9be08e9.jpg
