@@ -3,7 +3,7 @@ layout: people.liquid
 tags: people
 person_name: Guy Woueté
 role:
-  - Researcher
+  - PhD
 email: guy.wouete@kdg.be
 headshot:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/817aebb660361ac402800e5ddc8698102739b482.jpg

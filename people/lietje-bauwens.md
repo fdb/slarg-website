@@ -3,7 +3,7 @@ layout: people.liquid
 tags: people
 person_name: Lietje Bauwens
 role:
-  - Researcher
+  - PhD
 email: "lietje.bauwens@kdg.be "
 headshot:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/86f81d8e409ee406cd4c8c7827c31cdbd60dec32.jpeg

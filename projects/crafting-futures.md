@@ -7,8 +7,12 @@ end_date: 2027-08-22T14:11:27.193Z
 ongoing: true
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/940f904308ac5eed8ad77ae959bc56d55fae3888.jpg
-main_image_credits: Shibori workshop ©Pierre Antoine Vettorello
-gallery: []
+main_image_credits: Shibori workshop ©Pierre-Antoine Vettorello
+gallery:
+  - src:
+      - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/e1bda05afdd0868e01de59b085a76c9257b12c0d.jpeg
+    caption: At Atelier Lamine Diouf ©Pierre-Antoine Vettorello
+    alt: Photos taken at Atelier Lamine Diouf.
 people:
   - Pierre-Antoine Vettorello
 external_partners:
@@ -28,3 +32,5 @@ funding:
 *This unique academic and field consortium brings together a broad range of expertise ranging from pedagogy, critical heritage and economy studies, anthropology, design sciences, cultural management, law, to hands-on art and design practices anchored in artistic research.*
 
 *By combining critical analysis with an action-based approach, the project will prototype and develop new models for validating crafts in educational, policy-making, and economic contexts. This will result in new learning formats, classification systems and typologies, legal instruments, business models, and policy recommendations for field practitioners, policy makers and educational organisms.*
+
+Within the Crafting Futures project, Pierre-Antoine Vettorello develops and facilitates *Textile Wanders*, a series of participatory research encounters that investigate how crafts knowledge and know-how embedded in textile collections and archives can be identified, shared, and revalued. Bringing together craftspeople, artists, curators, collection professionals, and diasporic communities, these sessions foster dialogue between different forms of expertise on textile objects, techniques, and histories. By exploring new ways of validating, transmitting, and activating craft knowledge within museum contexts, Textile Wanders contributes to Crafting Futures’ broader ambition to develop innovative and inclusive models for recognising the social, cultural, and educational value of crafts.
