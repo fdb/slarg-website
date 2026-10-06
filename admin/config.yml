@@ -274,6 +274,16 @@ collections:
           hint: 'Example: 14h00'
         }
       - {
+          label: 'End date',
+          name: 'end_date',
+          widget: 'datetime',
+          required: false,
+          format: 'YYYY-MM-DD',
+          date_format: 'DD/MM/YYYY',
+          time_format: false,
+          hint: 'Only for events that run over several days, such as an exhibition. Leave empty for single-day events.'
+        }
+      - {
           label: 'Location',
           name: 'location',
           widget: 'select',

@@ -82,6 +82,12 @@ a {
 	text-decoration: none;
 }
 
+hr {
+	border: none;
+	border-top: 2px solid var(--border-accent);
+	margin: 2rem 0;
+}
+
 h1 {
 	font-family: 'Marsha';
 	text-transform: uppercase;
@@ -288,6 +294,75 @@ a .intro-text {
 	margin-top: 1rem;
 }
 
+.events-grid .event img {
+	display: block;
+	width: 100%;
+	height: auto;
+	aspect-ratio: 1 / 1;
+	object-fit: cover;
+}
+
+.events-grid .event {
+	padding-bottom: 1.5rem;
+}
+
+@media (max-width: 767px) {
+	.events-grid {
+		grid-template-columns: minmax(0, 1fr);
+	}
+}
+
+.events-grid--horizontal .event {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+}
+
+.events-grid--horizontal .event-image {
+	order: 0;
+}
+
+.events-grid .event .event-body h2 {
+	margin-top: 0;
+}
+
+.events-grid .event-schedule {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.15rem 0.75rem;
+	color: var(--text-darker);
+	font-weight: bold;
+}
+
+.events-grid .event-people {
+	margin-top: 0.5rem;
+	margin-bottom: 0;
+	color: var(--text-color);
+	font-size: 1rem;
+	line-height: 1.4;
+}
+
+@media (min-width: 768px) {
+	.events-grid--horizontal {
+		grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+	}
+
+	.events-grid--horizontal .event {
+		flex-direction: row;
+		align-items: flex-start;
+		gap: 1rem;
+	}
+
+	.events-grid--horizontal .event-body {
+		flex: 1 1 auto;
+		min-width: 0;
+	}
+
+	.events-grid--horizontal .event-image {
+		flex: 0 0 260px;
+	}
+}
+
 .event-title {
 	margin: 0;
 	margin-bottom: -0.1rem;
@@ -318,12 +393,33 @@ a .intro-text {
 }
 
 .event-details {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 0.15rem;
 	font-size: 1rem;
 	font-family: 'AuthenticSans', sans-serif;
 	margin: 0;
 	line-height: 1.5;
 	color: var(--text);
 	padding-top: 0.5rem;
+}
+
+.event-details .event-type {
+	color: var(--text-accent);
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 0.03em;
+}
+
+.event-details .event-location {
+	margin: 0;
+	font-size: 1rem;
+}
+
+.event-details .event-label {
+	color: var(--text-accent);
+	font-weight: bold;
 }
 
 .event-layout,
@@ -345,10 +441,31 @@ a .intro-text {
 		gap: 2rem;
 	}
 
-	.event-image,
 	.researcher-image {
 		order: 2;
 		max-width: 800px;
+	}
+
+	.event-layout {
+		align-items: flex-start;
+	}
+
+	.event-layout .event-image {
+		order: 2;
+		max-width: 800px;
+		flex: 0 0 auto;
+		width: clamp(220px, 38%, 340px);
+	}
+
+	.event-layout .event-image img {
+		width: 100%;
+		height: auto;
+		display: block;
+	}
+
+	.event-text {
+		flex: 1 1 0;
+		min-width: 0;
 	}
 
 	.event-text,

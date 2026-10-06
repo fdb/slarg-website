@@ -16,6 +16,7 @@ images:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/59fb188d3e40f85b783a6908f5412b96795ff01c.png
 date: 2026-10-28
 start_time: 17:00
+end_date: 2026-11-01
 location: Sint Lucas Antwerpen showroom
 ---
 **SLARG Research Exhibition** presents the work of artists and researchers Garine Gokceyan, Robin Vanbesien, Ayoh Kré Duchâtelet, Brenda Bikoko, Dimitri van den Wittenboer, Irma Foldényi, Reem Silleh & Joachim Ben Yakoub, Karen Vermeren, Sam Vanbelle, Myrthe Bokelmann, Célia Tort Pujol, Lieven Menschaert & Frederik De Bleser, Jeroen Bocken, Jonathan Paepens & Sander Van de Vyver. 

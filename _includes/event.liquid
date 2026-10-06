@@ -5,14 +5,14 @@ layout: base
     <h2 class="event-title">{{ title }}</h2>
     <h3 class="event-byline">{{ byline }}</h3>
     <div class="event-details">
-        <span class="event-type">{{ type }}</span> |
-        <span class="event-author">{{ author}}</span> |
-        {% assign event_date = date | formatDate %}
+        {% if type %}<span class="event-type">{{ type }}</span>{% endif %}
+        {% if author %}<span class="event-author">{{ author }}</span>{% endif %}
+        {% assign event_date = date | longDate %}
         {% if event_date != "" or time or start_time %}
-        <span class="event-date">{{ event_date }}{% if time %} | {{ time }}{% elsif start_time %} | {{ start_time | timeOnly }}{% if end_time %} - {{ end_time | timeOnly }}{% endif %}{% endif %}</span> |
+        <span class="event-date"><span class="event-label">Date:</span> {{ event_date }}{% if time %}{% if event_date %}, {% endif %}{{ time }}{% elsif start_time %}{% if event_date %}, {% endif %}{{ start_time | timeOnly }}{% if end_time %} – {{ end_time | timeOnly }}{% endif %}{% endif %}</span>
         {% endif %}
         {% if external_location or location %}
-        <span class="event-location">{% if external_location %}{{ external_location }}{% else %}{{ location }}{% endif %}</span>
+        <span class="event-location"><span class="event-label">Location:</span> {% if external_location %}{{ external_location }}{% else %}{{ location }}{% endif %}</span>
         {% endif %}
     </div>
 </div>

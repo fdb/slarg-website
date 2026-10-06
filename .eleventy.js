@@ -194,6 +194,24 @@ eleventyConfig.addFilter('timeOnly', function(value) {
 		return date.toDateString();
 	});
 
+	eleventyConfig.addFilter('longDate', (value) => {
+		if (!value) return '';
+		let dt = value instanceof Date
+			? DateTime.fromJSDate(value, { zone: 'utc' })
+			: DateTime.fromISO(String(value), { zone: 'utc' });
+		if (!dt.isValid) return '';
+		return dt.toFormat('cccc d LLLL yyyy');
+	});
+
+	eleventyConfig.addFilter('cardDate', (value) => {
+		if (!value) return '';
+		let dt = value instanceof Date
+			? DateTime.fromJSDate(value, { zone: 'utc' })
+			: DateTime.fromISO(String(value), { zone: 'utc' });
+		if (!dt.isValid) return '';
+		return dt.toFormat('cccc d LLLL');
+	});
+
 	eleventyConfig.addFilter('monthYear', (value) => {
 		if (!value) return '';
 
