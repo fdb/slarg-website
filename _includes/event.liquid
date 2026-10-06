@@ -7,19 +7,13 @@ layout: base
     <div class="event-details">
         <span class="event-type">{{ type }}</span> |
         <span class="event-author">{{ author}}</span> |
-        <span class="event-date">{{ date | formatDate }}
-        
-        {% if time %}</span> |
-        
-            {% if start_time %}
-            | {{ start_time | timeOnly }}
-            {% endif %}
-            {% if end_time %}
-                - {{ end_time | timeOnly  }}
-            {% endif %}
+        {% assign event_date = date | formatDate %}
+        {% if event_date != "" or time or start_time %}
+        <span class="event-date">{{ event_date }}{% if time %} | {{ time }}{% elsif start_time %} | {{ start_time | timeOnly }}{% if end_time %} - {{ end_time | timeOnly }}{% endif %}{% endif %}</span> |
         {% endif %}
-
-<span class="event-location">{{ location }}</span>
+        {% if external_location or location %}
+        <span class="event-location">{% if external_location %}{{ external_location }}{% else %}{{ location }}{% endif %}</span>
+        {% endif %}
     </div>
 </div>
 <div class="event-layout">

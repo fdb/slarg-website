@@ -188,7 +188,9 @@ eleventyConfig.addFilter('timeOnly', function(value) {
 	});
 
 	eleventyConfig.addFilter('formatDate', (dateStr) => {
+		if (!dateStr) return '';
 		const date = new Date(dateStr);
+		if (isNaN(date.getTime())) return '';
 		return date.toDateString();
 	});
 

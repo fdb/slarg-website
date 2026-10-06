@@ -277,8 +277,22 @@ collections:
           label: 'Location',
           name: 'location',
           widget: 'select',
-          options: ['Sint Lucas Antwerpen showroom', 'Chapel'],
-          default: 'Sint Lucas Antwerpen showroom'
+          required: false,
+          options:
+            [
+              { label: '— no fixed location —', value: '' },
+              { label: 'Sint Lucas Antwerpen showroom', value: 'Sint Lucas Antwerpen showroom' },
+              { label: 'Chapel', value: 'Chapel' },
+              { label: 'Sint Lucas Antwerpen Auditorium', value: 'Sint Lucas Antwerpen Auditorium' },
+              { label: 'Sint Lucas AdMa room', value: 'Sint Lucas AdMa room' }
+            ]
+        }
+      - {
+          label: 'External location',
+          name: 'external_location',
+          widget: 'string',
+          required: false,
+          hint: "Type here an external address/location that you can't find in the drop down menu above."
         }
   - name: 'people'
     label: 'People'
