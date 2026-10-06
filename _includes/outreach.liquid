@@ -9,14 +9,18 @@ layout: base.liquid
 
 <div class="project-date">
   <span class="date">
-    {{ start_date | Year }}
+    {% if start_date != "" %}
+      {{ start_date | Year }}
 
-    {% unless end_date == empty %}
-      &ndash; {{ end_date | Year }}
-    {% endunless %}
+      {% if end_date != "" %}
+        &ndash; {{ end_date | Year }}
+      {% endif %}
 
-    {% if ongoing == true or ongoing == "true" %}
-      &ndash; <span class="status">ongoing</span>
+      {% if ongoing == true or ongoing == "true" %}
+        &ndash; <span class="status">ongoing</span>
+      {% endif %}
+    {% elsif ongoing == true or ongoing == "true" %}
+      <span class="status">ongoing</span>
     {% endif %}
   </span>
 </div>
@@ -224,7 +228,7 @@ layout: base.liquid
   </div>
 
 
-  {% if gallery %}
+  {% if gallery.size > 0 %}
 
     <div class="gallery">
 
@@ -250,7 +254,7 @@ layout: base.liquid
   {% endif %}
 
 
-  {% if funding %}
+  {% if funding.size > 0 %}
   <div class="funding">
     <h3>Funding</h3>
     <ul>

@@ -964,6 +964,10 @@ border-radius: 8px;
 	font-style: italic;
 }
 
+figure > .image-block__credits {
+	padding-bottom: 1rem;
+}
+
 .gallery {
 	display: flex;
 	gap: 1rem;

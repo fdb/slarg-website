@@ -158,7 +158,7 @@ layout: base.liquid
   </div>
 
 
-  {% if gallery %}
+  {% if gallery.size > 0 %}
   <div class="gallery">
     {% for image in gallery %}
       <div class="image-block">
@@ -173,7 +173,7 @@ layout: base.liquid
 
 
 
-{% if funding %}
+{% if funding.size > 0 %}
 <div class="funding">
   <h3>Funding</h3>
   <ul>
