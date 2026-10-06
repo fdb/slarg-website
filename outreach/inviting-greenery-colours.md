@@ -1,5 +1,5 @@
 ---
-layout: project.liquid
+layout: outreach.liquid
 tags: outreach
 title: Inviting greenery & colours
 start_date: ""

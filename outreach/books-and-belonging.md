@@ -1,5 +1,5 @@
 ---
-layout: project.liquid
+layout: outreach.liquid
 tags: outreach
 title: Books and Belonging
 start_date: ""

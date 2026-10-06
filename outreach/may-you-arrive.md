@@ -1,5 +1,5 @@
 ---
-layout: project.liquid
+layout: outreach.liquid
 tags: outreach
 title: May you arrive as ...
 start_date: ""

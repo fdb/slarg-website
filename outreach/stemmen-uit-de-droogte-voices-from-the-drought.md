@@ -1,5 +1,5 @@
 ---
-layout: project.liquid
+layout: outreach.liquid
 tags: outreach
 title: STEMMEN UIT DE DROOGTE / VOICES FROM THE DROUGHT
 start_date: 2024-03-25T20:26:05.103Z

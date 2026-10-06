@@ -449,7 +449,7 @@ collections:
     identifier_field: 'title'
     sortable_fields: ['title', 'year']
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'project.liquid' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'outreach.liquid' }
       - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'outreach' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Start Date', name: 'start_date', widget: 'datetime', required: false, date_format: 'YYYY-MM', time_format: false }
