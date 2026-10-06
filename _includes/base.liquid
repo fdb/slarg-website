@@ -50,7 +50,7 @@
         </div> 
       </nav>
        </header>
-      <main>
+      <main{% if page.url == '/' %} class="homepage"{% endif %}>
       {{ content }}
       </main>
       <footer>

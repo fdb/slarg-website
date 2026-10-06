@@ -661,6 +661,7 @@ main .partner-logos img {
 	font-family: 'Marsha';
 	letter-spacing: 2px;
 	font-size: 1.5rem;
+	margin-top: 0;
 	margin-bottom: 0.8rem;
 }
 .highlight-event img {
@@ -675,8 +676,97 @@ main .partner-logos img {
 	}
 }
 
+.highlight-event {
+	position: relative;
+}
+
 .highlight-event .content a{
 	color: whitesmoke;
+}
+
+.highlight-event .content a::after {
+	content: '';
+	position: absolute;
+	inset: 0;
+	z-index: 1;
+}
+
+/* Homepage: fit the viewport without vertical scroll */
+main.homepage {
+	min-height: 0;
+	display: flex;
+	flex-direction: column;
+}
+
+main.homepage .homepage-short-presentation {
+	flex: 0 0 auto;
+	font-size: 1.4rem;
+	max-width: 60ch;
+	margin-bottom: 1rem;
+}
+
+main.homepage #content-sections {
+	flex: 1 1 auto;
+	min-height: 0;
+	display: flex;
+	flex-direction: column;
+}
+
+main.homepage #content-sections > h2 {
+	flex: 0 0 auto;
+	margin-top: 1rem;
+}
+
+main.homepage .highlight-events {
+	flex: 1 1 auto;
+	min-height: 0;
+	display: flex;
+	flex-direction: column;
+	padding: 14px;
+	margin-bottom: 1rem;
+}
+
+main.homepage .homepage-newsletter {
+	margin-top: 1rem;
+}
+
+main.homepage .highlight-event {
+	flex: 1 1 auto;
+	min-height: 0;
+	display: flex;
+	flex-direction: column;
+}
+
+main.homepage .highlight-event .content {
+	flex: 0 0 auto;
+}
+
+main.homepage .highlight-event img {
+	flex: 1 1 auto;
+	min-height: 180px;
+	width: 100%;
+	object-fit: contain;
+	margin: 0.5rem 0 0;
+}
+
+main.homepage #content-sections > a {
+	flex: 0 0 auto;
+}
+
+main.homepage ~ footer {
+	margin-top: 0;
+}
+
+@media (min-width: 781px) {
+	main.homepage {
+		height: 100dvh;
+	}
+}
+
+@media (max-width: 780px) {
+	main.homepage {
+		height: calc(100dvh - 58px);
+	}
 }
 
 footer {
