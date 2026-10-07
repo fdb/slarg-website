@@ -691,37 +691,35 @@ main .partner-logos img {
 	z-index: 1;
 }
 
-/* Homepage: fit the viewport without vertical scroll */
+/* Homepage: content flows naturally and scrolls when needed.
+   (Previously this forced the homepage to fit one viewport height, which
+   broke on iOS Safari — `100dvh` resolves to the full screen height while
+   the bottom toolbar overlays the page, hiding the newsletter button — and
+   couldn't handle more than one highlight event.) */
 main.homepage {
-	min-height: 0;
 	display: flex;
 	flex-direction: column;
 }
 
 main.homepage .homepage-short-presentation {
-	flex: 0 0 auto;
 	font-size: 1.4rem;
 	max-width: 60ch;
 	margin-bottom: 1rem;
 }
 
 main.homepage #content-sections {
-	flex: 1 1 auto;
-	min-height: 0;
 	display: flex;
 	flex-direction: column;
 }
 
 main.homepage #content-sections > h2 {
-	flex: 0 0 auto;
 	margin-top: 1rem;
 }
 
 main.homepage .highlight-events {
-	flex: 1 1 auto;
-	min-height: 0;
 	display: flex;
 	flex-direction: column;
+	gap: 1.5rem;
 	padding: 14px;
 	margin-bottom: 1rem;
 }
@@ -731,42 +729,18 @@ main.homepage .homepage-newsletter {
 }
 
 main.homepage .highlight-event {
-	flex: 1 1 auto;
-	min-height: 0;
 	display: flex;
 	flex-direction: column;
 }
 
-main.homepage .highlight-event .content {
-	flex: 0 0 auto;
-}
-
 main.homepage .highlight-event img {
-	flex: 1 1 auto;
-	min-height: 180px;
 	width: 100%;
-	object-fit: contain;
+	height: auto;
 	margin: 0.5rem 0 0;
-}
-
-main.homepage #content-sections > a {
-	flex: 0 0 auto;
 }
 
 main.homepage ~ footer {
 	margin-top: 0;
-}
-
-@media (min-width: 781px) {
-	main.homepage {
-		height: 100dvh;
-	}
-}
-
-@media (max-width: 780px) {
-	main.homepage {
-		height: calc(100dvh - 58px);
-	}
 }
 
 footer {
