@@ -13,7 +13,8 @@ images:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/b6d099938686d80615b3518449c5ece7de75c6ef.jpg
 date: 2026-10-26
 start_time: 12:00
-end_time: 19:00
+end_time: 18:00
+end_date: 2026-10-26
 external_location: Horloge du Sud, Rue du Trône 141, 1050 Brussels
 ---
 How did Black African women in mid-20th-century Paris use dress as a language of resistance, belonging, and self-fashioning. And how can artistic practice bridge the gaps in historical archives? 
@@ -56,5 +57,6 @@ What the project does:
 
 * **12:00 – 14:00:** Public viewing of the archive
 * **14:00 – 16:00:** Public PhD Defense
-* **16:00 – 17:00:** Committee Deliberation
-* **17:00 – 18:00:** Reception
+* **16:00 – 18:00:** Reception
+
+**Please subscribe via Pierre-Antoine: [pierreantoine.vettorello@kdg.be](mailto:pierreantoine.vettorello@kdg.be)**
