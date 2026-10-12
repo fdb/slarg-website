@@ -29,6 +29,16 @@ autoLaunch = false
   to = "/2022/"
 
 [[redirects]]
+  from = "/research-week/2026/slarg-research-exhibition-28-october-–-1-november/"
+  to = "/research-week/2026/slarg-research-exhibition/"
+  status = 301
+
+[[redirects]]
+  from = "/research-week/2026/slarg-research-exhibition-28-october-%E2%80%93-1-november/"
+  to = "/research-week/2026/slarg-research-exhibition/"
+  status = 301
+
+[[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/:splat"
   status = 200
