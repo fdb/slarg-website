@@ -24,5 +24,8 @@ bio: >-
   Collection.
 
 
+  Guy is doing a PhD in the arts at Sint Lucas Antwerpen (KdG) / ARIA (University of Antwerp), entitled [WAKA STUDIO: ART, EDUCATION, RESEARCH AND SOCIETY NJOMBÉ-PENJA](https://slarg.be/projects/waka-studio-art-education-research-and-society-njombé-penja/).  This PhD project is in collaboration with Jan van Eyck Academie (Maastricht), where Guy will be hosted for an annual residency. 
+
+
   P﻿hoto of Guy ©IPATEER2023
 ---
