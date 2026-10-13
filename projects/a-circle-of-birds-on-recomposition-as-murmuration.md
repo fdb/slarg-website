@@ -13,6 +13,7 @@ main_image_credits: Poster designed by Abid Bahri for a Cultural Day organised
 people:
   - Joachim Ben Yakoub
   - Sofyann Ben Youssef
+  - Az Oor
 external_partners:
   - name: extra partner
     url: https://www.bozar.be/en
