@@ -18,4 +18,7 @@ bio: >-
 
 
   Abed considers how alternative forms of representation can disrupt established discourses and open up possibilities for rewriting reality. Her research is particularly concerned with social choreography - the ways collective movement, social relations, and political ideologies are organized, embodied, and performed. She studies collective rituals of mourning and dance as social constructs, mainly in Palestine. Her interest lies strongly in thinking about the role of collective rhythmic movement and the potential impact that shared feelings can evoke in creating and sustaining a community. Abed’s book 'Stars at Midday' was published by Occasional Papers in October 2024.
+
+
+  Noor is doing a PhD in the arts at Sint Lucas Antwerpen (KdG) / ARIA (University of Antwerp), entitled [Imagination as Infrastructure: Rehearsing Political Aesthetics at the Base of the Social](https://slarg.be/projects/imagination-as-infrastructure-rehearsing-political-aesthetics-at-the-base-of-the-social/).
 ---
