@@ -20,7 +20,10 @@ bio: >-
 
   Through projects including AMMAR 808, Bargou 08, and Kel Assouf, Ben Youssef brings localized traditions—such as North African folklore, Stambeli, and South Asian classical systems—into conversation with electronic soundscapes and visual media. His work considers sound as a primary medium for storytelling and heritage preservation, seeking ways to bridge distinct cultural spheres while respecting their localized roots. \
 
-  His ongoing collaborative research is deeply committed to understanding the mechanics of cross-generational transmission. Ben Youssef is particularly drawn to projects that investigate how shared sonic experiences can dismantle colonial remnants, proposing new, pluralistic frameworks for collective awareness and a shared, decentralized global identity.\
+  His ongoing collaborative research is deeply committed to understanding the mechanics of cross-generational transmission. Sofyann is particularly drawn to projects that investigate how shared sonic experiences can dismantle colonial remnants, proposing new, pluralistic frameworks for collective awareness and a shared, decentralized global identity.
+
+
+  Sofyann is undertaking a two-year research project at Sint Lucas Antwerpen (KdG), as part of a collective research project with Joachim Ben Yakoub and Az Oor, entitled [A Circle of Birds: On Recomposition as Murmuration](https://slarg.be/projects/a-circle-of-birds-on-recomposition-as-murmuration/).\
 
   \
 
