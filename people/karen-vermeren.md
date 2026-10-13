@@ -26,6 +26,9 @@ bio: >-
 
 
   She is interested in supervising PhD in the arts projects related to geology, ecology, (urban) landscape, mining, care and raw materials, the intersection of drawing and painting.
+
+
+  Karen is currently undertaking a two-year research project at Sint Lucas Antwerpen (KdG), entitled [Bauxitization Processes: Stone, Pigments in Post-Industrial Landscapes](https://slarg.be/projects/bauxitization-processes-stone-pigments-in-post-industrial-landscapes/).
 social_links:
   - name: Website
     url: https://www.karenvermeren.be
