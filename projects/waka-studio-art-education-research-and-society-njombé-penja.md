@@ -25,3 +25,7 @@ I am developing WAKA Studio; Art, Education, Research and Society in Njombé-Pen
 Drawing on institutional critique, decolonial thought, and decolonial aesthesis, I explore how artistic practice might generate forms of institution-making that do not reproduce the extractive logics of existing art institutions. Through situated, collective experimentation, WAKA Studio operates as a space for alternative education, co-learning, and social reinvention. Co-creation building sites (*chantiers*), horizontal workshops, and sensitive mappings with local residents, land workers, and artisans are used to explore how material, spatial, and relational forms of organisation can themselves become artistic operations.
 
 The research ultimately asks under what conditions situated processes of institutionalisation, grounded in pedagogical transmission, can escape capture and foster a plural artistic practice in direct dialogue with the land. Rather than proposing a permanent institution, WAKA Studio works towards a transient common: a fragile, processual, and deeply inhabited formation.
+
+
+
+This PhD project is in collaboration with Jan van Eyck Academie (Maastricht). They will host Guy Woueté for an annual residency during the PhD research period.
