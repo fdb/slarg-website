@@ -14,9 +14,7 @@ people:
   - Joachim Ben Yakoub
   - Sofyann Ben Youssef
   - Az Oor
-external_partners:
-  - name: extra partner
-    url: https://www.bozar.be/en
+external_partners: []
 supervisors:
   - Joachim Ben Yakoub
 ---
