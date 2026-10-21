@@ -19,7 +19,7 @@ bio: >-
   "Afrodystopia".
 
 
-  Over the past few years, he has participated in the following group exhibitions: The Busan Biennale 2024, Seeing in the Dark (Busan), Branching Streams. Sketches of Kinship at Théodore Monod Museum (Dakar) in 2024, Style Congo. Heritage & Heresy at Civa (Brussels) in 2023,... ; His texts have been published by La Criée centre d’art contemporain (Rennes), Civa (Brussels), Ròt-Bò-Krik (La Grotte aux poissons aveugles to be published in october 2025). 
+  Over the past few years, he has participated in the following group exhibitions: The Busan Biennale 2024, Seeing in the Dark (Busan), Branching Streams. Sketches of Kinship at Théodore Monod Museum (Dakar) in 2024, Style Congo. Heritage & Heresy at Civa (Brussels) in 2023,... ; His texts have been published by La Criée centre d’art contemporain (Rennes), Civa (Brussels), Ròt-Bò-Krik (La Grotte aux poissons aveugles, published in October 2025).  
 
 
   Ayoh is doing a PhD in the arts at Sint Lucas Antwerpen (KdG) / ARIA (University of Antwerp), entitled *[Hearing room: Ghosts of the African Democratic Assembly](https://slarg.be/projects/hearing-room-ghosts-of-the-african-democratic-assembly/).*
