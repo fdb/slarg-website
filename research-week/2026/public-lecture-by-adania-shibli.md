@@ -3,9 +3,9 @@ layout: event.liquid
 tags: event
 year: 2026
 research_exhibition_2026: event
-title: Adiana Shibli - Language as an Impasse
+title: Adania Shibli - Language as an Impasse
 type: Public Lecture
-author: Adiana Shibli
+author: Adania Shibli
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/4a897ed064348be2417567f894d770bf0648dfa5.png
 images:
@@ -13,6 +13,7 @@ images:
 date: 2026-10-30
 start_time: 18:00
 end_time: 19:30
+end_date: 2026-10-21
 location: Sint Lucas Antwerpen showroom
 ---
 **Closing lecture · SLARG 2026 Research Week**\
