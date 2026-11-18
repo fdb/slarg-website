@@ -3,6 +3,7 @@ layout: outreach.liquid
 tags: outreach
 title: All the hearts of the people are my identity ... release me of my passport
 start_date: 2026-12-22T22:13:08.851Z
+end_date: 2027-04-21T22:00:00.000Z
 abstract: "\ \n\n\n\n\n"
 main_image:
   - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/47adea45e6495dc99240486a0e62702228ad3e3c.jpg
@@ -11,7 +12,6 @@ project owner:
   - Ruth Razan Loos
   - Annelys de Vet
   - Bianca Baldi
-end_date: 2027-04-21T22:00:00.000Z
 gallery:
   - src:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/791a8b572bbb0159d656e0677e859867bb567b5f.jpg
@@ -21,8 +21,7 @@ gallery:
       - https://imagedelivery.net/7-GLn6-56OyK7JwwGe0hfg/slarg/e25bcf97cafe83b9e9a37461730af21e7ffb4fac.jpg
     alt: .
     caption: .
-project_owner:
-  - Ruth Razan Loos
+project_owner: []
 external_partners: []
 funding: []
 ---
